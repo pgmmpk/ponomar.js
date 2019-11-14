@@ -1,0 +1,44 @@
+{
+  "name": "ponomar",
+  "version": "0.0.1",
+  "description": "Orthodox Christian Paschalion and Liturgical Readings",
+  "main": "build/index.js",
+  "module": "src/index.js",
+  "scripts": {
+    "lint": "jshint src/*.js",
+    "test": "ava -v",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgmmpk/ponomar.js.git"
+  },
+  "keywords": [
+    "orthodox",
+    "christian",
+    "paschalia",
+    "sunrise",
+    "sunset"
+  ],
+  "author": "Mike Kroutikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pgmmpk/ponomar.js/issues"
+  },
+  "homepage": "https://github.com/pgmmpk/ponomar.js#readme",
+  "devDependencies": {
+    "ava": "^2.4.0",
+    "jshint": "^2.10.3",
+    "require-extension-hooks": "^0.3.3",
+    "require-extension-hooks-babel": "^1.0.0",
+    "rollup": "^1.27.0"
+  },
+  "ava": {
+    "require": [
+      "./.avaconfig.js"
+    ]
+  },
+  "babel": {
+    "sourceMaps": "inline"
+  }
+}
