@@ -109,7 +109,7 @@ export default class JDate {
         });
     }
 
-    static fromGregorianDate({month, day, year}) {
+    static fromGregorian({month, day, year}) {
         [year, month, day] = gregorianToJulian([year, month, day]);
         return new this({
             year: year,
@@ -138,6 +138,9 @@ export default class JDate {
      * @param {*} lattitude
      * @param {*} options
      *      - tzoffset offset (in hours) to UTC.
+     *      - observation one of "default", "civil", "nautical", "amature", "astronomical",
+     *            or an object specifying the observation altitude and whether refraction
+     *            correction is needed. For example: { altit: 12.0, upperLimb: false }.
      * ```
      * const tzoffset = new Date().getTimezoneOffset() / -60.0;
      * ```
