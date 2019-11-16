@@ -12,7 +12,7 @@ test('smoke', t => {
 });
 
 test('smoke2', t => {
-    const jdate = JDate.fromGregorianDate({year: 2016, month: 3, day: 30});
+    const jdate = JDate.fromGregorian({year: 2016, month: 3, day: 30});
 
     t.is(jdate.jday, 2457478);
 
@@ -23,7 +23,7 @@ test('smoke2', t => {
 });
 
 test('toGregorian', t => {
-    const jdate = JDate.fromGregorianDate({ year: 2016, month: 3, day: 30 });
+    const jdate = JDate.fromGregorian({ year: 2016, month: 3, day: 30 });
     const gdate = jdate.toGregorian();
 
     t.deepEqual(gdate, { year: 2016, month: 3, day: 30 });

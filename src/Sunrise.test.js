@@ -1,5 +1,4 @@
 import test from 'ava';
-import { getSunriseSunset } from './Sunrise.js';
 import JDate from './JDate.js';
 
 /*
@@ -108,9 +107,9 @@ test('stress', t => {
 
     testData.forEach(x => {
         const [year, month, day] = x.date.split('/').map(x=>+x);
-        const date = JDate.fromGregorianDate({month, day, year});
+        const date = JDate.fromGregorian({month, day, year});
 
-        const [sunrise, sunset] = getSunriseSunset(date.jday, x.lon, x.lat, {
+        const [sunrise, sunset] = date.getSunriseSunset(x.lon, x.lat, {
             tzoffset: x.tzoffset, observation: x.observation
         });
         t.is(sunrise + ' ' + sunset, x.expect, JSON.stringify(x, 2));
