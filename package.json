@@ -55,6 +55,6 @@
     "sourceMaps": "inline"
   },
   "dependencies": {
-    "@innodatalabs/lxmlx-js": "file:../lxmlx-js"
+    "@innodatalabs/lxmlx-js": "^2.0.1"
   }
 }
