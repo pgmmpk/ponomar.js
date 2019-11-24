@@ -3,7 +3,7 @@ import Database from './Database.js';
 
 
 test('findBottomUp', t => {
-    const PONOMAR_DB = process.env['PONOMAR_DB'];
+    const PONOMAR_DB = process.env.PONOMAR_DB;
     if (PONOMAR_DB === undefined) {
         console.error('skipped');
         return t.assert(true);
@@ -14,7 +14,7 @@ test('findBottomUp', t => {
 });
 
 test('findTopDown', t => {
-    const PONOMAR_DB = process.env['PONOMAR_DB'];
+    const PONOMAR_DB = process.env.PONOMAR_DB;
     if (PONOMAR_DB === undefined) {
         console.error('skipped');
         return t.assert(true);
