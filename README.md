@@ -5,6 +5,7 @@ Includes usefult tools:
 
 - sunrise/sunset computation
 - Julian/Gregorian date convertion
+- Ponomar api to load day's commemorations and liturgical readings
 
 ## Building
 
@@ -12,6 +13,32 @@ Includes usefult tools:
 npm i
 make
 ```
+
+### Stress testing
+Stress does comparison with legacy PERL Ponomar software. Steps are:
+
+1. Run Ponomar's `Dump.pm` tool to dump Ponomar output for each day and each language. This creates
+   a number of JSON files.
+    ```
+    mkdir dump
+    PONOMAR_DB=../ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
+        Dump.pm 1/1/2019 4/1/2019 dump/201901
+    PONOMAR_DB=../ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
+        Dump.pm 4/1/2019 7/1/2019 dump/201904
+    PONOMAR_DB=../ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
+        Dump.pm 7/1/2019 10/1/2019 dump/201907
+    PONOMAR_DB=../ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
+        Dump.pm 10/1/2019 1/1/2020 dump/201910
+    ```
+2. Set an environment variable `PONOMAR_DUMP` that points to the root directory containing these
+   JSON files.
+3. Run `make stress` to make this code repeat the same compuations in JavaScript and comapre
+   the result with the dumped JSON files.
+    ```
+    PONOMAR_DB=../ponomar/Ponomar/languages \
+    PONOMAR_DUMP=dump \
+    make stress
+    ```
 
 ## Using
 
@@ -67,4 +94,31 @@ console.log(info.concurrent);      // concurrent
 console.log(info.foundation);      // foundation
 console.log(info.epacta);          // epacta
 console.log(info.keyOfBoundaries)  // slavonic key of this year
+```
+
+### Ponomar API
+
+To use `Ponomar` API one needs:
+1. Date (a JDate object)
+2. Language (suported languages: `cu`, `cu/ru`, `en`, `fr`, `el`, `zh/Hans`, `zh/Hant`)
+3. Location of the Ponomar database
+
+```js
+import { Ponomar, JDate } from 'Ponomar';
+
+const today = new JDate();
+const ponomar = new Ponomar('ponomar/Ponomar/languages', today, 'en');
+
+console.log(ponomar.tone);
+// 8
+ponomar.saints.forEach(saint => {
+    console.log(saint.name, saint.info);
+    saint.services.forEach(service => {
+        console.log('\t', service.type);
+        service.readings.forEach(reading => {
+            console.log(reading.reading, reading.pericope);
+        });
+        const iconUrl = service.icons;
+    });
+});
 ```
