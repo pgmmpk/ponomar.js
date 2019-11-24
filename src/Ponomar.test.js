@@ -3,13 +3,12 @@ import Ponomar from './Ponomar';
 import JDate from './JDate.js';
 import env from './env.js';
 
-const PONOMAR_DB = env('PONOMAR_DB', 'location of ponomar XML database, e.g. "../ponomar/Ponomar/languages"');
 
-test('smoke', t => {
+test.skip('smoke', t => {
+    const PONOMAR_DB = env('PONOMAR_DB', 'location of ponomar XML database, e.g. "../ponomar/Ponomar/languages"');
     const date = new JDate({year: 2019, month: 11, day: 8});
     const p = new Ponomar(PONOMAR_DB, date, 'en');
 
-    debugger
     t.is(p.tone, 5);
     t.is(p.dRank, 4);
     t.deepEqual(p.saints, [
@@ -29,7 +28,7 @@ test('smoke', t => {
             ]
         },
         {
-            cid: '154701', info: null, menologion: '', ref: null, menologion: '', src: 'menaion', type: '4',
+            cid: '154701', info: null, menologion: '', ref: null, src: 'menaion', type: '4',
             name: { Nominative: 'Synaxis of the Chief of the Heavenly Hosts, Archangel Michael and the Other Heavenly Bodiless Powers: Archangels Gabriel, Raphael, Uriel, Selaphiel, Jehudiel, Barachiel, and Jeremiel', Short: 'Bodiless Hosts' },
             life: {
                 Id: 'bulgakov',
