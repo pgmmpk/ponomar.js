@@ -23,7 +23,7 @@ const testData = [
         lon: -74.02, lat: 40.72,
         tzoffset: -5.0,
         observation: 'default',
-        expect: '06:41 16:39'
+        expect: '06:41 16:39'   // same as timeanddate
     },
     {
         date: '2019/11/14',
@@ -59,7 +59,7 @@ const testData = [
         lon: 30.3350986, lat: 59.9342802,
         tzoffset: +3.0,
         observation: 'default',
-        expect: '08:52 16:33'
+        expect: '08:52 16:33'  // 08:52 16:32
     },
     // SPB: white nights
     {
@@ -67,7 +67,7 @@ const testData = [
         lon: 30.3350986, lat: 59.9342802,
         tzoffset: +3.0,
         observation: 'default',
-        expect: '03:34 22:25'
+        expect: '03:34 22:25'  // 03:35 22:25
     },
     {
         date: '2019/06/20',
@@ -82,7 +82,7 @@ const testData = [
         lon: 30.3350986, lat: 59.9342802,
         tzoffset: +3.0,
         observation: 'default',
-        expect: '10:00 15:54'
+        expect: '10:00 15:54'  // 10:00 15:53
     },
     {
         date: '2019/12/22',
@@ -97,7 +97,7 @@ const testData = [
         lon: 149.128684, lat: -35.282000,
         tzoffset: +11.0,
         observation: 'default',
-        expect: '05:49 19:45'
+        expect: '05:49 19:45'  // 05:50 19:45
     },
 ];
 

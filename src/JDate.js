@@ -122,8 +122,22 @@ export default class JDate {
         return (this.jday + 1) % 7;
     }
 
+    get dayOfYear() {
+        const jbar = this.jday + 32083;
+        const da   = (jbar + 1460) % 1461 + 1;
+        if (da === 1461) {
+            return 366; // Feb 29!
+        }
+
+        return (da + 59 + 364) % 365; // Jan 1 is doy 0
+    }
+
     add(days) {
         return JDate.fromJulianDay(this.jday + days);
+    }
+
+    daysSince(other) {
+        return this.jday - other.jday;
     }
 
     toGregorian() {

@@ -1,7 +1,7 @@
 import test from 'ava';
 import fs from 'fs';
 import JDate from './JDate.js';
-import { 
+import {
     getIndiction,
     getSolarCycle,
     getLunarCycle,
@@ -11,7 +11,7 @@ import {
     getPascha,
     getKeyOfBoundaries,
     default as paschalion,
- } from './Paschalion.js';
+} from './Paschalion.js';
 
 function readTsv(fname) {
     const lines = fs.readFileSync(fname, 'utf-8').split('\n').slice(1); // strip first line off
