@@ -1,11 +1,14 @@
 import test from 'ava';
 import Ponomar from './Ponomar';
 import JDate from './JDate.js';
-import env from './env.js';
 
 
-test.skip('smoke', t => {
-    const PONOMAR_DB = env('PONOMAR_DB', 'location of ponomar XML database, e.g. "../ponomar/Ponomar/languages"');
+test('smoke', t => {
+    const PONOMAR_DB = process.env['PONOMAR_DB'];
+    if (PONOMAR_DB === undefined) {
+        console.error('skipped');
+        return t.assert(true);
+    }
     const date = new JDate({year: 2019, month: 11, day: 8});
     const p = new Ponomar(PONOMAR_DB, date, 'en');
 
