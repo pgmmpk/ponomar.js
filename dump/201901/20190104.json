@@ -1,0 +1,3537 @@
+{
+   "langs" : {
+      "fr" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "name" : {
+                     "Nominative" : "Jeudi de la 34-me semaine après le Pentecôte"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "315",
+                              "effWeek" : "29",
+                              "reading" : "Heb_7:1-6",
+                              "type" : "apostol"
+                           },
+                           {
+                              "effWeek" : "33",
+                              "pericope" : "57",
+                              "reading" : "Mk_12:38-44",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "9285",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "010201",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Préfête de Théophanie",
+                     "Short" : "Préfête de Théophanie"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "146",
+                  "life" : null,
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "96 (mid.)",
+                              "type" : "apostol",
+                              "reading" : "Rom_8:8-14"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "50",
+                              "reading" : "Lk_10:1-15",
+                              "type" : "gospel"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Synaxe des",
+                     "Nominative" : "Synaxe des 70 Sts. et Glorieux Apôtres"
+                  },
+                  "menologion" : "",
+                  "type" : "1"
+               },
+               {
+                  "life" : null,
+                  "cid" : "150",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Sts. Zosime",
+                     "Nominative" : "Sts. Zosime et Athanase le Greffier"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "life" : null,
+                  "cid" : "010400",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Sts. Crysanthe et Euphémie",
+                     "Short" : "Sts. Crysanthe"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "010410",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Six Sts. Martyrs",
+                     "Nominative" : "Six Sts. Martyrs"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "cid" : "158",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Ste. Apollinaire",
+                     "Nominative" : "Ste. Apollinaire"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "name" : {
+                     "Short" : "St. Théoctiste",
+                     "Nominative" : "St. Théoctiste, Higoumène du Monastère de Coucoumios en Sicile"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "1",
+                  "menologion" : "",
+                  "cid" : "148",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "cid" : "01040099",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "St. Euthyme le Jeune",
+                     "Short" : "St. Euthyme"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010404",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Sts. Euthyme",
+                     "Nominative" : "Sts. Euthyme, Higoumène de Vatopédi et ses compagnons"
+                  }
+               },
+               {
+                  "cid" : "010407",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "St. Onuphre de Chilandari (Athos)",
+                     "Short" : "St. Onuphre"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "St. Eustathe, Archevêque de Serbie",
+                     "Short" : "St. Eustathe"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "714",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "01040696",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "St. Grégoire",
+                     "Nominative" : "St. Grégoire de Langres"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "name" : {
+                     "Nominative" : "St. Ferréol d’Uzès",
+                     "Short" : "St. Ferréol d’Uzès"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "01040797",
+                  "life" : null,
+                  "info" : null
+               }
+            ],
+            "fastings" : "1111111",
+            "tone" : 8
+         },
+         "ponomar" : {
+            "saints" : [
+               {
+                  "cid" : "9285",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Jeudi de la 34-me semaine après le Pentecôte"
+                  },
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_7:1-6",
+                              "pericope" : "315",
+                              "effWeek" : "29"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Mk_12:38-44",
+                              "pericope" : "57",
+                              "effWeek" : "33"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Préfête de Théophanie",
+                     "Short" : "Préfête de Théophanie"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "010201",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "146",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Synaxe des 70 Sts. et Glorieux Apôtres",
+                     "Short" : "Synaxe des"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Rom_8:8-14",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "96 (mid.)"
+                           },
+                           {
+                              "pericope" : "50",
+                              "effWeek" : null,
+                              "type" : "gospel",
+                              "reading" : "Lk_10:1-15"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "type" : "1",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "150",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Sts. Zosime et Athanase le Greffier",
+                     "Short" : "Sts. Zosime"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Sts. Crysanthe et Euphémie",
+                     "Short" : "Sts. Crysanthe"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "010400",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "010410",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Six Sts. Martyrs",
+                     "Nominative" : "Six Sts. Martyrs"
+                  }
+               },
+               {
+                  "cid" : "158",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Ste. Apollinaire",
+                     "Nominative" : "Ste. Apollinaire"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "148",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "1",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "St. Théoctiste, Higoumène du Monastère de Coucoumios en Sicile",
+                     "Short" : "St. Théoctiste"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "St. Euthyme",
+                     "Nominative" : "St. Euthyme le Jeune"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "01040099"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Sts. Euthyme",
+                     "Nominative" : "Sts. Euthyme, Higoumène de Vatopédi et ses compagnons"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "010404",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010407",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "St. Onuphre de Chilandari (Athos)",
+                     "Short" : "St. Onuphre"
+                  }
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "St. Eustathe, Archevêque de Serbie",
+                     "Short" : "St. Eustathe"
+                  },
+                  "info" : null,
+                  "cid" : "714",
+                  "life" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "01040696",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "St. Grégoire de Langres",
+                     "Short" : "St. Grégoire"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "01040797",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "St. Ferréol d’Uzès",
+                     "Nominative" : "St. Ferréol d’Uzès"
+                  }
+               }
+            ],
+            "tone" : 8,
+            "fastings" : "1111111"
+         }
+      },
+      "en" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "name" : {
+                     "Nominative" : "Thursday of the 34<sup>th</sup> Week after Pentecost"
+                  },
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : "29",
+                              "pericope" : "315",
+                              "reading" : "Heb_7:1-6",
+                              "type" : "apostol"
+                           },
+                           {
+                              "pericope" : "57",
+                              "effWeek" : "33",
+                              "type" : "gospel",
+                              "reading" : "Mk_12:38-44"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "9285",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010201",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "name" : {
+                     "Nominative" : "Forefeast of Theophany",
+                     "Short" : "Forefeast"
+                  }
+               },
+               {
+                  "cid" : "146",
+                  "life" : {
+                     "Text" : "\n<p>The Sobor (Assemblage) of the Seventy Disciples (“Apostles”) was established by the Orthodox Church so as to indicate the equal honour of each of the Seventy, and to avert dissonance in their veneration. [Translator Note: Russian idiomatic useage refers both to the “12” and to the “70” as “Apostle”; whereas English idiomatic useage refers to the “12” as “Apostle” and to the “70” as “Disciple.”]  They were chosen by the Lord Jesus Christ, in order to evangelise the Gospel to all the world. </p><p>Besides the celebration of the Sobor (Assemblage) of the Holy Disciples, the Church celebrates the memory of each of them during the course of the year: the Disciple James, Brother of the Lord (23 October); Mark the Evangelist (25 April); Luke the Evangelist (18 October); Cleopas, brother of Joseph the Betrothed, and Simeon his son (27 April); Barnabas (11 June); Josiah, or Joseph, named Barsaba or Justus (30 October); Thaddeus (21 August); Ananias (1 October); Stephen, Archdeacon (27 December); Philip from the 7 Deacons (11 October); Prochoros from the 7 Deacons (28 July); Nikanor from the 7 Deacons (28 July and 28 December); Timon from the 7 Deacons (28 July and 30December); Parmenas from the 7 Deacons (28 June); Timothy (22 January); Titus (25August); Philemon (22 November and 19 February); Onysimos (15 February); Epaphrasos and Archippos (22 November and 19 February); Silas, Sylvanus, Criscentus or Criscus (30 July); Crispus and Epenetos (30 July); Andronikos (17 May and 30 July); Stakhias, Amplias, Urban, Narcissos, Apellias (31 October); Aristoboulos (31 October and 16 March); Herodion or Rodion (8 April and 10 November); Ahab, Rufus, Asinkritos, Phlegontos (8 April); Hermas (5 November and 31 May); Patrobus (5November); Hermias (8 April); Linus, Caius, Philologos (5 November); Lucius (10September); Jason (28 April); Sosipater (28 April and 10 November); Olympos or Olympanus (10November); Tercias (30 October and 10 November); Herastos, Quartus (10November); Evodus (7 September); Onysiphoros (7 September and 8 December); Clement (25 November); Sosthenes (8 December); Apollos (10 September and 8December); Tykhikos, Epaphrodites (8 December); Carpus (26 May); Codratus (21September); Mark who is John, Zeno (27 September); Aristarchus (15 April and 27September); Pudas, Trophymos (15 April); Mark nephew of Barnabas, Artemis (30October); Aquila (14 July); Fortunatus, Achæcus (4 January).</p><p>With the Descent of the Holy Spirit the disciples preached in various lands. Some accompanied the Apostles from the 12, like the holy Evangelists Mark and Luke, or the companion of the holy Apostle Paul—Timothy, or the disciple of the holy Evangelist John the Theologian—Prochoros, and others. Many of them were thrown into prison for Christ, and many received the crown of a martyr’s death.</p><p>To the 70 Disciples are enumerated yet two—the holy Disciple Cephas, to whom the Lord appeared after the Resurrection (1 Cor. 15: 5-6), and Simeon, by nickname Niger (Acts 13:1), wherefore they also were glorified by apostolic preaching. </p><p>The Church in particular venerates and praises the 70 Disciples in that they taught to honour the Trinity One-in-Essence and Un-Divided.</p><p>In the IX Century the Orthodox Church received from Joseph the Melodist the Kanon for the Day of the Sobor (Assemblage) of the 70 Disciples of Christ.</p>\n",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Id" : "bulgakov"
+                  },
+                  "info" : null,
+                  "type" : "1",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Apostles",
+                     "Nominative" : "Synaxis of the 70 Apostles: James, the Brother of the Lord, Cleopas, Crispus, Fortunatus, Achaicus, Symeon called Niger, and others"
+                  },
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Rom_8:8-14",
+                              "pericope" : "96 (mid.)",
+                              "effWeek" : null
+                           },
+                           {
+                              "reading" : "Lk_10:1-15",
+                              "type" : "gospel",
+                              "effWeek" : null,
+                              "pericope" : "50"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "type" : "1",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Venerable Theoctistus",
+                     "Nominative" : "Venerable Theoctistus, Abbot at Cucomo in Sicily († 800)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "148",
+                  "life" : {
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Id" : "bulgakov",
+                     "Text" : "\n<p>The Monk Theoktistos founded a monastery in the city of Kucuma on the island of Sicily, where he became hegumen. At his monastery lived Greek monks, having fled persecution by the iconoclasts. The monk died in the year 800.</p>\n"
+                  },
+                  "info" : null
+               },
+               {
+                  "life" : {
+                     "Text" : "\n<p>The MonkMartyr Zosimas came from Cilicia and was an inhabitant of the wilderness. During a time of persecution against christians under the emperor Diocletian (284-305) Saint Zosimas was seized and subjected to fierce torture for the faith, but by the power of God he was preserved unharmed. Having beheld such a miracle of God, the prison head by the name of Athanasias believed in Christ and was baptised. The Monk Zosima together with Athanasias was released and went off into the wilderness where, pursuing asceticism, they lived in a crevice in a mountain until their death.</p>\n",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Id" : "bulgakov"
+                  },
+                  "cid" : "150",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Martyrs Zosimas and Athanasius",
+                     "Nominative" : "Martyrs Zosimas the Hermit and Athanasius the Superintendent of Prisoners, Anchorites in Cilicia (3<sup>rd</sup>-4<sup>th</sup> C)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ]
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Venerable Euthymius the New",
+                     "Short" : "Venerable Euthymius"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "01040099",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010400",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Martyrs Chrysanthus and Euthymius",
+                     "Short" : "Martyrs Chrysanthus"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Venerable Euthymius the Abbot and 12 other Monks, martyred at Vatopedi Monastery on Mt Athos (1275-1281)",
+                     "Short" : "Venerable Euthymius"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "010404",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Repose of St Eustathius I, Archbishop of Serbia († c.  1285)",
+                     "Short" : "Repose of"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : {
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Id" : "bulgakov",
+                     "Text" : "\n<p>Saint Eustathii, Archbishop of Serbia, lived in the second half of the XIII Century, during the reign of the Serbian king Stefan Urosh (1262-1320).</p><p>He was born in the Budimil’sk district into a pious Christian family, where he received a spiritual upbringing. Distinguished by remarkable talents, the youth Evstathii was given over by his parents for training in “book wisdom.” With particular diligence he studied Holy Scripture, perfecting himself in piety and good deeds. Having finished his education, the youth took vows at the monastery of the Archangel Michael in the Zetsk district (Chernogore) and led a strict monastic life, such that he soon became noted as a great ascetic. From thence he undertook a journey to Jerusalem, for veneration to the Holy Sepulchre of the Lord. On the return journey he visited Holy Mount Athos and settled there in the Serbian Khilendaria monastery.</p><p>The monk Evstathii gained general reknown and love as a strict ascetic and good teacher, and he was advanced to the dignity of hegumen of the monastery. </p><p>After several years they ordained him bishop of the Zetsk diocese, and the saint returned to his native land. Rich spiritual experience and monastic life won him the love of his fellow countrymen, and Saint Evstathii was chosen to the throne of the archbishops of Serbia, successors of Saint Sava. For seven years Saint Evstathii guided the Serbian Church and peacefully died about the year 1285. His body was buried in the Zhidocha monastery, and later it was transferred to Pesh (Pech) and placed in the cathedral church of the Holy Apostles Peter and Paul.</p>\n"
+                  },
+                  "cid" : "714",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "010407",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Venerable Martyr Onuphrius of Chilander on Mt Athos († 1818)",
+                     "Short" : "Venerable Martyr"
+                  }
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "St Aquila",
+                     "Nominative" : "St Aquila, Deacon of the Kiev Caves, far caves (14<sup>th</sup> C)"
+                  },
+                  "info" : null,
+                  "cid" : "317",
+                  "life" : {
+                     "Text" : "\nThe Monk Aquila (Akhila), Deacon of Kiev Caves (XIV), became famous as a great faster, having spent a long while as an hermit. Legend says that he ate neither vareny (pirogi) nor sweet food, he partook vegetables seldom and in small quantity, and during periods of fast he tasted of only one prosphora. </p><p>To the intercession of Saint Akhila flee those thirsting of soul to be delivered from “the enslavement of stomach passions” and those wishing to learn temperance (3<sup>rd</sup> song of the Kanon to the Monks, venerated in the Farther Caves).</p><p>The commemoration of the Monk Akhila is also 28 August and on the 2<sup>nd</sup> Sunday of Great Lent.\n",
+                     "Id" : "bulgakov",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos."
+                  }
+               }
+            ],
+            "fastings" : "1111111",
+            "tone" : 8
+         },
+         "ponomar" : {
+            "tone" : 8,
+            "fastings" : "1111111",
+            "saints" : [
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_7:1-6",
+                              "pericope" : "315",
+                              "effWeek" : "29"
+                           },
+                           {
+                              "pericope" : "57",
+                              "effWeek" : "33",
+                              "type" : "gospel",
+                              "reading" : "Mk_12:38-44"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Nominative" : "Thursday of the 34<sup>th</sup> Week after Pentecost"
+                  },
+                  "info" : null,
+                  "cid" : "9285",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "010201",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "name" : {
+                     "Nominative" : "Forefeast of Theophany",
+                     "Short" : "Forefeast"
+                  }
+               },
+               {
+                  "cid" : "146",
+                  "life" : {
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Id" : "bulgakov",
+                     "Text" : "\n<p>The Sobor (Assemblage) of the Seventy Disciples (“Apostles”) was established by the Orthodox Church so as to indicate the equal honour of each of the Seventy, and to avert dissonance in their veneration. [Translator Note: Russian idiomatic useage refers both to the “12” and to the “70” as “Apostle”; whereas English idiomatic useage refers to the “12” as “Apostle” and to the “70” as “Disciple.”]  They were chosen by the Lord Jesus Christ, in order to evangelise the Gospel to all the world. </p><p>Besides the celebration of the Sobor (Assemblage) of the Holy Disciples, the Church celebrates the memory of each of them during the course of the year: the Disciple James, Brother of the Lord (23 October); Mark the Evangelist (25 April); Luke the Evangelist (18 October); Cleopas, brother of Joseph the Betrothed, and Simeon his son (27 April); Barnabas (11 June); Josiah, or Joseph, named Barsaba or Justus (30 October); Thaddeus (21 August); Ananias (1 October); Stephen, Archdeacon (27 December); Philip from the 7 Deacons (11 October); Prochoros from the 7 Deacons (28 July); Nikanor from the 7 Deacons (28 July and 28 December); Timon from the 7 Deacons (28 July and 30December); Parmenas from the 7 Deacons (28 June); Timothy (22 January); Titus (25August); Philemon (22 November and 19 February); Onysimos (15 February); Epaphrasos and Archippos (22 November and 19 February); Silas, Sylvanus, Criscentus or Criscus (30 July); Crispus and Epenetos (30 July); Andronikos (17 May and 30 July); Stakhias, Amplias, Urban, Narcissos, Apellias (31 October); Aristoboulos (31 October and 16 March); Herodion or Rodion (8 April and 10 November); Ahab, Rufus, Asinkritos, Phlegontos (8 April); Hermas (5 November and 31 May); Patrobus (5November); Hermias (8 April); Linus, Caius, Philologos (5 November); Lucius (10September); Jason (28 April); Sosipater (28 April and 10 November); Olympos or Olympanus (10November); Tercias (30 October and 10 November); Herastos, Quartus (10November); Evodus (7 September); Onysiphoros (7 September and 8 December); Clement (25 November); Sosthenes (8 December); Apollos (10 September and 8December); Tykhikos, Epaphrodites (8 December); Carpus (26 May); Codratus (21September); Mark who is John, Zeno (27 September); Aristarchus (15 April and 27September); Pudas, Trophymos (15 April); Mark nephew of Barnabas, Artemis (30October); Aquila (14 July); Fortunatus, Achæcus (4 January).</p><p>With the Descent of the Holy Spirit the disciples preached in various lands. Some accompanied the Apostles from the 12, like the holy Evangelists Mark and Luke, or the companion of the holy Apostle Paul—Timothy, or the disciple of the holy Evangelist John the Theologian—Prochoros, and others. Many of them were thrown into prison for Christ, and many received the crown of a martyr’s death.</p><p>To the 70 Disciples are enumerated yet two—the holy Disciple Cephas, to whom the Lord appeared after the Resurrection (1 Cor. 15: 5-6), and Simeon, by nickname Niger (Acts 13:1), wherefore they also were glorified by apostolic preaching. </p><p>The Church in particular venerates and praises the 70 Disciples in that they taught to honour the Trinity One-in-Essence and Un-Divided.</p><p>In the IX Century the Orthodox Church received from Joseph the Melodist the Kanon for the Day of the Sobor (Assemblage) of the 70 Disciples of Christ.</p>\n"
+                  },
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Synaxis of the 70 Apostles: James, the Brother of the Lord, Cleopas, Crispus, Fortunatus, Achaicus, Symeon called Niger, and others",
+                     "Short" : "Apostles"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "96 (mid.)",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Rom_8:8-14"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_10:1-15",
+                              "effWeek" : null,
+                              "pericope" : "50"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : "1",
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "148",
+                  "life" : {
+                     "Id" : "bulgakov",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Text" : "\n<p>The Monk Theoktistos founded a monastery in the city of Kucuma on the island of Sicily, where he became hegumen. At his monastery lived Greek monks, having fled persecution by the iconoclasts. The monk died in the year 800.</p>\n"
+                  },
+                  "info" : null,
+                  "type" : "1",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Venerable Theoctistus",
+                     "Nominative" : "Venerable Theoctistus, Abbot at Cucomo in Sicily († 800)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "name" : {
+                     "Short" : "Martyrs Zosimas and Athanasius",
+                     "Nominative" : "Martyrs Zosimas the Hermit and Athanasius the Superintendent of Prisoners, Anchorites in Cilicia (3<sup>rd</sup>-4<sup>th</sup> C)"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "cid" : "150",
+                  "life" : {
+                     "Text" : "\n<p>The MonkMartyr Zosimas came from Cilicia and was an inhabitant of the wilderness. During a time of persecution against christians under the emperor Diocletian (284-305) Saint Zosimas was seized and subjected to fierce torture for the faith, but by the power of God he was preserved unharmed. Having beheld such a miracle of God, the prison head by the name of Athanasias believed in Christ and was baptised. The Monk Zosima together with Athanasias was released and went off into the wilderness where, pursuing asceticism, they lived in a crevice in a mountain until their death.</p>\n",
+                     "Id" : "bulgakov",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos."
+                  },
+                  "info" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Venerable Euthymius the New",
+                     "Short" : "Venerable Euthymius"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "01040099",
+                  "life" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Martyrs Chrysanthus and Euthymius",
+                     "Short" : "Martyrs Chrysanthus"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "010400",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Venerable Euthymius",
+                     "Nominative" : "Venerable Euthymius the Abbot and 12 other Monks, martyred at Vatopedi Monastery on Mt Athos (1275-1281)"
+                  },
+                  "info" : null,
+                  "cid" : "010404",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "714",
+                  "life" : {
+                     "Text" : "\n<p>Saint Eustathii, Archbishop of Serbia, lived in the second half of the XIII Century, during the reign of the Serbian king Stefan Urosh (1262-1320).</p><p>He was born in the Budimil’sk district into a pious Christian family, where he received a spiritual upbringing. Distinguished by remarkable talents, the youth Evstathii was given over by his parents for training in “book wisdom.” With particular diligence he studied Holy Scripture, perfecting himself in piety and good deeds. Having finished his education, the youth took vows at the monastery of the Archangel Michael in the Zetsk district (Chernogore) and led a strict monastic life, such that he soon became noted as a great ascetic. From thence he undertook a journey to Jerusalem, for veneration to the Holy Sepulchre of the Lord. On the return journey he visited Holy Mount Athos and settled there in the Serbian Khilendaria monastery.</p><p>The monk Evstathii gained general reknown and love as a strict ascetic and good teacher, and he was advanced to the dignity of hegumen of the monastery. </p><p>After several years they ordained him bishop of the Zetsk diocese, and the saint returned to his native land. Rich spiritual experience and monastic life won him the love of his fellow countrymen, and Saint Evstathii was chosen to the throne of the archbishops of Serbia, successors of Saint Sava. For seven years Saint Evstathii guided the Serbian Church and peacefully died about the year 1285. His body was buried in the Zhidocha monastery, and later it was transferred to Pesh (Pech) and placed in the cathedral church of the Holy Apostles Peter and Paul.</p>\n",
+                     "Id" : "bulgakov",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos."
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Repose of",
+                     "Nominative" : "Repose of St Eustathius I, Archbishop of Serbia († c.  1285)"
+                  }
+               },
+               {
+                  "cid" : "010407",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Venerable Martyr",
+                     "Nominative" : "Venerable Martyr Onuphrius of Chilander on Mt Athos († 1818)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "life" : {
+                     "Id" : "bulgakov",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Text" : "\nThe Monk Aquila (Akhila), Deacon of Kiev Caves (XIV), became famous as a great faster, having spent a long while as an hermit. Legend says that he ate neither vareny (pirogi) nor sweet food, he partook vegetables seldom and in small quantity, and during periods of fast he tasted of only one prosphora. </p><p>To the intercession of Saint Akhila flee those thirsting of soul to be delivered from “the enslavement of stomach passions” and those wishing to learn temperance (3<sup>rd</sup> song of the Kanon to the Monks, venerated in the Farther Caves).</p><p>The commemoration of the Monk Akhila is also 28 August and on the 2<sup>nd</sup> Sunday of Great Lent.\n"
+                  },
+                  "cid" : "317",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "St Aquila, Deacon of the Kiev Caves, far caves (14<sup>th</sup> C)",
+                     "Short" : "St Aquila"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               }
+            ]
+         }
+      },
+      "cu" : {
+         "ponomar" : {
+            "saints" : [
+               {
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_7:1-6",
+                              "effWeek" : "29",
+                              "pericope" : "315"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Mk_12:38-44",
+                              "pericope" : "57",
+                              "effWeek" : "33"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Четверто́къ",
+                     "Nominative" : "Четверто́къ л҃д-ѧ седми́цы по пѧтидесѧ́тницѣ"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "9285",
+                  "life" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "010201",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Предпра́зднство просвѣще́нїѧ",
+                     "Short" : "Предпра́зднство просвѣще́нїѧ"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "menaion"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "146",
+                  "menologion" : "",
+                  "type" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Rom_8:8-14",
+                              "pericope" : "96 (mid.)",
+                              "effWeek" : null
+                           },
+                           {
+                              "reading" : "Lk_10:1-15",
+                              "type" : "gospel",
+                              "pericope" : "50",
+                              "effWeek" : null
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Собо́ръ седми́десѧти а҆пⷭ҇тѡлъ: і҆а́кѡва, бра́та гдⷭ҇нѧ, ма́рка и҆ лꙋкѝ евангелистов, клео́пы, сѷмеѡ́на, варна́вы (і҆ѡ́сифа), Варсавы (і҆ꙋ́ста, і҆ѡ́сифа, Иосии), ѳадде́а, а҆на́нїи, первомч҃ника а҆рхїдїа́кона стефа́на, фїлі́ппа, про́хѡра, нїканѡ́ра, ті́мѡна, парме́на, тїмоѳе́а, ті́та, фїлимѡ́на, ѻ҆ни́сїма, Епафраса, а҆рхі́ппа, сі́лы, сїлꙋа́на, криске́нта, крі́спа, є҆пене́та, а҆ндроні́ка, стахѵ́а, а҆мплі́а, оу҆рва́на, наркі́сса, а҆пе́ллїѧ, а҆рїстовꙋ́ла, родїѡ́на (и҆рѡдїѡ́на), а҆га́ва, рꙋ́фа, а҆сѷгкрі́та, фле́гонта, є҆́рма, патро́ва, є҆рмі́а, лі́на, га́ї̈ѧ, фїлоло́га, лꙋкѝя, і҆а́сѡна, сѡсїпа́тра, ѻ҆лѵ́мпа (ѻ҆лѵ́мпана), те́ртїѧ, є҆ра́ста, кꙋа́рта, є҆ѵо́да, ѻ҆нисі́фора, кли́мента, сѡсѳе́на, а҆поллѡ́са, тѷхі́ка, є҆пафроді́та, ка́рпа, кодра́та, ма́рка, Зины, а҆рїста́рха, пꙋ́да, трофі́ма, ма́рка, а҆рте́мы, а҆кѵ́лы, фортꙋ́ната и҆ а҆ха́їка, дїонѵ́сїа а҆реопагі́та и҆ сѷмеѡ́на Нигера, ки́фы, ке́сарѧ и҆ а҆лфе́ѧ)",
+                     "Short" : "Собо́ръ седми́десѧти а҆пⷭ҇тѡлъ: і҆а́кѡва, бра́та гдⷭ҇нѧ, ма́рка и҆ лꙋкѝ евангелистов, клео́пы, сѷмеѡ́на, варна́вы (і҆ѡ́сифа), варса́вы (і҆ꙋ́ста, і҆ѡ́сифа, і҆ѡсі́и), ѳадде́а, а҆на́нїи, первомч҃ника а҆рхїдїа́кона стефа́на, фїлі́ппа, про́хѡра, нїканѡ́ра, ті́мѡна, парме́на, тїмоѳе́а, ті́та, фїлимѡ́на, ѻ҆ни́сїма, Епафраса, а҆рхі́ппа, сі́лы, сїлꙋа́на, криске́нта, крі́спа, є҆пене́та, а҆ндроні́ка, стахѵ́а, а҆мплі́а, оу҆рва́на, наркі́сса, а҆пе́ллїѧ, а҆рїстовꙋ́ла, родїѡ́на (и҆рѡдїѡ́на), а҆га́ва, рꙋ́фа, а҆сѷгкрі́та, фле́гонта, є҆́рма, патро́ва, є҆рмі́а, лі́на, га́ї̈ѧ, фїлоло́га, лꙋкѝя, і҆а́сѡна, сѡсїпа́тра, ѻ҆лѵ́мпа (ѻ҆лѵ́мпана), те́ртїѧ, є҆ра́ста, кꙋа́рта, є҆ѵо́да, ѻ҆нисі́фора, кли́мента, сѡсѳе́на, а҆поллѡ́са, тѷхі́ка, є҆пафроді́та, ка́рпа, кодра́та, ма́рка, Зины, а҆рїста́рха, пꙋ́да, трофі́ма, ма́рка, а҆рте́мы, а҆кѵ́лы, фортꙋ́ната и҆ а҆ха́їка, дїонѵ́сїа а҆реопагі́та и҆ сѷмеѡ́на Нигера, ки́фы, ке́сарѧ и҆ а҆лфе́ѧ)"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "148",
+                  "life" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Прпⷣбнагѡ ѳеокті́ста,",
+                     "Nominative" : "Прпⷣбнагѡ ѳеокті́ста, и҆гꙋ́мена кꙋкꙋ́мѣ сїкелі́йстѣмъ (800)"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "714",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ст҃а́гѡ є҆ѵста́ѳїая",
+                     "Nominative" : "Ст҃а́гѡ є҆ѵста́ѳїая а҃, а҆рхїепⷭ҇копа се́рбскагѡ (ок. 1285)"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Сщ҃енномꙋ́ченикѡвъ а҆леѯа́ндра,",
+                     "Nominative" : "Сщ҃енномꙋ́ченикѡвъ а҆леѯа́ндра, стефа́на и҆ фїлі́ппа пресвѵ́терѡвъ (1933)"
+                  },
+                  "info" : null,
+                  "cid" : "010405",
+                  "life" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ст҃а́гѡ сщ҃енномч҃ника нїкола́ѧ пресвѵ́тера (1939)",
+                     "Short" : "Ст҃а́гѡ сщ҃енномч҃ника"
+                  },
+                  "info" : null,
+                  "cid" : "4875",
+                  "life" : null
+               },
+               {
+                  "cid" : "010406",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ст҃а́гѡ сщ҃енномч҃ника па́ѵла пресвѵ́тера (1941)",
+                     "Short" : "Ст҃а́гѡ сщ҃енномч҃ника"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "cid" : "150",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Прпⷣбномч҃ника зѡсі́мы, пꙋсты́нника кїлїкі́йскагѡ и҆ мч҃ника а҆ѳана́сїа комментарисия (г҃-д҃)",
+                     "Short" : "Прпⷣбномч҃ника зѡсі́мы,"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Прпⷣбнагѡ а҆хі́лла, дїа́кона пече́рскагѡ (ді҃)",
+                     "Short" : "Прпⷣбнагѡ Ахилы,"
+                  },
+                  "info" : null,
+                  "cid" : "317",
+                  "life" : null
+               }
+            ],
+            "tone" : 8,
+            "fastings" : "1111111"
+         },
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "name" : {
+                     "Short" : "Четверто́къ",
+                     "Nominative" : "Четверто́къ л҃д-ѧ седми́цы по пѧтидесѧ́тницѣ"
+                  },
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : "29",
+                              "pericope" : "315",
+                              "reading" : "Heb_7:1-6",
+                              "type" : "apostol"
+                           },
+                           {
+                              "effWeek" : "33",
+                              "pericope" : "57",
+                              "type" : "gospel",
+                              "reading" : "Mk_12:38-44"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "9285",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "010201",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Предпра́зднство просвѣще́нїѧ",
+                     "Short" : "Предпра́зднство просвѣще́нїѧ"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "146",
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "Rom_8:8-14",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "96 (mid.)"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_10:1-15",
+                              "effWeek" : null,
+                              "pericope" : "50"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Собо́ръ седми́десѧти а҆пⷭ҇тѡлъ: і҆а́кѡва, бра́та гдⷭ҇нѧ, ма́рка и҆ лꙋкѝ евангелистов, клео́пы, сѷмеѡ́на, варна́вы (і҆ѡ́сифа), Варсавы (і҆ꙋ́ста, і҆ѡ́сифа, Иосии), ѳадде́а, а҆на́нїи, первомч҃ника а҆рхїдїа́кона стефа́на, фїлі́ппа, про́хѡра, нїканѡ́ра, ті́мѡна, парме́на, тїмоѳе́а, ті́та, фїлимѡ́на, ѻ҆ни́сїма, Епафраса, а҆рхі́ппа, сі́лы, сїлꙋа́на, криске́нта, крі́спа, є҆пене́та, а҆ндроні́ка, стахѵ́а, а҆мплі́а, оу҆рва́на, наркі́сса, а҆пе́ллїѧ, а҆рїстовꙋ́ла, родїѡ́на (и҆рѡдїѡ́на), а҆га́ва, рꙋ́фа, а҆сѷгкрі́та, фле́гонта, є҆́рма, патро́ва, є҆рмі́а, лі́на, га́ї̈ѧ, фїлоло́га, лꙋкѝя, і҆а́сѡна, сѡсїпа́тра, ѻ҆лѵ́мпа (ѻ҆лѵ́мпана), те́ртїѧ, є҆ра́ста, кꙋа́рта, є҆ѵо́да, ѻ҆нисі́фора, кли́мента, сѡсѳе́на, а҆поллѡ́са, тѷхі́ка, є҆пафроді́та, ка́рпа, кодра́та, ма́рка, Зины, а҆рїста́рха, пꙋ́да, трофі́ма, ма́рка, а҆рте́мы, а҆кѵ́лы, фортꙋ́ната и҆ а҆ха́їка, дїонѵ́сїа а҆реопагі́та и҆ сѷмеѡ́на Нигера, ки́фы, ке́сарѧ и҆ а҆лфе́ѧ)",
+                     "Short" : "Собо́ръ седми́десѧти а҆пⷭ҇тѡлъ: і҆а́кѡва, бра́та гдⷭ҇нѧ, ма́рка и҆ лꙋкѝ евангелистов, клео́пы, сѷмеѡ́на, варна́вы (і҆ѡ́сифа), варса́вы (і҆ꙋ́ста, і҆ѡ́сифа, і҆ѡсі́и), ѳадде́а, а҆на́нїи, первомч҃ника а҆рхїдїа́кона стефа́на, фїлі́ппа, про́хѡра, нїканѡ́ра, ті́мѡна, парме́на, тїмоѳе́а, ті́та, фїлимѡ́на, ѻ҆ни́сїма, Епафраса, а҆рхі́ппа, сі́лы, сїлꙋа́на, криске́нта, крі́спа, є҆пене́та, а҆ндроні́ка, стахѵ́а, а҆мплі́а, оу҆рва́на, наркі́сса, а҆пе́ллїѧ, а҆рїстовꙋ́ла, родїѡ́на (и҆рѡдїѡ́на), а҆га́ва, рꙋ́фа, а҆сѷгкрі́та, фле́гонта, є҆́рма, патро́ва, є҆рмі́а, лі́на, га́ї̈ѧ, фїлоло́га, лꙋкѝя, і҆а́сѡна, сѡсїпа́тра, ѻ҆лѵ́мпа (ѻ҆лѵ́мпана), те́ртїѧ, є҆ра́ста, кꙋа́рта, є҆ѵо́да, ѻ҆нисі́фора, кли́мента, сѡсѳе́на, а҆поллѡ́са, тѷхі́ка, є҆пафроді́та, ка́рпа, кодра́та, ма́рка, Зины, а҆рїста́рха, пꙋ́да, трофі́ма, ма́рка, а҆рте́мы, а҆кѵ́лы, фортꙋ́ната и҆ а҆ха́їка, дїонѵ́сїа а҆реопагі́та и҆ сѷмеѡ́на Нигера, ки́фы, ке́сарѧ и҆ а҆лфе́ѧ)"
+                  }
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Прпⷣбнагѡ ѳеокті́ста, и҆гꙋ́мена кꙋкꙋ́мѣ сїкелі́йстѣмъ (800)",
+                     "Short" : "Прпⷣбнагѡ ѳеокті́ста,"
+                  },
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : "",
+                  "cid" : "148",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "714",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ст҃а́гѡ є҆ѵста́ѳїая",
+                     "Nominative" : "Ст҃а́гѡ є҆ѵста́ѳїая а҃, а҆рхїепⷭ҇копа се́рбскагѡ (ок. 1285)"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "life" : null,
+                  "cid" : "010405",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Сщ҃енномꙋ́ченикѡвъ а҆леѯа́ндра, стефа́на и҆ фїлі́ппа пресвѵ́терѡвъ (1933)",
+                     "Short" : "Сщ҃енномꙋ́ченикѡвъ а҆леѯа́ндра,"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ст҃а́гѡ сщ҃енномч҃ника нїкола́ѧ пресвѵ́тера (1939)",
+                     "Short" : "Ст҃а́гѡ сщ҃енномч҃ника"
+                  },
+                  "info" : null,
+                  "cid" : "4875",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010406",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ст҃а́гѡ сщ҃енномч҃ника",
+                     "Nominative" : "Ст҃а́гѡ сщ҃енномч҃ника па́ѵла пресвѵ́тера (1941)"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Прпⷣбномч҃ника зѡсі́мы, пꙋсты́нника кїлїкі́йскагѡ и҆ мч҃ника а҆ѳана́сїа комментарисия (г҃-д҃)",
+                     "Short" : "Прпⷣбномч҃ника зѡсі́мы,"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "150"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Прпⷣбнагѡ Ахилы,",
+                     "Nominative" : "Прпⷣбнагѡ а҆хі́лла, дїа́кона пече́рскагѡ (ді҃)"
+                  },
+                  "info" : null,
+                  "cid" : "317",
+                  "life" : null
+               }
+            ],
+            "fastings" : "1111111",
+            "tone" : 8
+         }
+      },
+      "zh/Hant" : {
+         "ponomar" : {
+            "fastings" : "1111111",
+            "tone" : 8,
+            "saints" : [
+               {
+                  "info" : null,
+                  "cid" : "9285",
+                  "life" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:1-6",
+                              "type" : "apostol",
+                              "effWeek" : "29",
+                              "pericope" : "315"
+                           },
+                           {
+                              "effWeek" : "33",
+                              "pericope" : "57",
+                              "reading" : "Mk_12:38-44",
+                              "type" : "gospel"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Nominative" : "五旬節後第卅四周瞻禮五",
+                     "Short" : "五旬節後第卅四周瞻禮四"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "info" : null,
+                  "cid" : "010201",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "主顯節前期",
+                     "Nominative" : "主顯節前期"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "146",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "96 (mid.)",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Rom_8:8-14"
+                           },
+                           {
+                              "pericope" : "50",
+                              "effWeek" : null,
+                              "type" : "gospel",
+                              "reading" : "Lk_10:1-15"
+                           }
+                        ]
+                     }
+                  ],
+                  "name" : {
+                     "Short" : "Synod",
+                     "Nominative" : "七十使徒紀念日：主的弟兄雅各、著福音者馬可、著福音者路加、聖母淨配約熙福之弟克萊奧帕、克萊奧帕之子西面、瓦爾納瓦、猶思圖、塔德、阿納尼亞、總輔祭及第一殉道者斯特梵、七輔祭之：輔祭腓力、輔祭普若霍爾、輔祭尼喀諾爾、輔祭提孟、輔祭帕爾麥那；提摩太、提托、斐利蒙、阿尼西母、艾帕弗拉、阿爾赫普、息拉、息廬安、克瑞森、克里斯普、艾派奈特、安德若尼科、斯塔赫斯、安普利亞、鄔爾班、納爾基穌、阿佩勒、阿里斯托弗洛、伊若狄翁、阿伽博、路弗、阿辛克里特、弗萊艮、埃爾彌斯、帕特若瓦、埃爾瑪斯、理諾、蓋奧、斐洛羅格、路基、雅頌、索悉帕提、奧林帕斯、特爾提、埃拉斯特、誇爾特、埃佛迪亞、奧尼息佛爾、克利密斯、索斯特尼、阿頗羅、提赫科、埃帕弗若迪特、卡爾普、科德拉特、被稱為約翰的馬可、齊納斯、阿里斯塔爾霍、普鄧司、特若斐默、馬可、阿爾特瑪斯、阿桂拉、佛爾圖納特、阿亥科。"
+                  },
+                  "menologion" : "",
+                  "type" : "1"
+               },
+               {
+                  "name" : {
+                     "Short" : "聖德奧克提斯特（西西里的庫科默地方修道院院長，800年）",
+                     "Nominative" : "聖德奧克提斯特（西西里的庫科默地方修道院院長，800年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "1",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "148",
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "隱士佐息瑪、典獄阿塔納西（西里西亞的隱居者，於3-四世紀間為主殉道）",
+                     "Short" : "隱士佐息瑪、典獄阿塔納西（西里西亞的隱居者，於3-四世紀間為主殉道）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "150",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "01040099",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010404"
+               },
+               {
+                  "cid" : "010400",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : null,
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "艾弗提彌院長及偕同就義之12名修士（阿托斯聖山瓦托佩迪修道院之殉道者，1285年）",
+                     "Short" : "艾弗提彌院長及偕同就義之12名修士（阿托斯聖山瓦托佩迪修道院之殉道者，1285年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010402"
+               },
+               {
+                  "cid" : "010403",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "聖艾弗斯塔提一世安息紀念（塞爾維亞總主教1285年）",
+                     "Short" : "聖艾弗斯塔提一世安息紀念（塞爾維亞總主教1285年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "新殉道者，奧努弗利·瑪納西亞（加布羅沃地方人，阿托斯聖山希蘭達爾修道院修士，1818年）",
+                     "Nominative" : "新殉道者，奧努弗利·瑪納西亞（加布羅沃地方人，阿托斯聖山希蘭達爾修道院修士，1818年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "01040496",
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "聖阿桂拉（基輔洞窟修道院之修士輔祭，十四世紀）",
+                     "Short" : "聖阿桂拉（基輔洞窟修道院之修士輔祭，十四世紀）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "317",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "埃塞俄比亞女王坎達基的宦官，為輔祭斐利普所歸化者",
+                     "Short" : "埃塞俄比亞女王坎達基的宦官，為輔祭斐利普所歸化者"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "01040596",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "聖格里高利（高盧的蘭格瑞斯城人，539-540年）",
+                     "Nominative" : "聖格里高利（高盧的蘭格瑞斯城人，539-540年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "01040696",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "01040796",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "聖艾瓦格里、聖伊利亞輔祭及他們的同伴（格魯吉亞的克修者，六世紀）",
+                     "Short" : "聖艾瓦格里、聖伊利亞輔祭及他們的同伴（格魯吉亞的克修者，六世紀）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "life" : null,
+                  "cid" : "010408",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "聖西面（斯摩稜斯克都主教，1699年）",
+                     "Nominative" : "聖西面（斯摩稜斯克都主教，1699年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "010409",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "義人阿頗利納里斯（元老）",
+                     "Nominative" : "義人阿頗利納里斯（元老）"
+                  }
+               },
+               {
+                  "name" : {
+                     "Nominative" : "義人約翰（學者）",
+                     "Short" : "義人約翰（學者）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "010410",
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "新殉道司祭亞歷山大、斯特梵和腓力（1933年）",
+                     "Nominative" : "新殉道司祭亞歷山大、斯特梵和腓力（1933年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "010405",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "010406",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "新殉道司祭帕弗羅（1941年）",
+                     "Short" : "新殉道司祭帕弗羅（1941年）"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "010407",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : null
+               }
+            ]
+         },
+         "ponomarReordered" : {
+            "tone" : 8,
+            "fastings" : "1111111",
+            "saints" : [
+               {
+                  "name" : {
+                     "Nominative" : "五旬節後第卅四周瞻禮五",
+                     "Short" : "五旬節後第卅四周瞻禮四"
+                  },
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:1-6",
+                              "type" : "apostol",
+                              "pericope" : "315",
+                              "effWeek" : "29"
+                           },
+                           {
+                              "reading" : "Mk_12:38-44",
+                              "type" : "gospel",
+                              "effWeek" : "33",
+                              "pericope" : "57"
+                           }
+                        ]
+                     }
+                  ],
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "9285",
+                  "info" : null
+               },
+               {
+                  "cid" : "010201",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "主顯節前期",
+                     "Nominative" : "主顯節前期"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "name" : {
+                     "Short" : "Synod",
+                     "Nominative" : "七十使徒紀念日：主的弟兄雅各、著福音者馬可、著福音者路加、聖母淨配約熙福之弟克萊奧帕、克萊奧帕之子西面、瓦爾納瓦、猶思圖、塔德、阿納尼亞、總輔祭及第一殉道者斯特梵、七輔祭之：輔祭腓力、輔祭普若霍爾、輔祭尼喀諾爾、輔祭提孟、輔祭帕爾麥那；提摩太、提托、斐利蒙、阿尼西母、艾帕弗拉、阿爾赫普、息拉、息廬安、克瑞森、克里斯普、艾派奈特、安德若尼科、斯塔赫斯、安普利亞、鄔爾班、納爾基穌、阿佩勒、阿里斯托弗洛、伊若狄翁、阿伽博、路弗、阿辛克里特、弗萊艮、埃爾彌斯、帕特若瓦、埃爾瑪斯、理諾、蓋奧、斐洛羅格、路基、雅頌、索悉帕提、奧林帕斯、特爾提、埃拉斯特、誇爾特、埃佛迪亞、奧尼息佛爾、克利密斯、索斯特尼、阿頗羅、提赫科、埃帕弗若迪特、卡爾普、科德拉特、被稱為約翰的馬可、齊納斯、阿里斯塔爾霍、普鄧司、特若斐默、馬可、阿爾特瑪斯、阿桂拉、佛爾圖納特、阿亥科。"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Rom_8:8-14",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "96 (mid.)"
+                           },
+                           {
+                              "reading" : "Lk_10:1-15",
+                              "type" : "gospel",
+                              "pericope" : "50",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : "1",
+                  "menologion" : "",
+                  "cid" : "146",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : "1",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "聖德奧克提斯特（西西里的庫科默地方修道院院長，800年）",
+                     "Nominative" : "聖德奧克提斯特（西西里的庫科默地方修道院院長，800年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "148",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "150",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "隱士佐息瑪、典獄阿塔納西（西里西亞的隱居者，於3-四世紀間為主殉道）",
+                     "Short" : "隱士佐息瑪、典獄阿塔納西（西里西亞的隱居者，於3-四世紀間為主殉道）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "01040099",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : null,
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010404"
+               },
+               {
+                  "cid" : "010400",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : null,
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "010402",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "艾弗提彌院長及偕同就義之12名修士（阿托斯聖山瓦托佩迪修道院之殉道者，1285年）",
+                     "Nominative" : "艾弗提彌院長及偕同就義之12名修士（阿托斯聖山瓦托佩迪修道院之殉道者，1285年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010403",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "聖艾弗斯塔提一世安息紀念（塞爾維亞總主教1285年）",
+                     "Short" : "聖艾弗斯塔提一世安息紀念（塞爾維亞總主教1285年）"
+                  }
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "新殉道者，奧努弗利·瑪納西亞（加布羅沃地方人，阿托斯聖山希蘭達爾修道院修士，1818年）",
+                     "Short" : "新殉道者，奧努弗利·瑪納西亞（加布羅沃地方人，阿托斯聖山希蘭達爾修道院修士，1818年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "01040496",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "聖阿桂拉（基輔洞窟修道院之修士輔祭，十四世紀）",
+                     "Short" : "聖阿桂拉（基輔洞窟修道院之修士輔祭，十四世紀）"
+                  },
+                  "info" : null,
+                  "cid" : "317",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "01040596",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "埃塞俄比亞女王坎達基的宦官，為輔祭斐利普所歸化者",
+                     "Nominative" : "埃塞俄比亞女王坎達基的宦官，為輔祭斐利普所歸化者"
+                  }
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "聖格里高利（高盧的蘭格瑞斯城人，539-540年）",
+                     "Short" : "聖格里高利（高盧的蘭格瑞斯城人，539-540年）"
+                  },
+                  "info" : null,
+                  "cid" : "01040696",
+                  "life" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "聖艾瓦格里、聖伊利亞輔祭及他們的同伴（格魯吉亞的克修者，六世紀）",
+                     "Short" : "聖艾瓦格里、聖伊利亞輔祭及他們的同伴（格魯吉亞的克修者，六世紀）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "01040796",
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "聖西面（斯摩稜斯克都主教，1699年）",
+                     "Short" : "聖西面（斯摩稜斯克都主教，1699年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "010408",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "cid" : "010409",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "義人阿頗利納里斯（元老）",
+                     "Short" : "義人阿頗利納里斯（元老）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "info" : null,
+                  "cid" : "010410",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "義人約翰（學者）",
+                     "Short" : "義人約翰（學者）"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "010405",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "新殉道司祭亞歷山大、斯特梵和腓力（1933年）",
+                     "Nominative" : "新殉道司祭亞歷山大、斯特梵和腓力（1933年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "新殉道司祭帕弗羅（1941年）",
+                     "Short" : "新殉道司祭帕弗羅（1941年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "010406",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "010407",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : null
+               }
+            ]
+         }
+      },
+      "el" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "name" : {
+                     "Nominative" : "Πέμπτη",
+                     "Short" : "Πέμπτη"
+                  },
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "315",
+                              "effWeek" : "29",
+                              "type" : "apostol",
+                              "reading" : "Heb_7:1-6"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Mk_12:38-44",
+                              "pericope" : "57",
+                              "effWeek" : "33"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "9285",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Προεόρτια τῶν Φώτων",
+                     "Nominative" : "Προεόρτια τῶν Φώτων"
+                  },
+                  "info" : null,
+                  "cid" : "010201",
+                  "life" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "96 (mid.)",
+                              "reading" : "Rom_8:8-14",
+                              "type" : "apostol"
+                           },
+                           {
+                              "reading" : "Lk_10:1-15",
+                              "type" : "gospel",
+                              "effWeek" : null,
+                              "pericope" : "50"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "name" : {
+                     "Short" : "Σύναξις τῶν Ἁγίων Ἑβδομήκοντα Ἀποστόλων",
+                     "Nominative" : "Σύναξις τῶν Ἁγίων Ἑβδομήκοντα Ἀποστόλων"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "146"
+               },
+               {
+                  "cid" : "148",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Ὅσιος Θεόκτιστος ἡγούμενος Κουκουμίου",
+                     "Nominative" : "Ὅσιος Θεόκτιστος ἡγούμενος Κουκουμίου"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "1",
+                  "menologion" : ""
+               },
+               {
+                  "name" : {
+                     "Short" : "Ὅσιος Ὀνούφριος ὁ Νέος",
+                     "Nominative" : "Ὅσιος Ὀνούφριος ὁ Νέος"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "010407",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "150",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ἅγιοι Ζώσιμος ὁ μοναχὸς καὶ Ἀθανάσιος ὁ Κομεντηρήσιος",
+                     "Nominative" : "Ἅγιοι Ζώσιμος ὁ μοναχὸς καὶ Ἀθανάσιος ὁ Κομεντηρήσιος"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Genetive" : "Ὁσία Ἀπολλιναρία",
+                     "Short" : "Ὁσία Ἀπολλιναρία",
+                     "Nominative" : "Ὁσία Ἀπολλιναρία ἡ Συγκλητικὴ"
+                  },
+                  "info" : null,
+                  "cid" : "158",
+                  "life" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ἅγιοι Ἕξι Μάρτυρες",
+                     "Nominative" : "Ἅγιοι Ἕξι Μάρτυρες"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "010410",
+                  "life" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ὅσιος Εὐθύμιος ὁ Νέος",
+                     "Nominative" : "Ὅσιος Εὐθύμιος ὁ Νέος"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "01040099",
+                  "life" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "010404",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ὅσιος Εὐθύμιος ἡγούμενος Μονῆς Βατοπαιδίου καὶ οἱ Δώδεκα μοναχοὶ Βατοπαιδινοὶ",
+                     "Short" : "Ὅσιος Εὐθύμιος ἡγούμενος Μονῆς Βατοπαιδίου καὶ οἱ Δώδεκα μοναχοὶ Βατοπαιδινοὶ"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "010400",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ἅγιοι Χρύσανθος καὶ Εὐφημία",
+                     "Nominative" : "Ἅγιοι Χρύσανθος καὶ Εὐφημία"
+                  }
+               },
+               {
+                  "cid" : "01040795",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ὅσιος Θεοπρόβος Ἐπίσκοπος Καρπασίας Κύπρου",
+                     "Short" : "Ὅσιος Θεοπρόβος Ἐπίσκοπος Καρπασίας Κύπρου"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "714",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ἅγιος Εὐστάθιος ὁ Αʹ, Ἀρχιεπίσκοπος Σερβίας",
+                     "Nominative" : "Ἅγιος Εὐστάθιος ὁ Αʹ, Ἀρχιεπίσκοπος Σερβίας"
+                  }
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ὅσιος Ἀχίλλιος ὁ Διάκονος τῆς Λαύρας Κιέβου",
+                     "Nominative" : "Ὅσιος Ἀχίλλιος ὁ Διάκονος τῆς Λαύρας Κιέβου"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "317",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Εὕρεσις τῶν Τιμίων Λειψάνων τοῦ Ἁγίου Νεομάρτυρα Ἰωάννου τοῦ ἐκ Κονίτσης",
+                     "Nominative" : "Εὕρεσις τῶν Τιμίων Λειψάνων τοῦ Ἁγίου Νεομάρτυρα Ἰωάννου τοῦ ἐκ Κονίτσης"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "01041095"
+               },
+               {
+                  "info" : null,
+                  "cid" : "01041195",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ὅσιοι Εὐάγριος καὶ Σίος ἐκ Γεωργίας",
+                     "Short" : "Ὅσιοι Εὐάγριος καὶ Σίος ἐκ Γεωργίας"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ὅσιος Συμεὼν ἐκ Ῥωσίας",
+                     "Short" : "Ὅσιος Συμεὼν ἐκ Ῥωσίας"
+                  },
+                  "info" : null,
+                  "cid" : "010408",
+                  "life" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ὅσιος Τιμόθεος ὁ Στυλίτης",
+                     "Short" : "Ὅσιος Τιμόθεος ὁ Στυλίτης"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "01044595",
+                  "life" : null,
+                  "info" : null
+               }
+            ],
+            "fastings" : "1111111",
+            "tone" : 8
+         },
+         "ponomar" : {
+            "saints" : [
+               {
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : "29",
+                              "pericope" : "315",
+                              "reading" : "Heb_7:1-6",
+                              "type" : "apostol"
+                           },
+                           {
+                              "pericope" : "57",
+                              "effWeek" : "33",
+                              "reading" : "Mk_12:38-44",
+                              "type" : "gospel"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Nominative" : "Πέμπτη",
+                     "Short" : "Πέμπτη"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "9285",
+                  "life" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Προεόρτια τῶν Φώτων",
+                     "Short" : "Προεόρτια τῶν Φώτων"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010201"
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "96 (mid.)",
+                              "reading" : "Rom_8:8-14",
+                              "type" : "apostol"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "50",
+                              "reading" : "Lk_10:1-15",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Σύναξις τῶν Ἁγίων Ἑβδομήκοντα Ἀποστόλων",
+                     "Nominative" : "Σύναξις τῶν Ἁγίων Ἑβδομήκοντα Ἀποστόλων"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "146"
+               },
+               {
+                  "cid" : "148",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Ὅσιος Θεόκτιστος ἡγούμενος Κουκουμίου",
+                     "Nominative" : "Ὅσιος Θεόκτιστος ἡγούμενος Κουκουμίου"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "1",
+                  "menologion" : ""
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ὅσιος Ὀνούφριος ὁ Νέος",
+                     "Short" : "Ὅσιος Ὀνούφριος ὁ Νέος"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "010407",
+                  "life" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "Ἅγιοι Ζώσιμος ὁ μοναχὸς καὶ Ἀθανάσιος ὁ Κομεντηρήσιος",
+                     "Nominative" : "Ἅγιοι Ζώσιμος ὁ μοναχὸς καὶ Ἀθανάσιος ὁ Κομεντηρήσιος"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "cid" : "150",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "158",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Genetive" : "Ὁσία Ἀπολλιναρία",
+                     "Nominative" : "Ὁσία Ἀπολλιναρία ἡ Συγκλητικὴ",
+                     "Short" : "Ὁσία Ἀπολλιναρία"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "010410",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ἅγιοι Ἕξι Μάρτυρες",
+                     "Nominative" : "Ἅγιοι Ἕξι Μάρτυρες"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "01040099",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Ὅσιος Εὐθύμιος ὁ Νέος",
+                     "Short" : "Ὅσιος Εὐθύμιος ὁ Νέος"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ὅσιος Εὐθύμιος ἡγούμενος Μονῆς Βατοπαιδίου καὶ οἱ Δώδεκα μοναχοὶ Βατοπαιδινοὶ",
+                     "Nominative" : "Ὅσιος Εὐθύμιος ἡγούμενος Μονῆς Βατοπαιδίου καὶ οἱ Δώδεκα μοναχοὶ Βατοπαιδινοὶ"
+                  },
+                  "info" : null,
+                  "cid" : "010404",
+                  "life" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ἅγιοι Χρύσανθος καὶ Εὐφημία",
+                     "Nominative" : "Ἅγιοι Χρύσανθος καὶ Εὐφημία"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "010400",
+                  "life" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ὅσιος Θεοπρόβος Ἐπίσκοπος Καρπασίας Κύπρου",
+                     "Short" : "Ὅσιος Θεοπρόβος Ἐπίσκοπος Καρπασίας Κύπρου"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "01040795"
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ἅγιος Εὐστάθιος ὁ Αʹ, Ἀρχιεπίσκοπος Σερβίας",
+                     "Nominative" : "Ἅγιος Εὐστάθιος ὁ Αʹ, Ἀρχιεπίσκοπος Σερβίας"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "714",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ὅσιος Ἀχίλλιος ὁ Διάκονος τῆς Λαύρας Κιέβου",
+                     "Nominative" : "Ὅσιος Ἀχίλλιος ὁ Διάκονος τῆς Λαύρας Κιέβου"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "317",
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Εὕρεσις τῶν Τιμίων Λειψάνων τοῦ Ἁγίου Νεομάρτυρα Ἰωάννου τοῦ ἐκ Κονίτσης",
+                     "Short" : "Εὕρεσις τῶν Τιμίων Λειψάνων τοῦ Ἁγίου Νεομάρτυρα Ἰωάννου τοῦ ἐκ Κονίτσης"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "01041095",
+                  "info" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ὅσιοι Εὐάγριος καὶ Σίος ἐκ Γεωργίας",
+                     "Nominative" : "Ὅσιοι Εὐάγριος καὶ Σίος ἐκ Γεωργίας"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "01041195",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010408",
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ὅσιος Συμεὼν ἐκ Ῥωσίας",
+                     "Short" : "Ὅσιος Συμεὼν ἐκ Ῥωσίας"
+                  }
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "01044595",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ὅσιος Τιμόθεος ὁ Στυλίτης",
+                     "Short" : "Ὅσιος Τιμόθεος ὁ Στυλίτης"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               }
+            ],
+            "tone" : 8,
+            "fastings" : "1111111"
+         }
+      },
+      "cu/ru" : {
+         "ponomar" : {
+            "fastings" : "1111111",
+            "tone" : 8,
+            "saints" : [
+               {
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:1-6",
+                              "type" : "apostol",
+                              "pericope" : "315",
+                              "effWeek" : "29"
+                           },
+                           {
+                              "pericope" : "57",
+                              "effWeek" : "33",
+                              "reading" : "Mk_12:38-44",
+                              "type" : "gospel"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Short" : "Четверто́къ",
+                     "Nominative" : "Четверг 34-й седмицы по Пятидесятнице"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9285"
+               },
+               {
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Предпразднство Богоявления",
+                     "Short" : "Предпразднства"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "010201",
+                  "life" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Собор 70-ти апостолов: Иакова, брата Господня, Марка и Луки евангелистов, Клеопы, Симеона, Варнавы(Иосифа), Варсавы(Иуста, Иосифа, Иосии), Фаддея, Анании, первомч. архидиакона Стефана, Филиппа, Прохора, Никанора, Тимона, Пармена, Тимофея, Тита, Филимона, Онисима, Епафраса, Архиппа, Силы, Силуана, Крискента, Криспа, Епенета, Андроника, Стахия, Амплия, Урвана, Наркисса, Апеллия, Аристовула, Родиона (Иродиона), Агава, Руфа, Асинкрита, Флегонта, Ерма, Патрова, Ермия, Лина, Гаия, Филолога, Лукия, Иасона, Сосипатра, Олимпа (Олимпана), Тертия, Ераста, Куарта, Евода, Онисифора, Климента, Сосфена, Аполлоса, Тихика, Епафродита, Карпа, Кодрата, Марка, Зины, Аристарха, Пуда, Трофима, Марка, Артемы, Акилы, Фортуната и Ахаика, Дионисия Ареопагита и Симеона Нигера,(Кифы, Кесаря и Алфея)",
+                     "Short" : "Собор 70-ти",
+                     "Genetive" : "Собора"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "96 (mid.)",
+                              "reading" : "Rom_8:8-14",
+                              "type" : "apostol"
+                           },
+                           {
+                              "reading" : "Lk_10:1-15",
+                              "type" : "gospel",
+                              "effWeek" : null,
+                              "pericope" : "50"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "cid" : "146",
+                  "life" : {
+                     "Id" : "bulgakov",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Text" : "\n     Собор святых семидесяти апостолов был установлен Православной Церковью для того, чтобы показать равночестие каждого из семидесяти и тем самым предотвратить разногласия в почитании их. Они были избраны Господом Иисусом Христом, чтобы благовествовать Евангелие всей вселенной.     Кроме празднования Собора святых апостолов, Церковь совершает память каждого из них в течение года: апостола Иакова, брата Господня (23 октября), Марка, евангелиста (25 апреля), Луки, евангелиста (18 октября), Клеопы, брата Иосифа Обручника, Симеона, сына его (27 апреля), Варнавы (11 июня), Иосии, или Иосифа, называемого Варсавою или Иустом (30 октября), Фаддея (21 августа), Анании (1 октября), Стефана, архидиакона (27 декабря), Филиппа из 7 диаконов (11 октября), Прохора из 7 диаконов (28 июля), Никанора из 7 диаконов (28 июля и 28 декабря), Тимона из 7 диаконов (28 июля и 30 декабря), Пармена из 7 диаконов (28 июня), Тимофея (22 января), Тита (25 августа), Филимона (22 ноября и 19 февраля), Онисима (15 февраля), Епафраса и Архиппа (22 ноября и 19 февраля), Силы, Силуана, Крискента, или Криска (30 июля), Криспа и Епенета (30 июля), Андроника (17 мая и 30 июля), Стахия, Амплия, Урвана, Наркисса, Апеллия (31 октября), Аристовула (31 октября и 16 марта), Иродиона, или Родиона (8 апреля и 10 ноября), Агава, Руфа, Асинкрита, Флегонта (8 апреля), Ерма (5 ноября и 31 мая), Патрова  (5 ноября), Ермия (8 апреля), Лина, Гаия, Филолога (5 ноября), Лукия (10 сентября), Иасона (28 апреля), Сосипатра (28 апреля и 10 ноября), Олимпа или Олимпана (10 ноября), Тертия (30 октября и 10 ноября), Ераста, Куарта (10 ноября), Евода (7 сентября), Онисифора (7 сентября и 8 декабря), Климента (25 ноября), Сосфена (8 декабря), Аполлоса (10 сентября и 8 декабря), Тихика, Епафродита (8 декабря), Карпа (26 мая), Кодрата (21 сентября), Марка, он же Иоанн, Зины (27 сентября), Аристарха (15 апреля и 27 сентября), Пуда, Трофима (15 апреля), Марка, племянника Варнавы, Артема (30 октября), Акилы (14 июля), Фортуната, Ахаика (4 января).    По сошествии Святого Духа апостолы проповедовали в разных странах, и некоторое сопутствовали апостолам из 12-ти, как святые евангелисты Марк и Лука, сподвижник святого апостола Павла Тимофей, ученик святого евангелиста Иоанна Богослова святой Прохор и другие. Многие из них были узниками за Христа, многие приняли венец мученической смерти.    К 70-ти апостолам причислены еще два — святые апостолы Кифа, которому явился Господь по Воскресении (1 Кор. 15, 5—6), и Симеон, по прозванию Нигер (Деян. 13, 1), так как они тоже прославились апостольской проповедью.    Особо Церковь почитает и восхваляет 70 апостолов за то, что они научили почитать Троицу Единосущную и Нераздельную.    В IX веке Православная Церковь приняла от Иосифа Песнописца канон на день Собора 70-ти апостолов Христовых. \n"
+                  },
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : {
+                     "Text" : "\n    Преподобный Феоктист основал обитель в городе Кукуме на острове Сицилия, где стал игуменом. В его монастыре жили греческие монахи, бежавшие от преследований иконоборцев. Скончался преподобный в 800 году. \n",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Id" : "bulgakov"
+                  },
+                  "cid" : "148",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Прп.Феоктиста, игумена",
+                     "Nominative" : "Прп.Феоктиста, игумена Кукума Сикелийского (800)"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "info" : null,
+                  "life" : {
+                     "Text" : "\n<p>Святитель Евстафий, архиепископ Сербский, жил во второй половине XIII века, при короле сербском Стефане Уроше (1262—  1320).     Родился в Будимильской области в благочестивой христианской семье, где и получил духовное воспитание. Отличаясь незаурядными способностями, юный Евстафий был отдан родителями на обучение «книжной премудрости». Особенно прилежно он изучал Священное Писание, совершенствуясь в благочестии и добродетели.</p><p>Закончив образование, юноша принял пострижение в монастыре Архангела Михаила в Зетской области (Черногория) и проводил суровую иноческую жизнь, так что скоро прославился как великий подвижник. Оттуда он предпринял путешествие в Иерусалим, для поклонения святому Гробу Господню. На обратном пути он посетил Святую Гору Афон и поселился там в сербском Хилендарском монастыре. Преподобный Евстафий приобрел всеобщую известность и любовь как строгий подвижник и добрый учитель и был возведен в сан игумена монастыря.</p><p>Через несколько лет его рукоположили во епископа Зетской  епархии. Тогда святитель и вернулся на родину. Богатый духовный опыт и иноческая жизнь снискали ему любовь соотечественников,  и святитель Евстафий был избран на престол архиепископов сербских, преемников святого Саввы. Семь лет святитель Евстафий управлял Сербской Церковью и мирно скончался около 1285 года. Тело его было погребено в монастыре Жидоча, позднее оно было перенесено в Пеши (Печ) и положено в кафедральном соборе  святых апостолов Петра и Павла.</p>\n",
+                     "Id" : "bulgakov",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга."
+                  },
+                  "cid" : "714",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Свт. Евстафия",
+                     "Nominative" : "Свт. Евстафия I, архиеп. Сербского (ок. 1285)"
+                  }
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010405",
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Сщмчч. Александра, Стефана и Филиппа пресвитеров (1933)",
+                     "Short" : "Сщмчч. Александра"
+                  }
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Сщмч. Николая",
+                     "Nominative" : "Сщмч. Николая пресвитера (1939)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "4875",
+                  "info" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Сщмч. Павла",
+                     "Nominative" : "Сщмч. Павла пресвитера (1941)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "010406",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "cid" : "150",
+                  "life" : {
+                     "Text" : "\n    Преподобномученик Зосима происходил из Киликии и был пустынножителем. Во время гонения на христиан при царе Диоклитиане (284—305) святой Зосима был схвачен и предан жестоким мучениям за веру, но силой Божией он сохранился невредимым. Видя такое чудо Божие, смотритель тюрьмы, именем Афанасий, уверовал во Христа и крестился. Преподобный Зосима с Афанасием были отпущены и ушли в пустыню, где, подвизаясь, жили в расселине горы до кончины. \n",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Id" : "bulgakov"
+                  },
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Прмч. Зосимы, пустынника Киликийского и мч. Афанасия комментарисия (III-IV)",
+                     "Short" : "Прмч. Зосимы"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "317",
+                  "life" : {
+                     "Id" : "bulgakov",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Text" : "\nПреподобный Ахила, диакон Печерский (XIV), прославился как великий постник, долгое время проведший в затворе. Предание гласит, что он не ел ни вареной, ни сладкой пищи, овощи употреблял редко и в малом количестве, а во время поста вкушал только одну просфору.    К заступничеству святого Ахилы прибегают жаждущие избавиться от «порабощения чревных страстей» и желающие научиться воздержанию (3-я песнь канона преподобным, почивающим в Дальних пещерах).    Память преподобного Ахилы также 28 августа и во 2-ю Неделю Великого поста. \n"
+                  },
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Прп. Ахилы",
+                     "Nominative" : "Прп. Ахилы, диакона Печерского (XIV)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               }
+            ]
+         },
+         "ponomarReordered" : {
+            "fastings" : "1111111",
+            "tone" : 8,
+            "saints" : [
+               {
+                  "name" : {
+                     "Short" : "Четверто́къ",
+                     "Nominative" : "Четверг 34-й седмицы по Пятидесятнице"
+                  },
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:1-6",
+                              "type" : "apostol",
+                              "effWeek" : "29",
+                              "pericope" : "315"
+                           },
+                           {
+                              "pericope" : "57",
+                              "effWeek" : "33",
+                              "type" : "gospel",
+                              "reading" : "Mk_12:38-44"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "9285",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "010201",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Предпразднства",
+                     "Nominative" : "Предпразднство Богоявления"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "146",
+                  "life" : {
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Id" : "bulgakov",
+                     "Text" : "\n     Собор святых семидесяти апостолов был установлен Православной Церковью для того, чтобы показать равночестие каждого из семидесяти и тем самым предотвратить разногласия в почитании их. Они были избраны Господом Иисусом Христом, чтобы благовествовать Евангелие всей вселенной.     Кроме празднования Собора святых апостолов, Церковь совершает память каждого из них в течение года: апостола Иакова, брата Господня (23 октября), Марка, евангелиста (25 апреля), Луки, евангелиста (18 октября), Клеопы, брата Иосифа Обручника, Симеона, сына его (27 апреля), Варнавы (11 июня), Иосии, или Иосифа, называемого Варсавою или Иустом (30 октября), Фаддея (21 августа), Анании (1 октября), Стефана, архидиакона (27 декабря), Филиппа из 7 диаконов (11 октября), Прохора из 7 диаконов (28 июля), Никанора из 7 диаконов (28 июля и 28 декабря), Тимона из 7 диаконов (28 июля и 30 декабря), Пармена из 7 диаконов (28 июня), Тимофея (22 января), Тита (25 августа), Филимона (22 ноября и 19 февраля), Онисима (15 февраля), Епафраса и Архиппа (22 ноября и 19 февраля), Силы, Силуана, Крискента, или Криска (30 июля), Криспа и Епенета (30 июля), Андроника (17 мая и 30 июля), Стахия, Амплия, Урвана, Наркисса, Апеллия (31 октября), Аристовула (31 октября и 16 марта), Иродиона, или Родиона (8 апреля и 10 ноября), Агава, Руфа, Асинкрита, Флегонта (8 апреля), Ерма (5 ноября и 31 мая), Патрова  (5 ноября), Ермия (8 апреля), Лина, Гаия, Филолога (5 ноября), Лукия (10 сентября), Иасона (28 апреля), Сосипатра (28 апреля и 10 ноября), Олимпа или Олимпана (10 ноября), Тертия (30 октября и 10 ноября), Ераста, Куарта (10 ноября), Евода (7 сентября), Онисифора (7 сентября и 8 декабря), Климента (25 ноября), Сосфена (8 декабря), Аполлоса (10 сентября и 8 декабря), Тихика, Епафродита (8 декабря), Карпа (26 мая), Кодрата (21 сентября), Марка, он же Иоанн, Зины (27 сентября), Аристарха (15 апреля и 27 сентября), Пуда, Трофима (15 апреля), Марка, племянника Варнавы, Артема (30 октября), Акилы (14 июля), Фортуната, Ахаика (4 января).    По сошествии Святого Духа апостолы проповедовали в разных странах, и некоторое сопутствовали апостолам из 12-ти, как святые евангелисты Марк и Лука, сподвижник святого апостола Павла Тимофей, ученик святого евангелиста Иоанна Богослова святой Прохор и другие. Многие из них были узниками за Христа, многие приняли венец мученической смерти.    К 70-ти апостолам причислены еще два — святые апостолы Кифа, которому явился Господь по Воскресении (1 Кор. 15, 5—6), и Симеон, по прозванию Нигер (Деян. 13, 1), так как они тоже прославились апостольской проповедью.    Особо Церковь почитает и восхваляет 70 апостолов за то, что они научили почитать Троицу Единосущную и Нераздельную.    В IX веке Православная Церковь приняла от Иосифа Песнописца канон на день Собора 70-ти апостолов Христовых. \n"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "96 (mid.)",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Rom_8:8-14"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_10:1-15",
+                              "pericope" : "50",
+                              "effWeek" : null
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "menaion",
+                  "name" : {
+                     "Genetive" : "Собора",
+                     "Nominative" : "Собор 70-ти апостолов: Иакова, брата Господня, Марка и Луки евангелистов, Клеопы, Симеона, Варнавы(Иосифа), Варсавы(Иуста, Иосифа, Иосии), Фаддея, Анании, первомч. архидиакона Стефана, Филиппа, Прохора, Никанора, Тимона, Пармена, Тимофея, Тита, Филимона, Онисима, Епафраса, Архиппа, Силы, Силуана, Крискента, Криспа, Епенета, Андроника, Стахия, Амплия, Урвана, Наркисса, Апеллия, Аристовула, Родиона (Иродиона), Агава, Руфа, Асинкрита, Флегонта, Ерма, Патрова, Ермия, Лина, Гаия, Филолога, Лукия, Иасона, Сосипатра, Олимпа (Олимпана), Тертия, Ераста, Куарта, Евода, Онисифора, Климента, Сосфена, Аполлоса, Тихика, Епафродита, Карпа, Кодрата, Марка, Зины, Аристарха, Пуда, Трофима, Марка, Артемы, Акилы, Фортуната и Ахаика, Дионисия Ареопагита и Симеона Нигера,(Кифы, Кесаря и Алфея)",
+                     "Short" : "Собор 70-ти"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Прп.Феоктиста, игумена",
+                     "Nominative" : "Прп.Феоктиста, игумена Кукума Сикелийского (800)"
+                  },
+                  "info" : null,
+                  "cid" : "148",
+                  "life" : {
+                     "Id" : "bulgakov",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Text" : "\n    Преподобный Феоктист основал обитель в городе Кукуме на острове Сицилия, где стал игуменом. В его монастыре жили греческие монахи, бежавшие от преследований иконоборцев. Скончался преподобный в 800 году. \n"
+                  }
+               },
+               {
+                  "cid" : "714",
+                  "life" : {
+                     "Id" : "bulgakov",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Text" : "\n<p>Святитель Евстафий, архиепископ Сербский, жил во второй половине XIII века, при короле сербском Стефане Уроше (1262—  1320).     Родился в Будимильской области в благочестивой христианской семье, где и получил духовное воспитание. Отличаясь незаурядными способностями, юный Евстафий был отдан родителями на обучение «книжной премудрости». Особенно прилежно он изучал Священное Писание, совершенствуясь в благочестии и добродетели.</p><p>Закончив образование, юноша принял пострижение в монастыре Архангела Михаила в Зетской области (Черногория) и проводил суровую иноческую жизнь, так что скоро прославился как великий подвижник. Оттуда он предпринял путешествие в Иерусалим, для поклонения святому Гробу Господню. На обратном пути он посетил Святую Гору Афон и поселился там в сербском Хилендарском монастыре. Преподобный Евстафий приобрел всеобщую известность и любовь как строгий подвижник и добрый учитель и был возведен в сан игумена монастыря.</p><p>Через несколько лет его рукоположили во епископа Зетской  епархии. Тогда святитель и вернулся на родину. Богатый духовный опыт и иноческая жизнь снискали ему любовь соотечественников,  и святитель Евстафий был избран на престол архиепископов сербских, преемников святого Саввы. Семь лет святитель Евстафий управлял Сербской Церковью и мирно скончался около 1285 года. Тело его было погребено в монастыре Жидоча, позднее оно было перенесено в Пеши (Печ) и положено в кафедральном соборе  святых апостолов Петра и Павла.</p>\n"
+                  },
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Свт. Евстафия",
+                     "Nominative" : "Свт. Евстафия I, архиеп. Сербского (ок. 1285)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "cid" : "010405",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Сщмчч. Александра, Стефана и Филиппа пресвитеров (1933)",
+                     "Short" : "Сщмчч. Александра"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Сщмч. Николая",
+                     "Nominative" : "Сщмч. Николая пресвитера (1939)"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "4875"
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Сщмч. Павла пресвитера (1941)",
+                     "Short" : "Сщмч. Павла"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "010406",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : {
+                     "Id" : "bulgakov",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Text" : "\n    Преподобномученик Зосима происходил из Киликии и был пустынножителем. Во время гонения на христиан при царе Диоклитиане (284—305) святой Зосима был схвачен и предан жестоким мучениям за веру, но силой Божией он сохранился невредимым. Видя такое чудо Божие, смотритель тюрьмы, именем Афанасий, уверовал во Христа и крестился. Преподобный Зосима с Афанасием были отпущены и ушли в пустыню, где, подвизаясь, жили в расселине горы до кончины. \n"
+                  },
+                  "cid" : "150",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Прмч. Зосимы",
+                     "Nominative" : "Прмч. Зосимы, пустынника Киликийского и мч. Афанасия комментарисия (III-IV)"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "info" : null,
+                  "life" : {
+                     "Text" : "\nПреподобный Ахила, диакон Печерский (XIV), прославился как великий постник, долгое время проведший в затворе. Предание гласит, что он не ел ни вареной, ни сладкой пищи, овощи употреблял редко и в малом количестве, а во время поста вкушал только одну просфору.    К заступничеству святого Ахилы прибегают жаждущие избавиться от «порабощения чревных страстей» и желающие научиться воздержанию (3-я песнь канона преподобным, почивающим в Дальних пещерах).    Память преподобного Ахилы также 28 августа и во 2-ю Неделю Великого поста. \n",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Id" : "bulgakov"
+                  },
+                  "cid" : "317",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Прп. Ахилы",
+                     "Nominative" : "Прп. Ахилы, диакона Печерского (XIV)"
+                  }
+               }
+            ]
+         }
+      },
+      "zh/Hans" : {
+         "ponomar" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9285",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:1-6",
+                              "type" : "apostol",
+                              "effWeek" : "29",
+                              "pericope" : "315"
+                           },
+                           {
+                              "pericope" : "57",
+                              "effWeek" : "33",
+                              "reading" : "Mk_12:38-44",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "name" : {
+                     "Nominative" : "五旬节后第卅四周瞻礼五",
+                     "Short" : "五旬节后第卅四周瞻礼四"
+                  }
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "主显节前期",
+                     "Nominative" : "主显节前期"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "010201",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "146",
+                  "life" : null,
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Rom_8:8-14",
+                              "effWeek" : null,
+                              "pericope" : "96 (mid.)"
+                           },
+                           {
+                              "pericope" : "50",
+                              "effWeek" : null,
+                              "reading" : "Lk_10:1-15",
+                              "type" : "gospel"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Synod",
+                     "Nominative" : "七十使徒纪念日：主的弟兄雅各、著福音者马可、著福音者路加、圣母净配约熙福之弟克莱奥帕、克莱奥帕之子西面、瓦尔纳瓦、犹思图、塔德、阿纳尼亚、总辅祭及第一殉道者斯特梵、七辅祭之：辅祭腓力、辅祭普若霍尔、辅祭尼喀诺尔、辅祭提孟、辅祭帕尔麦那；提摩太、提托、斐利蒙、阿尼西母、艾帕弗拉、阿尔赫普、息拉、息庐安、克瑞森、克里斯普、艾派奈特、安德若尼科、斯塔赫斯、安普利亚、邬尔班、纳尔基稣、阿佩勒、阿里斯托弗洛、伊若狄翁、阿伽博、路弗、阿辛克里特、弗莱艮、埃尔弥斯、帕特若瓦、埃尔玛斯、理诺、盖奥、斐洛罗格、路基、雅颂、索悉帕提、奥林帕斯、特尔提、埃拉斯特、夸尔特、埃佛迪亚、奥尼息佛尔、克利密斯、索斯特尼、阿颇罗、提赫科、埃帕弗若迪特、卡尔普、科德拉特、被称为约翰的马可、齐纳斯、阿里斯塔尔霍、普邓司、特若斐默、马可、阿尔特玛斯、阿桂拉、佛尔图纳特、阿亥科。"
+                  },
+                  "menologion" : "",
+                  "type" : "1"
+               },
+               {
+                  "info" : null,
+                  "cid" : "148",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣德奥克提斯特（西西里的库科默地方修道院院长，800年）",
+                     "Nominative" : "圣德奥克提斯特（西西里的库科默地方修道院院长，800年）"
+                  },
+                  "menologion" : "",
+                  "type" : "1"
+               },
+               {
+                  "life" : null,
+                  "cid" : "150",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "隐士佐息玛、典狱阿塔纳西（西里西亚的隐居者，于3-4世纪间为主殉道）",
+                     "Short" : "隐士佐息玛、典狱阿塔纳西（西里西亚的隐居者，于3-4世纪间为主殉道）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "01040099",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : null,
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : null,
+                  "info" : null,
+                  "cid" : "010404",
+                  "life" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "010400",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010402",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "艾弗提弥院长及偕同就义之12名修士（阿托斯圣山瓦托佩迪修道院之殉道者，1285年）",
+                     "Short" : "艾弗提弥院长及偕同就义之12名修士（阿托斯圣山瓦托佩迪修道院之殉道者，1285年）"
+                  }
+               },
+               {
+                  "name" : {
+                     "Short" : "圣艾弗斯塔提一世安息纪念（塞尔维亚总主教1285年）",
+                     "Nominative" : "圣艾弗斯塔提一世安息纪念（塞尔维亚总主教1285年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "010403",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "01040496",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "新殉道者，奥努弗利•玛纳西亚（加布罗沃地方人，阿托斯圣山希兰达尔修道院修士，1818年）",
+                     "Nominative" : "新殉道者，奥努弗利•玛纳西亚（加布罗沃地方人，阿托斯圣山希兰达尔修道院修士，1818年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "name" : {
+                     "Nominative" : "圣阿桂拉（基辅洞窟修道院之修士辅祭，14世纪）",
+                     "Short" : "圣阿桂拉（基辅洞窟修道院之修士辅祭，14世纪）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "317",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "01040596",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "埃塞俄比亚女王坎达基的宦官，为辅祭斐利普所归化者",
+                     "Short" : "埃塞俄比亚女王坎达基的宦官，为辅祭斐利普所归化者"
+                  }
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣格里高利（高卢的兰格瑞斯城人，539-540年）",
+                     "Nominative" : "圣格里高利（高卢的兰格瑞斯城人，539-540年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "01040696"
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "圣艾瓦格里、圣伊利亚辅祭及他们的同伴（格鲁吉亚的克修者，6世纪）",
+                     "Short" : "圣艾瓦格里、圣伊利亚辅祭及他们的同伴（格鲁吉亚的克修者，6世纪）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "01040796"
+               },
+               {
+                  "info" : null,
+                  "cid" : "010408",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "圣西面（斯摩棱斯克都主教，1699年）",
+                     "Nominative" : "圣西面（斯摩棱斯克都主教，1699年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "name" : {
+                     "Nominative" : "义人阿颇利纳里斯（元老）",
+                     "Short" : "义人阿颇利纳里斯（元老）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "010409",
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "义人约翰（学者）",
+                     "Short" : "义人约翰（学者）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "010410",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "010405",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "新殉道司祭亚历山大、斯特梵和腓力（1933年）",
+                     "Short" : "新殉道司祭亚历山大、斯特梵和腓力（1933年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "新殉道司祭保罗（1941年）",
+                     "Nominative" : "新殉道司祭保罗（1941年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010406"
+               },
+               {
+                  "life" : null,
+                  "cid" : "010407",
+                  "info" : null,
+                  "name" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : ""
+               }
+            ],
+            "tone" : 8,
+            "fastings" : "1111111"
+         },
+         "ponomarReordered" : {
+            "tone" : 8,
+            "fastings" : "1111111",
+            "saints" : [
+               {
+                  "life" : null,
+                  "cid" : "9285",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "五旬节后第卅四周瞻礼四",
+                     "Nominative" : "五旬节后第卅四周瞻礼五"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : "29",
+                              "pericope" : "315",
+                              "type" : "apostol",
+                              "reading" : "Heb_7:1-6"
+                           },
+                           {
+                              "pericope" : "57",
+                              "effWeek" : "33",
+                              "type" : "gospel",
+                              "reading" : "Mk_12:38-44"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010201",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "主显节前期",
+                     "Short" : "主显节前期"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "146",
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Rom_8:8-14",
+                              "pericope" : "96 (mid.)",
+                              "effWeek" : null
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "50",
+                              "type" : "gospel",
+                              "reading" : "Lk_10:1-15"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Synod",
+                     "Nominative" : "七十使徒纪念日：主的弟兄雅各、著福音者马可、著福音者路加、圣母净配约熙福之弟克莱奥帕、克莱奥帕之子西面、瓦尔纳瓦、犹思图、塔德、阿纳尼亚、总辅祭及第一殉道者斯特梵、七辅祭之：辅祭腓力、辅祭普若霍尔、辅祭尼喀诺尔、辅祭提孟、辅祭帕尔麦那；提摩太、提托、斐利蒙、阿尼西母、艾帕弗拉、阿尔赫普、息拉、息庐安、克瑞森、克里斯普、艾派奈特、安德若尼科、斯塔赫斯、安普利亚、邬尔班、纳尔基稣、阿佩勒、阿里斯托弗洛、伊若狄翁、阿伽博、路弗、阿辛克里特、弗莱艮、埃尔弥斯、帕特若瓦、埃尔玛斯、理诺、盖奥、斐洛罗格、路基、雅颂、索悉帕提、奥林帕斯、特尔提、埃拉斯特、夸尔特、埃佛迪亚、奥尼息佛尔、克利密斯、索斯特尼、阿颇罗、提赫科、埃帕弗若迪特、卡尔普、科德拉特、被称为约翰的马可、齐纳斯、阿里斯塔尔霍、普邓司、特若斐默、马可、阿尔特玛斯、阿桂拉、佛尔图纳特、阿亥科。"
+                  },
+                  "menologion" : "",
+                  "type" : "1"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "1",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "圣德奥克提斯特（西西里的库科默地方修道院院长，800年）",
+                     "Short" : "圣德奥克提斯特（西西里的库科默地方修道院院长，800年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "148"
+               },
+               {
+                  "life" : null,
+                  "cid" : "150",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "隐士佐息玛、典狱阿塔纳西（西里西亚的隐居者，于3-4世纪间为主殉道）",
+                     "Nominative" : "隐士佐息玛、典狱阿塔纳西（西里西亚的隐居者，于3-4世纪间为主殉道）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "name" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "01040099",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : null,
+                  "info" : null,
+                  "cid" : "010404",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010400",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : null,
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010402",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "艾弗提弥院长及偕同就义之12名修士（阿托斯圣山瓦托佩迪修道院之殉道者，1285年）",
+                     "Nominative" : "艾弗提弥院长及偕同就义之12名修士（阿托斯圣山瓦托佩迪修道院之殉道者，1285年）"
+                  }
+               },
+               {
+                  "name" : {
+                     "Nominative" : "圣艾弗斯塔提一世安息纪念（塞尔维亚总主教1285年）",
+                     "Short" : "圣艾弗斯塔提一世安息纪念（塞尔维亚总主教1285年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "010403",
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "新殉道者，奥努弗利•玛纳西亚（加布罗沃地方人，阿托斯圣山希兰达尔修道院修士，1818年）",
+                     "Short" : "新殉道者，奥努弗利•玛纳西亚（加布罗沃地方人，阿托斯圣山希兰达尔修道院修士，1818年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "01040496",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "cid" : "317",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "圣阿桂拉（基辅洞窟修道院之修士辅祭，14世纪）",
+                     "Short" : "圣阿桂拉（基辅洞窟修道院之修士辅祭，14世纪）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "01040596",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "埃塞俄比亚女王坎达基的宦官，为辅祭斐利普所归化者",
+                     "Short" : "埃塞俄比亚女王坎达基的宦官，为辅祭斐利普所归化者"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "01040696",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣格里高利（高卢的兰格瑞斯城人，539-540年）",
+                     "Nominative" : "圣格里高利（高卢的兰格瑞斯城人，539-540年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "圣艾瓦格里、圣伊利亚辅祭及他们的同伴（格鲁吉亚的克修者，6世纪）",
+                     "Nominative" : "圣艾瓦格里、圣伊利亚辅祭及他们的同伴（格鲁吉亚的克修者，6世纪）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "01040796",
+                  "life" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "圣西面（斯摩棱斯克都主教，1699年）",
+                     "Short" : "圣西面（斯摩棱斯克都主教，1699年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "010408",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "义人阿颇利纳里斯（元老）",
+                     "Nominative" : "义人阿颇利纳里斯（元老）"
+                  },
+                  "info" : null,
+                  "cid" : "010409",
+                  "life" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "义人约翰（学者）",
+                     "Nominative" : "义人约翰（学者）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "010410",
+                  "info" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "新殉道司祭亚历山大、斯特梵和腓力（1933年）",
+                     "Nominative" : "新殉道司祭亚历山大、斯特梵和腓力（1933年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "010405",
+                  "life" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "010406",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "新殉道司祭保罗（1941年）",
+                     "Nominative" : "新殉道司祭保罗（1941年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "010407",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : null,
+                  "menologion" : "",
+                  "type" : null
+               }
+            ]
+         }
+      }
+   },
+   "date" : "2019/1/4"
+}

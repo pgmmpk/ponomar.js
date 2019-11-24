@@ -1,0 +1,2089 @@
+{
+   "langs" : {
+      "zh/Hans" : {
+         "ponomar" : {
+            "tone" : 3,
+            "fastings" : "1111111",
+            "saints" : [
+               {
+                  "cid" : "9308",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "五旬节后第卅七周安息日",
+                     "Short" : "五旬节后第卅七周安息日"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "I Cor_15:39-45",
+                              "type" : "apostol",
+                              "effWeek" : "18",
+                              "pericope" : "162"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_17:3-10",
+                              "pericope" : "84",
+                              "effWeek" : "32"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion"
+               },
+               {
+                  "cid" : "09022",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "敬迁君士坦丁堡总主教圣金口约翰之圣髑纪念日（437年）",
+                     "Nominative" : "敬迁君士坦丁堡总主教圣金口约翰之圣髑纪念日（437年）"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "35 (mid.)",
+                              "effWeek" : null,
+                              "reading" : "Jn_10:1-9",
+                              "type" : "1"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "318",
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16",
+                              "effWeek" : null,
+                              "pericope" : "36"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : "4",
+                  "menologion" : ""
+               },
+               {
+                  "life" : null,
+                  "cid" : "012701",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "新殉道者迪弥特里（君士坦丁堡，1784年）",
+                     "Short" : "新殉道者迪弥特里（君士坦丁堡，1784年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "012700",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "圣彼得（埃及人，5世纪）",
+                     "Nominative" : "圣彼得（埃及人，5世纪）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "012702",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "圣蒂图斯（士兵，基辐洞窟修道院的修士）",
+                     "Nominative" : "圣蒂图斯（士兵，基辐洞窟修道院的修士）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "012703",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "圣迪弥特里（本姓克勒彼尼奈，巴黎城司祭，1944年）",
+                     "Nominative" : "圣迪弥特里（本姓克勒彼尼奈，巴黎城司祭，1944年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "name" : {
+                     "Short" : "圣莱翁提（本姓斯塔塞维奇，伊凡诺沃地方人，1972年）",
+                     "Nominative" : "圣莱翁提（本姓斯塔塞维奇，伊凡诺沃地方人，1972年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "012704",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "新殉道司祭莱翁提（密修者，波兰的塔尔诺颇尔及嘉布乐切那地方人，1972年）",
+                     "Nominative" : "新殉道司祭莱翁提（密修者，波兰的塔尔诺颇尔及嘉布乐切那地方人，1972年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "012705",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "012706",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "敬迁圣马尔前娜之圣髑纪念日",
+                     "Short" : "敬迁圣马尔前娜之圣髑纪念日"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "cid" : "012707",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "圣纳塔利斯",
+                     "Short" : "圣纳塔利斯"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               }
+            ]
+         },
+         "ponomarReordered" : {
+            "fastings" : "1111111",
+            "tone" : 3,
+            "saints" : [
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "五旬节后第卅七周安息日",
+                     "Short" : "五旬节后第卅七周安息日"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : "18",
+                              "pericope" : "162",
+                              "reading" : "I Cor_15:39-45",
+                              "type" : "apostol"
+                           },
+                           {
+                              "effWeek" : "32",
+                              "pericope" : "84",
+                              "type" : "gospel",
+                              "reading" : "Lk_17:3-10"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "cid" : "9308",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "4",
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "matins",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "35 (mid.)",
+                              "type" : "1",
+                              "reading" : "Jn_10:1-9"
+                           }
+                        ]
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "318",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "36",
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "敬迁君士坦丁堡总主教圣金口约翰之圣髑纪念日（437年）",
+                     "Nominative" : "敬迁君士坦丁堡总主教圣金口约翰之圣髑纪念日（437年）"
+                  },
+                  "info" : null,
+                  "cid" : "09022",
+                  "life" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "新殉道者迪弥特里（君士坦丁堡，1784年）",
+                     "Short" : "新殉道者迪弥特里（君士坦丁堡，1784年）"
+                  },
+                  "info" : null,
+                  "cid" : "012701",
+                  "life" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "圣彼得（埃及人，5世纪）",
+                     "Short" : "圣彼得（埃及人，5世纪）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "012700",
+                  "life" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "圣蒂图斯（士兵，基辐洞窟修道院的修士）",
+                     "Short" : "圣蒂图斯（士兵，基辐洞窟修道院的修士）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "012702",
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "圣迪弥特里（本姓克勒彼尼奈，巴黎城司祭，1944年）",
+                     "Short" : "圣迪弥特里（本姓克勒彼尼奈，巴黎城司祭，1944年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "012703",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "012704",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "圣莱翁提（本姓斯塔塞维奇，伊凡诺沃地方人，1972年）",
+                     "Nominative" : "圣莱翁提（本姓斯塔塞维奇，伊凡诺沃地方人，1972年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "新殉道司祭莱翁提（密修者，波兰的塔尔诺颇尔及嘉布乐切那地方人，1972年）",
+                     "Short" : "新殉道司祭莱翁提（密修者，波兰的塔尔诺颇尔及嘉布乐切那地方人，1972年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "012705",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "012706",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "敬迁圣马尔前娜之圣髑纪念日",
+                     "Short" : "敬迁圣马尔前娜之圣髑纪念日"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "012707",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣纳塔利斯",
+                     "Nominative" : "圣纳塔利斯"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               }
+            ]
+         }
+      },
+      "cu/ru" : {
+         "ponomarReordered" : {
+            "tone" : 3,
+            "fastings" : "1111111",
+            "saints" : [
+               {
+                  "info" : null,
+                  "cid" : "9308",
+                  "life" : null,
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "162",
+                              "effWeek" : "18",
+                              "reading" : "I Cor_15:39-45",
+                              "type" : "apostol"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_17:3-10",
+                              "pericope" : "84",
+                              "effWeek" : "32"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Nominative" : "Суббота 37-й седмицы по Пятидесятнице",
+                     "Short" : "Суббота 37-й седмицы по Пятидесятнице"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "type" : "4",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Перенесение мощей свт. Иоанна Златоуста (438)",
+                     "Short" : "Перенесение мощей"
+                  },
+                  "services" : [
+                     {
+                        "type" : "matins",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "35 (mid.)",
+                              "reading" : "Jn_10:1-9",
+                              "type" : "1"
+                           }
+                        ]
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "318",
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol"
+                           },
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "09022",
+                  "life" : {
+                     "Text" : "\nСвятитель Иоанн Златоуст — великий вселенский учитель и иерарх, скончался в 407 году в городе Команы на пути к месту ссылки, осужденный по проискам императрицы Евдоксии за смелое обличение пороков, царивших в Константинополе. Перенесение его честных мощей из Коман в Константинополь совершилось в 438 году, через 30 лет после смерти святителя, при сыне Евдоксии императоре Феодосии II (408—450).     Святитель Иоанн Златоуст пользовался горячей любовью и глубоким уважением народа, и скорбь о его безвременной кончине жила в сердцах христиан. Ученик святителя Иоанна, святой Прокл, Патриарх Константинопольский (434—447), совершая Богослужение в храме Святой Софии, произнес проповедь, в которой, прославляя святителя Иоанна, говорил: «О Иоанн! Жизнь твоя многотрудна, но смерть славна, гроб твой блажен и воздаяние обильно по благодати и милосердию Господа нашего Иисуса Христа. О благЪдать, препобеждающая пределы, место и время! Место препобедила любовь, предел уничтожила незабвенная память, и местом не ограничились чудеса святителя». Присутствовавшие в храме, глубоко тронутые словом святителя Прокла, не дали даже ему окончить проповедь и стали единодушно умолять Патриарха ходатайствовать перед императором, чтобы мощи святителя Иоанна были перенесены в Константинополь. Император, убежденный святителем Проклом, дал согласие и повелел перенести мощи святителя Иоанна, но посланные им люди никак не могли поднять святые мощи до тех пор, пока император, поняв свою ошибку, не прислал послание к святителю Иоанну, смиренно прося у него прощения за себя и за свою мать Евдоксию. Послание зачитали у гроба святителя Иоанна и после этого легко подняли мощи, внесли их на корабль и доставили в Константинополь. Рака с мощами была поставлена в церкви святой мученицы Ирины. Патриарх открыл гроб: тело святителя Иоанна оказалось нетленным. Царь, припав к гробу со слезами, просил прощения. Народ весь день и ночь не отходил от раки. Наутро рака с мощами святителя была перенесена в церковь святых Апостолов. Народ воскликнул: «Приими престол твой, отче!» Тогда Патриарх Прокл и клирики, стоявшие у раки, увидели, что святитель Иоанн открыл уста и произнес: «Мир всем».    В IX веке на праздник в честь перенесения мощей святителя Иоанна Златоуста написаны церковные песнопения. \n",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Id" : "bulgakov"
+                  },
+                  "info" : null
+               }
+            ]
+         },
+         "ponomar" : {
+            "saints" : [
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "I Cor_15:39-45",
+                              "type" : "apostol",
+                              "pericope" : "162",
+                              "effWeek" : "18"
+                           },
+                           {
+                              "effWeek" : "32",
+                              "pericope" : "84",
+                              "type" : "gospel",
+                              "reading" : "Lk_17:3-10"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Nominative" : "Суббота 37-й седмицы по Пятидесятнице",
+                     "Short" : "Суббота 37-й седмицы по Пятидесятнице"
+                  },
+                  "info" : null,
+                  "cid" : "9308",
+                  "life" : null
+               },
+               {
+                  "life" : {
+                     "Text" : "\nСвятитель Иоанн Златоуст — великий вселенский учитель и иерарх, скончался в 407 году в городе Команы на пути к месту ссылки, осужденный по проискам императрицы Евдоксии за смелое обличение пороков, царивших в Константинополе. Перенесение его честных мощей из Коман в Константинополь совершилось в 438 году, через 30 лет после смерти святителя, при сыне Евдоксии императоре Феодосии II (408—450).     Святитель Иоанн Златоуст пользовался горячей любовью и глубоким уважением народа, и скорбь о его безвременной кончине жила в сердцах христиан. Ученик святителя Иоанна, святой Прокл, Патриарх Константинопольский (434—447), совершая Богослужение в храме Святой Софии, произнес проповедь, в которой, прославляя святителя Иоанна, говорил: «О Иоанн! Жизнь твоя многотрудна, но смерть славна, гроб твой блажен и воздаяние обильно по благодати и милосердию Господа нашего Иисуса Христа. О благЪдать, препобеждающая пределы, место и время! Место препобедила любовь, предел уничтожила незабвенная память, и местом не ограничились чудеса святителя». Присутствовавшие в храме, глубоко тронутые словом святителя Прокла, не дали даже ему окончить проповедь и стали единодушно умолять Патриарха ходатайствовать перед императором, чтобы мощи святителя Иоанна были перенесены в Константинополь. Император, убежденный святителем Проклом, дал согласие и повелел перенести мощи святителя Иоанна, но посланные им люди никак не могли поднять святые мощи до тех пор, пока император, поняв свою ошибку, не прислал послание к святителю Иоанну, смиренно прося у него прощения за себя и за свою мать Евдоксию. Послание зачитали у гроба святителя Иоанна и после этого легко подняли мощи, внесли их на корабль и доставили в Константинополь. Рака с мощами была поставлена в церкви святой мученицы Ирины. Патриарх открыл гроб: тело святителя Иоанна оказалось нетленным. Царь, припав к гробу со слезами, просил прощения. Народ весь день и ночь не отходил от раки. Наутро рака с мощами святителя была перенесена в церковь святых Апостолов. Народ воскликнул: «Приими престол твой, отче!» Тогда Патриарх Прокл и клирики, стоявшие у раки, увидели, что святитель Иоанн открыл уста и произнес: «Мир всем».    В IX веке на праздник в честь перенесения мощей святителя Иоанна Златоуста написаны церковные песнопения. \n",
+                     "Id" : "bulgakov",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга."
+                  },
+                  "cid" : "09022",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Перенесение мощей свт. Иоанна Златоуста (438)",
+                     "Short" : "Перенесение мощей"
+                  },
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "35 (mid.)",
+                              "effWeek" : null,
+                              "type" : "1",
+                              "reading" : "Jn_10:1-9"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol",
+                              "pericope" : "318",
+                              "effWeek" : null
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "4",
+                  "menologion" : ""
+               }
+            ],
+            "tone" : 3,
+            "fastings" : "1111111"
+         }
+      },
+      "el" : {
+         "ponomar" : {
+            "tone" : 3,
+            "fastings" : "1111111",
+            "saints" : [
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "I Cor_15:39-45",
+                              "effWeek" : "18",
+                              "pericope" : "162"
+                           },
+                           {
+                              "pericope" : "84",
+                              "effWeek" : "32",
+                              "type" : "gospel",
+                              "reading" : "Lk_17:3-10"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Short" : "Σάββατον",
+                     "Nominative" : "Σάββατον"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9308"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "09022",
+                  "services" : [
+                     {
+                        "type" : "matins",
+                        "readings" : [
+                           {
+                              "reading" : "Jn_10:1-9",
+                              "type" : "1",
+                              "effWeek" : null,
+                              "pericope" : "35 (mid.)"
+                           }
+                        ]
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "318"
+                           },
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ἀνακομιδὴ ἱερῶν Λειψάνων τοῦ Ἁγίου Ἰωάννου Χρυσοστόμου Ἀρχιεπίσκοπου Κωνσταντινουπόλεως",
+                     "Short" : "Ἀνακομιδὴ ἱερῶν Λειψάνων τοῦ Ἁγίου Ἰωάννου Χρυσοστόμου Ἀρχιεπίσκοπου Κωνσταντινουπόλεως"
+                  },
+                  "menologion" : "",
+                  "type" : "4"
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Ἁγία Μαρκιανὴ ἡ Βασίλισσα",
+                     "Short" : "Ἁγία Μαρκιανὴ ἡ Βασίλισσα"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "cid" : "01271100",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "01275696",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ὅσιος Κλαυδίνος",
+                     "Short" : "Ὅσιος Κλαυδίνος",
+                     "Genetive" : "Ὅσιος Κλαυδίνος"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "012700",
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ὅσιος Πέτρος ὁ Αἰγύπτιος",
+                     "Short" : "Ὅσιος Πέτρος ὁ Αἰγύπτιος"
+                  }
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ἅγιος Δημήτριος ὁ ἐν Κωνσταντινοπόλει",
+                     "Nominative" : "Ἅγιος Δημήτριος ὁ ἐν Κωνσταντινοπόλει"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "012701",
+                  "life" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ὅσιος Κλήμης ὁ Στυλίτης ποὺ ἀσκήτευσε στὸ ὄρος Σάγματα τῆς Βοιωτίας",
+                     "Nominative" : "Ὅσιος Κλήμης ὁ Στυλίτης ποὺ ἀσκήτευσε στὸ ὄρος Σάγματα τῆς Βοιωτίας"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "01270595",
+                  "life" : null
+               },
+               {
+                  "cid" : "01270395",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ἅγιος Πέτρος Ζβέρεφ ὁ ἱερομάρτυρας",
+                     "Nominative" : "Ἅγιος Πέτρος Ζβέρεφ ὁ ἱερομάρτυρας"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ὅσιος Τίτος ὁ στρατιώτης",
+                     "Short" : "Ὅσιος Τίτος ὁ στρατιώτης"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "012702"
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ἅγιος Ἄσκιοτ ὁ Βασιλέας",
+                     "Short" : "Ἅγιος Ἄσκιοτ ὁ Βασιλέας"
+                  },
+                  "info" : null,
+                  "cid" : "01270495",
+                  "life" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ἅγιος Δημητριανὸς τῆς Ταμασού, ὁ θαυματουργὸς",
+                     "Short" : "Ἅγιος Δημητριανὸς τῆς Ταμασού, ὁ θαυματουργὸς"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "01270695"
+               }
+            ]
+         },
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "name" : {
+                     "Nominative" : "Σάββατον",
+                     "Short" : "Σάββατον"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "I Cor_15:39-45",
+                              "pericope" : "162",
+                              "effWeek" : "18"
+                           },
+                           {
+                              "pericope" : "84",
+                              "effWeek" : "32",
+                              "reading" : "Lk_17:3-10",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "9308",
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "Ἀνακομιδὴ ἱερῶν Λειψάνων τοῦ Ἁγίου Ἰωάννου Χρυσοστόμου Ἀρχιεπίσκοπου Κωνσταντινουπόλεως",
+                     "Nominative" : "Ἀνακομιδὴ ἱερῶν Λειψάνων τοῦ Ἁγίου Ἰωάννου Χρυσοστόμου Ἀρχιεπίσκοπου Κωνσταντινουπόλεως"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "35 (mid.)",
+                              "reading" : "Jn_10:1-9",
+                              "type" : "1"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "318",
+                              "effWeek" : null,
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : "4",
+                  "menologion" : "",
+                  "cid" : "09022",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "cid" : "01271100",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ἁγία Μαρκιανὴ ἡ Βασίλισσα",
+                     "Short" : "Ἁγία Μαρκιανὴ ἡ Βασίλισσα"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ὅσιος Κλαυδίνος",
+                     "Nominative" : "Ὅσιος Κλαυδίνος",
+                     "Genetive" : "Ὅσιος Κλαυδίνος"
+                  },
+                  "info" : null,
+                  "cid" : "01275696",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "012700",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ὅσιος Πέτρος ὁ Αἰγύπτιος",
+                     "Short" : "Ὅσιος Πέτρος ὁ Αἰγύπτιος"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "cid" : "012701",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Ἅγιος Δημήτριος ὁ ἐν Κωνσταντινοπόλει",
+                     "Nominative" : "Ἅγιος Δημήτριος ὁ ἐν Κωνσταντινοπόλει"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "01270595",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ὅσιος Κλήμης ὁ Στυλίτης ποὺ ἀσκήτευσε στὸ ὄρος Σάγματα τῆς Βοιωτίας",
+                     "Nominative" : "Ὅσιος Κλήμης ὁ Στυλίτης ποὺ ἀσκήτευσε στὸ ὄρος Σάγματα τῆς Βοιωτίας"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "cid" : "01270395",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ἅγιος Πέτρος Ζβέρεφ ὁ ἱερομάρτυρας",
+                     "Nominative" : "Ἅγιος Πέτρος Ζβέρεφ ὁ ἱερομάρτυρας"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ὅσιος Τίτος ὁ στρατιώτης",
+                     "Short" : "Ὅσιος Τίτος ὁ στρατιώτης"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "012702",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "01270495",
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ἅγιος Ἄσκιοτ ὁ Βασιλέας",
+                     "Nominative" : "Ἅγιος Ἄσκιοτ ὁ Βασιλέας"
+                  }
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ἅγιος Δημητριανὸς τῆς Ταμασού, ὁ θαυματουργὸς",
+                     "Short" : "Ἅγιος Δημητριανὸς τῆς Ταμασού, ὁ θαυματουργὸς"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "01270695",
+                  "life" : null,
+                  "info" : null
+               }
+            ],
+            "tone" : 3,
+            "fastings" : "1111111"
+         }
+      },
+      "cu" : {
+         "ponomar" : {
+            "tone" : 3,
+            "fastings" : "1111111",
+            "saints" : [
+               {
+                  "life" : null,
+                  "cid" : "9308",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Сꙋббѡ́та л҃з-ѧ седми́цы по пѧтидесѧ́тницѣ",
+                     "Short" : "Сꙋббѡ́та"
+                  },
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : "18",
+                              "pericope" : "162",
+                              "reading" : "I Cor_15:39-45",
+                              "type" : "apostol"
+                           },
+                           {
+                              "reading" : "Lk_17:3-10",
+                              "type" : "gospel",
+                              "pericope" : "84",
+                              "effWeek" : "32"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "09022",
+                  "services" : [
+                     {
+                        "type" : "matins",
+                        "readings" : [
+                           {
+                              "pericope" : "35 (mid.)",
+                              "effWeek" : null,
+                              "type" : "1",
+                              "reading" : "Jn_10:1-9"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol",
+                              "pericope" : "318",
+                              "effWeek" : null
+                           },
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Пренесе́нїе моще́й",
+                     "Nominative" : "Пренесе́нїе моще́й ст҃а́гѡ і҆ѡа́нна златоꙋ́стагѡ (438)"
+                  },
+                  "menologion" : "",
+                  "type" : "4"
+               }
+            ]
+         },
+         "ponomarReordered" : {
+            "fastings" : "1111111",
+            "tone" : 3,
+            "saints" : [
+               {
+                  "cid" : "9308",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Сꙋббѡ́та л҃з-ѧ седми́цы по пѧтидесѧ́тницѣ",
+                     "Short" : "Сꙋббѡ́та"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "162",
+                              "effWeek" : "18",
+                              "type" : "apostol",
+                              "reading" : "I Cor_15:39-45"
+                           },
+                           {
+                              "effWeek" : "32",
+                              "pericope" : "84",
+                              "reading" : "Lk_17:3-10",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Jn_10:1-9",
+                              "type" : "1",
+                              "effWeek" : null,
+                              "pericope" : "35 (mid.)"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "318",
+                              "effWeek" : null,
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol"
+                           },
+                           {
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "name" : {
+                     "Short" : "Пренесе́нїе моще́й",
+                     "Nominative" : "Пренесе́нїе моще́й ст҃а́гѡ і҆ѡа́нна златоꙋ́стагѡ (438)"
+                  },
+                  "menologion" : "",
+                  "type" : "4",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "09022"
+               }
+            ]
+         }
+      },
+      "zh/Hant" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "cid" : "9308",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "五旬節後第卅七周安息日",
+                     "Nominative" : "五旬節後第卅七周安息日"
+                  },
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : "18",
+                              "pericope" : "162",
+                              "type" : "apostol",
+                              "reading" : "I Cor_15:39-45"
+                           },
+                           {
+                              "pericope" : "84",
+                              "effWeek" : "32",
+                              "reading" : "Lk_17:3-10",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "4",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "matins",
+                        "readings" : [
+                           {
+                              "type" : "1",
+                              "reading" : "Jn_10:1-9",
+                              "pericope" : "35 (mid.)",
+                              "effWeek" : null
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "318",
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2"
+                           },
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "敬遷君士坦丁堡總主教聖金口約翰之聖髑紀念日（437年）",
+                     "Nominative" : "敬遷君士坦丁堡總主教聖金口約翰之聖髑紀念日（437年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "09022"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "新殉道者迪彌特里（君士坦丁堡，1784年）",
+                     "Nominative" : "新殉道者迪彌特里（君士坦丁堡，1784年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "012701"
+               },
+               {
+                  "life" : null,
+                  "cid" : "012700",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "聖裴特若（埃及人，五世紀）",
+                     "Short" : "聖裴特若（埃及人，五世紀）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "name" : {
+                     "Nominative" : "聖蒂圖斯（士兵，基輻洞窟修道院的修士）",
+                     "Short" : "聖蒂圖斯（士兵，基輻洞窟修道院的修士）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "012702",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "聖迪彌特里（本姓克勒彼尼奈，巴黎城司祭，1944年）",
+                     "Nominative" : "聖迪彌特里（本姓克勒彼尼奈，巴黎城司祭，1944年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "012703",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "聖萊翁提（本姓斯塔塞維奇，伊凡諾沃地方人，1972年）",
+                     "Nominative" : "聖萊翁提（本姓斯塔塞維奇，伊凡諾沃地方人，1972年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "012704",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "新殉道司祭萊翁提（密修者，波蘭的塔爾諾頗爾及嘉布樂切那地方人，1972年）",
+                     "Nominative" : "新殉道司祭萊翁提（密修者，波蘭的塔爾諾頗爾及嘉布樂切那地方人，1972年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "012705"
+               },
+               {
+                  "life" : null,
+                  "cid" : "012706",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "敬遷聖馬爾前娜之聖髑紀念日",
+                     "Short" : "敬遷聖馬爾前娜之聖髑紀念日"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "聖納塔利斯",
+                     "Short" : "聖納塔利斯"
+                  },
+                  "info" : null,
+                  "cid" : "012707",
+                  "life" : null
+               }
+            ],
+            "fastings" : "1111111",
+            "tone" : 3
+         },
+         "ponomar" : {
+            "saints" : [
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "162",
+                              "effWeek" : "18",
+                              "reading" : "I Cor_15:39-45",
+                              "type" : "apostol"
+                           },
+                           {
+                              "reading" : "Lk_17:3-10",
+                              "type" : "gospel",
+                              "effWeek" : "32",
+                              "pericope" : "84"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "五旬節後第卅七周安息日",
+                     "Short" : "五旬節後第卅七周安息日"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9308"
+               },
+               {
+                  "life" : null,
+                  "cid" : "09022",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "敬遷君士坦丁堡總主教聖金口約翰之聖髑紀念日（437年）",
+                     "Short" : "敬遷君士坦丁堡總主教聖金口約翰之聖髑紀念日（437年）"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "35 (mid.)",
+                              "effWeek" : null,
+                              "reading" : "Jn_10:1-9",
+                              "type" : "1"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2",
+                              "effWeek" : null,
+                              "pericope" : "318"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "36",
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : "4",
+                  "menologion" : ""
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "新殉道者迪彌特里（君士坦丁堡，1784年）",
+                     "Nominative" : "新殉道者迪彌特里（君士坦丁堡，1784年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "012701"
+               },
+               {
+                  "info" : null,
+                  "cid" : "012700",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "聖裴特若（埃及人，五世紀）",
+                     "Nominative" : "聖裴特若（埃及人，五世紀）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "name" : {
+                     "Nominative" : "聖蒂圖斯（士兵，基輻洞窟修道院的修士）",
+                     "Short" : "聖蒂圖斯（士兵，基輻洞窟修道院的修士）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "012702",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "012703",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "聖迪彌特里（本姓克勒彼尼奈，巴黎城司祭，1944年）",
+                     "Short" : "聖迪彌特里（本姓克勒彼尼奈，巴黎城司祭，1944年）"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "012704",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "聖萊翁提（本姓斯塔塞維奇，伊凡諾沃地方人，1972年）",
+                     "Nominative" : "聖萊翁提（本姓斯塔塞維奇，伊凡諾沃地方人，1972年）"
+                  }
+               },
+               {
+                  "cid" : "012705",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "新殉道司祭萊翁提（密修者，波蘭的塔爾諾頗爾及嘉布樂切那地方人，1972年）",
+                     "Short" : "新殉道司祭萊翁提（密修者，波蘭的塔爾諾頗爾及嘉布樂切那地方人，1972年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "敬遷聖馬爾前娜之聖髑紀念日",
+                     "Nominative" : "敬遷聖馬爾前娜之聖髑紀念日"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "012706"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "聖納塔利斯",
+                     "Nominative" : "聖納塔利斯"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "012707",
+                  "info" : null
+               }
+            ],
+            "tone" : 3,
+            "fastings" : "1111111"
+         }
+      },
+      "fr" : {
+         "ponomar" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9308",
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "162",
+                              "effWeek" : "18",
+                              "type" : "apostol",
+                              "reading" : "I Cor_15:39-45"
+                           },
+                           {
+                              "pericope" : "84",
+                              "effWeek" : "32",
+                              "type" : "gospel",
+                              "reading" : "Lk_17:3-10"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Short" : "Samedi de la 37-me semaine après le Pentecôte",
+                     "Nominative" : "Samedi de la 37-me semaine après le Pentecôte"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "4",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "matins",
+                        "readings" : [
+                           {
+                              "type" : "1",
+                              "reading" : "Jn_10:1-9",
+                              "effWeek" : null,
+                              "pericope" : "35 (mid.)"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2",
+                              "pericope" : "318",
+                              "effWeek" : null
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Transfert des",
+                     "Nominative" : "Transfert des Reliques de St. Jean Chrysostome"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "09022"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ste. Marcienne",
+                     "Nominative" : "Ste. Marcienne"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "01271100",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "St. Claudien",
+                     "Short" : "St. Claudien"
+                  },
+                  "info" : null,
+                  "cid" : "01271200",
+                  "life" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "St. Pierre l’Egyptien",
+                     "Short" : "St. Pierre l’Egyptien"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "012700",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "012701",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "St. Dimitrios, Néomartyr",
+                     "Nominative" : "St. Dimitrios, Néomartyr"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "cid" : "012702",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "St. Tite le Soldat des grottes de Kiev",
+                     "Short" : "St. Tite"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               }
+            ],
+            "fastings" : "1111111",
+            "tone" : 3
+         },
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "I Cor_15:39-45",
+                              "effWeek" : "18",
+                              "pericope" : "162"
+                           },
+                           {
+                              "effWeek" : "32",
+                              "pericope" : "84",
+                              "reading" : "Lk_17:3-10",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Samedi de la 37-me semaine après le Pentecôte",
+                     "Nominative" : "Samedi de la 37-me semaine après le Pentecôte"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9308"
+               },
+               {
+                  "cid" : "09022",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "4",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Transfert des Reliques de St. Jean Chrysostome",
+                     "Short" : "Transfert des"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "matins",
+                        "readings" : [
+                           {
+                              "reading" : "Jn_10:1-9",
+                              "type" : "1",
+                              "effWeek" : null,
+                              "pericope" : "35 (mid.)"
+                           }
+                        ]
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2",
+                              "pericope" : "318",
+                              "effWeek" : null
+                           },
+                           {
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "menaion"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ste. Marcienne",
+                     "Nominative" : "Ste. Marcienne"
+                  },
+                  "info" : null,
+                  "cid" : "01271100",
+                  "life" : null
+               },
+               {
+                  "cid" : "01271200",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "St. Claudien",
+                     "Nominative" : "St. Claudien"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "St. Pierre l’Egyptien",
+                     "Short" : "St. Pierre l’Egyptien"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "012700",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "St. Dimitrios, Néomartyr",
+                     "Nominative" : "St. Dimitrios, Néomartyr"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "012701"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "St. Tite le Soldat des grottes de Kiev",
+                     "Short" : "St. Tite"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "012702"
+               }
+            ],
+            "tone" : 3,
+            "fastings" : "1111111"
+         }
+      },
+      "en" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "cid" : "9308",
+                  "life" : null,
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "I Cor_15:39-45",
+                              "pericope" : "162",
+                              "effWeek" : "18"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_17:3-10",
+                              "pericope" : "84",
+                              "effWeek" : "32"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Short" : "Saturday of the 37<sup>th</sup> Week after Pentecost",
+                     "Nominative" : "Saturday of the 37<sup>th</sup> Week after Pentecost"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "info" : null,
+                  "cid" : "09022",
+                  "life" : {
+                     "Text" : "\nSaint John Chrysostom—a great ecumenical teacher and hierarch, died in the city of Comene in the year 407 on his way to a place of exile, having been condemned by the intrigues of the empress Eudoxia because of his daring denunciation of the vices ruling over Constantinople. The transfer of his venerable relics was made in the year 438: after 30 years following the death of the saint during the reign of Eudoxia’s son emperor Theodosius II (408-450). </p><p>Saint John Chrysostom had the warm love and deep respect of the people, and grief over his untimely death lived on in the hearts of christians. Saint John’s student Saint Proclus, Patriarch of Constantinople (434-447), making Divine-services in the Church of Saint Sophia, preached a sermon which in glorifying Saint John he said: “O John! Thy life was filled with difficulties, but thy death was glorious, thy grave is blessed and reward abundant through the grace and mercy of our Lord Jesus Christ. O graced one, having conquered the bounds of time and place! Love hath conquered space, unforgetting memory hath annihilated the limits, and place doth not hinder the miracles of the saint.” Those who were present in church, deeply touched by the words of Saint Proclus, did not allow him even to finish his sermon. With one accord they began to entreat the Patriarch to intercede with the emperor, so that the relics of Saint John might be transferred to Constantinople. The emperor, overwhelmed by Saint Proclus, gave his consent and made the order to transfer the relics of Saint John. But the people dispatched by him were by no means able to lift up the holy relics—not until that moment when the emperor realising his oversight that he had not sent the message to Saint John, humbly beseeching of him forgiveness for himself and for his mother Eudoxia. The message was read at the grave of Saint John and after this they easily lifted up the relics, carried them onto a ship and arrived at Constantinople. The reliquary coffin with the relics was placed in the Church of the holy Martyr Irene. The Patriarch opened the coffin: the body of Saint John had remained without decay. The emperor, having approached the coffin with tears, asked forgiveness. All day and night people did not leave the coffin. In the morning the reliquary coffin with its relics was brought to the Church of the Holy Apostles. The people cried out: “Receive back thy throne, father!” Then Patriarch Proclus and the clergy standing at the relics—saw Saint John open his mouth and pronounce: “Peace be to all.”</p><p>In the IX Century the feastday in honour of the transfer of the relics of Saint John Chrysostom was written into church singing.\n",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Id" : "bulgakov"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "matins",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "35 (mid.)",
+                              "type" : "1",
+                              "reading" : "Jn_10:1-9"
+                           }
+                        ]
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2",
+                              "pericope" : "318",
+                              "effWeek" : null
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "name" : {
+                     "Short" : "St John Chrysostom",
+                     "Nominative" : "Translation of the Relics of Saint John Chrysostom (438), Archbishop of Constantinople"
+                  },
+                  "menologion" : "",
+                  "type" : "4"
+               },
+               {
+                  "life" : null,
+                  "cid" : "012701",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "New Martyr Demetrius",
+                     "Short" : "New Martyr Demetrius"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "life" : null,
+                  "cid" : "012700",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Venerable Peter",
+                     "Nominative" : "Venerable Peter of Egypt"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "cid" : "012702",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Venerable Titus the Soldier, of the Kiev Caves",
+                     "Short" : "Venerable Titus"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               }
+            ],
+            "tone" : 3,
+            "fastings" : "1111111"
+         },
+         "ponomar" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9308",
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "I Cor_15:39-45",
+                              "type" : "apostol",
+                              "pericope" : "162",
+                              "effWeek" : "18"
+                           },
+                           {
+                              "effWeek" : "32",
+                              "pericope" : "84",
+                              "type" : "gospel",
+                              "reading" : "Lk_17:3-10"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Short" : "Saturday of the 37<sup>th</sup> Week after Pentecost",
+                     "Nominative" : "Saturday of the 37<sup>th</sup> Week after Pentecost"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "type" : "4",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "St John Chrysostom",
+                     "Nominative" : "Translation of the Relics of Saint John Chrysostom (438), Archbishop of Constantinople"
+                  },
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Jn_10:1-9",
+                              "type" : "1",
+                              "effWeek" : null,
+                              "pericope" : "35 (mid.)"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "318",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2"
+                           },
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "09022",
+                  "life" : {
+                     "Id" : "bulgakov",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Text" : "\nSaint John Chrysostom—a great ecumenical teacher and hierarch, died in the city of Comene in the year 407 on his way to a place of exile, having been condemned by the intrigues of the empress Eudoxia because of his daring denunciation of the vices ruling over Constantinople. The transfer of his venerable relics was made in the year 438: after 30 years following the death of the saint during the reign of Eudoxia’s son emperor Theodosius II (408-450). </p><p>Saint John Chrysostom had the warm love and deep respect of the people, and grief over his untimely death lived on in the hearts of christians. Saint John’s student Saint Proclus, Patriarch of Constantinople (434-447), making Divine-services in the Church of Saint Sophia, preached a sermon which in glorifying Saint John he said: “O John! Thy life was filled with difficulties, but thy death was glorious, thy grave is blessed and reward abundant through the grace and mercy of our Lord Jesus Christ. O graced one, having conquered the bounds of time and place! Love hath conquered space, unforgetting memory hath annihilated the limits, and place doth not hinder the miracles of the saint.” Those who were present in church, deeply touched by the words of Saint Proclus, did not allow him even to finish his sermon. With one accord they began to entreat the Patriarch to intercede with the emperor, so that the relics of Saint John might be transferred to Constantinople. The emperor, overwhelmed by Saint Proclus, gave his consent and made the order to transfer the relics of Saint John. But the people dispatched by him were by no means able to lift up the holy relics—not until that moment when the emperor realising his oversight that he had not sent the message to Saint John, humbly beseeching of him forgiveness for himself and for his mother Eudoxia. The message was read at the grave of Saint John and after this they easily lifted up the relics, carried them onto a ship and arrived at Constantinople. The reliquary coffin with the relics was placed in the Church of the holy Martyr Irene. The Patriarch opened the coffin: the body of Saint John had remained without decay. The emperor, having approached the coffin with tears, asked forgiveness. All day and night people did not leave the coffin. In the morning the reliquary coffin with its relics was brought to the Church of the Holy Apostles. The people cried out: “Receive back thy throne, father!” Then Patriarch Proclus and the clergy standing at the relics—saw Saint John open his mouth and pronounce: “Peace be to all.”</p><p>In the IX Century the feastday in honour of the transfer of the relics of Saint John Chrysostom was written into church singing.\n"
+                  },
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "012701",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "New Martyr Demetrius",
+                     "Short" : "New Martyr Demetrius"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "life" : null,
+                  "cid" : "012700",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Venerable Peter of Egypt",
+                     "Short" : "Venerable Peter"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "012702",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Venerable Titus the Soldier, of the Kiev Caves",
+                     "Short" : "Venerable Titus"
+                  }
+               }
+            ],
+            "tone" : 3,
+            "fastings" : "1111111"
+         }
+      }
+   },
+   "date" : "2019/1/27"
+}

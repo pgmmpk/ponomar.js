@@ -1,0 +1,1798 @@
+---
+date: 2019/3/21
+langs:
+  cu:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9825'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сре́да д҃-ѧ седми́цы ст҃а́гѡ поста̀'
+            Short: Сре́да
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_26:21-27:9
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_9:18-10:1
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_12:23-13:9
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '685'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ і҆а́кѡва є҆пі́скопа, и҆сповѣ́дника (и҃-ѳ҃)'
+            Short: 'Прпⷣбнагѡ і҆а́кѡва'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4897'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ серафі́ма вы́рицкагѡ (1949)'
+            Short: 'Прпⷣбнагѡ серафі́ма'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника влади́мїра пресвѵ́тера (1931)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '686'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ кѷрі́лла, є҆пі́скопа ката́нскагѡ (а҃-в҃)'
+            Short: 'Ст҃а́гѡ кѷрі́лла,'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '687'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ ѳѡмы̀, патрїа́рха кѡнстанті́нѧ гра́да (610)'
+            Short: 'Ст҃а́гѡ ѳѡмы̀,'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9825'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сре́да д҃-ѧ седми́цы ст҃а́гѡ поста̀'
+            Short: Сре́да
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_26:21-27:9
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_9:18-10:1
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_12:23-13:9
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '685'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ і҆а́кѡва є҆пі́скопа, и҆сповѣ́дника (и҃-ѳ҃)'
+            Short: 'Прпⷣбнагѡ і҆а́кѡва'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4897'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ серафі́ма вы́рицкагѡ (1949)'
+            Short: 'Прпⷣбнагѡ серафі́ма'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника влади́мїра пресвѵ́тера (1931)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '686'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ кѷрі́лла, є҆пі́скопа ката́нскагѡ (а҃-в҃)'
+            Short: 'Ст҃а́гѡ кѷрі́лла,'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '687'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ ѳѡмы̀, патрїа́рха кѡнстанті́нѧ гра́да (610)'
+            Short: 'Ст҃а́гѡ ѳѡмы̀,'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+  cu/ru:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9825'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Среда 4-й седмицы Великого поста'
+            Nominative: 'Среда 4-й седмицы Великого поста'
+            Short: 'Среда 4-й седмицы Великого поста'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_26:21-27:9
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_9:18-10:1
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_12:23-13:9
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '685'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Иакова еп.,  исп (VIII-IX)'
+            Short: 'Прп. Иакова'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4897'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Серафима Вырицкого (1949)'
+            Short: 'Прп. Серафима'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Владимира пресвитера (1931)'
+            Short: 'Сщмч. Владимира'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '686'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свт. Кирилла, еп. Катанского (I-II)'
+            Short: 'Свт. Кирилла'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '687'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свт. Фомы, патриарха Константинопольского (610)'
+            Short: 'Свт. Фомы'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9825'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Среда 4-й седмицы Великого поста'
+            Nominative: 'Среда 4-й седмицы Великого поста'
+            Short: 'Среда 4-й седмицы Великого поста'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_26:21-27:9
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_9:18-10:1
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_12:23-13:9
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '685'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Иакова еп.,  исп (VIII-IX)'
+            Short: 'Прп. Иакова'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4897'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Серафима Вырицкого (1949)'
+            Short: 'Прп. Серафима'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Владимира пресвитера (1931)'
+            Short: 'Сщмч. Владимира'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '686'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свт. Кирилла, еп. Катанского (I-II)'
+            Short: 'Свт. Кирилла'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '687'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свт. Фомы, патриарха Константинопольского (610)'
+            Short: 'Свт. Фомы'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+  el:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9825'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Τετάρτη
+            Short: Τετάρτη
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_26:21-27:9
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_9:18-10:1
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_12:23-13:9
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '685'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἰάκωβος ὁ Ὁμολογητὴς ὁ Ἐπίσκοπος'
+            Short: 'Ἅγιος Ἰάκωβος ὁ Ὁμολογητὴς ὁ Ἐπίσκοπος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '687'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Θωμᾶς Πατριάρχης Κωνσταντινουπόλεως'
+            Short: 'Ἅγιος Θωμᾶς Πατριάρχης Κωνσταντινουπόλεως'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Σεραπίων ὁ Σιδώνιος'
+            Short: 'Ὅσιος Σεραπίων ὁ Σιδώνιος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032104'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Ἅγιοι Φιλήμων καὶ Δομνῖνος'
+            Nominative: 'Ἅγιοι Φιλήμων καὶ Δομνῖνος'
+            Short: 'Ἅγιοι Φιλήμων καὶ Δομνῖνος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '686'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Βήρυλλος Ἐπίσκοπος Κατάνης'
+            Short: 'Ὅσιος Βήρυλλος Ἐπίσκοπος Κατάνης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03210595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγία Μαρία ἡ ἐν Πέργῃ'
+            Short: 'Ἁγία Μαρία ἡ ἐν Πέργῃ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4897'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Σεραφεὶμ ἐκ Βυρίτσας Ρωσίας'
+            Short: 'Ὅσιος Σεραφεὶμ ἐκ Βυρίτσας Ρωσίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03210395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Γεώργιος ὁ Νεομάρτυρας'
+            Short: 'Ἅγιος Γεώργιος ὁ Νεομάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03210495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Ὀκτὼ ἐν Φθιώτιδι'
+            Short: 'Ἅγιοι Ὀκτὼ ἐν Φθιώτιδι'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9825'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Τετάρτη
+            Short: Τετάρτη
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_26:21-27:9
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_9:18-10:1
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_12:23-13:9
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '685'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἰάκωβος ὁ Ὁμολογητὴς ὁ Ἐπίσκοπος'
+            Short: 'Ἅγιος Ἰάκωβος ὁ Ὁμολογητὴς ὁ Ἐπίσκοπος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '687'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Θωμᾶς Πατριάρχης Κωνσταντινουπόλεως'
+            Short: 'Ἅγιος Θωμᾶς Πατριάρχης Κωνσταντινουπόλεως'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Σεραπίων ὁ Σιδώνιος'
+            Short: 'Ὅσιος Σεραπίων ὁ Σιδώνιος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032104'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Ἅγιοι Φιλήμων καὶ Δομνῖνος'
+            Nominative: 'Ἅγιοι Φιλήμων καὶ Δομνῖνος'
+            Short: 'Ἅγιοι Φιλήμων καὶ Δομνῖνος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '686'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Βήρυλλος Ἐπίσκοπος Κατάνης'
+            Short: 'Ὅσιος Βήρυλλος Ἐπίσκοπος Κατάνης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03210595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγία Μαρία ἡ ἐν Πέργῃ'
+            Short: 'Ἁγία Μαρία ἡ ἐν Πέργῃ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4897'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Σεραφεὶμ ἐκ Βυρίτσας Ρωσίας'
+            Short: 'Ὅσιος Σεραφεὶμ ἐκ Βυρίτσας Ρωσίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03210395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Γεώργιος ὁ Νεομάρτυρας'
+            Short: 'Ἅγιος Γεώργιος ὁ Νεομάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03210495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Ὀκτὼ ἐν Φθιώτιδι'
+            Short: 'Ἅγιοι Ὀκτὼ ἐν Φθιώτιδι'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+  en:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9825'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Wednesday of the Fourth Week of Lent'
+            Short: 'Wednesday of the Fourth Week of Lent'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_26:21-27:9
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_9:18-10:1
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_12:23-13:9
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '685'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable James the Confessor and Bishop of Catania (8<sup>th</sup>-9<sup>th</sup> C)'
+            Short: 'Venerable James'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '4897'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Seraphim Vyritsky († 1949)'
+            Short: 'Venerable Seraphim'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Priest Vladimir († 1931)'
+            Short: 'New Hieromartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '686'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Holy Hierarch Cyrill, Bishop of Catania (1<sup>st</sup>-2<sup>nd</sup> C)'
+            Short: 'Holy Hierarch'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '687'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Holy Hierarch Thomas, Patriarch of Constantinople († 610)'
+            Short: 'Holy Hierarch'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Serapion, Bishop of Tmuissa'
+            Short: 'Venerable Serapion'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032102'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Serapion of Neitria'
+            Short: 'Venerable Serapion'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9825'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Wednesday of the Fourth Week of Lent'
+            Short: 'Wednesday of the Fourth Week of Lent'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_26:21-27:9
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_9:18-10:1
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_12:23-13:9
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '685'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable James the Confessor and Bishop of Catania (8<sup>th</sup>-9<sup>th</sup> C)'
+            Short: 'Venerable James'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '4897'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Seraphim Vyritsky († 1949)'
+            Short: 'Venerable Seraphim'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Priest Vladimir († 1931)'
+            Short: 'New Hieromartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '686'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Holy Hierarch Cyrill, Bishop of Catania (1<sup>st</sup>-2<sup>nd</sup> C)'
+            Short: 'Holy Hierarch'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '687'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Holy Hierarch Thomas, Patriarch of Constantinople († 610)'
+            Short: 'Holy Hierarch'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Serapion, Bishop of Tmuissa'
+            Short: 'Venerable Serapion'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032102'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Serapion of Neitria'
+            Short: 'Venerable Serapion'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+  fr:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9825'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Mercredi de la 4-me semaine du Carême'
+            Short: 'Mercredi de la 4-me semaine du Carême'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_26:21-27:9
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_9:18-10:1
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_12:23-13:9
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '685'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Jacques, Evêque et Confesseur'
+            Short: 'St. Jacques'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '687'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Thomas 1<sup>er</sup>, Patriarche de Constantinople'
+            Short: 'St. Thomas'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032104'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Philémon et Domnin'
+            Short: 'Sts. Philémon'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '686'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Birille, Evêque de Catane en Sicile'
+            Short: 'St. Birille'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Sérapion le Sidonite'
+            Short: 'St. Sérapion'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032102'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Sérapion, Evêque de Thmuis en Egypte'
+            Short: 'St. Sérapion'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032103'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Lupicin de Lauconne'
+            Short: 'St. Lupicin'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9825'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Mercredi de la 4-me semaine du Carême'
+            Short: 'Mercredi de la 4-me semaine du Carême'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_26:21-27:9
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_9:18-10:1
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_12:23-13:9
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '685'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Jacques, Evêque et Confesseur'
+            Short: 'St. Jacques'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '687'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Thomas 1<sup>er</sup>, Patriarche de Constantinople'
+            Short: 'St. Thomas'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032104'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Philémon et Domnin'
+            Short: 'Sts. Philémon'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '686'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Birille, Evêque de Catane en Sicile'
+            Short: 'St. Birille'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Sérapion le Sidonite'
+            Short: 'St. Sérapion'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032102'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Sérapion, Evêque de Thmuis en Egypte'
+            Short: 'St. Sérapion'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032103'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Lupicin de Lauconne'
+            Short: 'St. Lupicin'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+  zh/Hans:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9825'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大斋期第四周瞻礼四
+            Short: 大斋期第四周瞻礼四
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_26:21-27:9
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_9:18-10:1
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_12:23-13:9
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '685'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣雅各（宣信者，主教，来自斯督迪者，8世纪末叶）
+            Short: 圣雅各
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '4897'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣塞拉芬（维里察地方的成德者，1949年）
+            Short: 圣塞拉芬（维里察地方的成德者，1949年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭弗拉迪弥尔（1931年）
+            Short: 新殉道司祭弗拉迪弥尔（1931年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '686'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣贝里洛（卡塔尼亚主教，2世纪）
+            Short: 圣贝里洛（卡塔尼亚主教，2世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '687'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣多马（君士坦丁堡牧首，610年）
+            Short: 圣多马（君士坦丁堡牧首，610年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣塞拉彼雍（下埃及的特穆伊斯地方主教，大圣安托尼之友，358年）
+            Short: 圣塞拉彼雍（下埃及的特穆伊斯地方主教，大圣安托尼之友，358年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032102'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣塞拉彼雍（被称为‘着单麻衣者’埃及修士，542年）
+            Short: 圣塞拉彼雍（被称为‘着单麻衣者’埃及修士，542年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032103'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣卢彼基诺（高卢举拉山的旷野隐居者，480年）
+            Short: 圣卢彼基诺（高卢举拉山的旷野隐居者，480年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032105'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣索弗若尼（圣德奥多西修道院院长，542年）
+            Short: 圣索弗若尼（圣德奥多西修道院院长，542年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032106'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者米迦勒（阿格拉法地方，1544年）
+            Short: 新殉道者米迦勒（阿格拉法地方，1544年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032104'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者斐利蒙及殉道女多穆尼纳（罗马城）
+            Short: 殉道者斐利蒙及殉道女多穆尼纳（罗马城）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032108'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣恩达（阿冉地方修士，爱尔兰最早的修道生活领袖，530年）
+            Short: 圣恩达（阿冉地方修士，爱尔兰最早的修道生活领袖，530年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9825'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大斋期第四周瞻礼四
+            Short: 大斋期第四周瞻礼四
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_26:21-27:9
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_9:18-10:1
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_12:23-13:9
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '685'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣雅各（宣信者，主教，来自斯督迪者，8世纪末叶）
+            Short: 圣雅各
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '4897'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣塞拉芬（维里察地方的成德者，1949年）
+            Short: 圣塞拉芬（维里察地方的成德者，1949年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭弗拉迪弥尔（1931年）
+            Short: 新殉道司祭弗拉迪弥尔（1931年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '686'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣贝里洛（卡塔尼亚主教，2世纪）
+            Short: 圣贝里洛（卡塔尼亚主教，2世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '687'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣多马（君士坦丁堡牧首，610年）
+            Short: 圣多马（君士坦丁堡牧首，610年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣塞拉彼雍（下埃及的特穆伊斯地方主教，大圣安托尼之友，358年）
+            Short: 圣塞拉彼雍（下埃及的特穆伊斯地方主教，大圣安托尼之友，358年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032102'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣塞拉彼雍（被称为‘着单麻衣者’埃及修士，542年）
+            Short: 圣塞拉彼雍（被称为‘着单麻衣者’埃及修士，542年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032103'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣卢彼基诺（高卢举拉山的旷野隐居者，480年）
+            Short: 圣卢彼基诺（高卢举拉山的旷野隐居者，480年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032105'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣索弗若尼（圣德奥多西修道院院长，542年）
+            Short: 圣索弗若尼（圣德奥多西修道院院长，542年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032106'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者米迦勒（阿格拉法地方，1544年）
+            Short: 新殉道者米迦勒（阿格拉法地方，1544年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032104'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者斐利蒙及殉道女多穆尼纳（罗马城）
+            Short: 殉道者斐利蒙及殉道女多穆尼纳（罗马城）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032108'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣恩达（阿冉地方修士，爱尔兰最早的修道生活领袖，530年）
+            Short: 圣恩达（阿冉地方修士，爱尔兰最早的修道生活领袖，530年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+  zh/Hant:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9825'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大齋期第四周瞻禮四
+            Short: 大齋期第四周瞻禮四
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_26:21-27:9
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_9:18-10:1
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_12:23-13:9
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '685'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖雅各（宣信者，主教，來自斯督迪者，八世紀末葉）
+            Short: 聖雅各
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '4897'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖塞拉芬（維里察地方的成德者，1949年）
+            Short: 聖塞拉芬（維里察地方的成德者，1949年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭弗拉迪彌爾（1931年）
+            Short: 新殉道司祭弗拉迪彌爾（1931年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '686'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖貝里洛（卡塔尼亞主教，二世紀）
+            Short: 聖貝里洛（卡塔尼亞主教，二世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '687'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖多馬（君士坦丁堡牧首，610年）
+            Short: 聖多馬（君士坦丁堡牧首，610年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖塞拉彼雍（下埃及的特穆伊斯地方主教，大聖安托尼之友，358年）
+            Short: 聖塞拉彼雍（下埃及的特穆伊斯地方主教，大聖安托尼之友，358年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032102'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖塞拉彼雍（被稱為『著單麻衣者』埃及修士，542年）
+            Short: 聖塞拉彼雍（被稱為『著單麻衣者』埃及修士，542年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032103'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖盧彼基諾（高盧舉拉山的曠野隱居者，480年）
+            Short: 聖盧彼基諾（高盧舉拉山的曠野隱居者，480年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032105'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖索弗若尼（聖德奧多西修道院院長，542年）
+            Short: 聖索弗若尼（聖德奧多西修道院院長，542年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032106'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者米迦勒（阿格拉法地方，1544年）
+            Short: 新殉道者米迦勒（阿格拉法地方，1544年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032104'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者斐利蒙及殉道女多穆尼納（羅馬城）
+            Short: 殉道者斐利蒙及殉道女多穆尼納（羅馬城）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032108'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖恩達（阿冉地方修士，愛爾蘭最早的修道生活領袖，530年）
+            Short: 聖恩達（阿冉地方修士，愛爾蘭最早的修道生活領袖，530年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9825'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大齋期第四周瞻禮四
+            Short: 大齋期第四周瞻禮四
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_26:21-27:9
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_9:18-10:1
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_12:23-13:9
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '685'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖雅各（宣信者，主教，來自斯督迪者，八世紀末葉）
+            Short: 聖雅各
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '4897'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖塞拉芬（維里察地方的成德者，1949年）
+            Short: 聖塞拉芬（維里察地方的成德者，1949年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭弗拉迪彌爾（1931年）
+            Short: 新殉道司祭弗拉迪彌爾（1931年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '686'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖貝里洛（卡塔尼亞主教，二世紀）
+            Short: 聖貝里洛（卡塔尼亞主教，二世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '687'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖多馬（君士坦丁堡牧首，610年）
+            Short: 聖多馬（君士坦丁堡牧首，610年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖塞拉彼雍（下埃及的特穆伊斯地方主教，大聖安托尼之友，358年）
+            Short: 聖塞拉彼雍（下埃及的特穆伊斯地方主教，大聖安托尼之友，358年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032102'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖塞拉彼雍（被稱為『著單麻衣者』埃及修士，542年）
+            Short: 聖塞拉彼雍（被稱為『著單麻衣者』埃及修士，542年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032103'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖盧彼基諾（高盧舉拉山的曠野隱居者，480年）
+            Short: 聖盧彼基諾（高盧舉拉山的曠野隱居者，480年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032105'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖索弗若尼（聖德奧多西修道院院長，542年）
+            Short: 聖索弗若尼（聖德奧多西修道院院長，542年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032106'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者米迦勒（阿格拉法地方，1544年）
+            Short: 新殉道者米迦勒（阿格拉法地方，1544年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032104'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者斐利蒙及殉道女多穆尼納（羅馬城）
+            Short: 殉道者斐利蒙及殉道女多穆尼納（羅馬城）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032108'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖恩達（阿冉地方修士，愛爾蘭最早的修道生活領袖，530年）
+            Short: 聖恩達（阿冉地方修士，愛爾蘭最早的修道生活領袖，530年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3

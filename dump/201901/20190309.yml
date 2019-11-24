@@ -1,0 +1,2040 @@
+---
+date: 2019/3/9
+langs:
+  cu:
+    ponomar:
+      fastings: '0000011'
+      saints:
+        -
+          cid: '9837'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пѧто́къ в҃-ѧ седми́цы ст҃а́гѡ поста̀'
+            Short: Пѧто́къ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_7:1-14
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_5:32-6:8
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_6:20-7:1
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1238'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́хъ м҃ мч҃никъ, къ севасті́йстѣмъ є҆́зерѣ мꙋ́чившихсѧя: Кириона, кані́дїа, Домна, Исихия, Ираклия, Смарагда, Евноика, Уалента (Валента), Вивиана, Клавді́а, Приска, ѳеодꙋ́ла, є҆ѵтѷхі́а, і҆ѡа́нна, Ксанфия, Илиана, Сисиния, Ангия, Аетия, Флавия, а҆ка́кїа, Екдикия (Екдикта), Лисимаха, а҆леѯа́ндра, и҆лїѝ, Горгония, ѳео́фїла, дометїа́на, Гаия, лео́нтїа, а҆ѳана́сїа, кѷрі́лла, Сакердона, нїкола́ѧ, Уалерия (Валерия), Филоктимона, севирїа́на, Худиона, Мелитона и҆ Аглаия († ок. 320)'
+            Short: 'Совершаем службу'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Lk_21:12-19
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '331'
+                  reading: Heb_12:1-10
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '80'
+                  reading: Mt_20:1-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '030900'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщ҃енномꙋ́ченикѡвъ мїхаи́ла, а҆леѯі́а, дими́трїа, се́ргїа, се́ргїа пресвѵ́терѡвъ и҆ нїкола́ѧ дїа́кона, прпⷣбномч҃ника і҆ѡаса́фа и҆ прмч҃ницъ ната́лїи и҆ а҆леѯа́ндры (1938)'
+            Short: 'Сщ҃енномꙋ́ченикѡвъ мїхаи́ла,'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '60001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника Урпасиана († ок. 295)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ Кесария, бра́та ст҃а́гѡ григо́рїа бг҃осло́ва (ок. 369)'
+            Short: 'Ст҃а́гѡ Кесария,'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '030901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пра́веднагѡ тара́сїа'
+            Short: 'Пра́веднагѡ тара́сїа'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Албазинской і҆кѡ́ны бж҃їѧ мт҃ри, именуемой «Слово плоть бысть» (1666)'
+            Short: 'Албазинской і҆кѡ́ны'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 1
+    ponomarReordered:
+      fastings: '0000011'
+      saints:
+        -
+          cid: '9837'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пѧто́къ в҃-ѧ седми́цы ст҃а́гѡ поста̀'
+            Short: Пѧто́къ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_7:1-14
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_5:32-6:8
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_6:20-7:1
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1238'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́хъ м҃ мч҃никъ, къ севасті́йстѣмъ є҆́зерѣ мꙋ́чившихсѧя: Кириона, кані́дїа, Домна, Исихия, Ираклия, Смарагда, Евноика, Уалента (Валента), Вивиана, Клавді́а, Приска, ѳеодꙋ́ла, є҆ѵтѷхі́а, і҆ѡа́нна, Ксанфия, Илиана, Сисиния, Ангия, Аетия, Флавия, а҆ка́кїа, Екдикия (Екдикта), Лисимаха, а҆леѯа́ндра, и҆лїѝ, Горгония, ѳео́фїла, дометїа́на, Гаия, лео́нтїа, а҆ѳана́сїа, кѷрі́лла, Сакердона, нїкола́ѧ, Уалерия (Валерия), Филоктимона, севирїа́на, Худиона, Мелитона и҆ Аглаия († ок. 320)'
+            Short: 'Совершаем службу'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Lk_21:12-19
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '331'
+                  reading: Heb_12:1-10
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '80'
+                  reading: Mt_20:1-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '030900'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщ҃енномꙋ́ченикѡвъ мїхаи́ла, а҆леѯі́а, дими́трїа, се́ргїа, се́ргїа пресвѵ́терѡвъ и҆ нїкола́ѧ дїа́кона, прпⷣбномч҃ника і҆ѡаса́фа и҆ прмч҃ницъ ната́лїи и҆ а҆леѯа́ндры (1938)'
+            Short: 'Сщ҃енномꙋ́ченикѡвъ мїхаи́ла,'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '60001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника Урпасиана († ок. 295)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ Кесария, бра́та ст҃а́гѡ григо́рїа бг҃осло́ва (ок. 369)'
+            Short: 'Ст҃а́гѡ Кесария,'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '030901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пра́веднагѡ тара́сїа'
+            Short: 'Пра́веднагѡ тара́сїа'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Албазинской і҆кѡ́ны бж҃їѧ мт҃ри, именуемой «Слово плоть бысть» (1666)'
+            Short: 'Албазинской і҆кѡ́ны'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 1
+  cu/ru:
+    ponomar:
+      fastings: '0000011'
+      saints:
+        -
+          cid: '9837'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Пятница 2-й седмицы Великого поста'
+            Nominative: 'Пятница 2-й седмицы Великого поста'
+            Short: 'Пятница 2-й седмицы Великого поста'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_7:1-14
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_5:32-6:8
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_6:20-7:1
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1238'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'святых 40 мучениках'
+            Nominative: '40 мучеников, в Севастийском озере мучившихся: Кириона, Кандида, Домна, Исихия, Ираклия, Смарагда, Евноика, Уалента (Валента), Вивиана, Клавдия, Приска, Феодула, Евтихия, Иоанна, Ксанфия, Илиана, Сисиния, Ангия, Аетия, Флавия, Акакия, Екдикия (Екдикта), Лисимаха, Александра, Илия, Горгония, Феофила, Дометиана, Гаия, Леонтия, Афанасия, Кирилла, Сакердона, Николая, Уалерия (Валерия), Филоктимона, Севериана, Худиона, Мелитона и Аглаия († ок. 320)'
+            Short: 'святым 40 мученикам'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Lk_21:12-19
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '331'
+                  reading: Heb_12:1-10
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '80'
+                  reading: Mt_20:1-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '030900'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмчч. Михаила, Алексия, Димитрия, Сергия, Сергия пресвитеров и Николая диакона, прмч. Иоасафа и прмцц. Наталии и Александры (1938)'
+            Short: 'Сщмчч. Михаила'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '60001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Урпасиана († ок. 295)'
+            Short: 'Мч. Урпасиана'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Св. Кесария, брата свт. Григория Богослова (ок. 369)'
+            Short: 'Св. Кесария'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '030901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прав. Тарасия'
+            Short: 'Прав. Тарасия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Албазинской иконы Божией Матери, именуемой «Слово плоть бысть» (1666)'
+            Short: 'Албазинской иконы'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 1
+    ponomarReordered:
+      fastings: '0000011'
+      saints:
+        -
+          cid: '9837'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Пятница 2-й седмицы Великого поста'
+            Nominative: 'Пятница 2-й седмицы Великого поста'
+            Short: 'Пятница 2-й седмицы Великого поста'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_7:1-14
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_5:32-6:8
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_6:20-7:1
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1238'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'святых 40 мучениках'
+            Nominative: '40 мучеников, в Севастийском озере мучившихся: Кириона, Кандида, Домна, Исихия, Ираклия, Смарагда, Евноика, Уалента (Валента), Вивиана, Клавдия, Приска, Феодула, Евтихия, Иоанна, Ксанфия, Илиана, Сисиния, Ангия, Аетия, Флавия, Акакия, Екдикия (Екдикта), Лисимаха, Александра, Илия, Горгония, Феофила, Дометиана, Гаия, Леонтия, Афанасия, Кирилла, Сакердона, Николая, Уалерия (Валерия), Филоктимона, Севериана, Худиона, Мелитона и Аглаия († ок. 320)'
+            Short: 'святым 40 мученикам'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Lk_21:12-19
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '331'
+                  reading: Heb_12:1-10
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '80'
+                  reading: Mt_20:1-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '030900'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмчч. Михаила, Алексия, Димитрия, Сергия, Сергия пресвитеров и Николая диакона, прмч. Иоасафа и прмцц. Наталии и Александры (1938)'
+            Short: 'Сщмчч. Михаила'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '60001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Урпасиана († ок. 295)'
+            Short: 'Мч. Урпасиана'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Св. Кесария, брата свт. Григория Богослова (ок. 369)'
+            Short: 'Св. Кесария'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '030901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прав. Тарасия'
+            Short: 'Прав. Тарасия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Албазинской иконы Божией Матери, именуемой «Слово плоть бысть» (1666)'
+            Short: 'Албазинской иконы'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 1
+  el:
+    ponomar:
+      fastings: '0000011'
+      saints:
+        -
+          cid: '9837'
+          info: ~
+          life:
+            Copyright: saint.gr
+            Id: saintgr
+            Text: "\n<p></p><p>Ακάθιστος Ύμνος - Βʹ Στάσις</p><p>Ἤκουσαν oἱ ποιμένες,</p><p>τῶν Ἀγγέλων ὑμνούντων,</p><p>τὴν ἔνσαρκον Χριστοῦ παρουσίαν·</p><p>καὶ δραμόντες ὡς πρὸς ποιμένα,</p><p>θεωροῦσι τοῦτον ὡς ἀμνὸν ἄμωμον,</p><p>ἐν γαστρὶ τῆς Μαρίας βοσκηθέντα,</p><p>ἥν ὑμνοῦντες εἶπον·</p><p>Χαῖρε, Ἀμνοῦ καὶ Ποιμένος Μῆτερ,</p><p>χαῖρε, αὐλὴ λογικῶν προβάτων.</p><p>Χαῖρε, ἀοράτων ἐχθρῶν ἀμυντήριον,</p><p>χαῖρε, Παραδείσου θυρῶν ἀνοικτήριον.</p><p>Χαῖρε, ὅτι τὰ οὐράνια συναγάλλεται τῇ γῇ,</p><p>χαῖρε, ὅτι τὰ ἐπίγεια συγχορεύει οὐρανοῖς.</p><p>Χαῖρε, τῶν Ἀποστόλων τὸ ἀσίγητον στόμα,</p><p>χαῖρε, τῶν Ἀθλοφόρων τὸ ἀνίκητον θάρσος.</p><p>Χαῖρε, στερρὸν τῆς πίστεως ἔρεισμα,</p><p>χαῖρε, λαμπρὸν τῆς Χάριτος γνώρισμα.</p><p>Χαῖρε, δι' ἧς ἐγυμνώθη ὁ Ἅδης,</p><p>χαῖρε, δι' ἧς ἐνεδύθημεν δόξαν.</p><p>Χαῖρε, Νύμφη ἀνύμφευτε.</p><p>Θεοδρόμον ἀστέρα,</p><p>θεωρήσαντες Μάγοι,</p><p>τῇ τούτου ἠκολούθησαν αἴγλῃ·</p><p>καὶ ὡς λύχνον κρατοῦντες αὐτόν,</p><p>δι' αὐτοῦ ἠρεύνων κραταιὸν Ἄνακτα,</p><p>καὶ φθάσαντες τὸν ἄφθαστον,</p><p>ἐχάρησαν αὐτῷ βοῶντες·</p><p>Ἀλληλούια.</p><p>Ἴδον παῖδες Χαλδαίων,</p><p>ἐν χερσὶ τῆς Παρθένου,</p><p>τὸν πλάσαντα χειρὶ τοὺς ἀνθρώπους·</p><p>καὶ Δεσπότην νοοῦντες αὐτόν,</p><p>εἰ καὶ δούλου μορφὴν ἔλαβεν,</p><p>ἔσπευσαν τοῖς δώροις θεραπεῦσαι,</p><p>καὶ βοῆσαι τῇ Εὐλογημένῃ·</p><p>Χαῖρε, ἀστέρος ἀδύτου Μήτηρ,</p><p>χαῖρε, αὐγὴ μυστικῆς ἡμέρας.</p><p>Χαῖρε, τῆς ἀπάτης τὴν κάμινον σβέσασα,</p><p>χαῖρε, τῆς Τριάδος τοὺς μύστας φωτίζουσα.</p><p>Χαῖρε, τύραννον ἀπάνθρωπον ἐκβαλοῦσα τῆς ἀρχῆς,</p><p>χαῖρε, Κύριον φιλάνθρωπον ἐπιδείξασα Χριστόν.</p><p>Χαῖρε, ἡ τῆς βαρβάρου λυτρουμένη θρησκείας,</p><p>χαῖρε, ἢ τοῦ βορβόρου ρυομένη τῶν ἔργων.</p><p>Χαῖρε πυρὸς προσκύνησιν παύσασα,</p><p>χαῖρε, φλογὸς παθῶν ἀπαλλάττουσα.</p><p>Χαῖρε, πιστῶν ὁδηγὲ σωφροσύνης,</p><p>χαῖρε, πασῶν γενεῶν εὐφροσύνη.</p><p>Χαῖρε, Νύμφη ἀνύμφευτε.</p><p>Κήρυκες θεοφόροι,</p><p>γεγονότες οἱ Μάγοι,</p><p>ὑπέστρεψαν εἰς τὴν Βαβυλῶνα,</p><p>ἐκτελέσαντές σου τὸν χρησμόν,</p><p>καὶ κηρύξαντές σε τὸν Χριστὸν ἅπασιν,</p><p>ἀφέντες τὸν Ἡρώδην ὡς ληρώδη,</p><p>μὴ εἰδότα ψάλλειν·</p><p>Ἀλληλούια.</p><p>Λάμψας ἐν τῇ Αἰγύπτῳ,</p><p>φωτισμὸν ἀληθείας ἐδίωξας,</p><p>τοῦ ψεύδους τὸ σκότος·</p><p>τὰ γὰρ εἴδωλα ταύτης Σωτήρ,</p><p>μὴ ἐνέγκαντά σου τὴν ἰσχὺν πέπτωκεν,</p><p>οἱ τούτων δὲ ρυσθέντες,</p><p>ἐβόων πρὸς τὴν Θεοτόκον·</p><p>Χαῖρε, ἀνόρθωσις τῶν ἀνθρώπων,</p><p>χαῖρε, κατάπτωσις τῶν δαιμόνων.</p><p>Χαῖρε, τὴν ἀπάτης τὴν πλάνην πατήσασα,</p><p>χαῖρε, τῶν εἰδώλων τὴν δόξαν ἐλεγξασα.</p><p>Χαῖρε, θάλασσα ποντίσασα Φαραὼ τὸν νοητόν,</p><p>χαῖρε, πέτρα ἡ ποτίσασα τοὺς διψῶντας τὴν ζωὴν.</p><p>Χαῖρε, πύρινε στῦλε ὁδηγῶν τοὺς ἐν σκότει,</p><p>χαῖρε, σκέπη τοῦ κόσμου πλατυτέρα νεφέλης.</p><p>Χαῖρε, τροφὴ τοῦ μάνα διάδοχε,</p><p>χαῖρε, τρυφῆς ἁγίας διάκονε.</p><p>Χαῖρε, ἡ γῆ τῆς ἐπαγγελίας,</p><p>χαῖρε, ἐξ ἧς ρέει μέλι καὶ γάλα.</p><p>Χαῖρε, Νύμφη ἀνύμφευτε.</p><p>Μέλλοντος Συμεῶνος,</p><p>τοῦ παρόντος αἰῶνος,</p><p>μεθίστασθαι τοῦ ἀπατεῶνος,</p><p>ἐπεδόθης ὡς βρέφος αὐτῷ,</p><p>ἀλλ' ἐγνώσθης τούτω καὶ Θεὸς τέλειος·</p><p>διόπερ ἐξεπλάγη σου τὴν ἄρρητον σοφίαν,</p><p>κράζων·</p><p>Ἀλληλούια.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Παρασκευὴ: Βʹ Χαιρετισμοί'
+            Short: Παρασκευὴ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_7:1-14
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_5:32-6:8
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_6:20-7:1
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1238'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Ἅγιοι Τεσσαράκοντα Μάρτυρες οἱ ἐν Σεβαστείᾳ'
+            Nominative: 'Ἅγιοι Τεσσαράκοντα Μάρτυρες οἱ ἐν Σεβαστείᾳ'
+            Short: 'Ἅγιοι Τεσσαράκοντα Μάρτυρες οἱ ἐν Σεβαστείᾳ'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Lk_21:12-19
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '331'
+                  reading: Heb_12:1-10
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '80'
+                  reading: Mt_20:1-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '60001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Οὐρπασιανὸς'
+            Short: 'Ἅγιος Οὐρπασιανὸς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Καισάριος ἀδελφός Γρηγορίου Θεολόγου'
+            Short: 'Ἅγιος Καισάριος ἀδελφός Γρηγορίου Θεολόγου'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03090395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Οἱ Ἅγιοι πάππος, μάμμη, πατέρας, μητέρα καὶ τὰ δύο τέκνα αὐτῶν οἱ Μάρτυρες '
+            Short: 'Οἱ Ἅγιοι πάππος, μάμμη, πατέρας, μητέρα καὶ τὰ δύο τέκνα αὐτῶν οἱ Μάρτυρες '
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '030903'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Πασιανὸς Ἐπίσκοπος Βαρκελώνης τῆς Ἱσπανίας'
+            Short: 'Ἅγιος Πασιανὸς Ἐπίσκοπος Βαρκελώνης τῆς Ἱσπανίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03090595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Κωνσταντῖνος τῆς Κορνουάλλης ὁ Μάρτυρας'
+            Short: 'Ἅγιος Κωνσταντῖνος τῆς Κορνουάλλης ὁ Μάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03090695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Βιτάλιος ἐκ Σικελίας'
+            Short: 'Ὅσιος Βιτάλιος ἐκ Σικελίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03090795'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Κλεόπας ἐκ Ῥωσίας'
+            Short: 'Ὅσιος Κλεόπας ἐκ Ῥωσίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03090895'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Χρίστος ὁ Ιερέας ὁ Νεομάρτυρας'
+            Short: 'Ἅγιος Χρίστος ὁ Ιερέας ὁ Νεομάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου του Ένσαρκου Λόγου, ἐν Ἀλμπαζὶν τῆς Ῥωσίας'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου του Ένσαρκου Λόγου, ἐν Ἀλμπαζὶν τῆς Ῥωσίας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 1
+    ponomarReordered:
+      fastings: '0000011'
+      saints:
+        -
+          cid: '9837'
+          info: ~
+          life:
+            Copyright: saint.gr
+            Id: saintgr
+            Text: "\n<p></p><p>Ακάθιστος Ύμνος - Βʹ Στάσις</p><p>Ἤκουσαν oἱ ποιμένες,</p><p>τῶν Ἀγγέλων ὑμνούντων,</p><p>τὴν ἔνσαρκον Χριστοῦ παρουσίαν·</p><p>καὶ δραμόντες ὡς πρὸς ποιμένα,</p><p>θεωροῦσι τοῦτον ὡς ἀμνὸν ἄμωμον,</p><p>ἐν γαστρὶ τῆς Μαρίας βοσκηθέντα,</p><p>ἥν ὑμνοῦντες εἶπον·</p><p>Χαῖρε, Ἀμνοῦ καὶ Ποιμένος Μῆτερ,</p><p>χαῖρε, αὐλὴ λογικῶν προβάτων.</p><p>Χαῖρε, ἀοράτων ἐχθρῶν ἀμυντήριον,</p><p>χαῖρε, Παραδείσου θυρῶν ἀνοικτήριον.</p><p>Χαῖρε, ὅτι τὰ οὐράνια συναγάλλεται τῇ γῇ,</p><p>χαῖρε, ὅτι τὰ ἐπίγεια συγχορεύει οὐρανοῖς.</p><p>Χαῖρε, τῶν Ἀποστόλων τὸ ἀσίγητον στόμα,</p><p>χαῖρε, τῶν Ἀθλοφόρων τὸ ἀνίκητον θάρσος.</p><p>Χαῖρε, στερρὸν τῆς πίστεως ἔρεισμα,</p><p>χαῖρε, λαμπρὸν τῆς Χάριτος γνώρισμα.</p><p>Χαῖρε, δι' ἧς ἐγυμνώθη ὁ Ἅδης,</p><p>χαῖρε, δι' ἧς ἐνεδύθημεν δόξαν.</p><p>Χαῖρε, Νύμφη ἀνύμφευτε.</p><p>Θεοδρόμον ἀστέρα,</p><p>θεωρήσαντες Μάγοι,</p><p>τῇ τούτου ἠκολούθησαν αἴγλῃ·</p><p>καὶ ὡς λύχνον κρατοῦντες αὐτόν,</p><p>δι' αὐτοῦ ἠρεύνων κραταιὸν Ἄνακτα,</p><p>καὶ φθάσαντες τὸν ἄφθαστον,</p><p>ἐχάρησαν αὐτῷ βοῶντες·</p><p>Ἀλληλούια.</p><p>Ἴδον παῖδες Χαλδαίων,</p><p>ἐν χερσὶ τῆς Παρθένου,</p><p>τὸν πλάσαντα χειρὶ τοὺς ἀνθρώπους·</p><p>καὶ Δεσπότην νοοῦντες αὐτόν,</p><p>εἰ καὶ δούλου μορφὴν ἔλαβεν,</p><p>ἔσπευσαν τοῖς δώροις θεραπεῦσαι,</p><p>καὶ βοῆσαι τῇ Εὐλογημένῃ·</p><p>Χαῖρε, ἀστέρος ἀδύτου Μήτηρ,</p><p>χαῖρε, αὐγὴ μυστικῆς ἡμέρας.</p><p>Χαῖρε, τῆς ἀπάτης τὴν κάμινον σβέσασα,</p><p>χαῖρε, τῆς Τριάδος τοὺς μύστας φωτίζουσα.</p><p>Χαῖρε, τύραννον ἀπάνθρωπον ἐκβαλοῦσα τῆς ἀρχῆς,</p><p>χαῖρε, Κύριον φιλάνθρωπον ἐπιδείξασα Χριστόν.</p><p>Χαῖρε, ἡ τῆς βαρβάρου λυτρουμένη θρησκείας,</p><p>χαῖρε, ἢ τοῦ βορβόρου ρυομένη τῶν ἔργων.</p><p>Χαῖρε πυρὸς προσκύνησιν παύσασα,</p><p>χαῖρε, φλογὸς παθῶν ἀπαλλάττουσα.</p><p>Χαῖρε, πιστῶν ὁδηγὲ σωφροσύνης,</p><p>χαῖρε, πασῶν γενεῶν εὐφροσύνη.</p><p>Χαῖρε, Νύμφη ἀνύμφευτε.</p><p>Κήρυκες θεοφόροι,</p><p>γεγονότες οἱ Μάγοι,</p><p>ὑπέστρεψαν εἰς τὴν Βαβυλῶνα,</p><p>ἐκτελέσαντές σου τὸν χρησμόν,</p><p>καὶ κηρύξαντές σε τὸν Χριστὸν ἅπασιν,</p><p>ἀφέντες τὸν Ἡρώδην ὡς ληρώδη,</p><p>μὴ εἰδότα ψάλλειν·</p><p>Ἀλληλούια.</p><p>Λάμψας ἐν τῇ Αἰγύπτῳ,</p><p>φωτισμὸν ἀληθείας ἐδίωξας,</p><p>τοῦ ψεύδους τὸ σκότος·</p><p>τὰ γὰρ εἴδωλα ταύτης Σωτήρ,</p><p>μὴ ἐνέγκαντά σου τὴν ἰσχὺν πέπτωκεν,</p><p>οἱ τούτων δὲ ρυσθέντες,</p><p>ἐβόων πρὸς τὴν Θεοτόκον·</p><p>Χαῖρε, ἀνόρθωσις τῶν ἀνθρώπων,</p><p>χαῖρε, κατάπτωσις τῶν δαιμόνων.</p><p>Χαῖρε, τὴν ἀπάτης τὴν πλάνην πατήσασα,</p><p>χαῖρε, τῶν εἰδώλων τὴν δόξαν ἐλεγξασα.</p><p>Χαῖρε, θάλασσα ποντίσασα Φαραὼ τὸν νοητόν,</p><p>χαῖρε, πέτρα ἡ ποτίσασα τοὺς διψῶντας τὴν ζωὴν.</p><p>Χαῖρε, πύρινε στῦλε ὁδηγῶν τοὺς ἐν σκότει,</p><p>χαῖρε, σκέπη τοῦ κόσμου πλατυτέρα νεφέλης.</p><p>Χαῖρε, τροφὴ τοῦ μάνα διάδοχε,</p><p>χαῖρε, τρυφῆς ἁγίας διάκονε.</p><p>Χαῖρε, ἡ γῆ τῆς ἐπαγγελίας,</p><p>χαῖρε, ἐξ ἧς ρέει μέλι καὶ γάλα.</p><p>Χαῖρε, Νύμφη ἀνύμφευτε.</p><p>Μέλλοντος Συμεῶνος,</p><p>τοῦ παρόντος αἰῶνος,</p><p>μεθίστασθαι τοῦ ἀπατεῶνος,</p><p>ἐπεδόθης ὡς βρέφος αὐτῷ,</p><p>ἀλλ' ἐγνώσθης τούτω καὶ Θεὸς τέλειος·</p><p>διόπερ ἐξεπλάγη σου τὴν ἄρρητον σοφίαν,</p><p>κράζων·</p><p>Ἀλληλούια.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Παρασκευὴ: Βʹ Χαιρετισμοί'
+            Short: Παρασκευὴ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_7:1-14
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_5:32-6:8
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_6:20-7:1
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1238'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Ἅγιοι Τεσσαράκοντα Μάρτυρες οἱ ἐν Σεβαστείᾳ'
+            Nominative: 'Ἅγιοι Τεσσαράκοντα Μάρτυρες οἱ ἐν Σεβαστείᾳ'
+            Short: 'Ἅγιοι Τεσσαράκοντα Μάρτυρες οἱ ἐν Σεβαστείᾳ'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Lk_21:12-19
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '331'
+                  reading: Heb_12:1-10
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '80'
+                  reading: Mt_20:1-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '60001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Οὐρπασιανὸς'
+            Short: 'Ἅγιος Οὐρπασιανὸς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Καισάριος ἀδελφός Γρηγορίου Θεολόγου'
+            Short: 'Ἅγιος Καισάριος ἀδελφός Γρηγορίου Θεολόγου'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03090395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Οἱ Ἅγιοι πάππος, μάμμη, πατέρας, μητέρα καὶ τὰ δύο τέκνα αὐτῶν οἱ Μάρτυρες '
+            Short: 'Οἱ Ἅγιοι πάππος, μάμμη, πατέρας, μητέρα καὶ τὰ δύο τέκνα αὐτῶν οἱ Μάρτυρες '
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '030903'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Πασιανὸς Ἐπίσκοπος Βαρκελώνης τῆς Ἱσπανίας'
+            Short: 'Ἅγιος Πασιανὸς Ἐπίσκοπος Βαρκελώνης τῆς Ἱσπανίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03090595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Κωνσταντῖνος τῆς Κορνουάλλης ὁ Μάρτυρας'
+            Short: 'Ἅγιος Κωνσταντῖνος τῆς Κορνουάλλης ὁ Μάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03090695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Βιτάλιος ἐκ Σικελίας'
+            Short: 'Ὅσιος Βιτάλιος ἐκ Σικελίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03090795'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Κλεόπας ἐκ Ῥωσίας'
+            Short: 'Ὅσιος Κλεόπας ἐκ Ῥωσίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03090895'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Χρίστος ὁ Ιερέας ὁ Νεομάρτυρας'
+            Short: 'Ἅγιος Χρίστος ὁ Ιερέας ὁ Νεομάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου του Ένσαρκου Λόγου, ἐν Ἀλμπαζὶν τῆς Ῥωσίας'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου του Ένσαρκου Λόγου, ἐν Ἀλμπαζὶν τῆς Ῥωσίας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 1
+  en:
+    ponomar:
+      fastings: '0000011'
+      saints:
+        -
+          cid: '9837'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Friday of the Second Week of Lent'
+            Short: 'Friday of the Second Week of Lent'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_7:1-14
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_5:32-6:8
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_6:20-7:1
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '1238'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'The Holy Forty Martyrs of Sebaste († c.320): Cyrion, Candidus, Domnus, Hesychius, Iraclius, Smaragdus, Eunoicus, Valentus, Vivian, Claudius, Priskus, Theodulus, Eutichius, John, Xanthus, Ilian, Sisinius, Angius, Aetius, Flavius, Dometian, Gaius, Leontius, Athanasius, Cyrill, Sakerdonus, Nicholas, Valerius, Philoctimon, Seberian, Chudionus, Aglaius, and Meliton'
+            Short: 'Forty Martyrs'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Lk_21:12-19
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '331'
+                  reading: Heb_12:1-10
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '80'
+                  reading: Mt_20:1-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '030900'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyrs Priests Michael, Alexis, Demetrius, Sergius, Sergius and Deacon Nicholas, Venerable Martyrs Ioasaph, Natalia and Alexandra († 1938)'
+            Short: 'New Hieromartyrs'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '60001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Urpasianus of Nicomedia († c.295)'
+            Short: 'Martyr Urpasianus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Cæsarius, brother of St Gregory the Theologian († c. 369)'
+            Short: 'Venerable Cæsarius'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03090499'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Philoromus'
+            Short: 'Martyr Philoromus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Righteous Tarasius of Liconium'
+            Short: 'Righteous Tarasius'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030902'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Philoromus'
+            Short: 'Martyr Philoromus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Albazinian Icon of the Mother of God called “The Word Was Made Flesh” (1666)'
+            Short: 'Albazinian Icon'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 1
+    ponomarReordered:
+      fastings: '0000011'
+      saints:
+        -
+          cid: '9837'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Friday of the Second Week of Lent'
+            Short: 'Friday of the Second Week of Lent'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_7:1-14
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_5:32-6:8
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_6:20-7:1
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '1238'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'The Holy Forty Martyrs of Sebaste († c.320): Cyrion, Candidus, Domnus, Hesychius, Iraclius, Smaragdus, Eunoicus, Valentus, Vivian, Claudius, Priskus, Theodulus, Eutichius, John, Xanthus, Ilian, Sisinius, Angius, Aetius, Flavius, Dometian, Gaius, Leontius, Athanasius, Cyrill, Sakerdonus, Nicholas, Valerius, Philoctimon, Seberian, Chudionus, Aglaius, and Meliton'
+            Short: 'Forty Martyrs'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Lk_21:12-19
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '331'
+                  reading: Heb_12:1-10
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '80'
+                  reading: Mt_20:1-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '030900'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyrs Priests Michael, Alexis, Demetrius, Sergius, Sergius and Deacon Nicholas, Venerable Martyrs Ioasaph, Natalia and Alexandra († 1938)'
+            Short: 'New Hieromartyrs'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '60001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Urpasianus of Nicomedia († c.295)'
+            Short: 'Martyr Urpasianus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Cæsarius, brother of St Gregory the Theologian († c. 369)'
+            Short: 'Venerable Cæsarius'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03090499'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Philoromus'
+            Short: 'Martyr Philoromus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Righteous Tarasius of Liconium'
+            Short: 'Righteous Tarasius'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030902'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Philoromus'
+            Short: 'Martyr Philoromus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Albazinian Icon of the Mother of God called “The Word Was Made Flesh” (1666)'
+            Short: 'Albazinian Icon'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 1
+  fr:
+    ponomar:
+      fastings: '0000011'
+      saints:
+        -
+          cid: '9837'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Vendredi de la 2-me semaine du Carême'
+            Short: 'Vendredi de la 2-me semaine du Carême'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_7:1-14
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_5:32-6:8
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_6:20-7:1
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1238'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Les saintes quarante martyrs de Sébaste († c.320)'
+            Short: 'Quarante martyrs'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Lk_21:12-19
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '331'
+                  reading: Heb_12:1-10
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '80'
+                  reading: Mt_20:1-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '60001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Urpasien'
+            Short: 'St. Urpasien'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Césaire de Naziance, frère de St. Grégoire le Théologien'
+            Short: 'St. Césaire'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030903'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Pacien, Evêque de Barcelone'
+            Short: 'St. Pacien'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 1
+    ponomarReordered:
+      fastings: '0000011'
+      saints:
+        -
+          cid: '9837'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Vendredi de la 2-me semaine du Carême'
+            Short: 'Vendredi de la 2-me semaine du Carême'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_7:1-14
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_5:32-6:8
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_6:20-7:1
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1238'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Les saintes quarante martyrs de Sébaste († c.320)'
+            Short: 'Quarante martyrs'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Lk_21:12-19
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '331'
+                  reading: Heb_12:1-10
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '80'
+                  reading: Mt_20:1-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '60001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Urpasien'
+            Short: 'St. Urpasien'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Césaire de Naziance, frère de St. Grégoire le Théologien'
+            Short: 'St. Césaire'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030903'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Pacien, Evêque de Barcelone'
+            Short: 'St. Pacien'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 1
+  zh/Hans:
+    ponomar:
+      fastings: '0000011'
+      saints:
+        -
+          cid: '9837'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大斋期第二周预备日
+            Short: 大斋期第二周预备日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_7:1-14
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_5:32-6:8
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_6:20-7:1
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1238'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 塞瓦斯提亚的四十位圣殉道者：基里翁、堪迪德、多穆诺、伊息赫、伊拉克利、斯玛拉格德、艾弗诺伊科、瓦冷斯、维维阿诺、克劳迪、普里斯科、德奥杜洛、艾弗提希、约翰、克桑提亚、伊利阿诺、息悉尼、安格斯、埃提、弗拉维、阿喀基、埃克迪基、利希玛赫、亚历山大、伊利亚、格尔哥尼、德奥斐洛、多麦提安、盖奥、莱翁提、阿塔纳西、基里尔、萨凯尔顿、尼科拉、瓦莱里、斐洛克提蒙、塞维利安、胡迪翁、阿格莱、麦利东（320年）
+            Short: 塞瓦斯提亚的四十位圣殉道者
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Lk_21:12-19
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '331'
+                  reading: Heb_12:1-10
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '80'
+                  reading: Mt_20:1-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '030900'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭：米迦勒、阿莱克西、迪弥特里、塞尔吉、塞尔吉、及殉道辅祭尼科拉、殉道修士约阿撒弗、殉道修女纳塔利亚、及亚历山德拉（1938年）
+            Short: 新殉道司祭：米迦勒、阿莱克西、迪弥特里、塞尔吉、塞尔吉、及殉道辅祭尼科拉、殉道修士约阿撒弗、殉道修女纳塔利亚、及亚历山德拉（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '60001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者邬尔帕息安（尼科美底亚，295年）
+            Short: 殉道者邬尔帕息安
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣凯撒里（神学家圣格里高利的兄弟，369年）
+            Short: 圣凯撒里（神学家圣格里高利的兄弟，369年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030902'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣斐洛若默（加拉提亚的宣信者，4世纪）
+            Short: 圣斐洛若默（加拉提亚的宣信者，4世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 义人塔拉西（利科尼翁地方）
+            Short: 义人塔拉西（利科尼翁地方）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 阿尔巴津圣母像（道成肉身之母像）纪念日
+            Short: 阿尔巴津圣母像（道成肉身之母像）纪念日
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030903'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣帕基安（巴塞罗那城主教，390年）
+            Short: 圣帕基安（巴塞罗那城主教，390年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030904'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣约纳（诺夫哥罗德城总主教，1470年）
+            Short: 圣约纳（诺夫哥罗德城总主教，1470年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030905'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭首席司祭弥特罗梵（本姓布赫诺夫，沃罗涅什城人，1931年）
+            Short: 新殉道司祭首席司祭弥特罗梵（本姓布赫诺夫，沃罗涅什城人，1931年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 1
+    ponomarReordered:
+      fastings: '0000011'
+      saints:
+        -
+          cid: '9837'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大斋期第二周预备日
+            Short: 大斋期第二周预备日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_7:1-14
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_5:32-6:8
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_6:20-7:1
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1238'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 塞瓦斯提亚的四十位圣殉道者：基里翁、堪迪德、多穆诺、伊息赫、伊拉克利、斯玛拉格德、艾弗诺伊科、瓦冷斯、维维阿诺、克劳迪、普里斯科、德奥杜洛、艾弗提希、约翰、克桑提亚、伊利阿诺、息悉尼、安格斯、埃提、弗拉维、阿喀基、埃克迪基、利希玛赫、亚历山大、伊利亚、格尔哥尼、德奥斐洛、多麦提安、盖奥、莱翁提、阿塔纳西、基里尔、萨凯尔顿、尼科拉、瓦莱里、斐洛克提蒙、塞维利安、胡迪翁、阿格莱、麦利东（320年）
+            Short: 塞瓦斯提亚的四十位圣殉道者
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Lk_21:12-19
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '331'
+                  reading: Heb_12:1-10
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '80'
+                  reading: Mt_20:1-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '030900'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭：米迦勒、阿莱克西、迪弥特里、塞尔吉、塞尔吉、及殉道辅祭尼科拉、殉道修士约阿撒弗、殉道修女纳塔利亚、及亚历山德拉（1938年）
+            Short: 新殉道司祭：米迦勒、阿莱克西、迪弥特里、塞尔吉、塞尔吉、及殉道辅祭尼科拉、殉道修士约阿撒弗、殉道修女纳塔利亚、及亚历山德拉（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '60001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者邬尔帕息安（尼科美底亚，295年）
+            Short: 殉道者邬尔帕息安
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣凯撒里（神学家圣格里高利的兄弟，369年）
+            Short: 圣凯撒里（神学家圣格里高利的兄弟，369年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030902'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣斐洛若默（加拉提亚的宣信者，4世纪）
+            Short: 圣斐洛若默（加拉提亚的宣信者，4世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 义人塔拉西（利科尼翁地方）
+            Short: 义人塔拉西（利科尼翁地方）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 阿尔巴津圣母像（道成肉身之母像）纪念日
+            Short: 阿尔巴津圣母像（道成肉身之母像）纪念日
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030903'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣帕基安（巴塞罗那城主教，390年）
+            Short: 圣帕基安（巴塞罗那城主教，390年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030904'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣约纳（诺夫哥罗德城总主教，1470年）
+            Short: 圣约纳（诺夫哥罗德城总主教，1470年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030905'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭首席司祭弥特罗梵（本姓布赫诺夫，沃罗涅什城人，1931年）
+            Short: 新殉道司祭首席司祭弥特罗梵（本姓布赫诺夫，沃罗涅什城人，1931年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 1
+  zh/Hant:
+    ponomar:
+      fastings: '0000011'
+      saints:
+        -
+          cid: '9837'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大齋期第二周預備日
+            Short: 大齋期第二周預備日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_7:1-14
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_5:32-6:8
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_6:20-7:1
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1238'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 塞瓦斯提亞的四十位聖殉道者：基里翁、堪迪德、多穆諾、伊息赫、伊拉克利、斯瑪拉格德、艾弗諾伊科、瓦冷斯、維維阿諾、克勞迪、普里斯科、德奧杜洛、艾弗提希、約翰、克桑提亞、伊利阿諾、息悉尼、安格斯、埃提、弗拉維、阿喀基、埃克迪基、利希瑪赫、亞歷山大、伊利亞、格爾哥尼、德奧斐洛、多麥提安、蓋奧、萊翁提、阿塔納西、基里爾、薩凱爾頓、尼科拉、瓦萊里、斐洛克提蒙、塞維利安、胡迪翁、阿格萊、麥利東（320年）
+            Short: 塞瓦斯提亞的四十位聖殉道者
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Lk_21:12-19
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '331'
+                  reading: Heb_12:1-10
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '80'
+                  reading: Mt_20:1-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '030900'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭：米迦勒、阿萊克西、迪彌特里、塞爾吉、塞爾吉、及殉道輔祭尼科拉、殉道修士約阿撒弗、殉道修女納塔利亞、及亞歷山德拉（1938年）
+            Short: 新殉道司祭：米迦勒、阿萊克西、迪彌特里、塞爾吉、塞爾吉、及殉道輔祭尼科拉、殉道修士約阿撒弗、殉道修女納塔利亞、及亞歷山德拉（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '60001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者鄔爾帕息安（尼科美底亞，295年）
+            Short: 殉道者鄔爾帕息安
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖凱撒里（神學家聖格里高利的兄弟，369年）
+            Short: 聖凱撒里（神學家聖格里高利的兄弟，369年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030902'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖斐洛若默（加拉提亞的宣信者，四世紀）
+            Short: 聖斐洛若默（加拉提亞的宣信者，四世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 義人塔拉西（利科尼翁地方）
+            Short: 義人塔拉西（利科尼翁地方）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 阿爾巴津聖母像（道成肉身之母像）紀念日
+            Short: 阿爾巴津聖母像（道成肉身之母像）紀念日
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030903'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖帕基安（巴塞羅那城主教，390年）
+            Short: 聖帕基安（巴塞羅那城主教，390年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030904'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖約納（諾夫哥羅德城總主教，1470年）
+            Short: 聖約納（諾夫哥羅德城總主教，1470年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030905'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭首席司祭彌特羅梵（本姓布赫諾夫，沃羅涅什城人，1931年）
+            Short: 新殉道司祭首席司祭彌特羅梵（本姓布赫諾夫，沃羅涅什城人，1931年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 1
+    ponomarReordered:
+      fastings: '0000011'
+      saints:
+        -
+          cid: '9837'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大齋期第二周預備日
+            Short: 大齋期第二周預備日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_7:1-14
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_5:32-6:8
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_6:20-7:1
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1238'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 塞瓦斯提亞的四十位聖殉道者：基里翁、堪迪德、多穆諾、伊息赫、伊拉克利、斯瑪拉格德、艾弗諾伊科、瓦冷斯、維維阿諾、克勞迪、普里斯科、德奧杜洛、艾弗提希、約翰、克桑提亞、伊利阿諾、息悉尼、安格斯、埃提、弗拉維、阿喀基、埃克迪基、利希瑪赫、亞歷山大、伊利亞、格爾哥尼、德奧斐洛、多麥提安、蓋奧、萊翁提、阿塔納西、基里爾、薩凱爾頓、尼科拉、瓦萊里、斐洛克提蒙、塞維利安、胡迪翁、阿格萊、麥利東（320年）
+            Short: 塞瓦斯提亞的四十位聖殉道者
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Lk_21:12-19
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '331'
+                  reading: Heb_12:1-10
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '80'
+                  reading: Mt_20:1-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '030900'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭：米迦勒、阿萊克西、迪彌特里、塞爾吉、塞爾吉、及殉道輔祭尼科拉、殉道修士約阿撒弗、殉道修女納塔利亞、及亞歷山德拉（1938年）
+            Short: 新殉道司祭：米迦勒、阿萊克西、迪彌特里、塞爾吉、塞爾吉、及殉道輔祭尼科拉、殉道修士約阿撒弗、殉道修女納塔利亞、及亞歷山德拉（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '60001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者鄔爾帕息安（尼科美底亞，295年）
+            Short: 殉道者鄔爾帕息安
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖凱撒里（神學家聖格里高利的兄弟，369年）
+            Short: 聖凱撒里（神學家聖格里高利的兄弟，369年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030902'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖斐洛若默（加拉提亞的宣信者，四世紀）
+            Short: 聖斐洛若默（加拉提亞的宣信者，四世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 義人塔拉西（利科尼翁地方）
+            Short: 義人塔拉西（利科尼翁地方）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 阿爾巴津聖母像（道成肉身之母像）紀念日
+            Short: 阿爾巴津聖母像（道成肉身之母像）紀念日
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030903'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖帕基安（巴塞羅那城主教，390年）
+            Short: 聖帕基安（巴塞羅那城主教，390年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030904'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖約納（諾夫哥羅德城總主教，1470年）
+            Short: 聖約納（諾夫哥羅德城總主教，1470年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030905'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭首席司祭彌特羅梵（本姓布赫諾夫，沃羅涅什城人，1931年）
+            Short: 新殉道司祭首席司祭彌特羅梵（本姓布赫諾夫，沃羅涅什城人，1931年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 1

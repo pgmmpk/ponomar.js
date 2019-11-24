@@ -1,0 +1,1658 @@
+---
+date: 2019/1/27
+langs:
+  cu:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9308'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сꙋббѡ́та л҃з-ѧ седми́цы по пѧтидесѧ́тницѣ'
+            Short: Сꙋббѡ́та
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '18'
+                  pericope: '162'
+                  reading: 'I Cor_15:39-45'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '84'
+                  reading: Lk_17:3-10
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '09022'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пренесе́нїе моще́й ст҃а́гѡ і҆ѡа́нна златоꙋ́стагѡ (438)'
+            Short: 'Пренесе́нїе моще́й'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '35 (mid.)'
+                  reading: Jn_10:1-9
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '318'
+                  reading: Heb_7:26-8:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '36'
+                  reading: Jn_10:9-16
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '4'
+      tone: 3
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9308'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сꙋббѡ́та л҃з-ѧ седми́цы по пѧтидесѧ́тницѣ'
+            Short: Сꙋббѡ́та
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '18'
+                  pericope: '162'
+                  reading: 'I Cor_15:39-45'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '84'
+                  reading: Lk_17:3-10
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '09022'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пренесе́нїе моще́й ст҃а́гѡ і҆ѡа́нна златоꙋ́стагѡ (438)'
+            Short: 'Пренесе́нїе моще́й'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '35 (mid.)'
+                  reading: Jn_10:1-9
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '318'
+                  reading: Heb_7:26-8:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '36'
+                  reading: Jn_10:9-16
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '4'
+      tone: 3
+  cu/ru:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9308'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Суббота 37-й седмицы по Пятидесятнице'
+            Short: 'Суббота 37-й седмицы по Пятидесятнице'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '18'
+                  pericope: '162'
+                  reading: 'I Cor_15:39-45'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '84'
+                  reading: Lk_17:3-10
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '09022'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\nСвятитель Иоанн Златоуст — великий вселенский учитель и иерарх, скончался в 407 году в городе Команы на пути к месту ссылки, осужденный по проискам императрицы Евдоксии за смелое обличение пороков, царивших в Константинополе. Перенесение его честных мощей из Коман в Константинополь совершилось в 438 году, через 30 лет после смерти святителя, при сыне Евдоксии императоре Феодосии II (408—450).     Святитель Иоанн Златоуст пользовался горячей любовью и глубоким уважением народа, и скорбь о его безвременной кончине жила в сердцах христиан. Ученик святителя Иоанна, святой Прокл, Патриарх Константинопольский (434—447), совершая Богослужение в храме Святой Софии, произнес проповедь, в которой, прославляя святителя Иоанна, говорил: «О Иоанн! Жизнь твоя многотрудна, но смерть славна, гроб твой блажен и воздаяние обильно по благодати и милосердию Господа нашего Иисуса Христа. О благЪдать, препобеждающая пределы, место и время! Место препобедила любовь, предел уничтожила незабвенная память, и местом не ограничились чудеса святителя». Присутствовавшие в храме, глубоко тронутые словом святителя Прокла, не дали даже ему окончить проповедь и стали единодушно умолять Патриарха ходатайствовать перед императором, чтобы мощи святителя Иоанна были перенесены в Константинополь. Император, убежденный святителем Проклом, дал согласие и повелел перенести мощи святителя Иоанна, но посланные им люди никак не могли поднять святые мощи до тех пор, пока император, поняв свою ошибку, не прислал послание к святителю Иоанну, смиренно прося у него прощения за себя и за свою мать Евдоксию. Послание зачитали у гроба святителя Иоанна и после этого легко подняли мощи, внесли их на корабль и доставили в Константинополь. Рака с мощами была поставлена в церкви святой мученицы Ирины. Патриарх открыл гроб: тело святителя Иоанна оказалось нетленным. Царь, припав к гробу со слезами, просил прощения. Народ весь день и ночь не отходил от раки. Наутро рака с мощами святителя была перенесена в церковь святых Апостолов. Народ воскликнул: «Приими престол твой, отче!» Тогда Патриарх Прокл и клирики, стоявшие у раки, увидели, что святитель Иоанн открыл уста и произнес: «Мир всем».    В IX веке на праздник в честь перенесения мощей святителя Иоанна Златоуста написаны церковные песнопения. \n"
+          menologion: ''
+          name:
+            Nominative: 'Перенесение мощей свт. Иоанна Златоуста (438)'
+            Short: 'Перенесение мощей'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '35 (mid.)'
+                  reading: Jn_10:1-9
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '318'
+                  reading: Heb_7:26-8:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '36'
+                  reading: Jn_10:9-16
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '4'
+      tone: 3
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9308'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Суббота 37-й седмицы по Пятидесятнице'
+            Short: 'Суббота 37-й седмицы по Пятидесятнице'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '18'
+                  pericope: '162'
+                  reading: 'I Cor_15:39-45'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '84'
+                  reading: Lk_17:3-10
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '09022'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\nСвятитель Иоанн Златоуст — великий вселенский учитель и иерарх, скончался в 407 году в городе Команы на пути к месту ссылки, осужденный по проискам императрицы Евдоксии за смелое обличение пороков, царивших в Константинополе. Перенесение его честных мощей из Коман в Константинополь совершилось в 438 году, через 30 лет после смерти святителя, при сыне Евдоксии императоре Феодосии II (408—450).     Святитель Иоанн Златоуст пользовался горячей любовью и глубоким уважением народа, и скорбь о его безвременной кончине жила в сердцах христиан. Ученик святителя Иоанна, святой Прокл, Патриарх Константинопольский (434—447), совершая Богослужение в храме Святой Софии, произнес проповедь, в которой, прославляя святителя Иоанна, говорил: «О Иоанн! Жизнь твоя многотрудна, но смерть славна, гроб твой блажен и воздаяние обильно по благодати и милосердию Господа нашего Иисуса Христа. О благЪдать, препобеждающая пределы, место и время! Место препобедила любовь, предел уничтожила незабвенная память, и местом не ограничились чудеса святителя». Присутствовавшие в храме, глубоко тронутые словом святителя Прокла, не дали даже ему окончить проповедь и стали единодушно умолять Патриарха ходатайствовать перед императором, чтобы мощи святителя Иоанна были перенесены в Константинополь. Император, убежденный святителем Проклом, дал согласие и повелел перенести мощи святителя Иоанна, но посланные им люди никак не могли поднять святые мощи до тех пор, пока император, поняв свою ошибку, не прислал послание к святителю Иоанну, смиренно прося у него прощения за себя и за свою мать Евдоксию. Послание зачитали у гроба святителя Иоанна и после этого легко подняли мощи, внесли их на корабль и доставили в Константинополь. Рака с мощами была поставлена в церкви святой мученицы Ирины. Патриарх открыл гроб: тело святителя Иоанна оказалось нетленным. Царь, припав к гробу со слезами, просил прощения. Народ весь день и ночь не отходил от раки. Наутро рака с мощами святителя была перенесена в церковь святых Апостолов. Народ воскликнул: «Приими престол твой, отче!» Тогда Патриарх Прокл и клирики, стоявшие у раки, увидели, что святитель Иоанн открыл уста и произнес: «Мир всем».    В IX веке на праздник в честь перенесения мощей святителя Иоанна Златоуста написаны церковные песнопения. \n"
+          menologion: ''
+          name:
+            Nominative: 'Перенесение мощей свт. Иоанна Златоуста (438)'
+            Short: 'Перенесение мощей'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '35 (mid.)'
+                  reading: Jn_10:1-9
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '318'
+                  reading: Heb_7:26-8:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '36'
+                  reading: Jn_10:9-16
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '4'
+      tone: 3
+  el:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9308'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Σάββατον
+            Short: Σάββατον
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '18'
+                  pericope: '162'
+                  reading: 'I Cor_15:39-45'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '84'
+                  reading: Lk_17:3-10
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '09022'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἀνακομιδὴ ἱερῶν Λειψάνων τοῦ Ἁγίου Ἰωάννου Χρυσοστόμου Ἀρχιεπίσκοπου Κωνσταντινουπόλεως'
+            Short: 'Ἀνακομιδὴ ἱερῶν Λειψάνων τοῦ Ἁγίου Ἰωάννου Χρυσοστόμου Ἀρχιεπίσκοπου Κωνσταντινουπόλεως'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '35 (mid.)'
+                  reading: Jn_10:1-9
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '318'
+                  reading: Heb_7:26-8:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '36'
+                  reading: Jn_10:9-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '01271100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγία Μαρκιανὴ ἡ Βασίλισσα'
+            Short: 'Ἁγία Μαρκιανὴ ἡ Βασίλισσα'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01275696'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Ὅσιος Κλαυδίνος'
+            Nominative: 'Ὅσιος Κλαυδίνος'
+            Short: 'Ὅσιος Κλαυδίνος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '012700'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Πέτρος ὁ Αἰγύπτιος'
+            Short: 'Ὅσιος Πέτρος ὁ Αἰγύπτιος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '012701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Δημήτριος ὁ ἐν Κωνσταντινοπόλει'
+            Short: 'Ἅγιος Δημήτριος ὁ ἐν Κωνσταντινοπόλει'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01270595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Κλήμης ὁ Στυλίτης ποὺ ἀσκήτευσε στὸ ὄρος Σάγματα τῆς Βοιωτίας'
+            Short: 'Ὅσιος Κλήμης ὁ Στυλίτης ποὺ ἀσκήτευσε στὸ ὄρος Σάγματα τῆς Βοιωτίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01270395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Πέτρος Ζβέρεφ ὁ ἱερομάρτυρας'
+            Short: 'Ἅγιος Πέτρος Ζβέρεφ ὁ ἱερομάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '012702'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Τίτος ὁ στρατιώτης'
+            Short: 'Ὅσιος Τίτος ὁ στρατιώτης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01270495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἄσκιοτ ὁ Βασιλέας'
+            Short: 'Ἅγιος Ἄσκιοτ ὁ Βασιλέας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01270695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Δημητριανὸς τῆς Ταμασού, ὁ θαυματουργὸς'
+            Short: 'Ἅγιος Δημητριανὸς τῆς Ταμασού, ὁ θαυματουργὸς'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9308'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Σάββατον
+            Short: Σάββατον
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '18'
+                  pericope: '162'
+                  reading: 'I Cor_15:39-45'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '84'
+                  reading: Lk_17:3-10
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '09022'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἀνακομιδὴ ἱερῶν Λειψάνων τοῦ Ἁγίου Ἰωάννου Χρυσοστόμου Ἀρχιεπίσκοπου Κωνσταντινουπόλεως'
+            Short: 'Ἀνακομιδὴ ἱερῶν Λειψάνων τοῦ Ἁγίου Ἰωάννου Χρυσοστόμου Ἀρχιεπίσκοπου Κωνσταντινουπόλεως'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '35 (mid.)'
+                  reading: Jn_10:1-9
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '318'
+                  reading: Heb_7:26-8:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '36'
+                  reading: Jn_10:9-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '01271100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγία Μαρκιανὴ ἡ Βασίλισσα'
+            Short: 'Ἁγία Μαρκιανὴ ἡ Βασίλισσα'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01275696'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Ὅσιος Κλαυδίνος'
+            Nominative: 'Ὅσιος Κλαυδίνος'
+            Short: 'Ὅσιος Κλαυδίνος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '012700'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Πέτρος ὁ Αἰγύπτιος'
+            Short: 'Ὅσιος Πέτρος ὁ Αἰγύπτιος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '012701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Δημήτριος ὁ ἐν Κωνσταντινοπόλει'
+            Short: 'Ἅγιος Δημήτριος ὁ ἐν Κωνσταντινοπόλει'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01270595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Κλήμης ὁ Στυλίτης ποὺ ἀσκήτευσε στὸ ὄρος Σάγματα τῆς Βοιωτίας'
+            Short: 'Ὅσιος Κλήμης ὁ Στυλίτης ποὺ ἀσκήτευσε στὸ ὄρος Σάγματα τῆς Βοιωτίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01270395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Πέτρος Ζβέρεφ ὁ ἱερομάρτυρας'
+            Short: 'Ἅγιος Πέτρος Ζβέρεφ ὁ ἱερομάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '012702'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Τίτος ὁ στρατιώτης'
+            Short: 'Ὅσιος Τίτος ὁ στρατιώτης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01270495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἄσκιοτ ὁ Βασιλέας'
+            Short: 'Ἅγιος Ἄσκιοτ ὁ Βασιλέας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01270695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Δημητριανὸς τῆς Ταμασού, ὁ θαυματουργὸς'
+            Short: 'Ἅγιος Δημητριανὸς τῆς Ταμασού, ὁ θαυματουργὸς'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+  en:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9308'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Saturday of the 37<sup>th</sup> Week after Pentecost'
+            Short: 'Saturday of the 37<sup>th</sup> Week after Pentecost'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '18'
+                  pericope: '162'
+                  reading: 'I Cor_15:39-45'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '84'
+                  reading: Lk_17:3-10
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '09022'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\nSaint John Chrysostom—a great ecumenical teacher and hierarch, died in the city of Comene in the year 407 on his way to a place of exile, having been condemned by the intrigues of the empress Eudoxia because of his daring denunciation of the vices ruling over Constantinople. The transfer of his venerable relics was made in the year 438: after 30 years following the death of the saint during the reign of Eudoxia’s son emperor Theodosius II (408-450). </p><p>Saint John Chrysostom had the warm love and deep respect of the people, and grief over his untimely death lived on in the hearts of christians. Saint John’s student Saint Proclus, Patriarch of Constantinople (434-447), making Divine-services in the Church of Saint Sophia, preached a sermon which in glorifying Saint John he said: “O John! Thy life was filled with difficulties, but thy death was glorious, thy grave is blessed and reward abundant through the grace and mercy of our Lord Jesus Christ. O graced one, having conquered the bounds of time and place! Love hath conquered space, unforgetting memory hath annihilated the limits, and place doth not hinder the miracles of the saint.” Those who were present in church, deeply touched by the words of Saint Proclus, did not allow him even to finish his sermon. With one accord they began to entreat the Patriarch to intercede with the emperor, so that the relics of Saint John might be transferred to Constantinople. The emperor, overwhelmed by Saint Proclus, gave his consent and made the order to transfer the relics of Saint John. But the people dispatched by him were by no means able to lift up the holy relics—not until that moment when the emperor realising his oversight that he had not sent the message to Saint John, humbly beseeching of him forgiveness for himself and for his mother Eudoxia. The message was read at the grave of Saint John and after this they easily lifted up the relics, carried them onto a ship and arrived at Constantinople. The reliquary coffin with the relics was placed in the Church of the holy Martyr Irene. The Patriarch opened the coffin: the body of Saint John had remained without decay. The emperor, having approached the coffin with tears, asked forgiveness. All day and night people did not leave the coffin. In the morning the reliquary coffin with its relics was brought to the Church of the Holy Apostles. The people cried out: “Receive back thy throne, father!” Then Patriarch Proclus and the clergy standing at the relics—saw Saint John open his mouth and pronounce: “Peace be to all.”</p><p>In the IX Century the feastday in honour of the transfer of the relics of Saint John Chrysostom was written into church singing.\n"
+          menologion: ''
+          name:
+            Nominative: 'Translation of the Relics of Saint John Chrysostom (438), Archbishop of Constantinople'
+            Short: 'St John Chrysostom'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '35 (mid.)'
+                  reading: Jn_10:1-9
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '318'
+                  reading: Heb_7:26-8:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '36'
+                  reading: Jn_10:9-16
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '012701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Martyr Demetrius'
+            Short: 'New Martyr Demetrius'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012700'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Peter of Egypt'
+            Short: 'Venerable Peter'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012702'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Titus the Soldier, of the Kiev Caves'
+            Short: 'Venerable Titus'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9308'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Saturday of the 37<sup>th</sup> Week after Pentecost'
+            Short: 'Saturday of the 37<sup>th</sup> Week after Pentecost'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '18'
+                  pericope: '162'
+                  reading: 'I Cor_15:39-45'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '84'
+                  reading: Lk_17:3-10
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '09022'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\nSaint John Chrysostom—a great ecumenical teacher and hierarch, died in the city of Comene in the year 407 on his way to a place of exile, having been condemned by the intrigues of the empress Eudoxia because of his daring denunciation of the vices ruling over Constantinople. The transfer of his venerable relics was made in the year 438: after 30 years following the death of the saint during the reign of Eudoxia’s son emperor Theodosius II (408-450). </p><p>Saint John Chrysostom had the warm love and deep respect of the people, and grief over his untimely death lived on in the hearts of christians. Saint John’s student Saint Proclus, Patriarch of Constantinople (434-447), making Divine-services in the Church of Saint Sophia, preached a sermon which in glorifying Saint John he said: “O John! Thy life was filled with difficulties, but thy death was glorious, thy grave is blessed and reward abundant through the grace and mercy of our Lord Jesus Christ. O graced one, having conquered the bounds of time and place! Love hath conquered space, unforgetting memory hath annihilated the limits, and place doth not hinder the miracles of the saint.” Those who were present in church, deeply touched by the words of Saint Proclus, did not allow him even to finish his sermon. With one accord they began to entreat the Patriarch to intercede with the emperor, so that the relics of Saint John might be transferred to Constantinople. The emperor, overwhelmed by Saint Proclus, gave his consent and made the order to transfer the relics of Saint John. But the people dispatched by him were by no means able to lift up the holy relics—not until that moment when the emperor realising his oversight that he had not sent the message to Saint John, humbly beseeching of him forgiveness for himself and for his mother Eudoxia. The message was read at the grave of Saint John and after this they easily lifted up the relics, carried them onto a ship and arrived at Constantinople. The reliquary coffin with the relics was placed in the Church of the holy Martyr Irene. The Patriarch opened the coffin: the body of Saint John had remained without decay. The emperor, having approached the coffin with tears, asked forgiveness. All day and night people did not leave the coffin. In the morning the reliquary coffin with its relics was brought to the Church of the Holy Apostles. The people cried out: “Receive back thy throne, father!” Then Patriarch Proclus and the clergy standing at the relics—saw Saint John open his mouth and pronounce: “Peace be to all.”</p><p>In the IX Century the feastday in honour of the transfer of the relics of Saint John Chrysostom was written into church singing.\n"
+          menologion: ''
+          name:
+            Nominative: 'Translation of the Relics of Saint John Chrysostom (438), Archbishop of Constantinople'
+            Short: 'St John Chrysostom'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '35 (mid.)'
+                  reading: Jn_10:1-9
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '318'
+                  reading: Heb_7:26-8:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '36'
+                  reading: Jn_10:9-16
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '012701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Martyr Demetrius'
+            Short: 'New Martyr Demetrius'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012700'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Peter of Egypt'
+            Short: 'Venerable Peter'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012702'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Titus the Soldier, of the Kiev Caves'
+            Short: 'Venerable Titus'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+  fr:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9308'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Samedi de la 37-me semaine après le Pentecôte'
+            Short: 'Samedi de la 37-me semaine après le Pentecôte'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '18'
+                  pericope: '162'
+                  reading: 'I Cor_15:39-45'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '84'
+                  reading: Lk_17:3-10
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '09022'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Transfert des Reliques de St. Jean Chrysostome'
+            Short: 'Transfert des'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '35 (mid.)'
+                  reading: Jn_10:1-9
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '318'
+                  reading: Heb_7:26-8:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '36'
+                  reading: Jn_10:9-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '01271100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Marcienne'
+            Short: 'Ste. Marcienne'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01271200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Claudien'
+            Short: 'St. Claudien'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012700'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Pierre l’Egyptien'
+            Short: 'St. Pierre l’Egyptien'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Dimitrios, Néomartyr'
+            Short: 'St. Dimitrios, Néomartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012702'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Tite le Soldat des grottes de Kiev'
+            Short: 'St. Tite'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9308'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Samedi de la 37-me semaine après le Pentecôte'
+            Short: 'Samedi de la 37-me semaine après le Pentecôte'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '18'
+                  pericope: '162'
+                  reading: 'I Cor_15:39-45'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '84'
+                  reading: Lk_17:3-10
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '09022'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Transfert des Reliques de St. Jean Chrysostome'
+            Short: 'Transfert des'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '35 (mid.)'
+                  reading: Jn_10:1-9
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '318'
+                  reading: Heb_7:26-8:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '36'
+                  reading: Jn_10:9-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '01271100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Marcienne'
+            Short: 'Ste. Marcienne'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01271200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Claudien'
+            Short: 'St. Claudien'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012700'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Pierre l’Egyptien'
+            Short: 'St. Pierre l’Egyptien'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Dimitrios, Néomartyr'
+            Short: 'St. Dimitrios, Néomartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012702'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Tite le Soldat des grottes de Kiev'
+            Short: 'St. Tite'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+  zh/Hans:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9308'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬节后第卅七周安息日
+            Short: 五旬节后第卅七周安息日
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '18'
+                  pericope: '162'
+                  reading: 'I Cor_15:39-45'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '84'
+                  reading: Lk_17:3-10
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '09022'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬迁君士坦丁堡总主教圣金口约翰之圣髑纪念日（437年）
+            Short: 敬迁君士坦丁堡总主教圣金口约翰之圣髑纪念日（437年）
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '35 (mid.)'
+                  reading: Jn_10:1-9
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '318'
+                  reading: Heb_7:26-8:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '36'
+                  reading: Jn_10:9-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '012701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者迪弥特里（君士坦丁堡，1784年）
+            Short: 新殉道者迪弥特里（君士坦丁堡，1784年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012700'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣彼得（埃及人，5世纪）
+            Short: 圣彼得（埃及人，5世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012702'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣蒂图斯（士兵，基辐洞窟修道院的修士）
+            Short: 圣蒂图斯（士兵，基辐洞窟修道院的修士）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012703'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣迪弥特里（本姓克勒彼尼奈，巴黎城司祭，1944年）
+            Short: 圣迪弥特里（本姓克勒彼尼奈，巴黎城司祭，1944年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012704'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣莱翁提（本姓斯塔塞维奇，伊凡诺沃地方人，1972年）
+            Short: 圣莱翁提（本姓斯塔塞维奇，伊凡诺沃地方人，1972年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012705'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭莱翁提（密修者，波兰的塔尔诺颇尔及嘉布乐切那地方人，1972年）
+            Short: 新殉道司祭莱翁提（密修者，波兰的塔尔诺颇尔及嘉布乐切那地方人，1972年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012706'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬迁圣马尔前娜之圣髑纪念日
+            Short: 敬迁圣马尔前娜之圣髑纪念日
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012707'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣纳塔利斯
+            Short: 圣纳塔利斯
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9308'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬节后第卅七周安息日
+            Short: 五旬节后第卅七周安息日
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '18'
+                  pericope: '162'
+                  reading: 'I Cor_15:39-45'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '84'
+                  reading: Lk_17:3-10
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '09022'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬迁君士坦丁堡总主教圣金口约翰之圣髑纪念日（437年）
+            Short: 敬迁君士坦丁堡总主教圣金口约翰之圣髑纪念日（437年）
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '35 (mid.)'
+                  reading: Jn_10:1-9
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '318'
+                  reading: Heb_7:26-8:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '36'
+                  reading: Jn_10:9-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '012701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者迪弥特里（君士坦丁堡，1784年）
+            Short: 新殉道者迪弥特里（君士坦丁堡，1784年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012700'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣彼得（埃及人，5世纪）
+            Short: 圣彼得（埃及人，5世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012702'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣蒂图斯（士兵，基辐洞窟修道院的修士）
+            Short: 圣蒂图斯（士兵，基辐洞窟修道院的修士）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012703'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣迪弥特里（本姓克勒彼尼奈，巴黎城司祭，1944年）
+            Short: 圣迪弥特里（本姓克勒彼尼奈，巴黎城司祭，1944年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012704'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣莱翁提（本姓斯塔塞维奇，伊凡诺沃地方人，1972年）
+            Short: 圣莱翁提（本姓斯塔塞维奇，伊凡诺沃地方人，1972年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012705'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭莱翁提（密修者，波兰的塔尔诺颇尔及嘉布乐切那地方人，1972年）
+            Short: 新殉道司祭莱翁提（密修者，波兰的塔尔诺颇尔及嘉布乐切那地方人，1972年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012706'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬迁圣马尔前娜之圣髑纪念日
+            Short: 敬迁圣马尔前娜之圣髑纪念日
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012707'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣纳塔利斯
+            Short: 圣纳塔利斯
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+  zh/Hant:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9308'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬節後第卅七周安息日
+            Short: 五旬節後第卅七周安息日
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '18'
+                  pericope: '162'
+                  reading: 'I Cor_15:39-45'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '84'
+                  reading: Lk_17:3-10
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '09022'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬遷君士坦丁堡總主教聖金口約翰之聖髑紀念日（437年）
+            Short: 敬遷君士坦丁堡總主教聖金口約翰之聖髑紀念日（437年）
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '35 (mid.)'
+                  reading: Jn_10:1-9
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '318'
+                  reading: Heb_7:26-8:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '36'
+                  reading: Jn_10:9-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '012701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者迪彌特里（君士坦丁堡，1784年）
+            Short: 新殉道者迪彌特里（君士坦丁堡，1784年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012700'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖裴特若（埃及人，五世紀）
+            Short: 聖裴特若（埃及人，五世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012702'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖蒂圖斯（士兵，基輻洞窟修道院的修士）
+            Short: 聖蒂圖斯（士兵，基輻洞窟修道院的修士）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012703'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖迪彌特里（本姓克勒彼尼奈，巴黎城司祭，1944年）
+            Short: 聖迪彌特里（本姓克勒彼尼奈，巴黎城司祭，1944年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012704'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖萊翁提（本姓斯塔塞維奇，伊凡諾沃地方人，1972年）
+            Short: 聖萊翁提（本姓斯塔塞維奇，伊凡諾沃地方人，1972年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012705'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭萊翁提（密修者，波蘭的塔爾諾頗爾及嘉布樂切那地方人，1972年）
+            Short: 新殉道司祭萊翁提（密修者，波蘭的塔爾諾頗爾及嘉布樂切那地方人，1972年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012706'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬遷聖馬爾前娜之聖髑紀念日
+            Short: 敬遷聖馬爾前娜之聖髑紀念日
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012707'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖納塔利斯
+            Short: 聖納塔利斯
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9308'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬節後第卅七周安息日
+            Short: 五旬節後第卅七周安息日
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '18'
+                  pericope: '162'
+                  reading: 'I Cor_15:39-45'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '84'
+                  reading: Lk_17:3-10
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '09022'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬遷君士坦丁堡總主教聖金口約翰之聖髑紀念日（437年）
+            Short: 敬遷君士坦丁堡總主教聖金口約翰之聖髑紀念日（437年）
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '35 (mid.)'
+                  reading: Jn_10:1-9
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '318'
+                  reading: Heb_7:26-8:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '36'
+                  reading: Jn_10:9-16
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '4'
+        -
+          cid: '012701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者迪彌特里（君士坦丁堡，1784年）
+            Short: 新殉道者迪彌特里（君士坦丁堡，1784年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012700'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖裴特若（埃及人，五世紀）
+            Short: 聖裴特若（埃及人，五世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012702'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖蒂圖斯（士兵，基輻洞窟修道院的修士）
+            Short: 聖蒂圖斯（士兵，基輻洞窟修道院的修士）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012703'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖迪彌特里（本姓克勒彼尼奈，巴黎城司祭，1944年）
+            Short: 聖迪彌特里（本姓克勒彼尼奈，巴黎城司祭，1944年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012704'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖萊翁提（本姓斯塔塞維奇，伊凡諾沃地方人，1972年）
+            Short: 聖萊翁提（本姓斯塔塞維奇，伊凡諾沃地方人，1972年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012705'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭萊翁提（密修者，波蘭的塔爾諾頗爾及嘉布樂切那地方人，1972年）
+            Short: 新殉道司祭萊翁提（密修者，波蘭的塔爾諾頗爾及嘉布樂切那地方人，1972年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012706'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬遷聖馬爾前娜之聖髑紀念日
+            Short: 敬遷聖馬爾前娜之聖髑紀念日
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012707'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖納塔利斯
+            Short: 聖納塔利斯
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3

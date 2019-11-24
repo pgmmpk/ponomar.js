@@ -1,0 +1,1524 @@
+---
+date: 2019/3/15
+langs:
+  cu:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9831'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Четверто́къ г҃-ѧ седми́цы ст҃а́гѡ поста̀'
+            Short: Четверто́къ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_11:10-12:2
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_7:11-8:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_10:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '646'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника а҆га́пїа и҆ съ ни́мъ семѝ мꙋ́ченикѡвъ: пꙋплі́ѧ, тїмола́ѧ, рѡмѵ́ла, двꙋ́хъ Александров и҆ двꙋ́хъ Дионисиев (303)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031500'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника а҆леѯі́а пресвѵ́тера (1938)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника мїхаи́ла пресвѵ́тера (1940)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '647'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника а҆леѯа́ндра, иерея въ Сиде (270-275)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '648'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника нїка́ндра (ок. 302)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9831'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Четверто́къ г҃-ѧ седми́цы ст҃а́гѡ поста̀'
+            Short: Четверто́къ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_11:10-12:2
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_7:11-8:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_10:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '646'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника а҆га́пїа и҆ съ ни́мъ семѝ мꙋ́ченикѡвъ: пꙋплі́ѧ, тїмола́ѧ, рѡмѵ́ла, двꙋ́хъ Александров и҆ двꙋ́хъ Дионисиев (303)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031500'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника а҆леѯі́а пресвѵ́тера (1938)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника мїхаи́ла пресвѵ́тера (1940)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '647'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника а҆леѯа́ндра, иерея въ Сиде (270-275)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '648'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника нїка́ндра (ок. 302)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+  cu/ru:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9831'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Четверг 3-й седмицы Великого поста'
+            Nominative: 'Четверг 3-й седмицы Великого поста'
+            Short: 'Четверг 3-й седмицы Великого поста'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_11:10-12:2
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_7:11-8:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_10:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '646'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Агапия и с ним семи мучеников: Пуплия, Тимолая, Ромила, двух Александров и двух Дионисиев (303)'
+            Short: 'Мч. Агапия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031500'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Алексия пресвитера (1938)'
+            Short: 'Сщмч. Алексия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Михаила пресвитера (1940)'
+            Short: 'Сщмч. Михаила'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '647'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Александра, иерея в Сиде (270-275)'
+            Short: 'Сщмч. Александра'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '648'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Никандра (ок. 302)'
+            Short: 'Мч. Никандра'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9831'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Четверг 3-й седмицы Великого поста'
+            Nominative: 'Четверг 3-й седмицы Великого поста'
+            Short: 'Четверг 3-й седмицы Великого поста'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_11:10-12:2
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_7:11-8:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_10:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '646'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Агапия и с ним семи мучеников: Пуплия, Тимолая, Ромила, двух Александров и двух Дионисиев (303)'
+            Short: 'Мч. Агапия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031500'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Алексия пресвитера (1938)'
+            Short: 'Сщмч. Алексия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Михаила пресвитера (1940)'
+            Short: 'Сщмч. Михаила'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '647'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Александра, иерея в Сиде (270-275)'
+            Short: 'Сщмч. Александра'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '648'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Никандра (ок. 302)'
+            Short: 'Мч. Никандра'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+  el:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9831'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Πέμπτη
+            Short: Πέμπτη
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_11:10-12:2
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_7:11-8:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_10:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '646'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἀγάπιος καὶ τῶν σὺν αὐτῷ μάρτυρες: Πλήσιος, Ῥωμύλος, Τιμόλαος, Ἀλέξανδρος, Ἀλέξανδρος (ἕτερος), Διονύσιος καὶ Διονύσιος (ἕτερος)'
+            Short: 'Ἅγιος Ἀγάπιος καὶ τῶν σὺν αὐτῷ μάρτυρες: Πλήσιος, Ῥωμύλος, Τιμόλαος, Ἀλέξανδρος, Ἀλέξανδρος (ἕτερος), Διονύσιος καὶ Διονύσιος (ἕτερος)'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '25501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἀριστόβουλος, Ἐπίσκοπος Βρετανίας'
+            Short: 'Ἅγιος Ἀριστόβουλος, Ἐπίσκοπος Βρετανίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Μανουὴλ ὁ ἐκ Σφακίων'
+            Short: 'Ἅγιος Μανουὴλ ὁ ἐκ Σφακίων'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '648'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Νίκανδρος ὁ ἐν Αἰγύπτῳ'
+            Short: 'Ἅγιος Νίκανδρος ὁ ἐν Αἰγύπτῳ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03150295'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Μνήμη τῆς Σωτηρίας τῆς νήσου Λευκάδος'
+            Short: 'Μνήμη τῆς Σωτηρίας τῆς νήσου Λευκάδος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03150395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἀγάπιος ὁ ἐν Σκήτη, Κολιτζοϋ'
+            Short: 'Ὅσιος Ἀγάπιος ὁ ἐν Σκήτη, Κολιτζοϋ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03150495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἰωάννης ὁ ἐν τῷ φρέατι'
+            Short: 'Ὅσιος Ἰωάννης ὁ ἐν τῷ φρέατι'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9831'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Πέμπτη
+            Short: Πέμπτη
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_11:10-12:2
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_7:11-8:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_10:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '646'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἀγάπιος καὶ τῶν σὺν αὐτῷ μάρτυρες: Πλήσιος, Ῥωμύλος, Τιμόλαος, Ἀλέξανδρος, Ἀλέξανδρος (ἕτερος), Διονύσιος καὶ Διονύσιος (ἕτερος)'
+            Short: 'Ἅγιος Ἀγάπιος καὶ τῶν σὺν αὐτῷ μάρτυρες: Πλήσιος, Ῥωμύλος, Τιμόλαος, Ἀλέξανδρος, Ἀλέξανδρος (ἕτερος), Διονύσιος καὶ Διονύσιος (ἕτερος)'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '25501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἀριστόβουλος, Ἐπίσκοπος Βρετανίας'
+            Short: 'Ἅγιος Ἀριστόβουλος, Ἐπίσκοπος Βρετανίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Μανουὴλ ὁ ἐκ Σφακίων'
+            Short: 'Ἅγιος Μανουὴλ ὁ ἐκ Σφακίων'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '648'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Νίκανδρος ὁ ἐν Αἰγύπτῳ'
+            Short: 'Ἅγιος Νίκανδρος ὁ ἐν Αἰγύπτῳ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03150295'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Μνήμη τῆς Σωτηρίας τῆς νήσου Λευκάδος'
+            Short: 'Μνήμη τῆς Σωτηρίας τῆς νήσου Λευκάδος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03150395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἀγάπιος ὁ ἐν Σκήτη, Κολιτζοϋ'
+            Short: 'Ὅσιος Ἀγάπιος ὁ ἐν Σκήτη, Κολιτζοϋ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03150495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἰωάννης ὁ ἐν τῷ φρέατι'
+            Short: 'Ὅσιος Ἰωάννης ὁ ἐν τῷ φρέατι'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+  en:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9831'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Thursday of the Third Week of Lent'
+            Short: 'Thursday of the Third Week of Lent'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_11:10-12:2
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_7:11-8:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_10:1-22
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '646'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Holy Martyrs Agapius, Publius, Timolaus, Romulus, Alexander, Alexander, Dionysius and Dionysius of Palestine († 303)'
+            Short: 'Holy Martyrs'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '031500'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Priest Alexis († 1938)'
+            Short: 'New Hieromartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Priest Michael († 1940)'
+            Short: 'New Hieromartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '647'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Alexander of Side, in Pamphylia († 270-275)'
+            Short: 'Hieromartyr Alexander'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '648'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Nicander of Egypt († c.  302)'
+            Short: 'Martyr Nicander'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Martyr Manuel of Crete'
+            Short: 'New Martyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Nicander of Gorodnoezersk'
+            Short: 'Venerable Nicander'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9831'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Thursday of the Third Week of Lent'
+            Short: 'Thursday of the Third Week of Lent'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_11:10-12:2
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_7:11-8:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_10:1-22
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '646'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Holy Martyrs Agapius, Publius, Timolaus, Romulus, Alexander, Alexander, Dionysius and Dionysius of Palestine († 303)'
+            Short: 'Holy Martyrs'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '031500'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Priest Alexis († 1938)'
+            Short: 'New Hieromartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Priest Michael († 1940)'
+            Short: 'New Hieromartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '647'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Alexander of Side, in Pamphylia († 270-275)'
+            Short: 'Hieromartyr Alexander'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '648'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Nicander of Egypt († c.  302)'
+            Short: 'Martyr Nicander'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Martyr Manuel of Crete'
+            Short: 'New Martyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Nicander of Gorodnoezersk'
+            Short: 'Venerable Nicander'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+  fr:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9831'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Jeudi de la 3-me semaine du Carême'
+            Short: 'Jeudi de la 3-me semaine du Carême'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_11:10-12:2
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_7:11-8:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_10:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '646'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Agapios, Paissios (ou Plision), Romulus, 2 Denys et 2 Alexandre à Césarée de Palestine'
+            Short: 'Sts. Agapios'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '25501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Aristobule, Apôtre, Evêque de Cornwall en Grande-Bretagne'
+            Short: 'St. Aristobule'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '648'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Nicandre en Egypte'
+            Short: 'St. Nicandre'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Manuel le Crétois'
+            Short: 'St. Manuel'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Nicandre de Gorodno'
+            Short: 'St. Nicandre'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9831'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Jeudi de la 3-me semaine du Carême'
+            Short: 'Jeudi de la 3-me semaine du Carême'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_11:10-12:2
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_7:11-8:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_10:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '646'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Agapios, Paissios (ou Plision), Romulus, 2 Denys et 2 Alexandre à Césarée de Palestine'
+            Short: 'Sts. Agapios'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '25501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Aristobule, Apôtre, Evêque de Cornwall en Grande-Bretagne'
+            Short: 'St. Aristobule'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '648'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Nicandre en Egypte'
+            Short: 'St. Nicandre'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Manuel le Crétois'
+            Short: 'St. Manuel'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Nicandre de Gorodno'
+            Short: 'St. Nicandre'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+  zh/Hans:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9831'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大斋期第三周瞻礼五
+            Short: 大斋期第三周瞻礼五
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_11:10-12:2
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_7:11-8:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_10:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '646'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者阿伽彼，普弗利（一名帕弗普利）提摩拉、罗玛诺、两位同名者迪奥尼西、两位同名者亚历山大（巴勒斯坦的凯撒里亚，303年）
+            Short: 殉道者阿伽彼，普弗利（一名帕弗普利）提摩拉、罗玛诺、两位同名者迪奥尼西、两位同名者亚历山大（巴勒斯坦的凯撒里亚，303年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '031500'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭阿莱克西（1938年）
+            Short: 新殉道司祭阿莱克西（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭米迦勒（1940年）
+            Short: 新殉道司祭米迦勒（1940年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '647'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司祭亚历山大（庞菲利亚的西德地方，270-275年）
+            Short: 殉道司祭亚历山大（庞菲利亚的西德地方，270-275年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '648'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者尼堪德尔（埃及，约302年）
+            Short: 殉道者尼堪德尔（埃及，约302年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者埃玛努伊尔（克里特，1792年）
+            Short: 新殉道者埃玛努伊尔（克里特，1792年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣尼堪德尔（诺夫哥罗德的格罗德茨地方修士，1603年）
+            Short: 圣尼堪德尔（诺夫哥罗德的格罗德茨地方修士，1603年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031504'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣匝哈里亚（罗马教宗，752年）
+            Short: 圣匝哈里亚（罗马教宗，752年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9831'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大斋期第三周瞻礼五
+            Short: 大斋期第三周瞻礼五
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_11:10-12:2
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_7:11-8:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_10:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '646'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者阿伽彼，普弗利（一名帕弗普利）提摩拉、罗玛诺、两位同名者迪奥尼西、两位同名者亚历山大（巴勒斯坦的凯撒里亚，303年）
+            Short: 殉道者阿伽彼，普弗利（一名帕弗普利）提摩拉、罗玛诺、两位同名者迪奥尼西、两位同名者亚历山大（巴勒斯坦的凯撒里亚，303年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '031500'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭阿莱克西（1938年）
+            Short: 新殉道司祭阿莱克西（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭米迦勒（1940年）
+            Short: 新殉道司祭米迦勒（1940年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '647'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司祭亚历山大（庞菲利亚的西德地方，270-275年）
+            Short: 殉道司祭亚历山大（庞菲利亚的西德地方，270-275年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '648'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者尼堪德尔（埃及，约302年）
+            Short: 殉道者尼堪德尔（埃及，约302年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者埃玛努伊尔（克里特，1792年）
+            Short: 新殉道者埃玛努伊尔（克里特，1792年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣尼堪德尔（诺夫哥罗德的格罗德茨地方修士，1603年）
+            Short: 圣尼堪德尔（诺夫哥罗德的格罗德茨地方修士，1603年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031504'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣匝哈里亚（罗马教宗，752年）
+            Short: 圣匝哈里亚（罗马教宗，752年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+  zh/Hant:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9831'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大齋期第三周瞻禮五
+            Short: 大齋期第三周瞻禮五
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_11:10-12:2
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_7:11-8:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_10:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '646'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者阿伽彼，普弗利（一名帕弗普利）提摩拉、羅瑪諾、兩位同名者迪奧尼西、兩位同名者亞歷山大（巴勒斯坦的凱撒里亞，303年）
+            Short: 殉道者阿伽彼，普弗利（一名帕弗普利）提摩拉、羅瑪諾、兩位同名者迪奧尼西、兩位同名者亞歷山大（巴勒斯坦的凱撒里亞，303年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '031500'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭阿萊克西（1938年）
+            Short: 新殉道司祭阿萊克西（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭米迦勒（1940年）
+            Short: 新殉道司祭米迦勒（1940年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '647'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司祭亞歷山大（龐菲利亞的西德地方，270-275年）
+            Short: 殉道司祭亞歷山大（龐菲利亞的西德地方，270-275年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '648'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者尼堪德爾（埃及，約302年）
+            Short: 殉道者尼堪德爾（埃及，約302年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者埃瑪努伊爾（克里特，1792年）
+            Short: 新殉道者埃瑪努伊爾（克里特，1792年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖尼堪德爾（諾夫哥羅德的格羅德茨地方修士，1603年）
+            Short: 聖尼堪德爾（諾夫哥羅德的格羅德茨地方修士，1603年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031504'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖匝哈里亞（羅馬教宗，752年）
+            Short: 聖匝哈里亞（羅馬教宗，752年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9831'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大齋期第三周瞻禮五
+            Short: 大齋期第三周瞻禮五
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_11:10-12:2
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_7:11-8:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_10:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '646'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者阿伽彼，普弗利（一名帕弗普利）提摩拉、羅瑪諾、兩位同名者迪奧尼西、兩位同名者亞歷山大（巴勒斯坦的凱撒里亞，303年）
+            Short: 殉道者阿伽彼，普弗利（一名帕弗普利）提摩拉、羅瑪諾、兩位同名者迪奧尼西、兩位同名者亞歷山大（巴勒斯坦的凱撒里亞，303年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '031500'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭阿萊克西（1938年）
+            Short: 新殉道司祭阿萊克西（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭米迦勒（1940年）
+            Short: 新殉道司祭米迦勒（1940年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '647'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司祭亞歷山大（龐菲利亞的西德地方，270-275年）
+            Short: 殉道司祭亞歷山大（龐菲利亞的西德地方，270-275年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '648'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者尼堪德爾（埃及，約302年）
+            Short: 殉道者尼堪德爾（埃及，約302年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者埃瑪努伊爾（克里特，1792年）
+            Short: 新殉道者埃瑪努伊爾（克里特，1792年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖尼堪德爾（諾夫哥羅德的格羅德茨地方修士，1603年）
+            Short: 聖尼堪德爾（諾夫哥羅德的格羅德茨地方修士，1603年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031504'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖匝哈里亞（羅馬教宗，752年）
+            Short: 聖匝哈里亞（羅馬教宗，752年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2

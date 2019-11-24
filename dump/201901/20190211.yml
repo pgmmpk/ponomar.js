@@ -1,0 +1,1692 @@
+---
+date: 2019/2/11
+langs:
+  cu:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9863'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Недѣ́лѧ блꙋ́днагѡ сы́на'
+            Short: Недѣ́лѧ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '114'
+                  reading: Lk_24:36-53
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '135'
+                  reading: 'I Cor_6:12-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '79'
+                  reading: Lk_15:11-32
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '435'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника вла́сїа, є҆пі́скопа севасті́йскагѡ, и҆ съ ни́мъ двꙋ́хъ ѻ҆трокѡ́въ и҆ ѕ҃ жє́нъ (ок. 316)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '438'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ бл҃говѣ́рнагѡ вели́кагѡ кнѧ́зѧ все́волода, нарече́ннагѡ во ст҃о́мъ креще́нїи гаврїи́ла, псковска́гѡ (1138)'
+            Short: 'Ст҃а́гѡ бл҃говѣ́рнагѡ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ дими́трїа прилꙋ́цкагѡ, волого́дскагѡ (1392)'
+            Short: 'Прпⷣбнагѡ дими́трїа'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '431'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пра́ведныѧ ѳеодѡ́ры, цари́цы (ок. 867)'
+            Short: 'Пра́веднагѡ ѳеодѡ́ры,'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 6
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9863'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Недѣ́лѧ блꙋ́днагѡ сы́на'
+            Short: Недѣ́лѧ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '114'
+                  reading: Lk_24:36-53
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '135'
+                  reading: 'I Cor_6:12-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '79'
+                  reading: Lk_15:11-32
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '435'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника вла́сїа, є҆пі́скопа севасті́йскагѡ, и҆ съ ни́мъ двꙋ́хъ ѻ҆трокѡ́въ и҆ ѕ҃ жє́нъ (ок. 316)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '438'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ бл҃говѣ́рнагѡ вели́кагѡ кнѧ́зѧ все́волода, нарече́ннагѡ во ст҃о́мъ креще́нїи гаврїи́ла, псковска́гѡ (1138)'
+            Short: 'Ст҃а́гѡ бл҃говѣ́рнагѡ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ дими́трїа прилꙋ́цкагѡ, волого́дскагѡ (1392)'
+            Short: 'Прпⷣбнагѡ дими́трїа'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '431'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пра́ведныѧ ѳеодѡ́ры, цари́цы (ок. 867)'
+            Short: 'Пра́веднагѡ ѳеодѡ́ры,'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 6
+  cu/ru:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9863'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Неделя о блуднем сыне'
+            Nominative: 'Неделя о блуднем сыне'
+            Short: 'Неделя о блуднем сыне'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '114'
+                  reading: Lk_24:36-53
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '135'
+                  reading: 'I Cor_6:12-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '79'
+                  reading: Lk_15:11-32
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '435'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Священномученик Власий, епископ Севастийский, известен своей праведной, благочестивой жизнью. Он был единодушно избран жителями и рукоположен во епископа города Севастии. Было это в царствование римских императоров Диоклитиана (284—305) и Ликиния (307—324) — жестоких гонителей христиан. Святому Власию приходилось укреплять своих пасомых, посещать заключенных, поддерживать мучеников.    Многие скрывались от преследователей в пустынных и уединенных местах. Власию также пришлось удалиться на гору Аргеос, где он подвизался в пещере. К нему приходили дикие звери и кротко ждали, пока святой окончит молитву и благословит их; больных животных святитель исцелял, возлагая на них руки. Убежище святого было открыто слугами правителя Агриколая, прибывшими для отлова зверей, чтобы терзать мучеников-христиан. Слуги донесли господину, что на горе скрываются христиане, и он повелел схватить их. Однако посланные нашли лишь севастийского епископа. Прославляя Бога, призывающего его на подвиг, святой Власий последовал за воинами.    По пути святой исцелял больных и совершал чудеса. Так, бедная вдова пожаловалась ему на свою беду: волк утащил единственное ее достояние — поросенка. Епископ улыбнулся и сказал ей: «Не плачь, твой поросенок будет тебе возвращен…» И, действительно, ко всеобщему изумлению, волк прибежал обратно и принес добычу невредимой.    Агриколай, встретив епископа льстивыми словами, назвал его другом богов. Святой ответил на приветствие, но языческих богов назвал бесами. Тогда его подвергли жестокому избиению и отвели в темницу.    На другой день святого опять подвергли мучениям. Когда же его вели обратно в темницу, семь женщин шли сзади и собирали капли крови. Их схватили и пытались заставить поклониться идолам. Жены притворно согласились на это, сказав, что совершат перед этим очищение в водах озера. Они взяли идолов и утопили их в самом глубоком месте, после чего христианок стали жестоко истязать. Святые стойко переносили мучения, укрепляемые благодатью Божией, тела их преобразились, стали белыми, йак снег, и вместо крови из ран текло молоко. У одной из женщин было два юных сына, которые просили мать, чтобы она помогла им достигнуть Царствия Небесного и поручила их попечению епископа Власия. Семи святым женам отсекли головы.    Святой Власий снова был приведен к Агриколаю и вновь непреклонно исповедал веру во Христа. Правитель приказал бросить мученика в озеро. Святой, подойдя к воде, осенил ее крестным знамением и пошел, как по суше. Обратившись к стоявшим на берегу язычникам, святитель предложил им идти к нему, призвав в помощь своих богов. На это дерзнули 68 приближенных правителя, и все, войдя в воду, немедленно утонули. Святой же, повинуясь велению явившегося ему Ангела, вернулся на берег.    Агриколай был в ярости оттого, что потерял лучших слуг, и приказал обезглавить святого Власия, а с ним и двух порученных его попечению юношей, сыновей мученицы. Перед смертью священномученик молился обо всем мире, особенно» же о тех, кто будет чтить его память. Это произошло около 316 года. Мощи священномученика Власия были перенесены на Запад во время крестовых походов, частицы их хранятся во многих странах Европы. \n"
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Власия, еп. Севастийского, и с ним двух отроков и 7 жен (ок. 316)'
+            Short: 'Сщмч. Власия'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '438'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: Всеволода
+            Nominative: 'Блгв. Кн. Всеволода, во св. Крещении Гавриила, Псковского (1138)'
+            Short: Всеволод
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '600'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n     Преподобный Димитрий Прилуцкий, чудотворец, родился в богатой купеческой семье в Переславле-Залесском. С юности преподобный отличался редкой красотой. Приняв постриг в одном из Переславльских монастырей, в Нагорном Борисоглебском, на берегу Плещеева озера близ города святой основал Никольский общежительный монастырь и стал его игуменом.     В 1354 году Димитрий впервые встретился с Преподобным Сергием Радонежским, приходившим в Переславль к епископу Афанасию. С тех пор неоднократно беседовал с Преподобным Сергием и сблизился с ним. Слава о переславльском игумене так распространилась, что он стал восприемником детей великого князя Димитрия Ивановича. Под влиянием Радонежского чудотворца преподобный решил удалиться в глухое место и вместе с учеником Пахомием отправился на Север. В вологодских лесах, на реке Великой, в Авнежской округе,, они построили храм Воскресения Христова и хотели положить основание монастырю. Но местные жители боялись лишиться угодий, и пустынники, не желая никому быть в тягость, отправились дальше.     Неподалеку от Вологды, в излучине реки, в уединенном месте преподобный Димитрий решил создать первый на русском Севере общежительный монастырь. Жители Вологды и окрестностей с радостью согласились помочь святому. Владельцы земли, предназначенной под монастырь, Илья и Исидор, затоптали даже озимые нивы, чтобы храм был построен немедленно. В 1371 году воздвигнут был деревянный Спасский собор, и начала собираться братия. Многие ученики преподобного перешли сюда из Переславля.  Углубленная молитва и строжайшее подвижничество сочетались у прилуцкого игумена с милосердием: он кормил нищих и голод ных, принимал странников, беседовал с нуждающимися в утеше нии, давал советы. Преподобный любил молиться наедине. По стоянной пищей его была лишь просфора с теплой водой, даже в  праздники не принимал он разрешенные уставом вино и рыбу.  Зимой и летом носил один и тот же старый тулуп, до глубокой старости ходил вместе с братией на общие работы. Вклады в обитель святой принимал с разбором, следя, чтобы благотворения монастырю не были в ущерб ближним подававших. Господь наделил Своего угодника даром прозорливости. Скончался преподобный в глубокой старости 11 февраля 1392 года. Пришедшие братия нашли его как бы уснувшим,, келлия же была исполнена чудного благоухания. Чудеса от мощей святого Димитрия начались в 1409 году, а в XV столетии почитание его распространилось по всей Руси. Не позднее 1440 года, на основании рассказов ученика Димитрия, игумена Пахомия, прилуцкий инок Макарий написал его житие (Великие Минеи-Четьи, 11 февраля). \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Димитрия Прилуцкого, Вологодского (1392).'
+            Short: 'Прп. Димитрия'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '431'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прав. Феодоры, царицы Греческой, восстановившей почитание святых икон (ок. 867)'
+            Short: 'Прав. Феодоры'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 6
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9863'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Неделя о блуднем сыне'
+            Nominative: 'Неделя о блуднем сыне'
+            Short: 'Неделя о блуднем сыне'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '114'
+                  reading: Lk_24:36-53
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '135'
+                  reading: 'I Cor_6:12-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '79'
+                  reading: Lk_15:11-32
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '435'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Священномученик Власий, епископ Севастийский, известен своей праведной, благочестивой жизнью. Он был единодушно избран жителями и рукоположен во епископа города Севастии. Было это в царствование римских императоров Диоклитиана (284—305) и Ликиния (307—324) — жестоких гонителей христиан. Святому Власию приходилось укреплять своих пасомых, посещать заключенных, поддерживать мучеников.    Многие скрывались от преследователей в пустынных и уединенных местах. Власию также пришлось удалиться на гору Аргеос, где он подвизался в пещере. К нему приходили дикие звери и кротко ждали, пока святой окончит молитву и благословит их; больных животных святитель исцелял, возлагая на них руки. Убежище святого было открыто слугами правителя Агриколая, прибывшими для отлова зверей, чтобы терзать мучеников-христиан. Слуги донесли господину, что на горе скрываются христиане, и он повелел схватить их. Однако посланные нашли лишь севастийского епископа. Прославляя Бога, призывающего его на подвиг, святой Власий последовал за воинами.    По пути святой исцелял больных и совершал чудеса. Так, бедная вдова пожаловалась ему на свою беду: волк утащил единственное ее достояние — поросенка. Епископ улыбнулся и сказал ей: «Не плачь, твой поросенок будет тебе возвращен…» И, действительно, ко всеобщему изумлению, волк прибежал обратно и принес добычу невредимой.    Агриколай, встретив епископа льстивыми словами, назвал его другом богов. Святой ответил на приветствие, но языческих богов назвал бесами. Тогда его подвергли жестокому избиению и отвели в темницу.    На другой день святого опять подвергли мучениям. Когда же его вели обратно в темницу, семь женщин шли сзади и собирали капли крови. Их схватили и пытались заставить поклониться идолам. Жены притворно согласились на это, сказав, что совершат перед этим очищение в водах озера. Они взяли идолов и утопили их в самом глубоком месте, после чего христианок стали жестоко истязать. Святые стойко переносили мучения, укрепляемые благодатью Божией, тела их преобразились, стали белыми, йак снег, и вместо крови из ран текло молоко. У одной из женщин было два юных сына, которые просили мать, чтобы она помогла им достигнуть Царствия Небесного и поручила их попечению епископа Власия. Семи святым женам отсекли головы.    Святой Власий снова был приведен к Агриколаю и вновь непреклонно исповедал веру во Христа. Правитель приказал бросить мученика в озеро. Святой, подойдя к воде, осенил ее крестным знамением и пошел, как по суше. Обратившись к стоявшим на берегу язычникам, святитель предложил им идти к нему, призвав в помощь своих богов. На это дерзнули 68 приближенных правителя, и все, войдя в воду, немедленно утонули. Святой же, повинуясь велению явившегося ему Ангела, вернулся на берег.    Агриколай был в ярости оттого, что потерял лучших слуг, и приказал обезглавить святого Власия, а с ним и двух порученных его попечению юношей, сыновей мученицы. Перед смертью священномученик молился обо всем мире, особенно» же о тех, кто будет чтить его память. Это произошло около 316 года. Мощи священномученика Власия были перенесены на Запад во время крестовых походов, частицы их хранятся во многих странах Европы. \n"
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Власия, еп. Севастийского, и с ним двух отроков и 7 жен (ок. 316)'
+            Short: 'Сщмч. Власия'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '438'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: Всеволода
+            Nominative: 'Блгв. Кн. Всеволода, во св. Крещении Гавриила, Псковского (1138)'
+            Short: Всеволод
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '600'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n     Преподобный Димитрий Прилуцкий, чудотворец, родился в богатой купеческой семье в Переславле-Залесском. С юности преподобный отличался редкой красотой. Приняв постриг в одном из Переславльских монастырей, в Нагорном Борисоглебском, на берегу Плещеева озера близ города святой основал Никольский общежительный монастырь и стал его игуменом.     В 1354 году Димитрий впервые встретился с Преподобным Сергием Радонежским, приходившим в Переславль к епископу Афанасию. С тех пор неоднократно беседовал с Преподобным Сергием и сблизился с ним. Слава о переславльском игумене так распространилась, что он стал восприемником детей великого князя Димитрия Ивановича. Под влиянием Радонежского чудотворца преподобный решил удалиться в глухое место и вместе с учеником Пахомием отправился на Север. В вологодских лесах, на реке Великой, в Авнежской округе,, они построили храм Воскресения Христова и хотели положить основание монастырю. Но местные жители боялись лишиться угодий, и пустынники, не желая никому быть в тягость, отправились дальше.     Неподалеку от Вологды, в излучине реки, в уединенном месте преподобный Димитрий решил создать первый на русском Севере общежительный монастырь. Жители Вологды и окрестностей с радостью согласились помочь святому. Владельцы земли, предназначенной под монастырь, Илья и Исидор, затоптали даже озимые нивы, чтобы храм был построен немедленно. В 1371 году воздвигнут был деревянный Спасский собор, и начала собираться братия. Многие ученики преподобного перешли сюда из Переславля.  Углубленная молитва и строжайшее подвижничество сочетались у прилуцкого игумена с милосердием: он кормил нищих и голод ных, принимал странников, беседовал с нуждающимися в утеше нии, давал советы. Преподобный любил молиться наедине. По стоянной пищей его была лишь просфора с теплой водой, даже в  праздники не принимал он разрешенные уставом вино и рыбу.  Зимой и летом носил один и тот же старый тулуп, до глубокой старости ходил вместе с братией на общие работы. Вклады в обитель святой принимал с разбором, следя, чтобы благотворения монастырю не были в ущерб ближним подававших. Господь наделил Своего угодника даром прозорливости. Скончался преподобный в глубокой старости 11 февраля 1392 года. Пришедшие братия нашли его как бы уснувшим,, келлия же была исполнена чудного благоухания. Чудеса от мощей святого Димитрия начались в 1409 году, а в XV столетии почитание его распространилось по всей Руси. Не позднее 1440 года, на основании рассказов ученика Димитрия, игумена Пахомия, прилуцкий инок Макарий написал его житие (Великие Минеи-Четьи, 11 февраля). \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Димитрия Прилуцкого, Вологодского (1392).'
+            Short: 'Прп. Димитрия'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '431'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прав. Феодоры, царицы Греческой, восстановившей почитание святых икон (ок. 867)'
+            Short: 'Прав. Феодоры'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 6
+  el:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9863'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Κυριακὴ τοῦ Ασώτου'
+            Short: Κυριακὴ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '114'
+                  reading: Lk_24:36-53
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '135'
+                  reading: 'I Cor_6:12-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '79'
+                  reading: Lk_15:11-32
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '435'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Βλάσιος Ἐπίσκοπος Σεβαστείας'
+            Short: 'Ἅγιος Βλάσιος Ἐπίσκοπος Σεβαστείας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '431'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγία Θεοδώρα ἡ Βασίλισσα'
+            Short: 'Ἁγία Θεοδώρα ἡ Βασίλισσα'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02110295'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Βλάσιος ὁ ἱερομάρτυρας ἐξ Ἀκαρνανίας'
+            Short: 'Ἅγιος Βλάσιος ὁ ἱερομάρτυρας ἐξ Ἀκαρνανίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02110395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγίω Δύο παῖδες'
+            Short: 'Ἁγίω Δύο παῖδες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02110495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Άγιες Ἑπτὰ Γυναῖκες'
+            Short: 'Άγιες Ἑπτὰ Γυναῖκες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02110595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Εὕρεσις τῶν τιμίων λειψάνων τἉγίου Ζαχαρίου Πατρὸς Ἰωάννου Προδρόμου'
+            Short: 'Εὕρεσις τῶν τιμίων λειψάνων τἉγίου Ζαχαρίου Πατρὸς Ἰωάννου Προδρόμου'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '021101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Γεώργιος ὁ Νεομάρτυρας ἐκ Σερβίας'
+            Short: 'Ἅγιος Γεώργιος ὁ Νεομάρτυρας ἐκ Σερβίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02110795'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Μνήμη θαύματος τῆς Ὑπεραγίας Θεοτόκου στὴν Πάργα τῆς Νικόπολης'
+            Short: 'Μνήμη θαύματος τῆς Ὑπεραγίας Θεοτόκου στὴν Πάργα τῆς Νικόπολης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02110895'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Γρηγόριος ὁ Σιναΐτης'
+            Short: 'Ὅσιος Γρηγόριος ὁ Σιναΐτης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '438'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Γαβριὴλ ὁ βασιλέας'
+            Short: 'Ἅγιος Γαβριὴλ ὁ βασιλέας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Δημήτριος ἐκ Ῥωσίας'
+            Short: 'Ὅσιος Δημήτριος ἐκ Ῥωσίας'
+          ref: ~
+          src: menaion
+          type: '3'
+        -
+          cid: '02111195'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Κασσιανὸς ἐκ Ῥωσίας'
+            Short: 'Ὅσιος Κασσιανὸς ἐκ Ῥωσίας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 6
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9863'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Κυριακὴ τοῦ Ασώτου'
+            Short: Κυριακὴ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '114'
+                  reading: Lk_24:36-53
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '135'
+                  reading: 'I Cor_6:12-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '79'
+                  reading: Lk_15:11-32
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '435'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Βλάσιος Ἐπίσκοπος Σεβαστείας'
+            Short: 'Ἅγιος Βλάσιος Ἐπίσκοπος Σεβαστείας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '431'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγία Θεοδώρα ἡ Βασίλισσα'
+            Short: 'Ἁγία Θεοδώρα ἡ Βασίλισσα'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02110295'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Βλάσιος ὁ ἱερομάρτυρας ἐξ Ἀκαρνανίας'
+            Short: 'Ἅγιος Βλάσιος ὁ ἱερομάρτυρας ἐξ Ἀκαρνανίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02110395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγίω Δύο παῖδες'
+            Short: 'Ἁγίω Δύο παῖδες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02110495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Άγιες Ἑπτὰ Γυναῖκες'
+            Short: 'Άγιες Ἑπτὰ Γυναῖκες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02110595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Εὕρεσις τῶν τιμίων λειψάνων τἉγίου Ζαχαρίου Πατρὸς Ἰωάννου Προδρόμου'
+            Short: 'Εὕρεσις τῶν τιμίων λειψάνων τἉγίου Ζαχαρίου Πατρὸς Ἰωάννου Προδρόμου'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '021101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Γεώργιος ὁ Νεομάρτυρας ἐκ Σερβίας'
+            Short: 'Ἅγιος Γεώργιος ὁ Νεομάρτυρας ἐκ Σερβίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02110795'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Μνήμη θαύματος τῆς Ὑπεραγίας Θεοτόκου στὴν Πάργα τῆς Νικόπολης'
+            Short: 'Μνήμη θαύματος τῆς Ὑπεραγίας Θεοτόκου στὴν Πάργα τῆς Νικόπολης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02110895'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Γρηγόριος ὁ Σιναΐτης'
+            Short: 'Ὅσιος Γρηγόριος ὁ Σιναΐτης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '438'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Γαβριὴλ ὁ βασιλέας'
+            Short: 'Ἅγιος Γαβριὴλ ὁ βασιλέας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Δημήτριος ἐκ Ῥωσίας'
+            Short: 'Ὅσιος Δημήτριος ἐκ Ῥωσίας'
+          ref: ~
+          src: menaion
+          type: '3'
+        -
+          cid: '02111195'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Κασσιανὸς ἐκ Ῥωσίας'
+            Short: 'Ὅσιος Κασσιανὸς ἐκ Ῥωσίας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 6
+  en:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9863'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sunday of the Prodigal Son'
+            Short: 'Sunday of the Prodigal Son'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '114'
+                  reading: Lk_24:36-53
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '135'
+                  reading: 'I Cor_6:12-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '79'
+                  reading: Lk_15:11-32
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '435'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Hieromartyr Blaise (Blasios), Bishop of Sebasteia, was known for his righteous and pious life. He was unanimously chosen by the people and ordained bishop of Sebasteia. This occurred during the reign of the Roman emperors Diocletian (284-305) and Licinius (307-324)—fierce persecutors of Christians. Saint Blaise had to encourage his flock, visit the imprisoned, and give support to the martyrs.</p><p>Many hid themselves away from the persecutors by going off into desolate and solitary places. Saint Blaise likewise took the opportunity to hide himself away on Mount Argeos, where he asceticised in a cave. Wild beasts came up to him and meekly waited until the saint finished his prayer and gave them blessing; the saint likewise healed sick animals by laying his hands upon them. The refuge of the saint was discovered by servants of the governor Agricolaus, being in the area to snare wild beasts to use to tear apart the Christian martyrs. The servants reported to their master that Christians were hidden away on the mountain, and he gave orders to arrest them. But those sent out found there only the Sebasteia bishop. Glorifying God Who had summoned him to this exploit, Saint Blaise followed the soldiers.</p><p>Along the way the saint healed the sick and worked other miracles. Thus, a destitute widow complained to him of her misfortune: a wolf had carried off her only possession—a small pig. The bishop smiled and said to her: “Weep not, thine piglet wilt be returned to thee….” And actually to the astonishment of everyone, the wolf came running back and returned his booty unharmed.</p><p>Agricolaus, greeting the bishop with words of deceit, called him a companion of the gods. The saint answered the greeting, but the gods he called devils. Then they gave him a fierce beating and led him off to prison.</p><p>On the next day they again subjected the saint to tortures. When they led him back to the prison, seven women went along behind and gathered up the drops of blood. These they arrested and tried to compel them to worship the idols. The women in pretending to consent to this said, that they needed cleansing beforehand in the waters of a lake. They took along the idols and submerged them in a very deep portion of the lake, and after this the Christians were fiercely tortured. The saints stoically endured the torments, strengthened by the grace of God, their bodies were transformed and became white like snow, and together with the blood there flowed what seemed like milk. One of the women had two young sons, who implored their mother that she help them attain the Kingdom of Heaven and she entrusted them into the care of Saint Blaise. The seven holy women were then beheaded. </p><p>Saint Blaise was again brought before Agricolaus, and again he unflinchingly confessed his faith in Christ. The governor gave orders to throw the martyr into a lake. The saint, going down to the water, signed himself with the Sign of the Cross, and he went about on it as though on dry land. Addressing the pagans standing about on shore, he challenged them to come to him whilst calling on the help of their gods. To this, 68 men of the governor’s retinue made bold and entered the water, and all immediately drowned. The saint, however, heeding the Angel that had appeared to him, returned to shore.</p><p>Agricolaus was in a rage over having lost his finest servants, and he gave orders to behead Saint Blaise, and together with him the two boys entrusted to him, the sons of the martyress. Before death, the priestmartyr prayed for all the whole world, and especially for those honouring his memory. This occurred in about the year 316. The relics of the Hieromartyr Blaise were carried off to the West during the time of the Crusades, and portions of the relics are preserved in many of the lands of Europe [and his memory traditionally honoured there on 3 February].</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Blaise, Bishop of Sebaste († c. 316)'
+            Short: 'Hieromartyr Blaise'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '02110099'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Lucius, Bishop of Adrianople'
+            Short: 'Hieromartyr Lucius'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '600'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Demetrius of Prilutsk, Wonderworker, was born into a rich merchant’s family in Pereyaslavl′-Zalessk. From the time of his youth the monk was uncommonly handsome. Having accepted monastic tonsure at one of the Pereyaslavl’ monasteries, the saint later founded the Nikol’sk (Saint Nicholas) life-in-common monastery on the Borisoglebsk Hill at the shore of Lake Plescheevo near the city, and became its hegumen. </p><p>In 1534 Saint Demetrius first met with the Monk Sergei Radonezh, who had come to Pereyaslavl’ to bishop Athanasius. From that time he repeatedly conversed with the Monk Sergei and became close with him. The fame of the Pereyaslavl’ hegumen so spread about, that he became godfather to the children of Greatprince Demetrius Ioannovich. Under the influence of the Radonezh wonderworker, the Monk Demetrius decided to withdraw off to a desolate place, and together with his disciple Pakhomii he set off North. In the Vologda forests, at the River Velika, in the Avnezhsk surroundings, they built a church of the Resurrection of Christ and they made ready to lay the foundations for a monastery. But the local inhabitants were fearful of losing out, and the wilderness-dwellers in their wish to be a burden to no one, set off further. </p><p>Not far from Vologda, at the bend of a river in an isolated spot, the Monk Demetrius decided to form the first of the life-in-common monasteries of the Russian North. The people of Vologda and the surrounding gladly consented to help the saint. The owners of the land intended for the monastery, Il′ya and Isidor, even trampled down a grain field, so that a temple might be built immediately. In 1371 the wooden Saviour cathedral was erected, and brethren began to gather. Many a disciple of the monk came thither from Pereyaslavl′. The deep prayer and quite strict asceticism was combined in the Prilutsk hegumen with kindliness: he fed the poor and hungry, he took in strangers, he conversed with those in need of consolation, and he gave counsel. The monk loved to pray in private. His Lenten food was but prosphora with warm water, and even on feastdays he would not partake of the wine and fish permitted by the ustav-rule. Both Winter and Summer he wore only his old sheepskin coat, and into old age he went off with the brethren on common tasks. Contributions to the monastery the saint accepted cautiously, so that the welfare of the monastery be not to the impairment of those living nearby. The Lord vouchsafed His servant the gift of perspicacity. The Monk Demetrius died at an advanced age on 11 February 1392. The brethren approaching found him as though asleep, and his cell was filled with a wondrous fragrance. Miracles from the relics of Saint Demetrius began in the year 1409, and during the XV Century his veneration spread throughout all Rus′. And not later than the year 1440, based on the narratives of Saint Demetrius’s disciple the hegumen Pakhomii, the Prilutsk monk Makarii recorded his life (Great Reading-Menaion, 11 February).</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Demetrius, Wonderworker of Priluki and Vologda († 1392)'
+            Short: 'Venerable Demetrius'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '3'
+        -
+          cid: '438'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>Holy Nobleborn Prince Vsevolod of Pskov, in Baptism Gabriel (Gavriil), a grandson of Vladimir Monomakh, was born at and spent almost all his life in Novgorod, where in the years 1088-1093 and 1095-1117 his father ruled as prince. His father was the holy prince Saint Mstislav-Theodore (Feodor) the Great († April 15, 1132). In the year 1117, when Great-prince Vladimir Monomakh gave Mstislav Kievan Belgorod as his “udel” (land-holding), practically making him coruler, young Vsevolod remained as vicar of his father in the Novgorod principality.</p><p>Holy Prince Vsevolod did much good for Novgorod. Together with the Archbishop of Novgorod, Saint Nyphontii (Comm. April 8), he raised up many a church, among which were—the cathedral of the Great Martyr George at the St. George’s (Yur′ev) monastery, and the church of Saint John the Forerunner at Opokakh, built in honour of the “Angel” (<i>i.e.</i> “patron saint”) of his first-born son John, who had died in infancy († 1128). In his Law-code (Ustav) the prince bestowed a deed of privileges (grammota) to the cathedral of Saint Sophia and other churches. During the time of a terrible famine, to save people from perishing, he exhausted his entire treasury. Prince Vsevolod was a valiant warrior, he marched victoriously against the Yam (in 1123) and Chud peoples, but never did he brandish the sword for profit or power.</p><p>In 1132, upon the death of holy Great-prince Mstislav, Vsevolod’s uncle, the Kiev prince Yaropolk Vladimirovich followed up the last-wishes of his brother and transferred Vsevolod Pereyaslavl′-South, then reckoned the eldest city after Kiev itself. But the younger sons of Monomakh—Yurii Dolgoruky and Andrei Dobry—were apprehensive lest Yaropolk make Vsevolod his successor, and so they marched out against their nephew. Not wanting internecine strife, Saint Vsevolod returned to Novgorod, but was received there with disaffection. The Novgorodians reckoned, that the prince had been “raised” by them and should not earlier have left them. “Vsevolod did go to Rus′, to Pereslavl′,—noted the Novgorod chronicler—and did kiss the cross against the Novgorodians, saying, ‘Ye I would kill.’”</p><p>Striving to restore good relations with the Novgorodians, the prince in 1133 undertook a new victorious campaign against the Chud people, and he annexed Yur′ev to the Novgorod domain. But a harsh Winter campaign in 1135-1136 against Suzdal′ ended unsuccessfully. The stubborn minded Novgorodians would not heed their chastisement by God, and they could not forgive the prince their defeat. The municipal assembly (veche) decided to summon a prince from the hostile Monomakh line of the Ol′govichei, and Saint Vsevolod they condemned to banishment: “Thou didst suffer banishment from thine own,”—is sung in the tropar to the saint. For a month and an half they held the prince with his family under guard at the archbishop’s palace, and when prince Svyatoslav Ol′govich arrived, he was expelled from the city.</p><p>Vsevolod went again to Kiev, and his uncle Yaropolk gave him as holding the Vyshgorod district near Kiev, the place where in the tenth Century during the rule of Svyatoslav had lived holy Equal-to-the-Apostles Great-princess Olga (Comm. 11 July). Saint Olga, “well preferring the cities of Kiev and Pskov,” came to the defence of her unrighteously wronged descendant: in the following year of 1137 the people of Pskov, mindful of the campaigns of the Novgorod-Pskov army under the lead of the prince, invited him to the Pskov principality, the native region of Saint Olga. This was the first Pskov prince, chosen through the will of the Pskov people itself. </p><p>Among the glorious works of holy prince Saint Vsevolod-Gabriel at Pskov was the construction of the first stone church in the Name of the Life-Originating Trinity, replacing a wooden one from the times of Saint Olga. On the icons of the saint they often depict him holding a temple “of That Above—the Holy Trinity.”</p><p>Saint Vsevolod ruled as prince at Pskov for only a year—on February 11, 1138 he died, at the age of 46. All Pskov gathered at the funeral of the beloved prince, and the church singing could barely be heard over the people’s wailing. The Novgorodians, in retrospect, sent off an archpriest from the Sophia cathedral to take his holy body back to Novgorod, but the prince had become loatheful of Novgorod, and the coffin would not move from the spot. Bitterly then did the Novgorod people bewail and repent in their misfortune, and they then besought to be given but a small bit of the holy dust “for upholding their city.” Through their prayers fell out, a fingernail from the hand of the saint was given. The Pskov people put Saint Vsevolod into the temple of the holy Great Martyr Demetrius. Alongside the grave they placed the military armament of the prince, shield and sword, in cruciform shape, with a Latin inscription to wit,—“I give away mine honour to no one.”</p><p>On November 27, 1192, the relics of holy Prince Vsevolod were uncovered and transferred into the Trinity cathedral, in which a chapel was consecrated in his honour. </p><p>On April 22, 1834, on the first day of Pascha, the holy relics were solemnly transferred into the main church-area of the cathedral. </p><p>The deep spiritual bond of the city of holy Equal-to-the-Apostles Olga with holy Prince Vsevolod was never broken: he always remained a Pskov wonderworker. At the siege of Pskov by Stefan Bathory in 1581, when the fortress walls were already breached and the Poles were ready to rush into the city, from the Trinity cathedral with a church procession they brought to the place of battle the holy relics of Prince Vsevolod, and the enemy withdrew. And with the appearance of the wonderworking Pskovo-Kiev Caves Icon (Comm. 1 October), holy Nobleborn Prince Vsevolod-Gabriel has stood amidst the Heavenly defenders of Pskov.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Holy Right-believing Prince Vsevolod (in Baptism Gabriel), Wonderworker of Pskov († 1138)'
+            Short: 'Holy Right-believing'
+          ref: ~
+          src: menaion
+          type: '2'
+        -
+          cid: '431'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Righteous Empress Theodora, Restorer of the Veneration of Holy Icons († ca 867)'
+            Short: 'Righteous Empress'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Martyr George, the Serbian of Kratovo († 1515)'
+            Short: 'New Martyr'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 6
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9863'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sunday of the Prodigal Son'
+            Short: 'Sunday of the Prodigal Son'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '114'
+                  reading: Lk_24:36-53
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '135'
+                  reading: 'I Cor_6:12-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '79'
+                  reading: Lk_15:11-32
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '435'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Hieromartyr Blaise (Blasios), Bishop of Sebasteia, was known for his righteous and pious life. He was unanimously chosen by the people and ordained bishop of Sebasteia. This occurred during the reign of the Roman emperors Diocletian (284-305) and Licinius (307-324)—fierce persecutors of Christians. Saint Blaise had to encourage his flock, visit the imprisoned, and give support to the martyrs.</p><p>Many hid themselves away from the persecutors by going off into desolate and solitary places. Saint Blaise likewise took the opportunity to hide himself away on Mount Argeos, where he asceticised in a cave. Wild beasts came up to him and meekly waited until the saint finished his prayer and gave them blessing; the saint likewise healed sick animals by laying his hands upon them. The refuge of the saint was discovered by servants of the governor Agricolaus, being in the area to snare wild beasts to use to tear apart the Christian martyrs. The servants reported to their master that Christians were hidden away on the mountain, and he gave orders to arrest them. But those sent out found there only the Sebasteia bishop. Glorifying God Who had summoned him to this exploit, Saint Blaise followed the soldiers.</p><p>Along the way the saint healed the sick and worked other miracles. Thus, a destitute widow complained to him of her misfortune: a wolf had carried off her only possession—a small pig. The bishop smiled and said to her: “Weep not, thine piglet wilt be returned to thee….” And actually to the astonishment of everyone, the wolf came running back and returned his booty unharmed.</p><p>Agricolaus, greeting the bishop with words of deceit, called him a companion of the gods. The saint answered the greeting, but the gods he called devils. Then they gave him a fierce beating and led him off to prison.</p><p>On the next day they again subjected the saint to tortures. When they led him back to the prison, seven women went along behind and gathered up the drops of blood. These they arrested and tried to compel them to worship the idols. The women in pretending to consent to this said, that they needed cleansing beforehand in the waters of a lake. They took along the idols and submerged them in a very deep portion of the lake, and after this the Christians were fiercely tortured. The saints stoically endured the torments, strengthened by the grace of God, their bodies were transformed and became white like snow, and together with the blood there flowed what seemed like milk. One of the women had two young sons, who implored their mother that she help them attain the Kingdom of Heaven and she entrusted them into the care of Saint Blaise. The seven holy women were then beheaded. </p><p>Saint Blaise was again brought before Agricolaus, and again he unflinchingly confessed his faith in Christ. The governor gave orders to throw the martyr into a lake. The saint, going down to the water, signed himself with the Sign of the Cross, and he went about on it as though on dry land. Addressing the pagans standing about on shore, he challenged them to come to him whilst calling on the help of their gods. To this, 68 men of the governor’s retinue made bold and entered the water, and all immediately drowned. The saint, however, heeding the Angel that had appeared to him, returned to shore.</p><p>Agricolaus was in a rage over having lost his finest servants, and he gave orders to behead Saint Blaise, and together with him the two boys entrusted to him, the sons of the martyress. Before death, the priestmartyr prayed for all the whole world, and especially for those honouring his memory. This occurred in about the year 316. The relics of the Hieromartyr Blaise were carried off to the West during the time of the Crusades, and portions of the relics are preserved in many of the lands of Europe [and his memory traditionally honoured there on 3 February].</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Blaise, Bishop of Sebaste († c. 316)'
+            Short: 'Hieromartyr Blaise'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '02110099'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Lucius, Bishop of Adrianople'
+            Short: 'Hieromartyr Lucius'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '600'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Demetrius of Prilutsk, Wonderworker, was born into a rich merchant’s family in Pereyaslavl′-Zalessk. From the time of his youth the monk was uncommonly handsome. Having accepted monastic tonsure at one of the Pereyaslavl’ monasteries, the saint later founded the Nikol’sk (Saint Nicholas) life-in-common monastery on the Borisoglebsk Hill at the shore of Lake Plescheevo near the city, and became its hegumen. </p><p>In 1534 Saint Demetrius first met with the Monk Sergei Radonezh, who had come to Pereyaslavl’ to bishop Athanasius. From that time he repeatedly conversed with the Monk Sergei and became close with him. The fame of the Pereyaslavl’ hegumen so spread about, that he became godfather to the children of Greatprince Demetrius Ioannovich. Under the influence of the Radonezh wonderworker, the Monk Demetrius decided to withdraw off to a desolate place, and together with his disciple Pakhomii he set off North. In the Vologda forests, at the River Velika, in the Avnezhsk surroundings, they built a church of the Resurrection of Christ and they made ready to lay the foundations for a monastery. But the local inhabitants were fearful of losing out, and the wilderness-dwellers in their wish to be a burden to no one, set off further. </p><p>Not far from Vologda, at the bend of a river in an isolated spot, the Monk Demetrius decided to form the first of the life-in-common monasteries of the Russian North. The people of Vologda and the surrounding gladly consented to help the saint. The owners of the land intended for the monastery, Il′ya and Isidor, even trampled down a grain field, so that a temple might be built immediately. In 1371 the wooden Saviour cathedral was erected, and brethren began to gather. Many a disciple of the monk came thither from Pereyaslavl′. The deep prayer and quite strict asceticism was combined in the Prilutsk hegumen with kindliness: he fed the poor and hungry, he took in strangers, he conversed with those in need of consolation, and he gave counsel. The monk loved to pray in private. His Lenten food was but prosphora with warm water, and even on feastdays he would not partake of the wine and fish permitted by the ustav-rule. Both Winter and Summer he wore only his old sheepskin coat, and into old age he went off with the brethren on common tasks. Contributions to the monastery the saint accepted cautiously, so that the welfare of the monastery be not to the impairment of those living nearby. The Lord vouchsafed His servant the gift of perspicacity. The Monk Demetrius died at an advanced age on 11 February 1392. The brethren approaching found him as though asleep, and his cell was filled with a wondrous fragrance. Miracles from the relics of Saint Demetrius began in the year 1409, and during the XV Century his veneration spread throughout all Rus′. And not later than the year 1440, based on the narratives of Saint Demetrius’s disciple the hegumen Pakhomii, the Prilutsk monk Makarii recorded his life (Great Reading-Menaion, 11 February).</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Demetrius, Wonderworker of Priluki and Vologda († 1392)'
+            Short: 'Venerable Demetrius'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '3'
+        -
+          cid: '438'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>Holy Nobleborn Prince Vsevolod of Pskov, in Baptism Gabriel (Gavriil), a grandson of Vladimir Monomakh, was born at and spent almost all his life in Novgorod, where in the years 1088-1093 and 1095-1117 his father ruled as prince. His father was the holy prince Saint Mstislav-Theodore (Feodor) the Great († April 15, 1132). In the year 1117, when Great-prince Vladimir Monomakh gave Mstislav Kievan Belgorod as his “udel” (land-holding), practically making him coruler, young Vsevolod remained as vicar of his father in the Novgorod principality.</p><p>Holy Prince Vsevolod did much good for Novgorod. Together with the Archbishop of Novgorod, Saint Nyphontii (Comm. April 8), he raised up many a church, among which were—the cathedral of the Great Martyr George at the St. George’s (Yur′ev) monastery, and the church of Saint John the Forerunner at Opokakh, built in honour of the “Angel” (<i>i.e.</i> “patron saint”) of his first-born son John, who had died in infancy († 1128). In his Law-code (Ustav) the prince bestowed a deed of privileges (grammota) to the cathedral of Saint Sophia and other churches. During the time of a terrible famine, to save people from perishing, he exhausted his entire treasury. Prince Vsevolod was a valiant warrior, he marched victoriously against the Yam (in 1123) and Chud peoples, but never did he brandish the sword for profit or power.</p><p>In 1132, upon the death of holy Great-prince Mstislav, Vsevolod’s uncle, the Kiev prince Yaropolk Vladimirovich followed up the last-wishes of his brother and transferred Vsevolod Pereyaslavl′-South, then reckoned the eldest city after Kiev itself. But the younger sons of Monomakh—Yurii Dolgoruky and Andrei Dobry—were apprehensive lest Yaropolk make Vsevolod his successor, and so they marched out against their nephew. Not wanting internecine strife, Saint Vsevolod returned to Novgorod, but was received there with disaffection. The Novgorodians reckoned, that the prince had been “raised” by them and should not earlier have left them. “Vsevolod did go to Rus′, to Pereslavl′,—noted the Novgorod chronicler—and did kiss the cross against the Novgorodians, saying, ‘Ye I would kill.’”</p><p>Striving to restore good relations with the Novgorodians, the prince in 1133 undertook a new victorious campaign against the Chud people, and he annexed Yur′ev to the Novgorod domain. But a harsh Winter campaign in 1135-1136 against Suzdal′ ended unsuccessfully. The stubborn minded Novgorodians would not heed their chastisement by God, and they could not forgive the prince their defeat. The municipal assembly (veche) decided to summon a prince from the hostile Monomakh line of the Ol′govichei, and Saint Vsevolod they condemned to banishment: “Thou didst suffer banishment from thine own,”—is sung in the tropar to the saint. For a month and an half they held the prince with his family under guard at the archbishop’s palace, and when prince Svyatoslav Ol′govich arrived, he was expelled from the city.</p><p>Vsevolod went again to Kiev, and his uncle Yaropolk gave him as holding the Vyshgorod district near Kiev, the place where in the tenth Century during the rule of Svyatoslav had lived holy Equal-to-the-Apostles Great-princess Olga (Comm. 11 July). Saint Olga, “well preferring the cities of Kiev and Pskov,” came to the defence of her unrighteously wronged descendant: in the following year of 1137 the people of Pskov, mindful of the campaigns of the Novgorod-Pskov army under the lead of the prince, invited him to the Pskov principality, the native region of Saint Olga. This was the first Pskov prince, chosen through the will of the Pskov people itself. </p><p>Among the glorious works of holy prince Saint Vsevolod-Gabriel at Pskov was the construction of the first stone church in the Name of the Life-Originating Trinity, replacing a wooden one from the times of Saint Olga. On the icons of the saint they often depict him holding a temple “of That Above—the Holy Trinity.”</p><p>Saint Vsevolod ruled as prince at Pskov for only a year—on February 11, 1138 he died, at the age of 46. All Pskov gathered at the funeral of the beloved prince, and the church singing could barely be heard over the people’s wailing. The Novgorodians, in retrospect, sent off an archpriest from the Sophia cathedral to take his holy body back to Novgorod, but the prince had become loatheful of Novgorod, and the coffin would not move from the spot. Bitterly then did the Novgorod people bewail and repent in their misfortune, and they then besought to be given but a small bit of the holy dust “for upholding their city.” Through their prayers fell out, a fingernail from the hand of the saint was given. The Pskov people put Saint Vsevolod into the temple of the holy Great Martyr Demetrius. Alongside the grave they placed the military armament of the prince, shield and sword, in cruciform shape, with a Latin inscription to wit,—“I give away mine honour to no one.”</p><p>On November 27, 1192, the relics of holy Prince Vsevolod were uncovered and transferred into the Trinity cathedral, in which a chapel was consecrated in his honour. </p><p>On April 22, 1834, on the first day of Pascha, the holy relics were solemnly transferred into the main church-area of the cathedral. </p><p>The deep spiritual bond of the city of holy Equal-to-the-Apostles Olga with holy Prince Vsevolod was never broken: he always remained a Pskov wonderworker. At the siege of Pskov by Stefan Bathory in 1581, when the fortress walls were already breached and the Poles were ready to rush into the city, from the Trinity cathedral with a church procession they brought to the place of battle the holy relics of Prince Vsevolod, and the enemy withdrew. And with the appearance of the wonderworking Pskovo-Kiev Caves Icon (Comm. 1 October), holy Nobleborn Prince Vsevolod-Gabriel has stood amidst the Heavenly defenders of Pskov.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Holy Right-believing Prince Vsevolod (in Baptism Gabriel), Wonderworker of Pskov († 1138)'
+            Short: 'Holy Right-believing'
+          ref: ~
+          src: menaion
+          type: '2'
+        -
+          cid: '431'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Righteous Empress Theodora, Restorer of the Veneration of Holy Icons († ca 867)'
+            Short: 'Righteous Empress'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Martyr George, the Serbian of Kratovo († 1515)'
+            Short: 'New Martyr'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 6
+  fr:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9863'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Dimanche du Fils Prodige'
+            Short: 'Dimanche du Fils Prodige'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '114'
+                  reading: Lk_24:36-53
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '135'
+                  reading: 'I Cor_6:12-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '79'
+                  reading: Lk_15:11-32
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '435'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Blaise, Evêque de Sébaste et ses compagnons'
+            Short: 'Sts. Blaise'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '431'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Théodora, Impératrice'
+            Short: 'Ste. Théodora, Impératrice'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Georges le Serbe'
+            Short: 'St. Georges'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '438'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Vsevolod, Prince de Pskov'
+            Short: 'St. Vsevolod'
+          ref: ~
+          src: menaion
+          type: '2'
+        -
+          cid: '600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Dimitris de Prilouki'
+            Short: 'St. Dimitris'
+          ref: ~
+          src: menaion
+          type: '3'
+      tone: 6
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9863'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Dimanche du Fils Prodige'
+            Short: 'Dimanche du Fils Prodige'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '114'
+                  reading: Lk_24:36-53
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '135'
+                  reading: 'I Cor_6:12-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '79'
+                  reading: Lk_15:11-32
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '435'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Blaise, Evêque de Sébaste et ses compagnons'
+            Short: 'Sts. Blaise'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '431'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Théodora, Impératrice'
+            Short: 'Ste. Théodora, Impératrice'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Georges le Serbe'
+            Short: 'St. Georges'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '438'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Vsevolod, Prince de Pskov'
+            Short: 'St. Vsevolod'
+          ref: ~
+          src: menaion
+          type: '2'
+        -
+          cid: '600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Dimitris de Prilouki'
+            Short: 'St. Dimitris'
+          ref: ~
+          src: menaion
+          type: '3'
+      tone: 6
+  zh/Hans:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9863'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 浪子主日
+            Short: 浪子主日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '114'
+                  reading: Lk_24:36-53
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '135'
+                  reading: 'I Cor_6:12-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '79'
+                  reading: Lk_15:11-32
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '43501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣玛利亚修女（被称为玛利诺者）及她的父亲圣艾弗革尼修士（亚历山大里亚的成德者，6世纪）
+            Short: 圣玛利亚修女
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02110099'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司祭路基（色雷斯的阿德里亚诺颇利城人，348年）
+            Short: 殉道司祭路基（色雷斯的阿德里亚诺颇利城人，348年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣迪弥特里（沃洛格达的普里路基地方修士，1392年）
+            Short: 圣迪弥特里
+          ref: ~
+          src: menaion
+          type: '3'
+        -
+          cid: '438'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣维塞佛洛德（受浸礼时的名字为加百列，普斯科夫王子，显行灵迹者，1138年）
+            Short: 圣维塞佛洛德
+          ref: ~
+          src: menaion
+          type: '2'
+        -
+          cid: '431'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣妇德奥多拉（毁像者德奥斐洛皇帝之妻子，867年）
+            Short: 圣妇德奥多拉（毁像者德奥斐洛皇帝之妻子，867年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者格奥尔吉（克拉托佛地方达到索非亚，1515年）
+            Short: 新殉道者格奥尔吉（克拉托佛地方达到索非亚，1515年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021102'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣文奈迪克特（高卢的阿尼亚奈地方人，821年）
+            Short: 圣文奈迪克特（高卢的阿尼亚奈地方人，821年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021103'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣凯德蒙（惠特白地方修士，680年）
+            Short: 圣凯德蒙（惠特白地方修士，680年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021104'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣女格博奈特（爱尔兰科克的巴利福尼地方修女院院长，7世纪）
+            Short: 圣女格博奈特（爱尔兰科克的巴利福尼地方修女院院长，7世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 6
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9863'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 浪子主日
+            Short: 浪子主日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '114'
+                  reading: Lk_24:36-53
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '135'
+                  reading: 'I Cor_6:12-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '79'
+                  reading: Lk_15:11-32
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '43501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣玛利亚修女（被称为玛利诺者）及她的父亲圣艾弗革尼修士（亚历山大里亚的成德者，6世纪）
+            Short: 圣玛利亚修女
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02110099'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司祭路基（色雷斯的阿德里亚诺颇利城人，348年）
+            Short: 殉道司祭路基（色雷斯的阿德里亚诺颇利城人，348年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣迪弥特里（沃洛格达的普里路基地方修士，1392年）
+            Short: 圣迪弥特里
+          ref: ~
+          src: menaion
+          type: '3'
+        -
+          cid: '438'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣维塞佛洛德（受浸礼时的名字为加百列，普斯科夫王子，显行灵迹者，1138年）
+            Short: 圣维塞佛洛德
+          ref: ~
+          src: menaion
+          type: '2'
+        -
+          cid: '431'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣妇德奥多拉（毁像者德奥斐洛皇帝之妻子，867年）
+            Short: 圣妇德奥多拉（毁像者德奥斐洛皇帝之妻子，867年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者格奥尔吉（克拉托佛地方达到索非亚，1515年）
+            Short: 新殉道者格奥尔吉（克拉托佛地方达到索非亚，1515年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021102'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣文奈迪克特（高卢的阿尼亚奈地方人，821年）
+            Short: 圣文奈迪克特（高卢的阿尼亚奈地方人，821年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021103'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣凯德蒙（惠特白地方修士，680年）
+            Short: 圣凯德蒙（惠特白地方修士，680年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021104'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣女格博奈特（爱尔兰科克的巴利福尼地方修女院院长，7世纪）
+            Short: 圣女格博奈特（爱尔兰科克的巴利福尼地方修女院院长，7世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 6
+  zh/Hant:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9863'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 浪子主日
+            Short: 浪子主日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '114'
+                  reading: Lk_24:36-53
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '135'
+                  reading: 'I Cor_6:12-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '79'
+                  reading: Lk_15:11-32
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '43501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖瑪利亞修女（被稱為瑪利諾者）及她的父親聖艾弗革尼修士（亞歷山大里亞的成德者，六世紀）
+            Short: 聖瑪利亞修女
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02110099'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司祭路基（色雷斯的阿德里亞諾頗利城人，348年）
+            Short: 殉道司祭路基（色雷斯的阿德里亞諾頗利城人，348年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖迪彌特里（沃洛格達的普里路基地方修士，1392年）
+            Short: 聖迪彌特里
+          ref: ~
+          src: menaion
+          type: '3'
+        -
+          cid: '438'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖維塞佛洛德（受浸禮時的名字為加百列，普斯科夫王子，顯行靈蹟者，1138年）
+            Short: 聖維塞佛洛德
+          ref: ~
+          src: menaion
+          type: '2'
+        -
+          cid: '431'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖婦德奧多拉（毀像者德奧斐洛皇帝之妻子，867年）
+            Short: 聖婦德奧多拉（毀像者德奧斐洛皇帝之妻子，867年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者格奧爾吉（克拉托佛地方達到索非亞，1515年）
+            Short: 新殉道者格奧爾吉（克拉托佛地方達到索非亞，1515年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021102'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖文奈迪克特（高盧的阿尼亞奈地方人，821年）
+            Short: 聖文奈迪克特（高盧的阿尼亞奈地方人，821年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021103'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖凱德蒙（惠特白地方修士，680年）
+            Short: 聖凱德蒙（惠特白地方修士，680年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021104'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖女格博奈特（愛爾蘭科克的巴利福尼地方修女院院長，七世紀）
+            Short: 聖女格博奈特（愛爾蘭科克的巴利福尼地方修女院院長，七世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 6
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9863'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 浪子主日
+            Short: 浪子主日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '114'
+                  reading: Lk_24:36-53
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '135'
+                  reading: 'I Cor_6:12-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '79'
+                  reading: Lk_15:11-32
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '43501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖瑪利亞修女（被稱為瑪利諾者）及她的父親聖艾弗革尼修士（亞歷山大里亞的成德者，六世紀）
+            Short: 聖瑪利亞修女
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02110099'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司祭路基（色雷斯的阿德里亞諾頗利城人，348年）
+            Short: 殉道司祭路基（色雷斯的阿德里亞諾頗利城人，348年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖迪彌特里（沃洛格達的普里路基地方修士，1392年）
+            Short: 聖迪彌特里
+          ref: ~
+          src: menaion
+          type: '3'
+        -
+          cid: '438'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖維塞佛洛德（受浸禮時的名字為加百列，普斯科夫王子，顯行靈蹟者，1138年）
+            Short: 聖維塞佛洛德
+          ref: ~
+          src: menaion
+          type: '2'
+        -
+          cid: '431'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖婦德奧多拉（毀像者德奧斐洛皇帝之妻子，867年）
+            Short: 聖婦德奧多拉（毀像者德奧斐洛皇帝之妻子，867年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021101'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者格奧爾吉（克拉托佛地方達到索非亞，1515年）
+            Short: 新殉道者格奧爾吉（克拉托佛地方達到索非亞，1515年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021102'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖文奈迪克特（高盧的阿尼亞奈地方人，821年）
+            Short: 聖文奈迪克特（高盧的阿尼亞奈地方人，821年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021103'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖凱德蒙（惠特白地方修士，680年）
+            Short: 聖凱德蒙（惠特白地方修士，680年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021104'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖女格博奈特（愛爾蘭科克的巴利福尼地方修女院院長，七世紀）
+            Short: 聖女格博奈特（愛爾蘭科克的巴利福尼地方修女院院長，七世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 6

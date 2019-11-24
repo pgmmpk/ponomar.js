@@ -1,0 +1,4813 @@
+---
+date: 2019/1/5
+langs:
+  cu:
+    ponomar:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9286'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пѧто́къ л҃д-ѧ седми́цы по пѧтидесѧ́тницѣ'
+            Short: Пѧто́къ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: '29'
+                  pericope: '317'
+                  reading: Heb_7:18-25
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '09013'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Навечерия Богоявления'
+            Nominative: 'Навечерие Богоявления'
+            Short: Навечерие
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:1-13
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_14:15-18,21-23,27-29a
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_15:22-27,16:1a
+                  type: '3'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Josh_3:7-8,15-17
+                  type: '4'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:6-14'
+                  type: '5'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_5:9-14'
+                  type: '6'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '7'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_32:1-10a
+                  type: '8'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_2:5-10
+                  type: '9'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Judg_6:36-40
+                  type: '10'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'III Kings_18:30-39'
+                  type: '11'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:19-22'
+                  type: '12'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '13'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '143'
+                  reading: 'I Cor_9:19-27'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '9'
+                  reading: Lk_3:1-18
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '155'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника ѳеопе́мпта, є҆пі́скопа нїкомиді́йскагѡ и҆ мч҃ника ѳеѡ́ны волхва̀ (303)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '156'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ сѷгклїтикі́и ꙗ҆́же во а҆леѯандрі́и (ок. 350)'
+            Short: 'Прпⷣбнагѡ сѷгклїтикі́и'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '01050098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника і҆ѡ́сифа и҆ съ ни́мъ 37-ми мꙋ́ченикѡвъ (1921)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '010505'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́ѧ мꙋ́ченицы є҆ѵге́нїи (1933)'
+            Short: 'Ст҃ы́ѧ мꙋ́ченицы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '010506'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника се́ргїа пресвѵ́тера (1934)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01050398'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника матѳе́а (1938)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '1564'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прⷪ҇ро́ка мїхе́а (ѳ҃ до Р.Х.)'
+            Short: 'Прⷪ҇ро́ка мїхе́а'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '158'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ а҆поллїна́рїи (ок. 470)'
+            Short: 'Прпⷣбнагѡ Аполлинарии'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '159'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ Фостирия'
+            Short: 'Прпⷣбнагѡ Фостирия'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '160'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ ми́ны (ѕ҃)'
+            Short: 'Прпⷣбнагѡ ми́ны (ѕ҃)'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '161'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ григо́рїа Акритского (ок. 820)'
+            Short: 'Прпⷣбнагѡ григо́рїа'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '090141'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: ''
+            Short: 'Royal Hours'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_35:1-10
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '33'
+                  reading: Acts_13:25-32
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '5'
+                  reading: Mt_3:1-11
+                  type: '3'
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '42'
+                  reading: Acts_19:1-8
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '1'
+                  reading: Mk_1:1-8
+                  type: '3'
+              type: terce
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_12:3-6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '91'
+                  reading: Rom_6:3-11
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-15
+                  type: '3'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: Tit_2:11-14,3:4-7
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: '3'
+              type: none
+          src: menaion
+          type: ~
+      tone: 8
+    ponomarReordered:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9286'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пѧто́къ л҃д-ѧ седми́цы по пѧтидесѧ́тницѣ'
+            Short: Пѧто́къ
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '09013'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Навечерия Богоявления'
+            Nominative: 'Навечерие Богоявления'
+            Short: Навечерие
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:1-13
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_14:15-18,21-23,27-29a
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_15:22-27,16:1a
+                  type: '3'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Josh_3:7-8,15-17
+                  type: '4'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:6-14'
+                  type: '5'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_5:9-14'
+                  type: '6'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '7'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_32:1-10a
+                  type: '8'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_2:5-10
+                  type: '9'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Judg_6:36-40
+                  type: '10'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'III Kings_18:30-39'
+                  type: '11'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:19-22'
+                  type: '12'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '13'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '143'
+                  reading: 'I Cor_9:19-27'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '9'
+                  reading: Lk_3:1-18
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '155'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника ѳеопе́мпта, є҆пі́скопа нїкомиді́йскагѡ и҆ мч҃ника ѳеѡ́ны волхва̀ (303)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '156'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ сѷгклїтикі́и ꙗ҆́же во а҆леѯандрі́и (ок. 350)'
+            Short: 'Прпⷣбнагѡ сѷгклїтикі́и'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '01050098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника і҆ѡ́сифа и҆ съ ни́мъ 37-ми мꙋ́ченикѡвъ (1921)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '010505'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́ѧ мꙋ́ченицы є҆ѵге́нїи (1933)'
+            Short: 'Ст҃ы́ѧ мꙋ́ченицы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '010506'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника се́ргїа пресвѵ́тера (1934)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01050398'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника матѳе́а (1938)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '1564'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прⷪ҇ро́ка мїхе́а (ѳ҃ до Р.Х.)'
+            Short: 'Прⷪ҇ро́ка мїхе́а'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '158'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ а҆поллїна́рїи (ок. 470)'
+            Short: 'Прпⷣбнагѡ Аполлинарии'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '159'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ Фостирия'
+            Short: 'Прпⷣбнагѡ Фостирия'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '160'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ ми́ны (ѕ҃)'
+            Short: 'Прпⷣбнагѡ ми́ны (ѕ҃)'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '161'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ григо́рїа Акритского (ок. 820)'
+            Short: 'Прпⷣбнагѡ григо́рїа'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '090141'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: ''
+            Short: 'Royal Hours'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_35:1-10
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '33'
+                  reading: Acts_13:25-32
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '5'
+                  reading: Mt_3:1-11
+                  type: '3'
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '42'
+                  reading: Acts_19:1-8
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '1'
+                  reading: Mk_1:1-8
+                  type: '3'
+              type: terce
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_12:3-6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '91'
+                  reading: Rom_6:3-11
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-15
+                  type: '3'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: Tit_2:11-14,3:4-7
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: '3'
+              type: none
+          src: menaion
+          type: ~
+      tone: 8
+  cu/ru:
+    ponomar:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9286'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пятница 34-ой седмицы по Пятидесятнице'
+            Short: Пѧто́къ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: '29'
+                  pericope: '317'
+                  reading: Heb_7:18-25
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '09013'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n"
+          menologion: ''
+          name:
+            Genetive: 'Навечерия Богоявления'
+            Nominative: 'Навечерие Богоявления'
+            Short: Навечерие
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:1-13
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_14:15-18,21-23,27-29a
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_15:22-27,16:1a
+                  type: '3'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Josh_3:7-8,15-17
+                  type: '4'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:6-14'
+                  type: '5'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_5:9-14'
+                  type: '6'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '7'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_32:1-10a
+                  type: '8'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_2:5-10
+                  type: '9'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Judg_6:36-40
+                  type: '10'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'III Kings_18:30-39'
+                  type: '11'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:19-22'
+                  type: '12'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '13'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '143'
+                  reading: 'I Cor_9:19-27'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '9'
+                  reading: Lk_3:1-18
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '155'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n     Святые мученики Феопемпт и Феона пострадали в Никомидии в 303 году. Святой Феопемпт был епископом в Никомидии при Диоклитиане. Выступая против идолопоклонства, он защищал веру Христову. Призванный к царю, он отказался выполнить его требование поклониться идолу Аполлону. Святого Феопемпта бросили в раскаленную печь, но он, силой Божией, остался жив. Ночью царь с отрядом воинов пошел к печи и там действительно увидел святого живым и молящимся Богу. Приписывая свершившееся чудо действию волхвования, Диоклитиан приказал морить святого Феопемпта голодом и жаждой в течение 22 дней, но и тут волей Божией мученик был сохранен.    Тогда царь призвал известного волшебника Феону, взявшегося разрушить «чары», которыми, как они предполагали, обладает святой епископ Феопемпт. Феона приготовил для святого Феопемпта яд, вложенный в лепешку, и предложил ему съесть ее. Яд нисколько не повредил святому Феопемпту. Феона во второй раз испытал на мученике действие еще более сильного яда, но, видя, что святой Феопемпт остается невредим, сам уверовал во Христа. Его бросили в темницу вместе со святым епископом, который огласил его и крестил, дав ему имя Синесий (что значит «исполненный разума»).     Утром Диоклитиан призвал святого Феопемпта и вновь убеждал отречься от Христа, но, видя непреклонную твердость святого мужа, предал его многим и тяжким мукам, после чего святой был обезглавлен. Святой мученик Феона, отказавшийся принести жертву идолам, был живым закопан в глубокий ров. Это произошло в Никомидии в 303 году. \n"
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Феопемпта, еп. Никомидийского и мч. Феоны волхва (303)'
+            Short: 'Сщмч. Феопемпта'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '156'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Преподобная Синклитикия родом из Александрии, дочь богатых родителей, прекрасная собой, с юных лет помышляла только об угождении Богу. Возлюбив чистоту девства, она отказалась вступить в брак и всё время проводила в посте и молитве. После смерти родителей она раздала нищим имущество и со своей слепой сестрой, приняв иночество, скрылась в одной из гробниц, принадлежавших ее родственникам. Слава о ее подвигах быстро распространилась в окрестностях, и много благочестивых жен и дев пришли к ней, чтобы жить под ее руководством. В продолжение своей подвижнической жизни святая усердно словом и делом поучала сестер. На 80-м году жизни ее постигла тяжелая и мучительная болезнь. Преподобная с истинно христианским терпением переносила ниспосланное ей испытание. Скончалась святая около/350 года, в возрасте 83-х лет. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Синклитикии Александрийской (ок. 350)'
+            Short: 'Прп. Синклитикии'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '01050098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Иосифа  и с ним 37-ми мучеников (1921)'
+            Short: 'Мч. Иосифа'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '010505'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мц. Евгении (1933)'
+            Short: 'Мц. Евгении (1933)'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '010506'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Сергия пресвитера (1934)'
+            Short: 'Сщмч. Сергия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01050398'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Матфея (1938)'
+            Short: 'Мч. Матфея (1938)'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '1564'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n Святой пророк Михей был современником святого пророка Илии. Он предсказал гибель царю Ахаву в войне с ассирийцами, за что был посажен в темницу. Освобожденный после гибели Ахава (3 Цар. 22, 8—22), святой пророк Михей мученически скончался в IX веке до Рождества Христова. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прор. Михея (IX до Р.Х.)'
+            Short: 'Прор. Михея'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '158'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Преподобная Аполлинария была дочерью Анфемия, бывшего правителя Греческой империи во время малолетства Феодосия Младшего (408—450). Отказавшись от брака, она выпросила у своих благочестивых родителей разрешение поклониться святым местам Востока. Прибыв из Иерусалима в Александрию, она тайно от слуг переоделась в одежду инока и скрылась в одно болотистое место, где несколько лет подвизалась в строгом посте и молитвах. По откровению свыше, она направилась в скит к святому Макарию Египетскому, назвав себя иноком Дорофеем. Преподобный Макарий принял ее в число своей братии, и там она вскоре прославилась своей подвижнической жизнью. У родителей Аполлинарии была другая дочь, страдавшая беснованием. Они отпустили ее в скит к преподобному Макарию, который привел больную к иноку Дорофею (блаженной Аполлинарии), по молитве которого девица получила исцеление. По возвращении домой девица вновь подверглась насилию диавола, который дал ей вид женщины, носящей во чреве. Этот случай привел в сильный гнев родителей ее, которые послали в скит воинов и требовали выдать виновника оскорбления дочери.    Святая Аполлинария взяла на себя вину и пошла с посланными в дом своих родителей. Там она открыла родителям свою тайну, исцелила сестру, возвратилась в скит, где в скором времени мирно скончалась в 470 году. Только после смерти инока Дорофея открылось, что это была женщина. Тело святой было погребено в пещере, в церкви обители святого Макария Египетского. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Аполлинарии (ок. 470)'
+            Short: 'Прп. Аполлинарии'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '159'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Преподобный Фостирий, пустынник, подвизался на высокой горе. Силой чудотворений и святостью жизни многих отвратил от ересей. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Фостирия'
+            Short: 'Прп. Фостирия'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '160'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Преподобный Мина 50 лет подвизался в Синайском монастыре, скончался мирно во второй половине VI века. \n"
+          menologion: ''
+          name:
+            Nominative: ' Прп.  Мины (VI)'
+            Short: ' Прп.'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '161'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n     Преподобный Григорий Акритский родился на острове Крит в 760 году. Он получил образование от благочестивых родителей. То было время, когда еретики-иконоборцы притесняли православных. Юноша Григорий, желая сохранить православную веру, ушел в СелеВкию и там жил, проводя благочестивую жизнь.    На 20-м году жизни преподобный Григорий отправился в Иерусалим и прожил там 12 лет, перенося жестокие притеснения от арабов и евреев. Оттуда святой Григорий переселился в Рим, где принял пострижение. Там он духовно сблизился со святым Михаилом, епископом Синадским (память 23 мая), который взял его с собой и поместил в обители на мысе Акрит (Мраморное море). Там святой нес великие подвиги и скончался около 820 года. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Григория Акритского (ок. 820)'
+            Short: 'Прп. Григория'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '090141'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: ''
+            Short: 'Royal Hours'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_35:1-10
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '33'
+                  reading: Acts_13:25-32
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '5'
+                  reading: Mt_3:1-11
+                  type: '3'
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '42'
+                  reading: Acts_19:1-8
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '1'
+                  reading: Mk_1:1-8
+                  type: '3'
+              type: terce
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_12:3-6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '91'
+                  reading: Rom_6:3-11
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-15
+                  type: '3'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: Tit_2:11-14,3:4-7
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: '3'
+              type: none
+          src: menaion
+          type: ~
+      tone: 8
+    ponomarReordered:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9286'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пятница 34-ой седмицы по Пятидесятнице'
+            Short: Пѧто́къ
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '09013'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n"
+          menologion: ''
+          name:
+            Genetive: 'Навечерия Богоявления'
+            Nominative: 'Навечерие Богоявления'
+            Short: Навечерие
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:1-13
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_14:15-18,21-23,27-29a
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_15:22-27,16:1a
+                  type: '3'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Josh_3:7-8,15-17
+                  type: '4'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:6-14'
+                  type: '5'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_5:9-14'
+                  type: '6'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '7'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_32:1-10a
+                  type: '8'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_2:5-10
+                  type: '9'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Judg_6:36-40
+                  type: '10'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'III Kings_18:30-39'
+                  type: '11'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:19-22'
+                  type: '12'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '13'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '143'
+                  reading: 'I Cor_9:19-27'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '9'
+                  reading: Lk_3:1-18
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '155'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n     Святые мученики Феопемпт и Феона пострадали в Никомидии в 303 году. Святой Феопемпт был епископом в Никомидии при Диоклитиане. Выступая против идолопоклонства, он защищал веру Христову. Призванный к царю, он отказался выполнить его требование поклониться идолу Аполлону. Святого Феопемпта бросили в раскаленную печь, но он, силой Божией, остался жив. Ночью царь с отрядом воинов пошел к печи и там действительно увидел святого живым и молящимся Богу. Приписывая свершившееся чудо действию волхвования, Диоклитиан приказал морить святого Феопемпта голодом и жаждой в течение 22 дней, но и тут волей Божией мученик был сохранен.    Тогда царь призвал известного волшебника Феону, взявшегося разрушить «чары», которыми, как они предполагали, обладает святой епископ Феопемпт. Феона приготовил для святого Феопемпта яд, вложенный в лепешку, и предложил ему съесть ее. Яд нисколько не повредил святому Феопемпту. Феона во второй раз испытал на мученике действие еще более сильного яда, но, видя, что святой Феопемпт остается невредим, сам уверовал во Христа. Его бросили в темницу вместе со святым епископом, который огласил его и крестил, дав ему имя Синесий (что значит «исполненный разума»).     Утром Диоклитиан призвал святого Феопемпта и вновь убеждал отречься от Христа, но, видя непреклонную твердость святого мужа, предал его многим и тяжким мукам, после чего святой был обезглавлен. Святой мученик Феона, отказавшийся принести жертву идолам, был живым закопан в глубокий ров. Это произошло в Никомидии в 303 году. \n"
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Феопемпта, еп. Никомидийского и мч. Феоны волхва (303)'
+            Short: 'Сщмч. Феопемпта'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '156'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Преподобная Синклитикия родом из Александрии, дочь богатых родителей, прекрасная собой, с юных лет помышляла только об угождении Богу. Возлюбив чистоту девства, она отказалась вступить в брак и всё время проводила в посте и молитве. После смерти родителей она раздала нищим имущество и со своей слепой сестрой, приняв иночество, скрылась в одной из гробниц, принадлежавших ее родственникам. Слава о ее подвигах быстро распространилась в окрестностях, и много благочестивых жен и дев пришли к ней, чтобы жить под ее руководством. В продолжение своей подвижнической жизни святая усердно словом и делом поучала сестер. На 80-м году жизни ее постигла тяжелая и мучительная болезнь. Преподобная с истинно христианским терпением переносила ниспосланное ей испытание. Скончалась святая около/350 года, в возрасте 83-х лет. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Синклитикии Александрийской (ок. 350)'
+            Short: 'Прп. Синклитикии'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '01050098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Иосифа  и с ним 37-ми мучеников (1921)'
+            Short: 'Мч. Иосифа'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '010505'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мц. Евгении (1933)'
+            Short: 'Мц. Евгении (1933)'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '010506'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Сергия пресвитера (1934)'
+            Short: 'Сщмч. Сергия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01050398'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Матфея (1938)'
+            Short: 'Мч. Матфея (1938)'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '1564'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n Святой пророк Михей был современником святого пророка Илии. Он предсказал гибель царю Ахаву в войне с ассирийцами, за что был посажен в темницу. Освобожденный после гибели Ахава (3 Цар. 22, 8—22), святой пророк Михей мученически скончался в IX веке до Рождества Христова. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прор. Михея (IX до Р.Х.)'
+            Short: 'Прор. Михея'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '158'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Преподобная Аполлинария была дочерью Анфемия, бывшего правителя Греческой империи во время малолетства Феодосия Младшего (408—450). Отказавшись от брака, она выпросила у своих благочестивых родителей разрешение поклониться святым местам Востока. Прибыв из Иерусалима в Александрию, она тайно от слуг переоделась в одежду инока и скрылась в одно болотистое место, где несколько лет подвизалась в строгом посте и молитвах. По откровению свыше, она направилась в скит к святому Макарию Египетскому, назвав себя иноком Дорофеем. Преподобный Макарий принял ее в число своей братии, и там она вскоре прославилась своей подвижнической жизнью. У родителей Аполлинарии была другая дочь, страдавшая беснованием. Они отпустили ее в скит к преподобному Макарию, который привел больную к иноку Дорофею (блаженной Аполлинарии), по молитве которого девица получила исцеление. По возвращении домой девица вновь подверглась насилию диавола, который дал ей вид женщины, носящей во чреве. Этот случай привел в сильный гнев родителей ее, которые послали в скит воинов и требовали выдать виновника оскорбления дочери.    Святая Аполлинария взяла на себя вину и пошла с посланными в дом своих родителей. Там она открыла родителям свою тайну, исцелила сестру, возвратилась в скит, где в скором времени мирно скончалась в 470 году. Только после смерти инока Дорофея открылось, что это была женщина. Тело святой было погребено в пещере, в церкви обители святого Макария Египетского. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Аполлинарии (ок. 470)'
+            Short: 'Прп. Аполлинарии'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '159'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Преподобный Фостирий, пустынник, подвизался на высокой горе. Силой чудотворений и святостью жизни многих отвратил от ересей. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Фостирия'
+            Short: 'Прп. Фостирия'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '160'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Преподобный Мина 50 лет подвизался в Синайском монастыре, скончался мирно во второй половине VI века. \n"
+          menologion: ''
+          name:
+            Nominative: ' Прп.  Мины (VI)'
+            Short: ' Прп.'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '161'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n     Преподобный Григорий Акритский родился на острове Крит в 760 году. Он получил образование от благочестивых родителей. То было время, когда еретики-иконоборцы притесняли православных. Юноша Григорий, желая сохранить православную веру, ушел в СелеВкию и там жил, проводя благочестивую жизнь.    На 20-м году жизни преподобный Григорий отправился в Иерусалим и прожил там 12 лет, перенося жестокие притеснения от арабов и евреев. Оттуда святой Григорий переселился в Рим, где принял пострижение. Там он духовно сблизился со святым Михаилом, епископом Синадским (память 23 мая), который взял его с собой и поместил в обители на мысе Акрит (Мраморное море). Там святой нес великие подвиги и скончался около 820 года. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Григория Акритского (ок. 820)'
+            Short: 'Прп. Григория'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '090141'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: ''
+            Short: 'Royal Hours'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_35:1-10
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '33'
+                  reading: Acts_13:25-32
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '5'
+                  reading: Mt_3:1-11
+                  type: '3'
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '42'
+                  reading: Acts_19:1-8
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '1'
+                  reading: Mk_1:1-8
+                  type: '3'
+              type: terce
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_12:3-6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '91'
+                  reading: Rom_6:3-11
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-15
+                  type: '3'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: Tit_2:11-14,3:4-7
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: '3'
+              type: none
+          src: menaion
+          type: ~
+      tone: 8
+  el:
+    ponomar:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9286'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Παρασκευὴ
+            Short: Παρασκευὴ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: '29'
+                  pericope: '317'
+                  reading: Heb_7:18-25
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '09013'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Παραμονὴ τῶν Φώτων'
+            Short: 'Παραμονὴ τῶν Φώτων'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:1-13
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_14:15-18,21-23,27-29a
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_15:22-27,16:1a
+                  type: '3'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Josh_3:7-8,15-17
+                  type: '4'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:6-14'
+                  type: '5'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_5:9-14'
+                  type: '6'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '7'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_32:1-10a
+                  type: '8'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_2:5-10
+                  type: '9'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Judg_6:36-40
+                  type: '10'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'III Kings_18:30-39'
+                  type: '11'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:19-22'
+                  type: '12'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '13'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '143'
+                  reading: 'I Cor_9:19-27'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '9'
+                  reading: Lk_3:1-18
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '155'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Θεόπεμπτος καὶ Θεωνᾶς '
+            Short: 'Ἅγιοι Θεόπεμπτος καὶ Θεωνᾶς '
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '848'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ζωσιμᾶς ἐκ Ῥωσίας'
+            Short: 'Ὅσιος Ζωσιμᾶς ἐκ Ῥωσίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '156'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὁσία Συγκλητικὴ'
+            Short: 'Ὁσία Συγκλητικὴ'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '01050599'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ῥωμανὸς ὁ νέος Ὁσιομάρτυρας'
+            Short: 'Ἅγιος Ῥωμανὸς ὁ νέος Ὁσιομάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '161'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Γρηγόριος ὁ ἐν Ἀκρίτᾳ '
+            Short: 'Ὅσιος Γρηγόριος ὁ ἐν Ἀκρίτᾳ '
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '159'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Φωστήριος'
+            Short: 'Ὅσιος Φωστήριος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '010502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Σάϊς'
+            Short: 'Ἅγιος Σάϊς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '010501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Θεόειδος'
+            Short: 'Ἅγιος Θεόειδος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01051100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὁσία Δομνίνα'
+            Short: 'Ὁσία Δομνίνα'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01050'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὁσία Τατιανὴ'
+            Short: 'Ὁσία Τατιανὴ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01050695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Δωρόθεος'
+            Short: 'Ὅσιος Δωρόθεος'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+    ponomarReordered:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9286'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Παρασκευὴ
+            Short: Παρασκευὴ
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '09013'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Παραμονὴ τῶν Φώτων'
+            Short: 'Παραμονὴ τῶν Φώτων'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:1-13
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_14:15-18,21-23,27-29a
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_15:22-27,16:1a
+                  type: '3'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Josh_3:7-8,15-17
+                  type: '4'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:6-14'
+                  type: '5'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_5:9-14'
+                  type: '6'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '7'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_32:1-10a
+                  type: '8'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_2:5-10
+                  type: '9'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Judg_6:36-40
+                  type: '10'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'III Kings_18:30-39'
+                  type: '11'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:19-22'
+                  type: '12'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '13'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '143'
+                  reading: 'I Cor_9:19-27'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '9'
+                  reading: Lk_3:1-18
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '155'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Θεόπεμπτος καὶ Θεωνᾶς '
+            Short: 'Ἅγιοι Θεόπεμπτος καὶ Θεωνᾶς '
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '848'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ζωσιμᾶς ἐκ Ῥωσίας'
+            Short: 'Ὅσιος Ζωσιμᾶς ἐκ Ῥωσίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '156'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὁσία Συγκλητικὴ'
+            Short: 'Ὁσία Συγκλητικὴ'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '01050599'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ῥωμανὸς ὁ νέος Ὁσιομάρτυρας'
+            Short: 'Ἅγιος Ῥωμανὸς ὁ νέος Ὁσιομάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '161'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Γρηγόριος ὁ ἐν Ἀκρίτᾳ '
+            Short: 'Ὅσιος Γρηγόριος ὁ ἐν Ἀκρίτᾳ '
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '159'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Φωστήριος'
+            Short: 'Ὅσιος Φωστήριος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '010502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Σάϊς'
+            Short: 'Ἅγιος Σάϊς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '010501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Θεόειδος'
+            Short: 'Ἅγιος Θεόειδος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01051100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὁσία Δομνίνα'
+            Short: 'Ὁσία Δομνίνα'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01050'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὁσία Τατιανὴ'
+            Short: 'Ὁσία Τατιανὴ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01050695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Δωρόθεος'
+            Short: 'Ὅσιος Δωρόθεος'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+  en:
+    ponomar:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9286'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Friday of the 34<sup>th</sup> Week after Pentecost'
+            Short: Friday
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: '29'
+                  pericope: '317'
+                  reading: Heb_7:18-25
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '09013'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n"
+          menologion: ''
+          name:
+            Nominative: 'Eve of Theophany'
+            Short: Eve
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:1-13
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_14:15-18,21-23,27-29a
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_15:22-27,16:1a
+                  type: '3'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Josh_3:7-8,15-17
+                  type: '4'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:6-14'
+                  type: '5'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_5:9-14'
+                  type: '6'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '7'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_32:1-10a
+                  type: '8'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_2:5-10
+                  type: '9'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Judg_6:36-40
+                  type: '10'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'III Kings_18:30-39'
+                  type: '11'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:19-22'
+                  type: '12'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '13'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '143'
+                  reading: 'I Cor_9:19-27'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '9'
+                  reading: Lk_3:1-18
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '155'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p></p><p>The Holy Martyrs Theopemptos and Theon suffered in Nicomedia in the year 303. Saint Theopemptos was bishop in Nicomedia during the time of Diocletian. Speaking out against idol-worship, he defended the faith in Christ. Summoned to the emperor, he refused to carry out his demand to worship an idol of Apollo. They threw Saint Theopemptos into a red-hot furnace, but by the power of God he remained alive. The emperor came by night with a detachment of soldiers to the furnace and there actually saw the saint alive and praying to God. Ascribing the miracle accomplished to be a work of magic, Diocletian gave orders to wear down Saint Theopemptos by hunger and thirst during the course of 22 days, but here also by the will of God the martyr was preserved.</p><p>The emperor then summoned the famous sorcerer Theon, brought in to overcome the magical power which, as they supposed, was possessed by the holy bishop Theopemptos. Theon prepared a poison for Saint Theopemptos—put into a little cake, and offered it to him to eat. The poison did no harm at all to Saint Theopemptos. A second time, Theon tried out the effect of a still stronger poison on the martyr; but seeing, that Saint Theopemptos remained unharmed, he himself came to believe in Christ. They threw him into prison together with the holy bishop, who taught and baptised him, giving him the name Synesios (which means “fulfillment of understanding”).</p><p>In the morning Diocletian summoned Saint Theopemptos and again contended with him to recant from Christ; but, seeing the unbending rigour of the holy man, he subjected him to many grievous tortures, after which the saint was beheaded. The holy martyr Theon, having refused to offer sacrifice to idols, was buried alive in a deep ditch. This occurred at Nicomedia in the year 303.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Theopemptus, Bishop of Nicomedia, and Martyr Theonas the Sorcerer († 303)'
+            Short: 'Hieromartyr Theopemptus'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '156'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\nThe Nun Syncleticea was a native of Alexandria, the daughter of rich parents, pretty, and from her early years she thought only about things pleasing to God. Loving the purity of virginity, she declined to enter into marriage, and spent all her time in fasting and prayer. After the death of her parents she distributed her inheritance to the poor, and having accepted monasticism together with her blind sister, she withdrew into one of the crypts belonging to her kin. News about her ascetic deeds quickly spread throughout the vicinity, and many pious women and girls came to her to live under her guidance. During the course of her ascetic life the saint zealously instructed her sisters by word and by deed. In her 80<sup>th</sup> year of life she was struck by an intense and grievous illness. The nun bore the outcome of her ordeal with true christian endurance. The saint died in about the year 350, at age 83.\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Syncleticea of Alexandria'
+            Short: 'Nun Syncleticea'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '158'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\nThe Nun Apollinaria was a daughter of Anthemias, a former governor of the Greek empire during the minority of Theodosius the Younger (408-450). Having declined marriage, she requested of her pious parents permission to venerate at the holy places of the East. Having arrived in Alexandria from Jerusalem, she secretly away from her servants changed into the garb of a nun and hid in one of the marshy places, where she practised asceticism for several years in strict fasting and prayers. By a revelation from above, she was guided into a skete monastery to Saint Makarios of Egypt, and took for herself the monastic name Dorotheos. The Monk Makarios accepted her into the ranks of his brethren, and she there quickly distinguished herself by her ascetic life. The parents of Apollinaria had also another daughter, who was beset by demons. They sent her to the skete to the Monk Makarios, who took the sick girl to the monastic Dorotheos (Blessed Apollinaria), through whose prayers the maiden received healing. In returning homewards the maiden was again beset by a violent demon, which gave her the appearance of a pregnant woman. This produced great anger in her parents, who dispatched soldiers to the skete, and they demanded to see the perpetrator of their daughter’s outrage.</p><p>Saint Apollinaria took on herself the blame and went with the envoys to the home of her parents. There she revealed her secret to her parents, healed her sister, and returned to the skete, where in a short while she died peacefully in the year 470. Only after the death of the monastic Dorotheos was it revealed that this was a woman. The body of the saint was buried in a cave in the monastery church of Saint Makarios of Egypt.\n"
+          menologion: ''
+          name:
+            Nominative: 'The Nun Apollinaria († c.  470)'
+            Short: Apollinaria
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '1564'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\nThe Holy Prophet Micah was a companion of the holy prophet Elias. He prophesied the ruin of King Ahab in a war with the Assyrians, for which he was put into prison. Set free after the downfall of Ahab (3 Kings 22: 8-22), the holy prophet Micah died a martyr in the IX Century BC.\n"
+          menologion: ''
+          name:
+            Nominative: 'Prophet Micah (9<sup>th</sup> C BC)'
+            Short: 'Prophet Micah'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '161'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Gregory of Acritas was born on the island of Crete in the year 760. He received an upbringing by pious parents. This was a time when the iconoclast heretics persecuted the orthodox. The youth Gregory, wanting to preserve his Orthodox faith, went to Seleukos and lived there leading a life of piety.</p><p>At age 20 the Monk Gregory set off to Jerusalem and dwelt there for 12 years, enduring fierce persecution from the Arabs. From there Saint Gregory journeyed to Rome, where he took monastic vows. He became spiritually acquainted there with Saint Michael, bishop of Synadia (Comm. 23 May), who took him along and settled in a monastery on the Cape of Acritas (Sea of Marmora). The saint accomplished great ascetic deeds and died in about the year 820. </p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Gregory of Acritas († c.  820)'
+            Short: 'Venerable Gregory'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '159'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Phosterios the Wanderer pursued asceticism on an high mountain. By his powerful working of miracles and saintly life, he restored many from heresy.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Phosterius the Hermit (6<sup>th</sup> C)'
+            Short: 'Venerable Phosterius'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '160'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Menas pursued asceticism for 50 years in a Sinai monastery, and died peacefully in the second half of the VI Century.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Menas of Sinai (6<sup>th</sup> C)'
+            Short: 'Venerable Menas'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '010501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Theoidus'
+            Short: 'Martyr Theoidus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Sais'
+            Short: 'Martyr Sais'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Tatiana'
+            Short: 'Venerable Tatiana'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050499'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable women Talida and Taora'
+            Short: 'Venerable women'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050599'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Martyr Romanus'
+            Short: 'Venerable Martyr Romanus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '090141'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: ''
+            Short: 'Royal Hours'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_35:1-10
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '33'
+                  reading: Acts_13:25-32
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '5'
+                  reading: Mt_3:1-11
+                  type: '3'
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '42'
+                  reading: Acts_19:1-8
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '1'
+                  reading: Mk_1:1-8
+                  type: '3'
+              type: terce
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_12:3-6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '91'
+                  reading: Rom_6:3-11
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-15
+                  type: '3'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: Tit_2:11-14,3:4-7
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: '3'
+              type: none
+          src: menaion
+          type: ~
+      tone: 8
+    ponomarReordered:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9286'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Friday of the 34<sup>th</sup> Week after Pentecost'
+            Short: Friday
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '09013'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n"
+          menologion: ''
+          name:
+            Nominative: 'Eve of Theophany'
+            Short: Eve
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:1-13
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_14:15-18,21-23,27-29a
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_15:22-27,16:1a
+                  type: '3'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Josh_3:7-8,15-17
+                  type: '4'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:6-14'
+                  type: '5'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_5:9-14'
+                  type: '6'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '7'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_32:1-10a
+                  type: '8'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_2:5-10
+                  type: '9'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Judg_6:36-40
+                  type: '10'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'III Kings_18:30-39'
+                  type: '11'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:19-22'
+                  type: '12'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '13'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '143'
+                  reading: 'I Cor_9:19-27'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '9'
+                  reading: Lk_3:1-18
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '155'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p></p><p>The Holy Martyrs Theopemptos and Theon suffered in Nicomedia in the year 303. Saint Theopemptos was bishop in Nicomedia during the time of Diocletian. Speaking out against idol-worship, he defended the faith in Christ. Summoned to the emperor, he refused to carry out his demand to worship an idol of Apollo. They threw Saint Theopemptos into a red-hot furnace, but by the power of God he remained alive. The emperor came by night with a detachment of soldiers to the furnace and there actually saw the saint alive and praying to God. Ascribing the miracle accomplished to be a work of magic, Diocletian gave orders to wear down Saint Theopemptos by hunger and thirst during the course of 22 days, but here also by the will of God the martyr was preserved.</p><p>The emperor then summoned the famous sorcerer Theon, brought in to overcome the magical power which, as they supposed, was possessed by the holy bishop Theopemptos. Theon prepared a poison for Saint Theopemptos—put into a little cake, and offered it to him to eat. The poison did no harm at all to Saint Theopemptos. A second time, Theon tried out the effect of a still stronger poison on the martyr; but seeing, that Saint Theopemptos remained unharmed, he himself came to believe in Christ. They threw him into prison together with the holy bishop, who taught and baptised him, giving him the name Synesios (which means “fulfillment of understanding”).</p><p>In the morning Diocletian summoned Saint Theopemptos and again contended with him to recant from Christ; but, seeing the unbending rigour of the holy man, he subjected him to many grievous tortures, after which the saint was beheaded. The holy martyr Theon, having refused to offer sacrifice to idols, was buried alive in a deep ditch. This occurred at Nicomedia in the year 303.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Theopemptus, Bishop of Nicomedia, and Martyr Theonas the Sorcerer († 303)'
+            Short: 'Hieromartyr Theopemptus'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '156'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\nThe Nun Syncleticea was a native of Alexandria, the daughter of rich parents, pretty, and from her early years she thought only about things pleasing to God. Loving the purity of virginity, she declined to enter into marriage, and spent all her time in fasting and prayer. After the death of her parents she distributed her inheritance to the poor, and having accepted monasticism together with her blind sister, she withdrew into one of the crypts belonging to her kin. News about her ascetic deeds quickly spread throughout the vicinity, and many pious women and girls came to her to live under her guidance. During the course of her ascetic life the saint zealously instructed her sisters by word and by deed. In her 80<sup>th</sup> year of life she was struck by an intense and grievous illness. The nun bore the outcome of her ordeal with true christian endurance. The saint died in about the year 350, at age 83.\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Syncleticea of Alexandria'
+            Short: 'Nun Syncleticea'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '158'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\nThe Nun Apollinaria was a daughter of Anthemias, a former governor of the Greek empire during the minority of Theodosius the Younger (408-450). Having declined marriage, she requested of her pious parents permission to venerate at the holy places of the East. Having arrived in Alexandria from Jerusalem, she secretly away from her servants changed into the garb of a nun and hid in one of the marshy places, where she practised asceticism for several years in strict fasting and prayers. By a revelation from above, she was guided into a skete monastery to Saint Makarios of Egypt, and took for herself the monastic name Dorotheos. The Monk Makarios accepted her into the ranks of his brethren, and she there quickly distinguished herself by her ascetic life. The parents of Apollinaria had also another daughter, who was beset by demons. They sent her to the skete to the Monk Makarios, who took the sick girl to the monastic Dorotheos (Blessed Apollinaria), through whose prayers the maiden received healing. In returning homewards the maiden was again beset by a violent demon, which gave her the appearance of a pregnant woman. This produced great anger in her parents, who dispatched soldiers to the skete, and they demanded to see the perpetrator of their daughter’s outrage.</p><p>Saint Apollinaria took on herself the blame and went with the envoys to the home of her parents. There she revealed her secret to her parents, healed her sister, and returned to the skete, where in a short while she died peacefully in the year 470. Only after the death of the monastic Dorotheos was it revealed that this was a woman. The body of the saint was buried in a cave in the monastery church of Saint Makarios of Egypt.\n"
+          menologion: ''
+          name:
+            Nominative: 'The Nun Apollinaria († c.  470)'
+            Short: Apollinaria
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '1564'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\nThe Holy Prophet Micah was a companion of the holy prophet Elias. He prophesied the ruin of King Ahab in a war with the Assyrians, for which he was put into prison. Set free after the downfall of Ahab (3 Kings 22: 8-22), the holy prophet Micah died a martyr in the IX Century BC.\n"
+          menologion: ''
+          name:
+            Nominative: 'Prophet Micah (9<sup>th</sup> C BC)'
+            Short: 'Prophet Micah'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '161'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Gregory of Acritas was born on the island of Crete in the year 760. He received an upbringing by pious parents. This was a time when the iconoclast heretics persecuted the orthodox. The youth Gregory, wanting to preserve his Orthodox faith, went to Seleukos and lived there leading a life of piety.</p><p>At age 20 the Monk Gregory set off to Jerusalem and dwelt there for 12 years, enduring fierce persecution from the Arabs. From there Saint Gregory journeyed to Rome, where he took monastic vows. He became spiritually acquainted there with Saint Michael, bishop of Synadia (Comm. 23 May), who took him along and settled in a monastery on the Cape of Acritas (Sea of Marmora). The saint accomplished great ascetic deeds and died in about the year 820. </p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Gregory of Acritas († c.  820)'
+            Short: 'Venerable Gregory'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '159'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Phosterios the Wanderer pursued asceticism on an high mountain. By his powerful working of miracles and saintly life, he restored many from heresy.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Phosterius the Hermit (6<sup>th</sup> C)'
+            Short: 'Venerable Phosterius'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '160'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Menas pursued asceticism for 50 years in a Sinai monastery, and died peacefully in the second half of the VI Century.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Menas of Sinai (6<sup>th</sup> C)'
+            Short: 'Venerable Menas'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '010501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Theoidus'
+            Short: 'Martyr Theoidus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Sais'
+            Short: 'Martyr Sais'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Tatiana'
+            Short: 'Venerable Tatiana'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050499'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable women Talida and Taora'
+            Short: 'Venerable women'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050599'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Martyr Romanus'
+            Short: 'Venerable Martyr Romanus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '090141'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: ''
+            Short: 'Royal Hours'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_35:1-10
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '33'
+                  reading: Acts_13:25-32
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '5'
+                  reading: Mt_3:1-11
+                  type: '3'
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '42'
+                  reading: Acts_19:1-8
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '1'
+                  reading: Mk_1:1-8
+                  type: '3'
+              type: terce
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_12:3-6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '91'
+                  reading: Rom_6:3-11
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-15
+                  type: '3'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: Tit_2:11-14,3:4-7
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: '3'
+              type: none
+          src: menaion
+          type: ~
+      tone: 8
+  fr:
+    ponomar:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9286'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Vendredi de la 34-me semaine après le Pentecôte'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: '29'
+                  pericope: '317'
+                  reading: Heb_7:18-25
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '09013'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Paramonie de la Théophanie'
+            Short: 'Paramonie de'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:1-13
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_14:15-18,21-23,27-29a
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_15:22-27,16:1a
+                  type: '3'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Josh_3:7-8,15-17
+                  type: '4'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:6-14'
+                  type: '5'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_5:9-14'
+                  type: '6'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '7'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_32:1-10a
+                  type: '8'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_2:5-10
+                  type: '9'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Judg_6:36-40
+                  type: '10'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'III Kings_18:30-39'
+                  type: '11'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:19-22'
+                  type: '12'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '13'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '143'
+                  reading: 'I Cor_9:19-27'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '9'
+                  reading: Lk_3:1-18
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '155'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Théopempte et Théonas'
+            Short: 'Sts. Théopempte'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '156'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Synclétique'
+            Short: 'Ste. Synclétique'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '161'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Grégoire d’Akritas'
+            Short: 'St. Grégoire d’Akritas'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '159'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Phostère'
+            Short: 'St. Phostère'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '160'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Ménas le Sinaïte'
+            Short: 'St. Ménas'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Saïs'
+            Short: 'St. Saïs'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Théœidos'
+            Short: 'St. Théœidos'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01051100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Domnine'
+            Short: 'Ste. Domnine'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050397'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Tatienne'
+            Short: 'Ste. Tatienne'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050497'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Romanos de Carpennision'
+            Short: 'St. Romanos'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050597'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Galactoire, 1<sup>er</sup> Evêque de Lescar'
+            Short: 'St. Galactoire'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '090141'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: ''
+            Short: 'Royal Hours'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_35:1-10
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '33'
+                  reading: Acts_13:25-32
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '5'
+                  reading: Mt_3:1-11
+                  type: '3'
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '42'
+                  reading: Acts_19:1-8
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '1'
+                  reading: Mk_1:1-8
+                  type: '3'
+              type: terce
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_12:3-6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '91'
+                  reading: Rom_6:3-11
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-15
+                  type: '3'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: Tit_2:11-14,3:4-7
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: '3'
+              type: none
+          src: menaion
+          type: ~
+      tone: 8
+    ponomarReordered:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9286'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Vendredi de la 34-me semaine après le Pentecôte'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '09013'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Paramonie de la Théophanie'
+            Short: 'Paramonie de'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:1-13
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_14:15-18,21-23,27-29a
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_15:22-27,16:1a
+                  type: '3'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Josh_3:7-8,15-17
+                  type: '4'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:6-14'
+                  type: '5'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_5:9-14'
+                  type: '6'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '7'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_32:1-10a
+                  type: '8'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_2:5-10
+                  type: '9'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Judg_6:36-40
+                  type: '10'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'III Kings_18:30-39'
+                  type: '11'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:19-22'
+                  type: '12'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '13'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '143'
+                  reading: 'I Cor_9:19-27'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '9'
+                  reading: Lk_3:1-18
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '155'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Théopempte et Théonas'
+            Short: 'Sts. Théopempte'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '156'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Synclétique'
+            Short: 'Ste. Synclétique'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '161'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Grégoire d’Akritas'
+            Short: 'St. Grégoire d’Akritas'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '159'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Phostère'
+            Short: 'St. Phostère'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '160'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Ménas le Sinaïte'
+            Short: 'St. Ménas'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Saïs'
+            Short: 'St. Saïs'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Théœidos'
+            Short: 'St. Théœidos'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01051100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Domnine'
+            Short: 'Ste. Domnine'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050397'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Tatienne'
+            Short: 'Ste. Tatienne'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050497'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Romanos de Carpennision'
+            Short: 'St. Romanos'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050597'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Galactoire, 1<sup>er</sup> Evêque de Lescar'
+            Short: 'St. Galactoire'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '090141'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: ''
+            Short: 'Royal Hours'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_35:1-10
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '33'
+                  reading: Acts_13:25-32
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '5'
+                  reading: Mt_3:1-11
+                  type: '3'
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '42'
+                  reading: Acts_19:1-8
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '1'
+                  reading: Mk_1:1-8
+                  type: '3'
+              type: terce
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_12:3-6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '91'
+                  reading: Rom_6:3-11
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-15
+                  type: '3'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: Tit_2:11-14,3:4-7
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: '3'
+              type: none
+          src: menaion
+          type: ~
+      tone: 8
+  zh/Hans:
+    ponomar:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9286'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬节后第卅四周预备日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: '29'
+                  pericope: '317'
+                  reading: Heb_7:18-25
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '09013'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 主显节前夕
+            Short: 主显节前夕
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:1-13
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_14:15-18,21-23,27-29a
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_15:22-27,16:1a
+                  type: '3'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Josh_3:7-8,15-17
+                  type: '4'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:6-14'
+                  type: '5'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_5:9-14'
+                  type: '6'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '7'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_32:1-10a
+                  type: '8'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_2:5-10
+                  type: '9'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Judg_6:36-40
+                  type: '10'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'III Kings_18:30-39'
+                  type: '11'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:19-22'
+                  type: '12'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '13'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '143'
+                  reading: 'I Cor_9:19-27'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '9'
+                  reading: Lk_3:1-18
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '155'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者德奥般普特（尼科麦迪亚地方主教）及德奥纳（303年）
+            Short: 殉道者德奥般普特（尼科麦迪亚地方主教）及德奥纳（303年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '010504'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 童贞女阿颇利纳里斯（埃及人，470年）
+            Short: 童贞女阿颇利纳里斯（埃及人，470年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1564'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 先知弥亥亚（主降生前9世纪）
+            Short: 先知弥亥亚
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '161'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣格里高利（克里特修士，820年）
+            Short: 圣格里高利（克里特修士，820年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '159'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣佛斯特里（隐士，6世纪）
+            Short: 圣佛斯特里（隐士，6世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '160'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣弥纳（西奈山人，6世纪）
+            Short: 圣弥纳（西奈山人，6世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者特奥伊杜
+            Short: 殉道者特奥伊杜
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者塞斯
+            Short: 殉道者塞斯
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣塔迪安娜
+            Short: 圣塔迪安娜
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '156'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: '圣女辛克利提卡（亚历山大里亚人，350年） '
+            Short: '圣女辛克利提卡（亚历山大里亚人，350年） '
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01054596'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新修士殉道者罗玛诺（卡尔佩尼西翁地方人，1694年就义于君士坦丁堡）
+            Short: 新修士殉道者罗玛诺（卡尔佩尼西翁地方人，1694年就义于君士坦丁堡）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050696'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭约瑟夫协同他就义的37人（1921年）
+            Short: 新殉道司祭约瑟夫协同他就义的37人（1921年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010505'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道童女犹金尼娅（1933年）
+            Short: 殉道童女犹金尼娅（1933年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010506'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭塞尔吉（1934年）
+            Short: 新殉道司祭塞尔吉（1934年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010509'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬迁英格兰德文郡塔维斯托克的圣鲁曼（6世纪）之圣髑纪念日（981年）
+            Short: 敬迁英格兰德文郡塔维斯托克的圣鲁曼（6世纪）之圣髑纪念日（981年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050796'
+          info: ~
+          life: ~
+          menologion: ''
+          name: ~
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '090141'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: ''
+            Short: 'Royal Hours'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_35:1-10
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '33'
+                  reading: Acts_13:25-32
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '5'
+                  reading: Mt_3:1-11
+                  type: '3'
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '42'
+                  reading: Acts_19:1-8
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '1'
+                  reading: Mk_1:1-8
+                  type: '3'
+              type: terce
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_12:3-6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '91'
+                  reading: Rom_6:3-11
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-15
+                  type: '3'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: Tit_2:11-14,3:4-7
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: '3'
+              type: none
+          src: menaion
+          type: ~
+      tone: 8
+    ponomarReordered:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9286'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬节后第卅四周预备日
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '09013'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 主显节前夕
+            Short: 主显节前夕
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:1-13
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_14:15-18,21-23,27-29a
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_15:22-27,16:1a
+                  type: '3'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Josh_3:7-8,15-17
+                  type: '4'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:6-14'
+                  type: '5'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_5:9-14'
+                  type: '6'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '7'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_32:1-10a
+                  type: '8'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_2:5-10
+                  type: '9'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Judg_6:36-40
+                  type: '10'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'III Kings_18:30-39'
+                  type: '11'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:19-22'
+                  type: '12'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '13'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '143'
+                  reading: 'I Cor_9:19-27'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '9'
+                  reading: Lk_3:1-18
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '155'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者德奥般普特（尼科麦迪亚地方主教）及德奥纳（303年）
+            Short: 殉道者德奥般普特（尼科麦迪亚地方主教）及德奥纳（303年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '010504'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 童贞女阿颇利纳里斯（埃及人，470年）
+            Short: 童贞女阿颇利纳里斯（埃及人，470年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1564'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 先知弥亥亚（主降生前9世纪）
+            Short: 先知弥亥亚
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '161'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣格里高利（克里特修士，820年）
+            Short: 圣格里高利（克里特修士，820年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '159'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣佛斯特里（隐士，6世纪）
+            Short: 圣佛斯特里（隐士，6世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '160'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣弥纳（西奈山人，6世纪）
+            Short: 圣弥纳（西奈山人，6世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者特奥伊杜
+            Short: 殉道者特奥伊杜
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者塞斯
+            Short: 殉道者塞斯
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣塔迪安娜
+            Short: 圣塔迪安娜
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '156'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: '圣女辛克利提卡（亚历山大里亚人，350年） '
+            Short: '圣女辛克利提卡（亚历山大里亚人，350年） '
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01054596'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新修士殉道者罗玛诺（卡尔佩尼西翁地方人，1694年就义于君士坦丁堡）
+            Short: 新修士殉道者罗玛诺（卡尔佩尼西翁地方人，1694年就义于君士坦丁堡）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050696'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭约瑟夫协同他就义的37人（1921年）
+            Short: 新殉道司祭约瑟夫协同他就义的37人（1921年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010505'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道童女犹金尼娅（1933年）
+            Short: 殉道童女犹金尼娅（1933年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010506'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭塞尔吉（1934年）
+            Short: 新殉道司祭塞尔吉（1934年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010509'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬迁英格兰德文郡塔维斯托克的圣鲁曼（6世纪）之圣髑纪念日（981年）
+            Short: 敬迁英格兰德文郡塔维斯托克的圣鲁曼（6世纪）之圣髑纪念日（981年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050796'
+          info: ~
+          life: ~
+          menologion: ''
+          name: ~
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '090141'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: ''
+            Short: 'Royal Hours'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_35:1-10
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '33'
+                  reading: Acts_13:25-32
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '5'
+                  reading: Mt_3:1-11
+                  type: '3'
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '42'
+                  reading: Acts_19:1-8
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '1'
+                  reading: Mk_1:1-8
+                  type: '3'
+              type: terce
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_12:3-6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '91'
+                  reading: Rom_6:3-11
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-15
+                  type: '3'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: Tit_2:11-14,3:4-7
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: '3'
+              type: none
+          src: menaion
+          type: ~
+      tone: 8
+  zh/Hant:
+    ponomar:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9286'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬節後第卅四周預備日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: '29'
+                  pericope: '317'
+                  reading: Heb_7:18-25
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '09013'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 主顯節前夕
+            Short: 主顯節前夕
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:1-13
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_14:15-18,21-23,27-29a
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_15:22-27,16:1a
+                  type: '3'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Josh_3:7-8,15-17
+                  type: '4'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:6-14'
+                  type: '5'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_5:9-14'
+                  type: '6'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '7'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_32:1-10a
+                  type: '8'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_2:5-10
+                  type: '9'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Judg_6:36-40
+                  type: '10'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'III Kings_18:30-39'
+                  type: '11'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:19-22'
+                  type: '12'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '13'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '143'
+                  reading: 'I Cor_9:19-27'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '9'
+                  reading: Lk_3:1-18
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '155'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者德奧般普特（尼科麥迪亞地方主教）及德奧納（303年）
+            Short: 殉道者德奧般普特（尼科麥迪亞地方主教）及德奧納（303年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '010504'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 童貞女阿頗利納里斯（埃及人，470年）
+            Short: 童貞女阿頗利納里斯（埃及人，470年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1564'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 先知彌亥亞（主降生前九世紀）
+            Short: 先知彌亥亞
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '161'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖格里高利（克里特修士，820年）
+            Short: 聖格里高利（克里特修士，820年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '159'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖佛斯特里（隱士，六世紀）
+            Short: 聖佛斯特里（隱士，六世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '160'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖彌納（西奈山人，六世紀）
+            Short: 聖彌納（西奈山人，六世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者特奧伊杜
+            Short: 殉道者特奧伊杜
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者塞斯
+            Short: 殉道者塞斯
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖塔迪安娜
+            Short: 聖塔迪安娜
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '156'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: '聖女辛克利提卡（亞歷山大里亞人，350年） '
+            Short: '聖女辛克利提卡（亞歷山大里亞人，350年） '
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01054596'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新修士殉道者羅瑪諾（卡爾佩尼西翁地方人，1694年就義於君士坦丁堡）
+            Short: 新修士殉道者羅瑪諾（卡爾佩尼西翁地方人，1694年就義於君士坦丁堡）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050696'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭約瑟夫協同他就義的37人（1921年）
+            Short: 新殉道司祭約瑟夫協同他就義的37人（1921年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010505'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道童女猶金尼婭（1933年）
+            Short: 殉道童女猶金尼婭（1933年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010506'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭塞爾吉（1934年）
+            Short: 新殉道司祭塞爾吉（1934年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010509'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬遷英格蘭德文郡塔維斯托克的聖魯曼（六世紀）之聖髑紀念日（981年）
+            Short: 敬遷英格蘭德文郡塔維斯托克的聖魯曼（六世紀）之聖髑紀念日（981年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050796'
+          info: ~
+          life: ~
+          menologion: ''
+          name: ~
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '090141'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: ''
+            Short: 'Royal Hours'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_35:1-10
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '33'
+                  reading: Acts_13:25-32
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '5'
+                  reading: Mt_3:1-11
+                  type: '3'
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '42'
+                  reading: Acts_19:1-8
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '1'
+                  reading: Mk_1:1-8
+                  type: '3'
+              type: terce
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_12:3-6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '91'
+                  reading: Rom_6:3-11
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-15
+                  type: '3'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: Tit_2:11-14,3:4-7
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: '3'
+              type: none
+          src: menaion
+          type: ~
+      tone: 8
+    ponomarReordered:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9286'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬節後第卅四周預備日
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '09013'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 主顯節前夕
+            Short: 主顯節前夕
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:1-13
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_14:15-18,21-23,27-29a
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_15:22-27,16:1a
+                  type: '3'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Josh_3:7-8,15-17
+                  type: '4'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:6-14'
+                  type: '5'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_5:9-14'
+                  type: '6'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '7'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_32:1-10a
+                  type: '8'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Ex_2:5-10
+                  type: '9'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Judg_6:36-40
+                  type: '10'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'III Kings_18:30-39'
+                  type: '11'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'IV Kings_2:19-22'
+                  type: '12'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '13'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '143'
+                  reading: 'I Cor_9:19-27'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '9'
+                  reading: Lk_3:1-18
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '155'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者德奧般普特（尼科麥迪亞地方主教）及德奧納（303年）
+            Short: 殉道者德奧般普特（尼科麥迪亞地方主教）及德奧納（303年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '010504'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 童貞女阿頗利納里斯（埃及人，470年）
+            Short: 童貞女阿頗利納里斯（埃及人，470年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1564'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 先知彌亥亞（主降生前九世紀）
+            Short: 先知彌亥亞
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '161'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖格里高利（克里特修士，820年）
+            Short: 聖格里高利（克里特修士，820年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '159'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖佛斯特里（隱士，六世紀）
+            Short: 聖佛斯特里（隱士，六世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '160'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖彌納（西奈山人，六世紀）
+            Short: 聖彌納（西奈山人，六世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者特奧伊杜
+            Short: 殉道者特奧伊杜
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者塞斯
+            Short: 殉道者塞斯
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖塔迪安娜
+            Short: 聖塔迪安娜
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '156'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: '聖女辛克利提卡（亞歷山大里亞人，350年） '
+            Short: '聖女辛克利提卡（亞歷山大里亞人，350年） '
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01054596'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新修士殉道者羅瑪諾（卡爾佩尼西翁地方人，1694年就義於君士坦丁堡）
+            Short: 新修士殉道者羅瑪諾（卡爾佩尼西翁地方人，1694年就義於君士坦丁堡）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050696'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭約瑟夫協同他就義的37人（1921年）
+            Short: 新殉道司祭約瑟夫協同他就義的37人（1921年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010505'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道童女猶金尼婭（1933年）
+            Short: 殉道童女猶金尼婭（1933年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010506'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭塞爾吉（1934年）
+            Short: 新殉道司祭塞爾吉（1934年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010509'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬遷英格蘭德文郡塔維斯托克的聖魯曼（六世紀）之聖髑紀念日（981年）
+            Short: 敬遷英格蘭德文郡塔維斯托克的聖魯曼（六世紀）之聖髑紀念日（981年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01050796'
+          info: ~
+          life: ~
+          menologion: ''
+          name: ~
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '090141'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: ''
+            Short: 'Royal Hours'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_35:1-10
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '33'
+                  reading: Acts_13:25-32
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '5'
+                  reading: Mt_3:1-11
+                  type: '3'
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_1:16-20
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '42'
+                  reading: Acts_19:1-8
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '1'
+                  reading: Mk_1:1-8
+                  type: '3'
+              type: terce
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_12:3-6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '91'
+                  reading: Rom_6:3-11
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-15
+                  type: '3'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_49:8-15
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: Tit_2:11-14,3:4-7
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: '3'
+              type: none
+          src: menaion
+          type: ~
+      tone: 8

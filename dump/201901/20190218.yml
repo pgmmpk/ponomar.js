@@ -1,0 +1,1844 @@
+---
+date: 2019/2/18
+langs:
+  cu:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9856'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Недѣ́лѧ мѧсопꙋ́стнаѧ'
+            Short: Недѣ́лѧ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '63'
+                  reading: Jn_20:1-10
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '140'
+                  reading: 'I Cor_8:8-9:2'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Mt_25:31-46
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1333'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ льва̀, па́пы ри́мскагѡ (461)'
+            Short: 'Ст҃а́гѡ льва̀,'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '021800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ влади́мїра и҆сповѣ́дника (1933)'
+            Short: 'Прпⷣбнагѡ влади́мїра'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '021801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́ѧ мꙋ́ченицы а҆́нны (1940)'
+            Short: 'Ст҃ы́ѧ мꙋ́ченицы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '467'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ а҆га́пита и҆сповѣ́дника, є҆пі́скопа сѷна́дскагѡ (д҃)'
+            Short: 'Ст҃а́гѡ Агапита'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '46801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ флавїа́на и҆сповѣ́дника, патрїа́рха кѡнстантїнопо́лькагѡ (449-450)'
+            Short: 'Ст҃а́гѡ Флавиана'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '466'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ космы̀ ꙗ҆́хромскагѡ (1492)'
+            Short: 'Прпⷣбнагѡ космы̀'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 7
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9856'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Недѣ́лѧ мѧсопꙋ́стнаѧ'
+            Short: Недѣ́лѧ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '63'
+                  reading: Jn_20:1-10
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '140'
+                  reading: 'I Cor_8:8-9:2'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Mt_25:31-46
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1333'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ льва̀, па́пы ри́мскагѡ (461)'
+            Short: 'Ст҃а́гѡ льва̀,'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '021800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ влади́мїра и҆сповѣ́дника (1933)'
+            Short: 'Прпⷣбнагѡ влади́мїра'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '021801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́ѧ мꙋ́ченицы а҆́нны (1940)'
+            Short: 'Ст҃ы́ѧ мꙋ́ченицы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '467'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ а҆га́пита и҆сповѣ́дника, є҆пі́скопа сѷна́дскагѡ (д҃)'
+            Short: 'Ст҃а́гѡ Агапита'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '46801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ флавїа́на и҆сповѣ́дника, патрїа́рха кѡнстантїнопо́лькагѡ (449-450)'
+            Short: 'Ст҃а́гѡ Флавиана'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '466'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ космы̀ ꙗ҆́хромскагѡ (1492)'
+            Short: 'Прпⷣбнагѡ космы̀'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 7
+  cu/ru:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9856'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Неделя мясопустная (о страшнем суде)'
+            Nominative: 'Неделя мясопустная (о страшнем суде)'
+            Short: 'Неделя мясопустная (о страшнем суде)'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '63'
+                  reading: Jn_20:1-10
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '140'
+                  reading: 'I Cor_8:8-9:2'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Mt_25:31-46
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1333'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Святитель Лев I Великий, папа Римский (440—461), получил прекрасное и разностороннее образование, которое открывало перед ним блестящую светскую карьеру. Однако, стремясь к духовной жизни, он избрал иной путь и стал архидиаконом при святом папе Сиксте III (432—440), а после его смерти был избран, в сентябре 440 года, папой Римской Церкви. Это было трудное для Церкви время, когда еретики осаждали твердыню Православия своими соблазнительными лжеучениями. Святитель Лев умел совмещать пастырскую мягкость и доброту с несокрушимой твердостью в вопросах вероисповедания. Именно он явился основным защитником Православия против ереси Евтихия и Диоскора, учивших об одном естестве в Господе Иисусе Христе, и ереси Нестория. Он употребил всё свое влияние для того, чтобы умирить смущаемую еретиками Церковь и своими посланиями к святым Константинопольским царям Феодосию II (408—450) и Маркиану (450—457) деятельно способствовал созыву IV Вселенского Халкидонского Собора (451) для осуждения ереси монофизитов. На Соборе, где присутствовало 630 епископов, было оглашено послание святителя Льва к уже почившему тогда святителю Флавиану, Патриарху Константинопольскому (447—449), пострадавшему за Православную веру от разбойничьего Ефесского собора в 449 году. В послании святителя Льва было изложено Православное учение о двух естествах в Господе Иисусе Христе. С учением этим согласились все присутствовавшие на Соборе епископы. Еретики Евтихий и Диоскор были отлучены от Церкви. Святитель Лев явился также защитником своего отечества от натиска варваров. В 452 году он силою своего слова удержал от разорения Италии грозного предводителя гуннов Аттилу, а в 455 году, когда предводитель вандалов Гензерих вторгся в Рим, он сумел убедить его не предавать город разрушению, не жечь зданий и не проливать крови. Святитель Лев дожил до глубокой старости. Он заранее знал о своей смерти и приготовил себя теплой молитвой и добрыми делами к переходу из этого мира в вечность.     Он умер в 461 году и был погребен в Риме, в Ватиканском соборе. Его литературное и Богословское наследие состоит из 96 проповедей и 143 посланий, из которых самое знаменитое — к святителю Флавиану. \n"
+          menologion: ''
+          name:
+            Nominative: 'Свт. Льва, Папы Римского (461)'
+            Short: 'Свт. Льва'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '021800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Владимира исповедника (1933)'
+            Short: 'Прп. Владимира'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '021801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мц. Анны (1940)'
+            Short: 'Мц. Анны (1940)'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '467'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свт. Агапита исп., еп. Синадского (IV)'
+            Short: 'Свт. Агапита'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '46801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свт. Флавиана исп., патриарха Цареградского (449-450)'
+            Short: 'Свт. Флавиана'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '466'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Космы Яхромского (1492)'
+            Short: 'Прп. Космы'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 7
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9856'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Неделя мясопустная (о страшнем суде)'
+            Nominative: 'Неделя мясопустная (о страшнем суде)'
+            Short: 'Неделя мясопустная (о страшнем суде)'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '63'
+                  reading: Jn_20:1-10
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '140'
+                  reading: 'I Cor_8:8-9:2'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Mt_25:31-46
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1333'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Святитель Лев I Великий, папа Римский (440—461), получил прекрасное и разностороннее образование, которое открывало перед ним блестящую светскую карьеру. Однако, стремясь к духовной жизни, он избрал иной путь и стал архидиаконом при святом папе Сиксте III (432—440), а после его смерти был избран, в сентябре 440 года, папой Римской Церкви. Это было трудное для Церкви время, когда еретики осаждали твердыню Православия своими соблазнительными лжеучениями. Святитель Лев умел совмещать пастырскую мягкость и доброту с несокрушимой твердостью в вопросах вероисповедания. Именно он явился основным защитником Православия против ереси Евтихия и Диоскора, учивших об одном естестве в Господе Иисусе Христе, и ереси Нестория. Он употребил всё свое влияние для того, чтобы умирить смущаемую еретиками Церковь и своими посланиями к святым Константинопольским царям Феодосию II (408—450) и Маркиану (450—457) деятельно способствовал созыву IV Вселенского Халкидонского Собора (451) для осуждения ереси монофизитов. На Соборе, где присутствовало 630 епископов, было оглашено послание святителя Льва к уже почившему тогда святителю Флавиану, Патриарху Константинопольскому (447—449), пострадавшему за Православную веру от разбойничьего Ефесского собора в 449 году. В послании святителя Льва было изложено Православное учение о двух естествах в Господе Иисусе Христе. С учением этим согласились все присутствовавшие на Соборе епископы. Еретики Евтихий и Диоскор были отлучены от Церкви. Святитель Лев явился также защитником своего отечества от натиска варваров. В 452 году он силою своего слова удержал от разорения Италии грозного предводителя гуннов Аттилу, а в 455 году, когда предводитель вандалов Гензерих вторгся в Рим, он сумел убедить его не предавать город разрушению, не жечь зданий и не проливать крови. Святитель Лев дожил до глубокой старости. Он заранее знал о своей смерти и приготовил себя теплой молитвой и добрыми делами к переходу из этого мира в вечность.     Он умер в 461 году и был погребен в Риме, в Ватиканском соборе. Его литературное и Богословское наследие состоит из 96 проповедей и 143 посланий, из которых самое знаменитое — к святителю Флавиану. \n"
+          menologion: ''
+          name:
+            Nominative: 'Свт. Льва, Папы Римского (461)'
+            Short: 'Свт. Льва'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '021800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Владимира исповедника (1933)'
+            Short: 'Прп. Владимира'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '021801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мц. Анны (1940)'
+            Short: 'Мц. Анны (1940)'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '467'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свт. Агапита исп., еп. Синадского (IV)'
+            Short: 'Свт. Агапита'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '46801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свт. Флавиана исп., патриарха Цареградского (449-450)'
+            Short: 'Свт. Флавиана'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '466'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Космы Яхромского (1492)'
+            Short: 'Прп. Космы'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 7
+  el:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9856'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Κυριακὴ τῆς ἀπόκρεω'
+            Short: Κυριακὴ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '63'
+                  reading: Jn_20:1-10
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '140'
+                  reading: 'I Cor_8:8-9:2'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Mt_25:31-46
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1333'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Λέων Πάπας Ῥώμης'
+            Short: 'Ἅγιος Λέων Πάπας Ῥώμης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '021806'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Λέων καὶ Παρηγόριος οἱ Μάρτυρες οἱ ἐν Πατάροις τῆς Λυκίας Ἀθλήσαντες'
+            Short: 'Ἅγιοι Λέων καὶ Παρηγόριος οἱ Μάρτυρες οἱ ἐν Πατάροις τῆς Λυκίας Ἀθλήσαντες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '467'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἀγαπητὸς ὁ Ὁμολογητὴς καὶ θαυματουργὸς Ἐπίσκοπος Σινάου'
+            Short: 'Ὅσιος Ἀγαπητὸς ὁ Ὁμολογητὴς καὶ θαυματουργὸς Ἐπίσκοπος Σινάου'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02181200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Ἀγρίππας, Βικτωρίνος, Δωρόθεος καὶ Θεόδουλος'
+            Short: 'Ἅγιοι Ἀγρίππας, Βικτωρίνος, Δωρόθεος καὶ Θεόδουλος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02181300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Πιούλιος'
+            Short: 'Ἅγιος Πιούλιος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '466'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Κοσμᾶς τοῦ Γιαχρὸμ'
+            Short: 'Ὅσιος Κοσμᾶς τοῦ Γιαχρὸμ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '021804'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Νικόλαος Πατριάρχης Γεωργίας'
+            Short: 'Ἅγιος Νικόλαος Πατριάρχης Γεωργίας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 7
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9856'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Κυριακὴ τῆς ἀπόκρεω'
+            Short: Κυριακὴ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '63'
+                  reading: Jn_20:1-10
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '140'
+                  reading: 'I Cor_8:8-9:2'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Mt_25:31-46
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1333'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Λέων Πάπας Ῥώμης'
+            Short: 'Ἅγιος Λέων Πάπας Ῥώμης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '021806'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Λέων καὶ Παρηγόριος οἱ Μάρτυρες οἱ ἐν Πατάροις τῆς Λυκίας Ἀθλήσαντες'
+            Short: 'Ἅγιοι Λέων καὶ Παρηγόριος οἱ Μάρτυρες οἱ ἐν Πατάροις τῆς Λυκίας Ἀθλήσαντες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '467'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἀγαπητὸς ὁ Ὁμολογητὴς καὶ θαυματουργὸς Ἐπίσκοπος Σινάου'
+            Short: 'Ὅσιος Ἀγαπητὸς ὁ Ὁμολογητὴς καὶ θαυματουργὸς Ἐπίσκοπος Σινάου'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02181200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Ἀγρίππας, Βικτωρίνος, Δωρόθεος καὶ Θεόδουλος'
+            Short: 'Ἅγιοι Ἀγρίππας, Βικτωρίνος, Δωρόθεος καὶ Θεόδουλος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02181300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Πιούλιος'
+            Short: 'Ἅγιος Πιούλιος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '466'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Κοσμᾶς τοῦ Γιαχρὸμ'
+            Short: 'Ὅσιος Κοσμᾶς τοῦ Γιαχρὸμ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '021804'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Νικόλαος Πατριάρχης Γεωργίας'
+            Short: 'Ἅγιος Νικόλαος Πατριάρχης Γεωργίας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 7
+  en:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9856'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Meatfare Sunday (Sunday of the Dread Judgement)'
+            Short: 'Meatfare Sunday (Sunday of the Dread Judgement)'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '63'
+                  reading: Jn_20:1-10
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '140'
+                  reading: 'I Cor_8:8-9:2'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Mt_25:31-46
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1333'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>Saint Leo I the Great, Pope of Rome (440-461), received an exceedingly fine and diverse education, which opened for him the possibility of an excellent worldly career. But his yearning was in the spiritual life, and so he chose the different path of becoming an archdeacon under holy Pope Sixtus III (432-440)—after whose death Saint Leo in turn was chosen as Pope of the Roman Church, in September 440. These were difficult times for the Church, when heretics besieged the bulwarks of Orthodoxy with their tempting false-teachings. Saint Leo combined within himself a pastoral solicitude and goodness, together with an unshakable firmness in questions of the confession of the faith. He was in particular one of the basic defenders of Orthodoxy against the heresies of Eutykhios and Dioskoros—who taught that there was only one nature in the Lord Jesus Christ, and he was a defender also against the heresy of Nestorius. He exerted all his influence to put an end to the unrest by the heretics in the Church, and by his missives to the holy Constantinople emperors Theodosius II (408-450) and Marcian (450-457) he actively promoted the convening of the Fourth Œcumenical Council, at Chalcedon in 451, for condemning the heresy of the Monophysites. At this Œcumenical Council at Chalcedon, at which 630 bishops were present, there was proclaimed a missive of Saint Leo to the then already deceased Saint Flavian, Patriarch of Constantinople (447-449). Saint Flavian had suffered for Orthodoxy under the Ephesus “Robber Council” in the year 449. In the letter of Saint Leo was posited the Orthodox teaching about the two natures [the Divine and the human] in the Lord Jesus Christ. And with this teaching all the bishops present at the Council were in agreement. The heretics Eutykhios and Dioskoros were excommunicated from the Church.</p><p>Saint Leo was likewise a defender of his fatherland against the incursions of barbarians. In the year 452, by the persuasive power of his word, he stopped a pillaging of Italy by the dreadsome leader of the Huns, Attila. And again in the year 455, when the leader of the Vandals [a Germanic tribe], Henzerich, turned towards Rome, he boldly persuaded him not to pillage the city, burn buildings, nor spill blood. He knew about his death beforehand and he prepared himself by ardent prayer and good deeds, for the passing over from this world into eternity.</p><p>He died in the year 461 and was buried at Rome, in the Vatican cathedral. His literary and theological legacy is comprised of 96 sermons and 143 letters—of which the best known is his missive to Saint Flavian.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Saint Leo the Great, Pope of Rome († 461)'
+            Short: 'Saint Leo'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '021800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Vladimir the Confessor (1933)'
+            Short: 'Venerable Vladimir'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Anna (1940)'
+            Short: 'Martyr Anna (1940)'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '46801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Saint Flavian the Confessor, Patriarch of Constantinople († 449-450)'
+            Short: 'Saint Flavian'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '467'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Holy Hierarch Agapitus the Confessor, Bishop of Synaus in Phrygia with the Martyrs Victor, Dorotheus, Theodoulus and Agrippa (4<sup>th</sup> C)'
+            Short: 'Holy Hierarch Agapitus and companions'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02180299'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Blaise the Monk'
+            Short: 'Venerable Blaise'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '466'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Cosmas of Yakhroma († 1492)'
+            Short: 'Venerable Cosmas'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 7
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9856'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Meatfare Sunday (Sunday of the Dread Judgement)'
+            Short: 'Meatfare Sunday (Sunday of the Dread Judgement)'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '63'
+                  reading: Jn_20:1-10
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '140'
+                  reading: 'I Cor_8:8-9:2'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Mt_25:31-46
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1333'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>Saint Leo I the Great, Pope of Rome (440-461), received an exceedingly fine and diverse education, which opened for him the possibility of an excellent worldly career. But his yearning was in the spiritual life, and so he chose the different path of becoming an archdeacon under holy Pope Sixtus III (432-440)—after whose death Saint Leo in turn was chosen as Pope of the Roman Church, in September 440. These were difficult times for the Church, when heretics besieged the bulwarks of Orthodoxy with their tempting false-teachings. Saint Leo combined within himself a pastoral solicitude and goodness, together with an unshakable firmness in questions of the confession of the faith. He was in particular one of the basic defenders of Orthodoxy against the heresies of Eutykhios and Dioskoros—who taught that there was only one nature in the Lord Jesus Christ, and he was a defender also against the heresy of Nestorius. He exerted all his influence to put an end to the unrest by the heretics in the Church, and by his missives to the holy Constantinople emperors Theodosius II (408-450) and Marcian (450-457) he actively promoted the convening of the Fourth Œcumenical Council, at Chalcedon in 451, for condemning the heresy of the Monophysites. At this Œcumenical Council at Chalcedon, at which 630 bishops were present, there was proclaimed a missive of Saint Leo to the then already deceased Saint Flavian, Patriarch of Constantinople (447-449). Saint Flavian had suffered for Orthodoxy under the Ephesus “Robber Council” in the year 449. In the letter of Saint Leo was posited the Orthodox teaching about the two natures [the Divine and the human] in the Lord Jesus Christ. And with this teaching all the bishops present at the Council were in agreement. The heretics Eutykhios and Dioskoros were excommunicated from the Church.</p><p>Saint Leo was likewise a defender of his fatherland against the incursions of barbarians. In the year 452, by the persuasive power of his word, he stopped a pillaging of Italy by the dreadsome leader of the Huns, Attila. And again in the year 455, when the leader of the Vandals [a Germanic tribe], Henzerich, turned towards Rome, he boldly persuaded him not to pillage the city, burn buildings, nor spill blood. He knew about his death beforehand and he prepared himself by ardent prayer and good deeds, for the passing over from this world into eternity.</p><p>He died in the year 461 and was buried at Rome, in the Vatican cathedral. His literary and theological legacy is comprised of 96 sermons and 143 letters—of which the best known is his missive to Saint Flavian.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Saint Leo the Great, Pope of Rome († 461)'
+            Short: 'Saint Leo'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '021800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Vladimir the Confessor (1933)'
+            Short: 'Venerable Vladimir'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Anna (1940)'
+            Short: 'Martyr Anna (1940)'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '46801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Saint Flavian the Confessor, Patriarch of Constantinople († 449-450)'
+            Short: 'Saint Flavian'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '467'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Holy Hierarch Agapitus the Confessor, Bishop of Synaus in Phrygia with the Martyrs Victor, Dorotheus, Theodoulus and Agrippa (4<sup>th</sup> C)'
+            Short: 'Holy Hierarch Agapitus and companions'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02180299'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Blaise the Monk'
+            Short: 'Venerable Blaise'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '466'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Cosmas of Yakhroma († 1492)'
+            Short: 'Venerable Cosmas'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 7
+  fr:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9856'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Le dimanche de carnival'
+            Short: 'le dimanche de carnival'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '63'
+                  reading: Jn_20:1-10
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '140'
+                  reading: 'I Cor_8:8-9:2'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Mt_25:31-46
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1333'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Léon 1<sup>er</sup>, Pape de Rome'
+            Short: 'St. Léon'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '021806'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Léon et Parégoire'
+            Short: 'Sts. Léon'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '467'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Agapet, Evêque de Sinaos en Phrygie'
+            Short: 'St. Agapet'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02181200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Victorin, Dorothée, Théodule et Agrippa'
+            Short: 'Sts. Victorin'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02181300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Pioulios'
+            Short: 'St. Pioulios'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '466'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Cosmas, moine de Yakhrom'
+            Short: 'St. Cosmas'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 7
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9856'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Le dimanche de carnival'
+            Short: 'le dimanche de carnival'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '63'
+                  reading: Jn_20:1-10
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '140'
+                  reading: 'I Cor_8:8-9:2'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Mt_25:31-46
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1333'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Léon 1<sup>er</sup>, Pape de Rome'
+            Short: 'St. Léon'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '021806'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Léon et Parégoire'
+            Short: 'Sts. Léon'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '467'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Agapet, Evêque de Sinaos en Phrygie'
+            Short: 'St. Agapet'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02181200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Victorin, Dorothée, Théodule et Agrippa'
+            Short: 'Sts. Victorin'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02181300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Pioulios'
+            Short: 'St. Pioulios'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '466'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Cosmas, moine de Yakhrom'
+            Short: 'St. Cosmas'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 7
+  zh/Hans:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9856'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 离肉主日
+            Short: 离肉主日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '63'
+                  reading: Jn_20:1-10
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '140'
+                  reading: 'I Cor_8:8-9:2'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Mt_25:31-46
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1333'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大圣莱翁（罗马教宗，461年）
+            Short: 大圣莱翁（罗马教宗，461年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '021800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣弗拉迪弥尔（宣信者，1933年）
+            Short: 圣弗拉迪弥尔（宣信者，1933年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道女安纳（1940年）
+            Short: 新殉道女安纳（1940年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '46801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣弗拉维安（宣信者，君士坦丁堡牧首，449年）
+            Short: 圣弗拉维安（宣信者，君士坦丁堡牧首，449年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '467'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣阿伽彼（弗里吉亚的辛纳达城主教，4世纪）及殉道者：维克托尔、多若德奥、德奥杜洛、阿格里帕（在利基尼治下受难，4世纪）
+            Short: 圣阿伽彼（弗里吉亚的辛纳达城主教，4世纪）及殉道者：维克托尔、多若德奥、德奥杜洛、阿格里帕（在利基尼治下受难，4世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021802'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣弗莱西（阿托斯圣山修士，9世纪）
+            Short: 圣弗莱西（阿托斯圣山修士，9世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '466'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣科斯玛（雅克赫若穆斯克地方修士，1492年）
+            Short: 圣科斯玛（雅克赫若穆斯克地方修士，1492年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021803'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 寻获莱斯佛斯的新殉道女伊里尼（1463年）之圣髑纪念日（1961年）
+            Short: 寻获莱斯佛斯的新殉道女伊里尼（1463年）之圣髑纪念日（1961年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021804'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣尼科拉（格鲁吉亚之卡托利科斯〖首席主教〗1591年）
+            Short: 圣尼科拉（格鲁吉亚之卡托利科斯〖首席主教〗1591年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021805'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 纪念于圣彼得堡“神圣之夜”就义的全体殉道者（1932年）
+            Short: 纪念于圣彼得堡“神圣之夜”就义的全体殉道者（1932年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021806'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者莱翁和帕瑞格里（利西亚的帕塔拉地方，258年）
+            Short: 殉道者莱翁和帕瑞格里（利西亚的帕塔拉地方，258年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021807'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣科尔曼（林迪斯法尼岛主教，676年）
+            Short: 圣科尔曼（林迪斯法尼岛主教，676年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021808'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭亚历山大（本姓枚德威德斯基，11932年），殉道修士司祭本亚民（1938年）
+            Short: 新殉道司祭亚历山大（本姓枚德威德斯基，11932年），殉道修士司祭本亚民（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 7
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9856'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 离肉主日
+            Short: 离肉主日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '63'
+                  reading: Jn_20:1-10
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '140'
+                  reading: 'I Cor_8:8-9:2'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Mt_25:31-46
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1333'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大圣莱翁（罗马教宗，461年）
+            Short: 大圣莱翁（罗马教宗，461年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '021800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣弗拉迪弥尔（宣信者，1933年）
+            Short: 圣弗拉迪弥尔（宣信者，1933年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道女安纳（1940年）
+            Short: 新殉道女安纳（1940年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '46801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣弗拉维安（宣信者，君士坦丁堡牧首，449年）
+            Short: 圣弗拉维安（宣信者，君士坦丁堡牧首，449年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '467'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣阿伽彼（弗里吉亚的辛纳达城主教，4世纪）及殉道者：维克托尔、多若德奥、德奥杜洛、阿格里帕（在利基尼治下受难，4世纪）
+            Short: 圣阿伽彼（弗里吉亚的辛纳达城主教，4世纪）及殉道者：维克托尔、多若德奥、德奥杜洛、阿格里帕（在利基尼治下受难，4世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021802'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣弗莱西（阿托斯圣山修士，9世纪）
+            Short: 圣弗莱西（阿托斯圣山修士，9世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '466'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣科斯玛（雅克赫若穆斯克地方修士，1492年）
+            Short: 圣科斯玛（雅克赫若穆斯克地方修士，1492年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021803'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 寻获莱斯佛斯的新殉道女伊里尼（1463年）之圣髑纪念日（1961年）
+            Short: 寻获莱斯佛斯的新殉道女伊里尼（1463年）之圣髑纪念日（1961年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021804'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣尼科拉（格鲁吉亚之卡托利科斯〖首席主教〗1591年）
+            Short: 圣尼科拉（格鲁吉亚之卡托利科斯〖首席主教〗1591年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021805'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 纪念于圣彼得堡“神圣之夜”就义的全体殉道者（1932年）
+            Short: 纪念于圣彼得堡“神圣之夜”就义的全体殉道者（1932年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021806'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者莱翁和帕瑞格里（利西亚的帕塔拉地方，258年）
+            Short: 殉道者莱翁和帕瑞格里（利西亚的帕塔拉地方，258年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021807'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣科尔曼（林迪斯法尼岛主教，676年）
+            Short: 圣科尔曼（林迪斯法尼岛主教，676年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021808'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭亚历山大（本姓枚德威德斯基，11932年），殉道修士司祭本亚民（1938年）
+            Short: 新殉道司祭亚历山大（本姓枚德威德斯基，11932年），殉道修士司祭本亚民（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 7
+  zh/Hant:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9856'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 離肉主日
+            Short: 離肉主日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '63'
+                  reading: Jn_20:1-10
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '140'
+                  reading: 'I Cor_8:8-9:2'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Mt_25:31-46
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1333'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大聖萊翁（羅馬教宗，461年）
+            Short: 大聖萊翁（羅馬教宗，461年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '021800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖弗拉迪彌爾（宣信者，1933年）
+            Short: 聖弗拉迪彌爾（宣信者，1933年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道女安納（1940年）
+            Short: 新殉道女安納（1940年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '46801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖弗拉維安（宣信者，君士坦丁堡牧首，449年）
+            Short: 聖弗拉維安（宣信者，君士坦丁堡牧首，449年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '467'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖阿伽彼（弗里吉亞的辛納達城主教，四世紀）及殉道者：維克托爾、多若德奧、德奧杜洛、阿格里帕（在利基尼治下受難，四世紀）
+            Short: 聖阿伽彼（弗里吉亞的辛納達城主教，四世紀）及殉道者：維克托爾、多若德奧、德奧杜洛、阿格里帕（在利基尼治下受難，四世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021802'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖弗萊西（阿托斯聖山修士，九世紀）
+            Short: 聖弗萊西（阿托斯聖山修士，九世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '466'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖科斯瑪（雅克赫若穆斯克地方修士，1492年）
+            Short: 聖科斯瑪（雅克赫若穆斯克地方修士，1492年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021803'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 尋獲萊斯佛斯的新殉道女伊里尼（1463年）之聖髑紀念日（1961年）
+            Short: 尋獲萊斯佛斯的新殉道女伊里尼（1463年）之聖髑紀念日（1961年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021804'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖尼科拉（格魯吉亞之卡托利科斯【首席主教】1591年）
+            Short: 聖尼科拉（格魯吉亞之卡托利科斯【首席主教】1591年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021805'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 紀念於聖彼得堡「神聖之夜」就義的全體殉道者（1932年）
+            Short: 紀念於聖彼得堡「神聖之夜」就義的全體殉道者（1932年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021806'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者萊翁和帕瑞格里（利西亞的帕塔拉地方，258年）
+            Short: 殉道者萊翁和帕瑞格里（利西亞的帕塔拉地方，258年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021807'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖科爾曼（林迪斯法尼島主教，676年）
+            Short: 聖科爾曼（林迪斯法尼島主教，676年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021808'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭亞歷山大（本姓枚德威德斯基，11932年），殉道修士司祭本亞民（1938年）
+            Short: 新殉道司祭亞歷山大（本姓枚德威德斯基，11932年），殉道修士司祭本亞民（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 7
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9856'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 離肉主日
+            Short: 離肉主日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '63'
+                  reading: Jn_20:1-10
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '140'
+                  reading: 'I Cor_8:8-9:2'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '106'
+                  reading: Mt_25:31-46
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1333'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大聖萊翁（羅馬教宗，461年）
+            Short: 大聖萊翁（羅馬教宗，461年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '021800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖弗拉迪彌爾（宣信者，1933年）
+            Short: 聖弗拉迪彌爾（宣信者，1933年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道女安納（1940年）
+            Short: 新殉道女安納（1940年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '46801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖弗拉維安（宣信者，君士坦丁堡牧首，449年）
+            Short: 聖弗拉維安（宣信者，君士坦丁堡牧首，449年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '467'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖阿伽彼（弗里吉亞的辛納達城主教，四世紀）及殉道者：維克托爾、多若德奧、德奧杜洛、阿格里帕（在利基尼治下受難，四世紀）
+            Short: 聖阿伽彼（弗里吉亞的辛納達城主教，四世紀）及殉道者：維克托爾、多若德奧、德奧杜洛、阿格里帕（在利基尼治下受難，四世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021802'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖弗萊西（阿托斯聖山修士，九世紀）
+            Short: 聖弗萊西（阿托斯聖山修士，九世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '466'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖科斯瑪（雅克赫若穆斯克地方修士，1492年）
+            Short: 聖科斯瑪（雅克赫若穆斯克地方修士，1492年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021803'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 尋獲萊斯佛斯的新殉道女伊里尼（1463年）之聖髑紀念日（1961年）
+            Short: 尋獲萊斯佛斯的新殉道女伊里尼（1463年）之聖髑紀念日（1961年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021804'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖尼科拉（格魯吉亞之卡托利科斯【首席主教】1591年）
+            Short: 聖尼科拉（格魯吉亞之卡托利科斯【首席主教】1591年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021805'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 紀念於聖彼得堡「神聖之夜」就義的全體殉道者（1932年）
+            Short: 紀念於聖彼得堡「神聖之夜」就義的全體殉道者（1932年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021806'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者萊翁和帕瑞格里（利西亞的帕塔拉地方，258年）
+            Short: 殉道者萊翁和帕瑞格里（利西亞的帕塔拉地方，258年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021807'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖科爾曼（林迪斯法尼島主教，676年）
+            Short: 聖科爾曼（林迪斯法尼島主教，676年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021808'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭亞歷山大（本姓枚德威德斯基，11932年），殉道修士司祭本亞民（1938年）
+            Short: 新殉道司祭亞歷山大（本姓枚德威德斯基，11932年），殉道修士司祭本亞民（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 7

@@ -1,0 +1,2658 @@
+---
+date: 2019/2/6
+langs:
+  cu:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9868'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Вто́рникъ блꙋ́днагѡ сы́на'
+            Short: Вто́рникъ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: 'II Pet_2:9-22'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '60'
+                  reading: Mk_13:14-23
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '37303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Попра́зднство срѣ́тенїѧ гдⷭ҇нѧ'
+            Short: 'Попра́зднство срѣ́тенїѧ гдⷭ҇нѧ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '398'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ вꙋко́ла, є҆пі́скопа смѵ́рнскагѡ (ок. 100)'
+            Short: 'Прпⷣбнагѡ вꙋко́ла,'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '020600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника дими́трїа пресвѵ́тера и҆ мч҃ника а҆нато́лїѧ (1921)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4776'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника васі́лїа пресвѵ́тера (1930)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '020601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника а҆леѯа́ндра пресвѵ́тера (1938)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '401'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч҃ницъ дѡроѳе́и дѣ́вы, же́нъ хрїсті́ны, каллі́сты и҆ мч҃ника ѳео́фїла (288-300)'
+            Short: 'Мч҃ницъ Дорофеи'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '403'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́ѧ мꙋ́ченицы Фавсты дѣ́вы и҆ мꙋ́ченикѡвъ Евиласия и҆ маѯі́ма (305-311)'
+            Short: 'Ст҃ы́ѧ мꙋ́ченицы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '402'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника і҆ꙋлїа́на Емисского (312)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбныхъ варсоно́фїа вели́кагѡ и҆ і҆ѡа́нна прⷪ҇ро́ка (ѕ҃)'
+            Short: 'Прпⷣбныхъ варсоно́фїа'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '405'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ фѡ́тїа, патрїа́рха кѡнстанті́нѧ гра́да (891)'
+            Short: 'Ст҃а́гѡ фѡ́тїа,'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '404'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч҃ницъ дев ма́рѳы, марі́и и҆ бра́та их, прпⷣбномч҃ника Ликариона отрока'
+            Short: 'Мч҃ницъ дев'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 5
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9868'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Вто́рникъ блꙋ́днагѡ сы́на'
+            Short: Вто́рникъ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: 'II Pet_2:9-22'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '60'
+                  reading: Mk_13:14-23
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '37303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Попра́зднство срѣ́тенїѧ гдⷭ҇нѧ'
+            Short: 'Попра́зднство срѣ́тенїѧ гдⷭ҇нѧ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '398'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ вꙋко́ла, є҆пі́скопа смѵ́рнскагѡ (ок. 100)'
+            Short: 'Прпⷣбнагѡ вꙋко́ла,'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '020600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника дими́трїа пресвѵ́тера и҆ мч҃ника а҆нато́лїѧ (1921)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4776'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника васі́лїа пресвѵ́тера (1930)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '020601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника а҆леѯа́ндра пресвѵ́тера (1938)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '401'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч҃ницъ дѡроѳе́и дѣ́вы, же́нъ хрїсті́ны, каллі́сты и҆ мч҃ника ѳео́фїла (288-300)'
+            Short: 'Мч҃ницъ Дорофеи'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '403'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́ѧ мꙋ́ченицы Фавсты дѣ́вы и҆ мꙋ́ченикѡвъ Евиласия и҆ маѯі́ма (305-311)'
+            Short: 'Ст҃ы́ѧ мꙋ́ченицы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '402'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника і҆ꙋлїа́на Емисского (312)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбныхъ варсоно́фїа вели́кагѡ и҆ і҆ѡа́нна прⷪ҇ро́ка (ѕ҃)'
+            Short: 'Прпⷣбныхъ варсоно́фїа'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '405'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ фѡ́тїа, патрїа́рха кѡнстанті́нѧ гра́да (891)'
+            Short: 'Ст҃а́гѡ фѡ́тїа,'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '404'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч҃ницъ дев ма́рѳы, марі́и и҆ бра́та их, прпⷣбномч҃ника Ликариона отрока'
+            Short: 'Мч҃ницъ дев'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 5
+  cu/ru:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9868'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Сплошная седмица. Вторник'
+            Nominative: 'Сплошная седмица. Вторник'
+            Short: 'Сплошная седмица. Вторник'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: 'II Pet_2:9-22'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '60'
+                  reading: Mk_13:14-23
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '37303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: Попразднства
+            Nominative: 'Попразднство Сретения Господня'
+            Short: Попразднство
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '398'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Преподобный Вукол, епископ Смирнский, ученик святого апостола и евангелиста Иоанна Богослова, был им поставлен первым епископом Смирнской Церкви (Малая Азия).    Благодатию Божией, святитель Вукол обратил ко Христу и крестил множество язычников и как опытный и мудрый наставник защищал свою паству от тьмы ересей. Скончался в мире около 100—105 года. Свою паству он передал святому Поликарпу, знаменитому мужу апостольскому, который также был учеником святого апостола Иоанна Богослова (память его 23 февраля). У гроба святителя Вукола выросло миртовое дерево, которое исцеляло больных. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Вукола, еп. Смирнского (ок. 100)'
+            Short: 'Прп. Вукола'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '020600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Димитрия пресвитера и мч. Анатолия (1921)'
+            Short: 'Сщмч. Димитрия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4776'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Василия пресвитера (1930)'
+            Short: 'Сщмч. Василия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '020601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Александра пресвитера (1938)'
+            Short: 'Сщмч. Александра'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '401'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мцц. Дорофеи девы, жен Христины, Каллисты и мч. Феофила (288-300)'
+            Short: 'Мцц. Дорофеи'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '403'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мц. Фавсты девы и мчч. Евиласия и Максима (305-311)'
+            Short: 'Мц. Фавсты'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '402'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Иулиана Емисского (312)'
+            Short: 'Мч. Иулиана'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпп. Варсонофия Великого и Иоанна Пророка (VI)'
+            Short: 'Прпп. Варсонофия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '405'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свт. Фотия, Патриарха Константинопольского (891)'
+            Short: 'Свт. Фотия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '404'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мцц. дев  Марфы, Марии и брата их, прмч. Ликариона отрока'
+            Short: 'Мцц. дев'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 5
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9868'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Сплошная седмица. Вторник'
+            Nominative: 'Сплошная седмица. Вторник'
+            Short: 'Сплошная седмица. Вторник'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: 'II Pet_2:9-22'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '60'
+                  reading: Mk_13:14-23
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '37303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: Попразднства
+            Nominative: 'Попразднство Сретения Господня'
+            Short: Попразднство
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '398'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Преподобный Вукол, епископ Смирнский, ученик святого апостола и евангелиста Иоанна Богослова, был им поставлен первым епископом Смирнской Церкви (Малая Азия).    Благодатию Божией, святитель Вукол обратил ко Христу и крестил множество язычников и как опытный и мудрый наставник защищал свою паству от тьмы ересей. Скончался в мире около 100—105 года. Свою паству он передал святому Поликарпу, знаменитому мужу апостольскому, который также был учеником святого апостола Иоанна Богослова (память его 23 февраля). У гроба святителя Вукола выросло миртовое дерево, которое исцеляло больных. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Вукола, еп. Смирнского (ок. 100)'
+            Short: 'Прп. Вукола'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '020600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Димитрия пресвитера и мч. Анатолия (1921)'
+            Short: 'Сщмч. Димитрия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4776'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Василия пресвитера (1930)'
+            Short: 'Сщмч. Василия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '020601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Александра пресвитера (1938)'
+            Short: 'Сщмч. Александра'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '401'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мцц. Дорофеи девы, жен Христины, Каллисты и мч. Феофила (288-300)'
+            Short: 'Мцц. Дорофеи'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '403'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мц. Фавсты девы и мчч. Евиласия и Максима (305-311)'
+            Short: 'Мц. Фавсты'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '402'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Иулиана Емисского (312)'
+            Short: 'Мч. Иулиана'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпп. Варсонофия Великого и Иоанна Пророка (VI)'
+            Short: 'Прпп. Варсонофия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '405'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свт. Фотия, Патриарха Константинопольского (891)'
+            Short: 'Свт. Фотия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '404'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мцц. дев  Марфы, Марии и брата их, прмч. Ликариона отрока'
+            Short: 'Мцц. дев'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 5
+  el:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9868'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Τρίτη
+            Short: Τρίτη
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: 'II Pet_2:9-22'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '60'
+                  reading: Mk_13:14-23
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '37303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Μετὰ τῶν Ὑπαπαντὴ τοῦ Κυρίου'
+            Short: 'Μετὰ τῶν Ὑπαπαντὴ τοῦ Κυρίου'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '398'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Βουκόλος Ἐπίσκοπος Σμύρνης'
+            Short: 'Ὅσιος Βουκόλος Ἐπίσκοπος Σμύρνης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '405'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Φώτιος ὁ Μέγας Πατριάρχης Κωνσταντινουπόλεως'
+            Short: 'Ἅγιος Φώτιος ὁ Μέγας Πατριάρχης Κωνσταντινουπόλεως'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '402'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἰουλιανὸς ὁ ἐν Ἐμέσῃ'
+            Short: 'Ἅγιος Ἰουλιανὸς ὁ ἐν Ἐμέσῃ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '403'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Φαύστα, Εὐϊλάσιος καὶ Μάξιμος'
+            Short: 'Ἅγιοι Φαύστα, Εὐϊλάσιος καὶ Μάξιμος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '020610'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Φαῦστος, Βασίλειος καὶ Λουκιανὸς'
+            Short: 'Ἅγιοι Φαῦστος, Βασίλειος καὶ Λουκιανὸς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιοι Βαρσανούφιος καὶ Ἰωάννης ὁ μαθητὴς τοῦ ὁ επικαλούμενος Προφήτης'
+            Short: 'Ὅσιοι Βαρσανούφιος καὶ Ἰωάννης ὁ μαθητὴς τοῦ ὁ επικαλούμενος Προφήτης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02060895'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἰωάννης ὁ ἐν Λυκῷ'
+            Short: 'Ὅσιος Ἰωάννης ὁ ἐν Λυκῷ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '020603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἰάκωβος '
+            Short: 'Ὅσιος Ἰάκωβος '
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02061095'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Μακάριος'
+            Short: 'Ὅσιος Μακάριος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '401'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Δωροθέα καὶ Θεόφιλος οἱ Μάρτυρες ἐν Καισαρείᾳ'
+            Short: 'Ἅγιοι Δωροθέα καὶ Θεόφιλος οἱ Μάρτυρες ἐν Καισαρείᾳ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '020605'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἄμανδος Ἐπίσκοπος Μάαστριχτ, φωτιστὴς τῆς Βελγικῆς'
+            Short: 'Ἅγιος Ἄμανδος Ἐπίσκοπος Μάαστριχτ, φωτιστὴς τῆς Βελγικῆς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02061395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Δαμασκηνὸς ὁ ἱερομάρτυρας ὁ Σιναΐτης'
+            Short: 'Ἅγιος Δαμασκηνὸς ὁ ἱερομάρτυρας ὁ Σιναΐτης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02061495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἀρτέμιος ὁ ἱερομάρτυρας ὁ Σιναΐτης'
+            Short: 'Ἅγιος Ἀρτέμιος ὁ ἱερομάρτυρας ὁ Σιναΐτης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '020606'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἀρσένιος ὁ ἐκ Γεωργίας'
+            Short: 'Ὅσιος Ἀρσένιος ὁ ἐκ Γεωργίας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 5
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9868'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Τρίτη
+            Short: Τρίτη
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: 'II Pet_2:9-22'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '60'
+                  reading: Mk_13:14-23
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '37303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Μετὰ τῶν Ὑπαπαντὴ τοῦ Κυρίου'
+            Short: 'Μετὰ τῶν Ὑπαπαντὴ τοῦ Κυρίου'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '398'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Βουκόλος Ἐπίσκοπος Σμύρνης'
+            Short: 'Ὅσιος Βουκόλος Ἐπίσκοπος Σμύρνης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '405'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Φώτιος ὁ Μέγας Πατριάρχης Κωνσταντινουπόλεως'
+            Short: 'Ἅγιος Φώτιος ὁ Μέγας Πατριάρχης Κωνσταντινουπόλεως'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '402'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἰουλιανὸς ὁ ἐν Ἐμέσῃ'
+            Short: 'Ἅγιος Ἰουλιανὸς ὁ ἐν Ἐμέσῃ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '403'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Φαύστα, Εὐϊλάσιος καὶ Μάξιμος'
+            Short: 'Ἅγιοι Φαύστα, Εὐϊλάσιος καὶ Μάξιμος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '020610'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Φαῦστος, Βασίλειος καὶ Λουκιανὸς'
+            Short: 'Ἅγιοι Φαῦστος, Βασίλειος καὶ Λουκιανὸς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιοι Βαρσανούφιος καὶ Ἰωάννης ὁ μαθητὴς τοῦ ὁ επικαλούμενος Προφήτης'
+            Short: 'Ὅσιοι Βαρσανούφιος καὶ Ἰωάννης ὁ μαθητὴς τοῦ ὁ επικαλούμενος Προφήτης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02060895'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἰωάννης ὁ ἐν Λυκῷ'
+            Short: 'Ὅσιος Ἰωάννης ὁ ἐν Λυκῷ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '020603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἰάκωβος '
+            Short: 'Ὅσιος Ἰάκωβος '
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02061095'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Μακάριος'
+            Short: 'Ὅσιος Μακάριος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '401'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Δωροθέα καὶ Θεόφιλος οἱ Μάρτυρες ἐν Καισαρείᾳ'
+            Short: 'Ἅγιοι Δωροθέα καὶ Θεόφιλος οἱ Μάρτυρες ἐν Καισαρείᾳ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '020605'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἄμανδος Ἐπίσκοπος Μάαστριχτ, φωτιστὴς τῆς Βελγικῆς'
+            Short: 'Ἅγιος Ἄμανδος Ἐπίσκοπος Μάαστριχτ, φωτιστὴς τῆς Βελγικῆς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02061395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Δαμασκηνὸς ὁ ἱερομάρτυρας ὁ Σιναΐτης'
+            Short: 'Ἅγιος Δαμασκηνὸς ὁ ἱερομάρτυρας ὁ Σιναΐτης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02061495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἀρτέμιος ὁ ἱερομάρτυρας ὁ Σιναΐτης'
+            Short: 'Ἅγιος Ἀρτέμιος ὁ ἱερομάρτυρας ὁ Σιναΐτης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '020606'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἀρσένιος ὁ ἐκ Γεωργίας'
+            Short: 'Ὅσιος Ἀρσένιος ὁ ἐκ Γεωργίας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 5
+  en:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9868'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Tuesday of the Fast-free Week'
+            Short: 'Tuesday of the Fast-free Week'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: 'II Pet_2:9-22'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '60'
+                  reading: Mk_13:14-23
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '37303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Afterfeast of the Meeting of the Lord'
+            Short: Afterfeast
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '398'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Bucolus, Bishop of Smyrna, was a disciple of the holy Apostle and Evangelist John the Theologian, and was established by him as the first bishop of the Smyrna Church (Asia Minor).</p><p>By the grace of God, Saint Bucolus converted to Christ and baptised many of the pagans, and as an experienced and wise guide he defended his flock from the darkness of heresy. He died at peace in about the years 100-105. He passed his flock on to SaintPolycarp (Comm. 23 February), one of the apostolic fathers, who likewise was a disciple of the holy Apostle John the Theologian. At the grave of Saint Bucolus grew a myrtle tree, which healed the sick.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Saint Bucolus, Bishop of Smyrna († c. 100)'
+            Short: 'Saint Bucolus'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '020600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Priest Demetrius and Martyr Anatolius († 1921)'
+            Short: 'New Hieromartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4776'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Priest Basil († 1930)'
+            Short: 'New Hieromartyr Basil'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Priest Alexander († 1938)'
+            Short: 'New Hieromartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Barsanuphius the Great and Venerable John the Prophet (6<sup>th</sup> C)'
+            Short: 'Venerable Barsanuphius and John'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '402'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Julian of Emesa († 312)'
+            Short: 'Martyr Julian'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '403'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Virgin-martyr Fausta and with her, Evilasius and Maximus, at Cyzicus († c. 305-311)'
+            Short: 'Virgin-martyr Fausta'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '401'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Virgin-martyrs Dorothy and two sisters - Christina and Callista - and the Martyr Theophilus at Cæsarea in Cappadocia († c. 288-300)'
+            Short: 'Virgin-martyr Dorothy and companions'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '404'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyrs Martha, Mary, and their brother Lycarion'
+            Short: 'Martyrs Martha'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '405'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Saint Photius, Patriarch of Constantinople (9<sup>th</sup> C)'
+            Short: 'Saint Photius'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 5
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9868'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Tuesday of the Fast-free Week'
+            Short: 'Tuesday of the Fast-free Week'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: 'II Pet_2:9-22'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '60'
+                  reading: Mk_13:14-23
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '37303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Afterfeast of the Meeting of the Lord'
+            Short: Afterfeast
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '398'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Bucolus, Bishop of Smyrna, was a disciple of the holy Apostle and Evangelist John the Theologian, and was established by him as the first bishop of the Smyrna Church (Asia Minor).</p><p>By the grace of God, Saint Bucolus converted to Christ and baptised many of the pagans, and as an experienced and wise guide he defended his flock from the darkness of heresy. He died at peace in about the years 100-105. He passed his flock on to SaintPolycarp (Comm. 23 February), one of the apostolic fathers, who likewise was a disciple of the holy Apostle John the Theologian. At the grave of Saint Bucolus grew a myrtle tree, which healed the sick.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Saint Bucolus, Bishop of Smyrna († c. 100)'
+            Short: 'Saint Bucolus'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '020600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Priest Demetrius and Martyr Anatolius († 1921)'
+            Short: 'New Hieromartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4776'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Priest Basil († 1930)'
+            Short: 'New Hieromartyr Basil'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Priest Alexander († 1938)'
+            Short: 'New Hieromartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Barsanuphius the Great and Venerable John the Prophet (6<sup>th</sup> C)'
+            Short: 'Venerable Barsanuphius and John'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '402'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Julian of Emesa († 312)'
+            Short: 'Martyr Julian'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '403'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Virgin-martyr Fausta and with her, Evilasius and Maximus, at Cyzicus († c. 305-311)'
+            Short: 'Virgin-martyr Fausta'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '401'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Virgin-martyrs Dorothy and two sisters - Christina and Callista - and the Martyr Theophilus at Cæsarea in Cappadocia († c. 288-300)'
+            Short: 'Virgin-martyr Dorothy and companions'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '404'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyrs Martha, Mary, and their brother Lycarion'
+            Short: 'Martyrs Martha'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '405'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Saint Photius, Patriarch of Constantinople (9<sup>th</sup> C)'
+            Short: 'Saint Photius'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 5
+  fr:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9868'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Mardi de la Semaine sans jeune'
+            Short: 'Mardi de la Semaine sans jeune'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: 'II Pet_2:9-22'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '60'
+                  reading: Mk_13:14-23
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '37303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'L’aprèsfête de la Rencontre'
+            Short: L’aprèsfête
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '398'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Boucole, Evêque de Smyrne'
+            Short: 'St. Boucole'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '402'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Julien d’Emèse'
+            Short: 'St. Julien d’Emèse'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '403'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Fausta et ses compagnons Evilassios et Maxime'
+            Short: 'Ste. Fausta'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '401'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Dorothée et Théophile'
+            Short: 'Sts. Dorothée'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020610'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Faust et Basile de Darion à Constantinople'
+            Short: 'St. Faust'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '405'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Photios le Confesseur, Patriarche de Constantinople'
+            Short: 'St. Photios'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Jacques l’Ascète de Syrie'
+            Short: 'St. Jacques'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Barsanuphe le Grand et Jean le Prophète de Gaza'
+            Short: 'St. Barsanuphe'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020607'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Dorothée de Kachin'
+            Short: 'Ste. Dorothée'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020609'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Vaast, Evêque d’Arras'
+            Short: 'St. Vaast'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020605'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Amand, Evêque de Maastricht'
+            Short: 'St. Amand'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 5
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9868'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Mardi de la Semaine sans jeune'
+            Short: 'Mardi de la Semaine sans jeune'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: 'II Pet_2:9-22'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '60'
+                  reading: Mk_13:14-23
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '37303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'L’aprèsfête de la Rencontre'
+            Short: L’aprèsfête
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '398'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Boucole, Evêque de Smyrne'
+            Short: 'St. Boucole'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '402'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Julien d’Emèse'
+            Short: 'St. Julien d’Emèse'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '403'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Fausta et ses compagnons Evilassios et Maxime'
+            Short: 'Ste. Fausta'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '401'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Dorothée et Théophile'
+            Short: 'Sts. Dorothée'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020610'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Faust et Basile de Darion à Constantinople'
+            Short: 'St. Faust'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '405'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Photios le Confesseur, Patriarche de Constantinople'
+            Short: 'St. Photios'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Jacques l’Ascète de Syrie'
+            Short: 'St. Jacques'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Barsanuphe le Grand et Jean le Prophète de Gaza'
+            Short: 'St. Barsanuphe'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020607'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Dorothée de Kachin'
+            Short: 'Ste. Dorothée'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020609'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Vaast, Evêque d’Arras'
+            Short: 'St. Vaast'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020605'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Amand, Evêque de Maastricht'
+            Short: 'St. Amand'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 5
+  zh/Hans:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9868'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 瞻礼三（本周免斋）
+            Short: 瞻礼三（本周免斋）
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: 'II Pet_2:9-22'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '60'
+                  reading: Mk_13:14-23
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '37303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 主进殿节庆期
+            Short: 主进殿节庆期
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '398'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣弗科洛（斯密尔纳〖士麦那〗城主教，约100年）
+            Short: 圣弗科洛（斯密尔纳〖士麦那〗城主教，约100年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '020600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司教迪弥特里和殉道者阿纳托利（1921年）
+            Short: 新殉道司教迪弥特里和殉道者阿纳托利（1921年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4776'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭瓦西里（1930年）
+            Short: 新殉道司祭瓦西里（1930年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭亚历山大（1938年）
+            Short: 新殉道司祭亚历山大（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大圣瓦尔萨努斐及圣约翰先知者（巴勒斯坦地方修士，6世纪）
+            Short: 大圣瓦尔萨努斐及圣约翰先知者（巴勒斯坦地方修士，6世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '402'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者犹利安（埃麦撒地方，312年）
+            Short: 殉道者犹利安（埃麦撒地方，312年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '403'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 童贞殉道女珐邬斯塔，及偕同她就义者：埃维拉修和玛克西默（基兹库城，305-311年间）
+            Short: 童贞殉道女珐邬斯塔，及偕同她就义者：埃维拉修和玛克西默（基兹库城，305-311年间）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '401'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 童贞殉道女多若德雅，及偕同她就义者：殉道女克里斯提纳及卡利斯塔两姐妹，殉道者德奥斐洛（卡帕多西亚的恺撒里亚城，288-300年间）
+            Short: 童贞殉道女多若德雅，及偕同她就义者：殉道女克里斯提纳及卡利斯塔两姐妹，殉道者德奥斐洛（卡帕多西亚的恺撒里亚城，288-300年间）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '404'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 童贞殉道女玛尔塔及玛利亚，及她们的兄弟殉道者利卡里翁（埃及）
+            Short: 童贞殉道女玛尔塔及玛利亚，及她们的兄弟殉道者利卡里翁（埃及）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '405'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣佛提（君士坦丁堡牧首，891年）
+            Short: 圣佛提（君士坦丁堡牧首，891年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '477601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭瓦西里（本姓纳德兹宁，莫斯科人，1937年）
+            Short: 新殉道司祭瓦西里（本姓纳德兹宁，莫斯科人，1937年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣雅各（叙利亚的克修者，460年）
+            Short: 圣雅各（叙利亚的克修者，460年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣约翰（底比斯地方修士）
+            Short: 圣约翰（底比斯地方修士）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020605'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣阿曼德（荷兰马斯特里希特城之亚使徒，675年）
+            Short: 圣阿曼德（荷兰马斯特里希特城之亚使徒，675年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020606'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣阿尔森（格鲁吉亚伊夸尔托地方人，1127年）
+            Short: 圣阿尔森（格鲁吉亚伊夸尔托地方人，1127年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020607'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣多若德雅（圣衣修女，卡欣地方的成德者，1629年）
+            Short: 圣多若德雅（圣衣修女，卡欣地方的成德者，1629年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020608'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣迈尔（阿尔达格城主教，圣帕特里克的弟子，488年）
+            Short: 圣迈尔（阿尔达格城主教，圣帕特里克的弟子，488年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020609'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣维达斯特（阿拉斯城主教，540年）
+            Short: 圣维达斯特（阿拉斯城主教，540年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020610'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者弗斯图、瓦西里和达利昂的希尔瓦努（君士坦丁堡）
+            Short: 殉道者弗斯图、瓦西里和达利昂的希尔瓦努（君士坦丁堡）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 5
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9868'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 瞻礼三（本周免斋）
+            Short: 瞻礼三（本周免斋）
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: 'II Pet_2:9-22'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '60'
+                  reading: Mk_13:14-23
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '37303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 主进殿节庆期
+            Short: 主进殿节庆期
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '398'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣弗科洛（斯密尔纳〖士麦那〗城主教，约100年）
+            Short: 圣弗科洛（斯密尔纳〖士麦那〗城主教，约100年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '020600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司教迪弥特里和殉道者阿纳托利（1921年）
+            Short: 新殉道司教迪弥特里和殉道者阿纳托利（1921年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4776'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭瓦西里（1930年）
+            Short: 新殉道司祭瓦西里（1930年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭亚历山大（1938年）
+            Short: 新殉道司祭亚历山大（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大圣瓦尔萨努斐及圣约翰先知者（巴勒斯坦地方修士，6世纪）
+            Short: 大圣瓦尔萨努斐及圣约翰先知者（巴勒斯坦地方修士，6世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '402'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者犹利安（埃麦撒地方，312年）
+            Short: 殉道者犹利安（埃麦撒地方，312年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '403'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 童贞殉道女珐邬斯塔，及偕同她就义者：埃维拉修和玛克西默（基兹库城，305-311年间）
+            Short: 童贞殉道女珐邬斯塔，及偕同她就义者：埃维拉修和玛克西默（基兹库城，305-311年间）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '401'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 童贞殉道女多若德雅，及偕同她就义者：殉道女克里斯提纳及卡利斯塔两姐妹，殉道者德奥斐洛（卡帕多西亚的恺撒里亚城，288-300年间）
+            Short: 童贞殉道女多若德雅，及偕同她就义者：殉道女克里斯提纳及卡利斯塔两姐妹，殉道者德奥斐洛（卡帕多西亚的恺撒里亚城，288-300年间）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '404'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 童贞殉道女玛尔塔及玛利亚，及她们的兄弟殉道者利卡里翁（埃及）
+            Short: 童贞殉道女玛尔塔及玛利亚，及她们的兄弟殉道者利卡里翁（埃及）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '405'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣佛提（君士坦丁堡牧首，891年）
+            Short: 圣佛提（君士坦丁堡牧首，891年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '477601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭瓦西里（本姓纳德兹宁，莫斯科人，1937年）
+            Short: 新殉道司祭瓦西里（本姓纳德兹宁，莫斯科人，1937年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣雅各（叙利亚的克修者，460年）
+            Short: 圣雅各（叙利亚的克修者，460年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣约翰（底比斯地方修士）
+            Short: 圣约翰（底比斯地方修士）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020605'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣阿曼德（荷兰马斯特里希特城之亚使徒，675年）
+            Short: 圣阿曼德（荷兰马斯特里希特城之亚使徒，675年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020606'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣阿尔森（格鲁吉亚伊夸尔托地方人，1127年）
+            Short: 圣阿尔森（格鲁吉亚伊夸尔托地方人，1127年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020607'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣多若德雅（圣衣修女，卡欣地方的成德者，1629年）
+            Short: 圣多若德雅（圣衣修女，卡欣地方的成德者，1629年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020608'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣迈尔（阿尔达格城主教，圣帕特里克的弟子，488年）
+            Short: 圣迈尔（阿尔达格城主教，圣帕特里克的弟子，488年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020609'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣维达斯特（阿拉斯城主教，540年）
+            Short: 圣维达斯特（阿拉斯城主教，540年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020610'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者弗斯图、瓦西里和达利昂的希尔瓦努（君士坦丁堡）
+            Short: 殉道者弗斯图、瓦西里和达利昂的希尔瓦努（君士坦丁堡）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 5
+  zh/Hant:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9868'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 瞻禮三（本周免齋）
+            Short: 瞻禮三（本周免齋）
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: 'II Pet_2:9-22'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '60'
+                  reading: Mk_13:14-23
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '37303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 主進殿節慶期
+            Short: 主進殿節慶期
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '398'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖弗科洛（斯密爾納【士麥那】城主教，約100年）
+            Short: 聖弗科洛（斯密爾納【士麥那】城主教，約100年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '020600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司教迪彌特里和殉道者阿納托利（1921年）
+            Short: 新殉道司教迪彌特里和殉道者阿納托利（1921年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4776'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭瓦西里（1930年）
+            Short: 新殉道司祭瓦西里（1930年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭亞歷山大（1938年）
+            Short: 新殉道司祭亞歷山大（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大聖瓦爾薩努斐及聖約翰先知者（巴勒斯坦地方修士，六世紀）
+            Short: 大聖瓦爾薩努斐及聖約翰先知者（巴勒斯坦地方修士，六世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '402'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者猶利安（埃麥撒地方，312年）
+            Short: 殉道者猶利安（埃麥撒地方，312年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '403'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 童貞殉道女琺鄔斯塔，及偕同她就義者：埃維拉修和瑪克西默（基茲庫城，305-311年間）
+            Short: 童貞殉道女琺鄔斯塔，及偕同她就義者：埃維拉修和瑪克西默（基茲庫城，305-311年間）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '401'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 童貞殉道女多若德雅，及偕同她就義者：殉道女克里斯提納及卡利斯塔兩姐妹，殉道者德奧斐洛（卡帕多西亞的愷撒里亞城，288-300年間）
+            Short: 童貞殉道女多若德雅，及偕同她就義者：殉道女克里斯提納及卡利斯塔兩姐妹，殉道者德奧斐洛（卡帕多西亞的愷撒里亞城，288-300年間）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '404'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 童貞殉道女瑪爾塔及瑪利亞，及她們的兄弟殉道者利卡里翁（埃及）
+            Short: 童貞殉道女瑪爾塔及瑪利亞，及她們的兄弟殉道者利卡里翁（埃及）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '405'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖佛提（君士坦丁堡牧首，891年）
+            Short: 聖佛提（君士坦丁堡牧首，891年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '477601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭瓦西里（本姓納德茲寧，莫斯科人，1937年）
+            Short: 新殉道司祭瓦西里（本姓納德茲寧，莫斯科人，1937年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖雅各（敘利亞的克修者，460年）
+            Short: 聖雅各（敘利亞的克修者，460年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖約翰（底比斯地方修士）
+            Short: 聖約翰（底比斯地方修士）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020605'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖阿曼德（荷蘭馬斯特里希特城之亞使徒，675年）
+            Short: 聖阿曼德（荷蘭馬斯特里希特城之亞使徒，675年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020606'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖阿爾森（格魯吉亞伊誇爾托地方人，1127年）
+            Short: 聖阿爾森（格魯吉亞伊誇爾托地方人，1127年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020607'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖多若德雅（聖衣修女，卡欣地方的成德者，1629年）
+            Short: 聖多若德雅（聖衣修女，卡欣地方的成德者，1629年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020608'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖邁爾（阿爾達格城主教，聖帕特里克的弟子，488年）
+            Short: 聖邁爾（阿爾達格城主教，聖帕特里克的弟子，488年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020609'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖維達斯特（阿拉斯城主教，540年）
+            Short: 聖維達斯特（阿拉斯城主教，540年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020610'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者弗斯圖、瓦西里和達利昂的希爾瓦努（君士坦丁堡）
+            Short: 殉道者弗斯圖、瓦西里和達利昂的希爾瓦努（君士坦丁堡）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 5
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9868'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 瞻禮三（本周免齋）
+            Short: 瞻禮三（本周免齋）
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: 'II Pet_2:9-22'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '60'
+                  reading: Mk_13:14-23
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '37303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 主進殿節慶期
+            Short: 主進殿節慶期
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '398'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖弗科洛（斯密爾納【士麥那】城主教，約100年）
+            Short: 聖弗科洛（斯密爾納【士麥那】城主教，約100年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '020600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司教迪彌特里和殉道者阿納托利（1921年）
+            Short: 新殉道司教迪彌特里和殉道者阿納托利（1921年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4776'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭瓦西里（1930年）
+            Short: 新殉道司祭瓦西里（1930年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭亞歷山大（1938年）
+            Short: 新殉道司祭亞歷山大（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大聖瓦爾薩努斐及聖約翰先知者（巴勒斯坦地方修士，六世紀）
+            Short: 大聖瓦爾薩努斐及聖約翰先知者（巴勒斯坦地方修士，六世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '402'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者猶利安（埃麥撒地方，312年）
+            Short: 殉道者猶利安（埃麥撒地方，312年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '403'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 童貞殉道女琺鄔斯塔，及偕同她就義者：埃維拉修和瑪克西默（基茲庫城，305-311年間）
+            Short: 童貞殉道女琺鄔斯塔，及偕同她就義者：埃維拉修和瑪克西默（基茲庫城，305-311年間）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '401'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 童貞殉道女多若德雅，及偕同她就義者：殉道女克里斯提納及卡利斯塔兩姐妹，殉道者德奧斐洛（卡帕多西亞的愷撒里亞城，288-300年間）
+            Short: 童貞殉道女多若德雅，及偕同她就義者：殉道女克里斯提納及卡利斯塔兩姐妹，殉道者德奧斐洛（卡帕多西亞的愷撒里亞城，288-300年間）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '404'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 童貞殉道女瑪爾塔及瑪利亞，及她們的兄弟殉道者利卡里翁（埃及）
+            Short: 童貞殉道女瑪爾塔及瑪利亞，及她們的兄弟殉道者利卡里翁（埃及）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '405'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖佛提（君士坦丁堡牧首，891年）
+            Short: 聖佛提（君士坦丁堡牧首，891年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '477601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭瓦西里（本姓納德茲寧，莫斯科人，1937年）
+            Short: 新殉道司祭瓦西里（本姓納德茲寧，莫斯科人，1937年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖雅各（敘利亞的克修者，460年）
+            Short: 聖雅各（敘利亞的克修者，460年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖約翰（底比斯地方修士）
+            Short: 聖約翰（底比斯地方修士）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020605'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖阿曼德（荷蘭馬斯特里希特城之亞使徒，675年）
+            Short: 聖阿曼德（荷蘭馬斯特里希特城之亞使徒，675年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020606'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖阿爾森（格魯吉亞伊誇爾托地方人，1127年）
+            Short: 聖阿爾森（格魯吉亞伊誇爾托地方人，1127年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020607'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖多若德雅（聖衣修女，卡欣地方的成德者，1629年）
+            Short: 聖多若德雅（聖衣修女，卡欣地方的成德者，1629年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020608'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖邁爾（阿爾達格城主教，聖帕特里克的弟子，488年）
+            Short: 聖邁爾（阿爾達格城主教，聖帕特里克的弟子，488年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020609'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖維達斯特（阿拉斯城主教，540年）
+            Short: 聖維達斯特（阿拉斯城主教，540年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020610'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者弗斯圖、瓦西里和達利昂的希爾瓦努（君士坦丁堡）
+            Short: 殉道者弗斯圖、瓦西里和達利昂的希爾瓦努（君士坦丁堡）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 5

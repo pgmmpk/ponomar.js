@@ -1,0 +1,3341 @@
+{
+   "langs" : {
+      "el" : {
+         "ponomar" : {
+            "saints" : [
+               {
+                  "cid" : "9835",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Κυριακὴ Βʹ τῶν Νηστειῶν (Ἁγίου Γρηγορίου)",
+                     "Short" : "Κυριακὴ"
+                  },
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "66",
+                              "type" : "1",
+                              "reading" : "Jn_21:1-14"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "304",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Heb_1:10-2:3"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Mk_2:1-12",
+                              "pericope" : "7",
+                              "effWeek" : null
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "name" : {
+                     "Genetive" : "Γρηγορίου τοῦ Παλαμᾶ",
+                     "Short" : "Γρηγορίου τοῦ Παλαμᾶ",
+                     "Nominative" : "Γρηγορίου τοῦ Παλαμᾶ"
+                  },
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "318",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2"
+                           },
+                           {
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "543",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "614",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ἅγιος Σωφρόνιος Πατριάρχης Ἱεροσολύμων",
+                     "Nominative" : "Ἅγιος Σωφρόνιος Πατριάρχης Ἱεροσολύμων"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031108",
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ὁσία Θεοδώρα ἡ βασίλισσα Ἄρτης",
+                     "Short" : "Ὁσία Θεοδώρα ἡ βασίλισσα Ἄρτης"
+                  }
+               },
+               {
+                  "name" : {
+                     "Short" : "Ἅγιοι Πιόνιος ὁ Πρεσβύτερος καὶ Σαβίνα",
+                     "Nominative" : "Ἅγιοι Πιόνιος ὁ Πρεσβύτερος καὶ Σαβίνα"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : "",
+                  "cid" : "619",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "031107",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Ὅσιος Γεώργιος ὁ Νεοφανὴς ὁ ἐν Διϊπίῳ",
+                     "Short" : "Ὅσιος Γεώργιος ὁ Νεοφανὴς ὁ ἐν Διϊπίῳ"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ὅσιος Γεώργιος ὁ Σιναΐτης",
+                     "Short" : "Ὅσιος Γεώργιος ὁ Σιναΐτης"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "031103",
+                  "life" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ἅγιοι Τρόφιμος καὶ Θαλλὸς ποὺ μαρτύρησαν στὴ Λαοδικεία",
+                     "Nominative" : "Ἅγιοι Τρόφιμος καὶ Θαλλὸς ποὺ μαρτύρησαν στὴ Λαοδικεία"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031106"
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ἀνακομιδὴ τῶν ἱερῶν λειψάνων τοῦ Ἁγίου Ἐπιμάχου",
+                     "Short" : "Ἀνακομιδὴ τῶν ἱερῶν λειψάνων τοῦ Ἁγίου Ἐπιμάχου"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "4620",
+                  "life" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ἅγιος Εὐθύμιος ὁ Θαυματουργὸς Ἀρχιεπίσκοπος Νόβγκοροντ",
+                     "Short" : "Ἅγιος Εὐθύμιος ὁ Θαυματουργὸς Ἀρχιεπίσκοπος Νόβγκοροντ"
+                  },
+                  "menologion" : "",
+                  "type" : "3",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "737"
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ὅσιος Σωφρόνιος ὁ Ἔγκλειστος",
+                     "Short" : "Ὅσιος Σωφρόνιος ὁ Ἔγκλειστος"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "2045",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "03110895",
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ἅγιοι Ἡρακλῆς καὶ Ζωσιμᾶς",
+                     "Short" : "Ἅγιοι Ἡρακλῆς καὶ Ζωσιμᾶς"
+                  }
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Μνήμη τῶν Σύρων Ἁγίων Μαρτύρων",
+                     "Nominative" : "Μνήμη τῶν Σύρων Ἁγίων Μαρτύρων"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "03110995",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "03111095",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ἅγιος Κωνσταντῖνος ὁ βασιλεὺς τοῦ Στραθκλάϊντ",
+                     "Short" : "Ἅγιος Κωνσταντῖνος ὁ βασιλεὺς τοῦ Στραθκλάϊντ"
+                  }
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Ἅγιος Εὐλόγιος ὁ Ἱερομάρτυρας καὶ οἱ σὺν αὐτῷ ἐν Κορδούῃ Ἱσπανίας",
+                     "Short" : "Ἅγιος Εὐλόγιος ὁ Ἱερομάρτυρας καὶ οἱ σὺν αὐτῷ ἐν Κορδούῃ Ἱσπανίας"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "031105",
+                  "info" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ἅγιος Παῦλος τσάρος τῆς Ῥωσίας",
+                     "Short" : "Ἅγιος Παῦλος τσάρος τῆς Ῥωσίας"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "03111295",
+                  "life" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "031102",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ἅγιος Σωφρόνιος ὁ Διδάσκαλος Ἐπίσκοπος Βράτσης τῆς Βουλγαρίας",
+                     "Nominative" : "Ἅγιος Σωφρόνιος ὁ Διδάσκαλος Ἐπίσκοπος Βράτσης τῆς Βουλγαρίας"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ὅσιος Ἀλέξιος ἐκ Ῥωσίας",
+                     "Nominative" : "Ὅσιος Ἀλέξιος ἐκ Ῥωσίας"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "031104",
+                  "life" : null,
+                  "info" : null
+               }
+            ],
+            "tone" : 2,
+            "fastings" : "0000111"
+         },
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "cid" : "9835",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Κυριακὴ",
+                     "Nominative" : "Κυριακὴ Βʹ τῶν Νηστειῶν (Ἁγίου Γρηγορίου)"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "matins",
+                        "readings" : [
+                           {
+                              "type" : "1",
+                              "reading" : "Jn_21:1-14",
+                              "pericope" : "66",
+                              "effWeek" : null
+                           }
+                        ]
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "304",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Heb_1:10-2:3"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Mk_2:1-12",
+                              "pericope" : "7",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion"
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Genetive" : "Γρηγορίου τοῦ Παλαμᾶ",
+                     "Nominative" : "Γρηγορίου τοῦ Παλαμᾶ",
+                     "Short" : "Γρηγορίου τοῦ Παλαμᾶ"
+                  },
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2",
+                              "pericope" : "318",
+                              "effWeek" : null
+                           },
+                           {
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "cid" : "543",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ἅγιος Σωφρόνιος Πατριάρχης Ἱεροσολύμων",
+                     "Nominative" : "Ἅγιος Σωφρόνιος Πατριάρχης Ἱεροσολύμων"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "614"
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ὁσία Θεοδώρα ἡ βασίλισσα Ἄρτης",
+                     "Nominative" : "Ὁσία Θεοδώρα ἡ βασίλισσα Ἄρτης"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "031108",
+                  "life" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "Ἅγιοι Πιόνιος ὁ Πρεσβύτερος καὶ Σαβίνα",
+                     "Nominative" : "Ἅγιοι Πιόνιος ὁ Πρεσβύτερος καὶ Σαβίνα"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "cid" : "619",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031107",
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ὅσιος Γεώργιος ὁ Νεοφανὴς ὁ ἐν Διϊπίῳ",
+                     "Nominative" : "Ὅσιος Γεώργιος ὁ Νεοφανὴς ὁ ἐν Διϊπίῳ"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "031103",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ὅσιος Γεώργιος ὁ Σιναΐτης",
+                     "Short" : "Ὅσιος Γεώργιος ὁ Σιναΐτης"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "031106",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Ἅγιοι Τρόφιμος καὶ Θαλλὸς ποὺ μαρτύρησαν στὴ Λαοδικεία",
+                     "Short" : "Ἅγιοι Τρόφιμος καὶ Θαλλὸς ποὺ μαρτύρησαν στὴ Λαοδικεία"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "life" : null,
+                  "cid" : "4620",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ἀνακομιδὴ τῶν ἱερῶν λειψάνων τοῦ Ἁγίου Ἐπιμάχου",
+                     "Nominative" : "Ἀνακομιδὴ τῶν ἱερῶν λειψάνων τοῦ Ἁγίου Ἐπιμάχου"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "737",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ἅγιος Εὐθύμιος ὁ Θαυματουργὸς Ἀρχιεπίσκοπος Νόβγκοροντ",
+                     "Nominative" : "Ἅγιος Εὐθύμιος ὁ Θαυματουργὸς Ἀρχιεπίσκοπος Νόβγκοροντ"
+                  },
+                  "menologion" : "",
+                  "type" : "3"
+               },
+               {
+                  "life" : null,
+                  "cid" : "2045",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Ὅσιος Σωφρόνιος ὁ Ἔγκλειστος",
+                     "Short" : "Ὅσιος Σωφρόνιος ὁ Ἔγκλειστος"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ἅγιοι Ἡρακλῆς καὶ Ζωσιμᾶς",
+                     "Short" : "Ἅγιοι Ἡρακλῆς καὶ Ζωσιμᾶς"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "03110895"
+               },
+               {
+                  "name" : {
+                     "Short" : "Μνήμη τῶν Σύρων Ἁγίων Μαρτύρων",
+                     "Nominative" : "Μνήμη τῶν Σύρων Ἁγίων Μαρτύρων"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "03110995",
+                  "info" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ἅγιος Κωνσταντῖνος ὁ βασιλεὺς τοῦ Στραθκλάϊντ",
+                     "Short" : "Ἅγιος Κωνσταντῖνος ὁ βασιλεὺς τοῦ Στραθκλάϊντ"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "03111095",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "031105",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ἅγιος Εὐλόγιος ὁ Ἱερομάρτυρας καὶ οἱ σὺν αὐτῷ ἐν Κορδούῃ Ἱσπανίας",
+                     "Nominative" : "Ἅγιος Εὐλόγιος ὁ Ἱερομάρτυρας καὶ οἱ σὺν αὐτῷ ἐν Κορδούῃ Ἱσπανίας"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "03111295",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ἅγιος Παῦλος τσάρος τῆς Ῥωσίας",
+                     "Nominative" : "Ἅγιος Παῦλος τσάρος τῆς Ῥωσίας"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "031102",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Ἅγιος Σωφρόνιος ὁ Διδάσκαλος Ἐπίσκοπος Βράτσης τῆς Βουλγαρίας",
+                     "Short" : "Ἅγιος Σωφρόνιος ὁ Διδάσκαλος Ἐπίσκοπος Βράτσης τῆς Βουλγαρίας"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "life" : null,
+                  "cid" : "031104",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Ὅσιος Ἀλέξιος ἐκ Ῥωσίας",
+                     "Short" : "Ὅσιος Ἀλέξιος ἐκ Ῥωσίας"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               }
+            ],
+            "fastings" : "0000111",
+            "tone" : 2
+         }
+      },
+      "zh/Hans" : {
+         "ponomarReordered" : {
+            "fastings" : "0000111",
+            "tone" : 2,
+            "saints" : [
+               {
+                  "life" : null,
+                  "cid" : "9835",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "大斋期第二主日",
+                     "Nominative" : "大斋期第二主日"
+                  },
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "66",
+                              "type" : "1",
+                              "reading" : "Jn_21:1-14"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "304",
+                              "reading" : "Heb_1:10-2:3",
+                              "type" : "apostol"
+                           },
+                           {
+                              "reading" : "Mk_2:1-12",
+                              "type" : "gospel",
+                              "pericope" : "7",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "圣格里高利•帕拉玛斯（德撒洛尼基总主教，1360年）",
+                     "Nominative" : "圣格里高利•帕拉玛斯（德撒洛尼基总主教，1360年）"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "318",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16",
+                              "effWeek" : null,
+                              "pericope" : "36"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "543",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "614",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "圣索弗若尼（耶路撒冷牧首，638年）",
+                     "Nominative" : "圣索弗若尼（耶路撒冷牧首，638年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "1",
+                  "menologion" : ""
+               },
+               {
+                  "menologion" : "",
+                  "type" : "3",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "圣艾弗提弥（诺夫哥罗德城主教，1458年）",
+                     "Short" : "圣艾弗提弥"
+                  },
+                  "info" : null,
+                  "cid" : "737",
+                  "life" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "031100",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "圣帕特里克（新宣信者，1933年）",
+                     "Short" : "圣帕特里克（新宣信者，1933年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "圣瓦西里（新司祭宣信者，1937年）",
+                     "Nominative" : "圣瓦西里（新司祭宣信者，1937年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "031101",
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "殉道司祭彼奥尼及偕同就义者：阿斯克利彼亚迪、利诺；殉道女：玛凯多尼亚、萨维纳（斯密尔纳〖士麦那〗，250年）",
+                     "Nominative" : "殉道司祭彼奥尼及偕同就义者：阿斯克利彼亚迪、利诺；殉道女：玛凯多尼亚、萨维纳（斯密尔纳〖士麦那〗，250年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "619",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "圣索弗若尼",
+                     "Nominative" : "圣索弗若尼（基辅洞窟之闭关者，13世纪）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "2045"
+               },
+               {
+                  "name" : {
+                     "Short" : "圣索弗若尼（弗拉察地方人，1815年）",
+                     "Nominative" : "圣索弗若尼（弗拉察地方人，1815年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "031102",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "敬迁佩鲁西翁的殉道者埃彼玛霍之圣髑前往君士坦丁堡（250年）",
+                     "Short" : "敬迁佩鲁西翁的殉道者埃彼玛霍之圣髑前往君士坦丁堡（250年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "4620"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "圣格奥尔吉（西奈山修道院院长，圣天梯约翰的兄弟，7世纪）",
+                     "Short" : "圣格奥尔吉（西奈山修道院院长，圣天梯约翰的兄弟，7世纪）"
+                  },
+                  "info" : null,
+                  "cid" : "031103",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031105",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "殉道司教艾弗罗吉（科尔多瓦都主教，859年）",
+                     "Short" : "殉道司教艾弗罗吉（科尔多瓦都主教，859年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "cid" : "031104",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "圣阿莱克西（基辅洞窟修道院的格罗瑟耶夫斯基精舍修士，1917年）",
+                     "Short" : "圣阿莱克西（基辅洞窟修道院的格罗瑟耶夫斯基精舍修士，1917年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "殉道者特若斐默及塔洛（劳迪基亚城，300年）",
+                     "Nominative" : "殉道者特若斐默及塔洛（劳迪基亚城，300年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031106"
+               },
+               {
+                  "info" : null,
+                  "cid" : "031107",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "新圣格奥尔吉（君士坦丁堡的显行灵迹者，970年）",
+                     "Short" : "新圣格奥尔吉（君士坦丁堡的显行灵迹者，970年）"
+                  }
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031108",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "圣德奥多拉（阿尔塔地方的王后，伊庇鲁斯君主米迦勒二世之妻，1275年）",
+                     "Short" : "圣德奥多拉（阿尔塔地方的王后，伊庇鲁斯君主米迦勒二世之妻，1275年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "info" : null,
+                  "cid" : "031109",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "圣奥恩格（第一部爱尔兰殉道录编辑者，824年）",
+                     "Short" : "圣奥恩格（第一部爱尔兰殉道录编辑者，824年）"
+                  }
+               }
+            ]
+         },
+         "ponomar" : {
+            "tone" : 2,
+            "fastings" : "0000111",
+            "saints" : [
+               {
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Jn_21:1-14",
+                              "type" : "1",
+                              "effWeek" : null,
+                              "pericope" : "66"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Heb_1:10-2:3",
+                              "type" : "apostol",
+                              "pericope" : "304",
+                              "effWeek" : null
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "7",
+                              "type" : "gospel",
+                              "reading" : "Mk_2:1-12"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Short" : "大斋期第二主日",
+                     "Nominative" : "大斋期第二主日"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9835"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "318"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "36",
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "圣格里高利•帕拉玛斯（德撒洛尼基总主教，1360年）",
+                     "Short" : "圣格里高利•帕拉玛斯（德撒洛尼基总主教，1360年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "543"
+               },
+               {
+                  "type" : "1",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "圣索弗若尼（耶路撒冷牧首，638年）",
+                     "Short" : "圣索弗若尼（耶路撒冷牧首，638年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "614",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "圣艾弗提弥（诺夫哥罗德城主教，1458年）",
+                     "Short" : "圣艾弗提弥"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "3",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "737",
+                  "info" : null
+               },
+               {
+                  "cid" : "031100",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "圣帕特里克（新宣信者，1933年）",
+                     "Nominative" : "圣帕特里克（新宣信者，1933年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "圣瓦西里（新司祭宣信者，1937年）",
+                     "Nominative" : "圣瓦西里（新司祭宣信者，1937年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031101"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "殉道司祭彼奥尼及偕同就义者：阿斯克利彼亚迪、利诺；殉道女：玛凯多尼亚、萨维纳（斯密尔纳〖士麦那〗，250年）",
+                     "Short" : "殉道司祭彼奥尼及偕同就义者：阿斯克利彼亚迪、利诺；殉道女：玛凯多尼亚、萨维纳（斯密尔纳〖士麦那〗，250年）"
+                  },
+                  "info" : null,
+                  "cid" : "619",
+                  "life" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "圣索弗若尼",
+                     "Nominative" : "圣索弗若尼（基辅洞窟之闭关者，13世纪）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "2045"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031102",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣索弗若尼（弗拉察地方人，1815年）",
+                     "Nominative" : "圣索弗若尼（弗拉察地方人，1815年）"
+                  }
+               },
+               {
+                  "life" : null,
+                  "cid" : "4620",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "敬迁佩鲁西翁的殉道者埃彼玛霍之圣髑前往君士坦丁堡（250年）",
+                     "Nominative" : "敬迁佩鲁西翁的殉道者埃彼玛霍之圣髑前往君士坦丁堡（250年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣格奥尔吉（西奈山修道院院长，圣天梯约翰的兄弟，7世纪）",
+                     "Nominative" : "圣格奥尔吉（西奈山修道院院长，圣天梯约翰的兄弟，7世纪）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "031103",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031105",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "殉道司教艾弗罗吉（科尔多瓦都主教，859年）",
+                     "Nominative" : "殉道司教艾弗罗吉（科尔多瓦都主教，859年）"
+                  }
+               },
+               {
+                  "name" : {
+                     "Nominative" : "圣阿莱克西（基辅洞窟修道院的格罗瑟耶夫斯基精舍修士，1917年）",
+                     "Short" : "圣阿莱克西（基辅洞窟修道院的格罗瑟耶夫斯基精舍修士，1917年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "031104",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "殉道者特若斐默及塔洛（劳迪基亚城，300年）",
+                     "Short" : "殉道者特若斐默及塔洛（劳迪基亚城，300年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "031106",
+                  "life" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "新圣格奥尔吉（君士坦丁堡的显行灵迹者，970年）",
+                     "Nominative" : "新圣格奥尔吉（君士坦丁堡的显行灵迹者，970年）"
+                  },
+                  "info" : null,
+                  "cid" : "031107",
+                  "life" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "圣德奥多拉（阿尔塔地方的王后，伊庇鲁斯君主米迦勒二世之妻，1275年）",
+                     "Short" : "圣德奥多拉（阿尔塔地方的王后，伊庇鲁斯君主米迦勒二世之妻，1275年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "031108",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "圣奥恩格（第一部爱尔兰殉道录编辑者，824年）",
+                     "Short" : "圣奥恩格（第一部爱尔兰殉道录编辑者，824年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031109"
+               }
+            ]
+         }
+      },
+      "cu/ru" : {
+         "ponomarReordered" : {
+            "tone" : 2,
+            "fastings" : "0000111",
+            "saints" : [
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9835",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "type" : "1",
+                              "reading" : "Jn_21:1-14",
+                              "pericope" : "66",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "304",
+                              "reading" : "Heb_1:10-2:3",
+                              "type" : "apostol"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Mk_2:1-12",
+                              "pericope" : "7",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Genetive" : "Неделя вторая Великого поста",
+                     "Nominative" : "Неделя вторая Великого поста",
+                     "Short" : "Неделя вторая Великого поста"
+                  }
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Свт. Григория",
+                     "Nominative" : "Свт. Григория Паламы, архиеп. Фессалонитского (ок. 1360)"
+                  },
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "318",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2"
+                           },
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "life" : null,
+                  "cid" : "543",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "614",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Свт. Софрония, патриарха Иерусалимского (638-644)",
+                     "Short" : "Свт. Софрония"
+                  },
+                  "menologion" : "",
+                  "type" : "1"
+               },
+               {
+                  "info" : null,
+                  "life" : {
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Id" : "bulgakov",
+                     "Text" : "\n     Святитель Евфимий, в Крещении Иоанн, родился по горячим молитвам пресвитера Михея и его супруги Анны. Долгие годы у них не было детей, и они дали обет: если родится ребенок,, посвятить его Богу. Чтение священных книг, частое посещение богослужений, за которыми мальчик прислуживал своему отцу — священнику небольшого новгородского храма во имя святого Феодора,— освятили душу юного Иоанна. В возрасте пятнадцати лет, в 1411 году, Иоанн ушел из родительского дома в монастырь.     В двенадцати верстах от Новгорода, в пустынном месте, именуемом Вяжище, среди лесов и болот поселились три инока — Евфросин, Игнатий и Галактион. Вскоре к ним присоединился священник Пимен, который принял постриг с именем Пахомий. Здесь подвизались они в полном уединении при построенной ими деревянной часовне во имя святителя Христова Николая в непрестанной молитве и в тяжелой борьбе с суровой северной природой.      К этим подвижникам и пришел искавший спасения юноша Иоанн. Игумен Пахомий принял его с любовью и вскоре постриг в монашество с именем Евфимий. Пострижение в столь раннем возрасте указывает на выдающиеся духовные качества юного подвижника, увиденные прозорливым Пахомием. В то время Новгородскую архиерейскую кафедру занимал архиепископ Симеон, поставленный на архиерейство из простых иноков. Архиепископу  стало известно о добродетельной жизни инока Евфимия. Святой  Евфимий был вызван в Новгород и после продолжительной беседы с Владыкой назначен архиерейским экономом. Новгородские  архиепископы занимали в то время совершенно особое положе ние: независимые от княжеской власти, они избирались непосред ственно вечем и принимали большое участие в светских делах; в  частности, на них лежало управление огромными вотчинами. И ар хиерейский эконом в этих условиях должен был сочетать админист ративный талант с полнейшим бескорыстием и глубоким христи анским смирением. Усердно просил архипастыря святой Евфимий  отпустить его снова на Вяжище, но потом покорился Святителю.      В новой должности святой Евфимий вызывал всеобщее изум ление и уважение тем, что, занимая столь высокое положение,  будучи в центре деловой жизни огромного торгового города, он нес  иноческие подвиги так же усердно, как и в дремучих лесах.   В 1421 году скончался архиепископ Симеон. При новом архиерее  Евфимий I святой Евфимий снова удалился в свою обитель. Вско  ре иноки обители на Лисичьей горе избрали святого своим игуме  ном. По преставлении архиепископа Новгородского Евфимия I в 1429 году игумен Евфимий был избран архиепископом хвоего родного города и 29 ноября вступил в храм Святой Софии. В течение четырех лет святитель управлял Новгородской епархией, оставаясь нареченным архиепископом, и только 24 мая 1434 года был посвящен в Смоленске. Архиерейскую хиротонию возглавлял митрополит Герасим. В течение 29 лет мудро правил своей епархией святой Евфимий, ревностно исполняя свой архипастырский долг. Много потрудился святой Евфимий для построения и возобновления храмов, особенно после 'опустошительных пожаров 1431 и 1442 гг. Богато был украшен святителем Софийский собор, а в Новгородском Кремле построено несколько новых храмов. «Если хочешь, — пишет 'Пахомий Логофет, — видеть немногое из числа великих дел его, иди к храму Святой Софии. Там увидишь созданные им храмы святых, стоящие подобно горам. Не голосом,,а делом открывают они разнообразную красоту свою. Это даровал мне архиепископ Евфимий, — говорит одна церковь; ( другая говорит — таким благолепием он украсил меня; третья поведает — меня воздвиг он с основания. Храм великого Иоанна Златоустого, высокий и красивый, рукою Златоустого благословляет его и от его лица говорит: «Поелику ты воздвиг мне храм, и я умолю Творца приготовить тебе храмину на Небе». Соборный храм Премудрости Божией, обветшавший от времени и возобновленный им, вещает: «Он возвратил мне прежнее благолепие мое, украсил меня святыми иконами, он — хвала и красота моя»». Святитель Евфимий построил церковь в честь своего Ангела Хранителя, в 1438 году в Вяжицкой обители — каменный храм в честь Святителя Николая, а в следующем году — каменный храм в честь святого Иоанна Богослова с трапезою и службами. Ревностный к славе Божией святитель Евфимий заботился об умножении духовных книг. До сих пор целы многие богослужебные книги, переписанные «по велениям господина архиепископа Владыки Евфимия». Несмотря на обилие дел святитель всегда неукоснительно выполнял иноческое  правило: то, что он не успевал сделать днем, — довершал ночью. За час до утрени вставал святитель на келейную молитву. Часто  всю ночь проводил он без сна; носил вериги, но о них никто не  знал до самой кончины его. Первую неделю Великого поста про водил святитель в Вяжицкой обители в безмолвной молитве, ни чего не вкушая. В 1446 году великокняжеский престол был захва чен Шемякой, который вступил в сношения с Новгородом. Политическая ситуация в Новгороде резко обострилась. Святитель Иона  (память 31 марта) в 1451 году в особом послании убеждал нов городцев прекратить беспорядки и слушаться своего архипасты ря — «будьте во всем послушны нашему сыну и брату, а вашему  отцу и учителю, Боголюбивому архиепископу Евфимию». В глубо кой старости святитель Евфимий, беспокоясь в душе, что деятель ность Шемяки могла бросить тень на его отношение к Первосвя тителю, которого он глубоко чтил, посылает святому Ионе письмо.  Предчувствуя близость кончины, святитель Евфимий испрашивал себе молитв и прощения. Святой Иона в ответном письме — прощальной грамоте писал: «Напоминаем тебе, сын мой, что ты стал было поступать слишком просто: того, кто отлучен был нашим смирением за преступления, вы принимали у себя, того удостоивали своего благословения. И ты, сын мой, принеси покаяние в том пред Богом». При этом святитель Иона повелел: если прощальная грамота прибудет после блаженной кончины новгородского архипастыря, прочитать ее над его гробом. Святитель Евфимий преставился 10 марта 1458 года. Посланный святителем Ионой с прощальной грамотой духовник Евмений прибыл в Новгород спустя 16 дней после кончины святого Евфимия, гроб которого, по его завещанию, стоял в храме Вяжицкой обители. Когда гроб открыли, чтобы прочитать прощальную грамоту, то увидели, что тление не коснулось тела святого. Святитель Евфимий лежал, как спящий, персты его были сложены для благословения. «Еще хранит Бог Новгород, за него молится святитель Евфимий», — громко сказал Евмений и, прочтя грамоту святого Ионы, положил ее в руку почившего святителя.    Вскоре после кончины святителя Господь прославил его благодатными дарованиями тем, кто прибегал к его молитвенной помощи. Высоко почитая святителя, благодарные иноки Вяжицкой обители воздвигли церковь в честь святого Евфимия, которая отмечена в переписи 1500 года. Празднование памяти святителя Евфимия было установлено на Московском Соборе 1549 года. Житие святого Евфимия написано по поручению святителя Ионы, архиепископа Новгородского (1* 1470; память 5 ноября) Пахомием Логофетом. \n"
+                  },
+                  "cid" : "737",
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Свт. Евфимия",
+                     "Nominative" : "Свт. Евфимия, архиеп. Новгородского, чудотворца (1458)"
+                  }
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Прп. Патрикия",
+                     "Nominative" : "Прп. Патрикия исп. (1933)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "031100",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "cid" : "031101",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Св. Василия",
+                     "Nominative" : "Св. Василия исп., пресвитера (1937)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "619",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Сщмч. Пиония, пресвитера Смирнского, и иже с ним (250)",
+                     "Short" : "Сщмч. Пиония"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Прпⷣбнагѡ сѡфро́нїа,",
+                     "Nominative" : "Прп. Софрония, затворника Печерского (XIII)",
+                     "Genetive" : "Прп. Софрония"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "2045",
+                  "life" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Свт. Софрония",
+                     "Nominative" : "Свт. Софрония, еп. Врачанского (1813)"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031102"
+               },
+               {
+                  "life" : null,
+                  "cid" : "4620",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Перенесение мощей мч. Епимаха",
+                     "Short" : "Перенесение мощей"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               }
+            ]
+         },
+         "ponomar" : {
+            "tone" : 2,
+            "fastings" : "0000111",
+            "saints" : [
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Неделя вторая Великого поста",
+                     "Short" : "Неделя вторая Великого поста",
+                     "Genetive" : "Неделя вторая Великого поста"
+                  },
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Jn_21:1-14",
+                              "type" : "1",
+                              "effWeek" : null,
+                              "pericope" : "66"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_1:10-2:3",
+                              "effWeek" : null,
+                              "pericope" : "304"
+                           },
+                           {
+                              "reading" : "Mk_2:1-12",
+                              "type" : "gospel",
+                              "pericope" : "7",
+                              "effWeek" : null
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "cid" : "9835",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "543",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "318",
+                              "effWeek" : null,
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "36",
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Short" : "Свт. Григория",
+                     "Nominative" : "Свт. Григория Паламы, архиеп. Фессалонитского (ок. 1360)"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "Свт. Софрония",
+                     "Nominative" : "Свт. Софрония, патриарха Иерусалимского (638-644)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "1",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "614",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Свт. Евфимия",
+                     "Nominative" : "Свт. Евфимия, архиеп. Новгородского, чудотворца (1458)"
+                  },
+                  "info" : null,
+                  "life" : {
+                     "Id" : "bulgakov",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Text" : "\n     Святитель Евфимий, в Крещении Иоанн, родился по горячим молитвам пресвитера Михея и его супруги Анны. Долгие годы у них не было детей, и они дали обет: если родится ребенок,, посвятить его Богу. Чтение священных книг, частое посещение богослужений, за которыми мальчик прислуживал своему отцу — священнику небольшого новгородского храма во имя святого Феодора,— освятили душу юного Иоанна. В возрасте пятнадцати лет, в 1411 году, Иоанн ушел из родительского дома в монастырь.     В двенадцати верстах от Новгорода, в пустынном месте, именуемом Вяжище, среди лесов и болот поселились три инока — Евфросин, Игнатий и Галактион. Вскоре к ним присоединился священник Пимен, который принял постриг с именем Пахомий. Здесь подвизались они в полном уединении при построенной ими деревянной часовне во имя святителя Христова Николая в непрестанной молитве и в тяжелой борьбе с суровой северной природой.      К этим подвижникам и пришел искавший спасения юноша Иоанн. Игумен Пахомий принял его с любовью и вскоре постриг в монашество с именем Евфимий. Пострижение в столь раннем возрасте указывает на выдающиеся духовные качества юного подвижника, увиденные прозорливым Пахомием. В то время Новгородскую архиерейскую кафедру занимал архиепископ Симеон, поставленный на архиерейство из простых иноков. Архиепископу  стало известно о добродетельной жизни инока Евфимия. Святой  Евфимий был вызван в Новгород и после продолжительной беседы с Владыкой назначен архиерейским экономом. Новгородские  архиепископы занимали в то время совершенно особое положе ние: независимые от княжеской власти, они избирались непосред ственно вечем и принимали большое участие в светских делах; в  частности, на них лежало управление огромными вотчинами. И ар хиерейский эконом в этих условиях должен был сочетать админист ративный талант с полнейшим бескорыстием и глубоким христи анским смирением. Усердно просил архипастыря святой Евфимий  отпустить его снова на Вяжище, но потом покорился Святителю.      В новой должности святой Евфимий вызывал всеобщее изум ление и уважение тем, что, занимая столь высокое положение,  будучи в центре деловой жизни огромного торгового города, он нес  иноческие подвиги так же усердно, как и в дремучих лесах.   В 1421 году скончался архиепископ Симеон. При новом архиерее  Евфимий I святой Евфимий снова удалился в свою обитель. Вско  ре иноки обители на Лисичьей горе избрали святого своим игуме  ном. По преставлении архиепископа Новгородского Евфимия I в 1429 году игумен Евфимий был избран архиепископом хвоего родного города и 29 ноября вступил в храм Святой Софии. В течение четырех лет святитель управлял Новгородской епархией, оставаясь нареченным архиепископом, и только 24 мая 1434 года был посвящен в Смоленске. Архиерейскую хиротонию возглавлял митрополит Герасим. В течение 29 лет мудро правил своей епархией святой Евфимий, ревностно исполняя свой архипастырский долг. Много потрудился святой Евфимий для построения и возобновления храмов, особенно после 'опустошительных пожаров 1431 и 1442 гг. Богато был украшен святителем Софийский собор, а в Новгородском Кремле построено несколько новых храмов. «Если хочешь, — пишет 'Пахомий Логофет, — видеть немногое из числа великих дел его, иди к храму Святой Софии. Там увидишь созданные им храмы святых, стоящие подобно горам. Не голосом,,а делом открывают они разнообразную красоту свою. Это даровал мне архиепископ Евфимий, — говорит одна церковь; ( другая говорит — таким благолепием он украсил меня; третья поведает — меня воздвиг он с основания. Храм великого Иоанна Златоустого, высокий и красивый, рукою Златоустого благословляет его и от его лица говорит: «Поелику ты воздвиг мне храм, и я умолю Творца приготовить тебе храмину на Небе». Соборный храм Премудрости Божией, обветшавший от времени и возобновленный им, вещает: «Он возвратил мне прежнее благолепие мое, украсил меня святыми иконами, он — хвала и красота моя»». Святитель Евфимий построил церковь в честь своего Ангела Хранителя, в 1438 году в Вяжицкой обители — каменный храм в честь Святителя Николая, а в следующем году — каменный храм в честь святого Иоанна Богослова с трапезою и службами. Ревностный к славе Божией святитель Евфимий заботился об умножении духовных книг. До сих пор целы многие богослужебные книги, переписанные «по велениям господина архиепископа Владыки Евфимия». Несмотря на обилие дел святитель всегда неукоснительно выполнял иноческое  правило: то, что он не успевал сделать днем, — довершал ночью. За час до утрени вставал святитель на келейную молитву. Часто  всю ночь проводил он без сна; носил вериги, но о них никто не  знал до самой кончины его. Первую неделю Великого поста про водил святитель в Вяжицкой обители в безмолвной молитве, ни чего не вкушая. В 1446 году великокняжеский престол был захва чен Шемякой, который вступил в сношения с Новгородом. Политическая ситуация в Новгороде резко обострилась. Святитель Иона  (память 31 марта) в 1451 году в особом послании убеждал нов городцев прекратить беспорядки и слушаться своего архипасты ря — «будьте во всем послушны нашему сыну и брату, а вашему  отцу и учителю, Боголюбивому архиепископу Евфимию». В глубо кой старости святитель Евфимий, беспокоясь в душе, что деятель ность Шемяки могла бросить тень на его отношение к Первосвя тителю, которого он глубоко чтил, посылает святому Ионе письмо.  Предчувствуя близость кончины, святитель Евфимий испрашивал себе молитв и прощения. Святой Иона в ответном письме — прощальной грамоте писал: «Напоминаем тебе, сын мой, что ты стал было поступать слишком просто: того, кто отлучен был нашим смирением за преступления, вы принимали у себя, того удостоивали своего благословения. И ты, сын мой, принеси покаяние в том пред Богом». При этом святитель Иона повелел: если прощальная грамота прибудет после блаженной кончины новгородского архипастыря, прочитать ее над его гробом. Святитель Евфимий преставился 10 марта 1458 года. Посланный святителем Ионой с прощальной грамотой духовник Евмений прибыл в Новгород спустя 16 дней после кончины святого Евфимия, гроб которого, по его завещанию, стоял в храме Вяжицкой обители. Когда гроб открыли, чтобы прочитать прощальную грамоту, то увидели, что тление не коснулось тела святого. Святитель Евфимий лежал, как спящий, персты его были сложены для благословения. «Еще хранит Бог Новгород, за него молится святитель Евфимий», — громко сказал Евмений и, прочтя грамоту святого Ионы, положил ее в руку почившего святителя.    Вскоре после кончины святителя Господь прославил его благодатными дарованиями тем, кто прибегал к его молитвенной помощи. Высоко почитая святителя, благодарные иноки Вяжицкой обители воздвигли церковь в честь святого Евфимия, которая отмечена в переписи 1500 года. Празднование памяти святителя Евфимия было установлено на Московском Соборе 1549 года. Житие святого Евфимия написано по поручению святителя Ионы, архиепископа Новгородского (1* 1470; память 5 ноября) Пахомием Логофетом. \n"
+                  },
+                  "cid" : "737"
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Прп. Патрикия",
+                     "Nominative" : "Прп. Патрикия исп. (1933)"
+                  },
+                  "info" : null,
+                  "cid" : "031100",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031101",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Св. Василия исп., пресвитера (1937)",
+                     "Short" : "Св. Василия"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Сщмч. Пиония, пресвитера Смирнского, и иже с ним (250)",
+                     "Short" : "Сщмч. Пиония"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "619"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "2045",
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Прп. Софрония, затворника Печерского (XIII)",
+                     "Short" : "Прпⷣбнагѡ сѡфро́нїа,",
+                     "Genetive" : "Прп. Софрония"
+                  }
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Свт. Софрония, еп. Врачанского (1813)",
+                     "Short" : "Свт. Софрония"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "031102",
+                  "life" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Перенесение мощей мч. Епимаха",
+                     "Short" : "Перенесение мощей"
+                  },
+                  "info" : null,
+                  "cid" : "4620",
+                  "life" : null
+               }
+            ]
+         }
+      },
+      "en" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "life" : null,
+                  "cid" : "9835",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Second Sunday of Lent",
+                     "Short" : "Second Sunday of Lent"
+                  },
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "66",
+                              "reading" : "Jn_21:1-14",
+                              "type" : "1"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "304",
+                              "effWeek" : null,
+                              "reading" : "Heb_1:10-2:3",
+                              "type" : "apostol"
+                           },
+                           {
+                              "reading" : "Mk_2:1-12",
+                              "type" : "gospel",
+                              "pericope" : "7",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "543",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "318",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2"
+                           },
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Nominative" : "Saint Gregory Palamas, Archbishop of Thessalonica († c.  1360)",
+                     "Short" : "Saint Gregory"
+                  }
+               },
+               {
+                  "life" : {
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Id" : "bulgakov",
+                     "Text" : "\n<p>Saint Sophronios, Patriarch of Jerusalem, was born in Damascus. From his youthful years he distinguished himself by his piety and his love for the classical sciences. He advanced especially in philosophy, for which they were wont to call him the Wise. But the future hierarch sought out an higher wisdom in the monasteries, and in conversations with the wilderness-dwellers. He arrived in Jerusalem at the monastery of Saint Theodosios, and there he became close with the PriestMonk John Moskhos, becoming his spiritual son and devoting himself to him in obedience. They journeyed together through the monasteries, and they wrote down descriptions of the lives and precepts of the ascetics found there. From these jottings was afterwards compiled their reknown book, the “Leimonarion” or “Spiritual Meadow,” which was highly esteemed at the Seventh Œcumenical Council.</p><p>To save themselves from the devastating incursions of the Persians, Saints John and Sophronios quit Palestine and withdrew to Antioch, and from there they went to Egypt. In Egypt Saint Sophronios became seriously ill. During this time he also decided to become a monk and so he accepted tonsure from the Monk John Moskhos. After the return to health of Saint Sophronios, they both decided to remain in Alexandria. There they were fondly received by the holy Patriarch John the Merciful (Comm. 12 November), to whom they rendered great aid in the struggle against the Monophysite heresy. At Alexandria Saint Sophronios’ eyesight was afflicted, and he recoursed with prayer and faith to the holy UnMercenaries Cyrus and John (Comm. 31 January), and he received healing in a church named for them. In gratitude, Saint Sophronios then wrote the Vita of these holy unmercenaries.</p><p>When the barbarians began to threaten Alexandria, the holy Patriarch John, accompanied by Saints Sophronios and John Moskhos, set out for Constantinople, but along the way he died. Saints John Moskhos and Sophronios with eighteen other monks then set out for Rome. At Rome the Monk John Moskhos also died († 622). His body was conveyed by Saint Sophronios to Jerusalem and buried at the monastery of Saint Theodosios. </p><p>In the year 628 the Jerusalem patriarch Zacharias (609-633) returned from the Persian Captivity. After his death, the patriarchal throne was occupied for a space of two years by Saint Modestos (633-634, Comm. 18 December). After the death of Saint Modestos, Saint Sophronios was chosen patriarch. Saint Sophronios toiled much for the welfare of the Jerusalem Church as its primate (634-644).</p><p>Towards the end of his life, Saint Sophronios with his flock lived through a two year siege of Jerusalem by the Mahometans. Worn down by hunger, the Christians finally consented to open the city gates, on the condition that the enemy spare the holy places. But this condition was not fulfilled, and holy Patriarch Sophronios died in deep grief over the desecration of the Christian holy places.</p><p>Written works by Patriarch Sophronios have come down to us in the area of dogmatics, and likewise his “Excursus on the Liturgy,” the Vita of the Nun Mary of Egypt (Comm. 1 April), and also about 950 tropars and stikhi-verses from Pascha to the Ascension. While still a priestmonk, Saint Sophronios made review and corrections to the “ustav-rule” of the monastery of the Monk Sava the Sanctified (Comm. 5 December). And the “tri-odic song” of the saint for the Holy Forty Day Great Lent is included in the composition of the contemporary Lenten Triodion.</p>\n"
+                  },
+                  "cid" : "614",
+                  "info" : null,
+                  "type" : "1",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Holy Hierarch",
+                     "Nominative" : "Holy Hierarch Sophronius the Patriarch of Jerusalem (638-644)"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Holy Hierarch Euthymius, Archbishop of Novgorod († 1458)",
+                     "Short" : "Holy Hierarch"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : "3",
+                  "menologion" : "",
+                  "life" : {
+                     "Text" : "\n<p>Saint Evthymii, in Baptism Ioann (John), was born at the fervent prayers of the presbyter Mikhei and his spouse Anna. For long years they had been childless, and they gave a vow: if a son were born, they would dedicate him to God. The reading of priestly books and frequent visits to Divine-services, which the boy served at with his father—a priest at a not-large temple named for Saint Theodore,—all this gave sanctity to the soul of young Ioann. And at the age of fifteen, in the year 1411, he departed his parental home for a monastery.</p><p>Twelve versts from Novgorod, in a wilderness spot named Vyazhisch, amidst the forests and the swamps there had settled three monks—Evphrosyn, Ignatii and Galaktion. There soon joined them the priest Pimen, who accepted tonsure with the name Pakhomii. Here they asceticised in complete solitude at a wooden chapel built by them in the name of Christ’s Saint Nicholas, living in unceasing prayer and in the harsh struggle with the severe conditions of nature in the Northern regions.</p><p>The young Ioann in seeking salvation came also to these ascetics. The hegumen Pakhomii accepted him fondly and tonsured him into monasticism with the name Evthymii. Tonsure at so early an age reflects the outstanding spiritual traits of the young ascetic, which were evident to the perspicacious Pakhomii. During this period in time the Novgorod archbishop’s cathedra-seat was occupied by archbishop Simeon, a simple monk elevated to archbishop. The virtuous life of the Monk Evthymii became known to the archbishop. Saint Evthymii was summoned to Novgorod and after a long talk with the vladyka he was appointed the archbishop’s steward. During these times Novgorod archbishops occupied quite unique a position: independent of princely authority, they were elected directly by the veche-assembly and they assumed a large role in secular matters; moreover, it imposed upon them the administration of vast land-holdings. And an archbishop’s steward under these conditions had to combine administrative talent with the utmost non-covetousness and deep Christian humility. Saint Evthymii fervently entreated the archpastor to send him away back again to Vyazhisch, but then he yielded.</p><p>In his new duty, Saint Evthymii evoked general astonishment and esteem, in that while occupying so important a position, and being at the centre of business life in a large crowded city, he as a monk asceticised as fervently as he would have in the deep forest. In 1421 archbishop Simeon died. Under the new hierarch, Evthymii I, Saint Evthymii again withdrew to his monastery. Soon however the monks of a monastery on Lisich Hill chose the saint as their hegumen. With the death of the Novgorod archbishop Evthymii I in 1429, the hegumen Saint Evthymii was then chosen archbishop of his native city, and on 29 November he entered into the temple of Saint Sophia. For four years the saint administered the Novgorod diocese, whilst putting off being acclaimed archbishop, and it was only on 24 May 1434 that he was consecrated at Smolensk. The archepiscopal laying on of hands was headed by metropolitan Gerasim. </p><p>Saint Evthymii wisely governed his diocese over the course of 29 years, zealous in the fulfilling of his archpastoral duty. Saint Evthymii toiled much at the construction and restoration of churches, especially after the devastating conflagrations of the years 1431 and 1442. The Sophia cathedral was richly embellished by the saint, and in the Novgorod Kremlin there was built several new churches. “If thou dost wish to see,—writes Pakhomii the Logothete,—some few from the number of his great works, go to the temple of Saint Sophia. There thou wilt catch glimpse the temples of saints built by him, standing like hillocks. Not by the voice, but in the deed do they bespeak their varied charm. This was bestowed me by archbishop Evthymii,—proclaims the one church; while another sayeth—so magnificently hath he adorned me; and yet a third one doth relate—he did build me up from the very foundations. The temple of great John Chrysostom, tall and beautiful, with the hand of a Chrysostomos he blesses and from its face is proclaimed: “In as thou hast erected me a temple-habitation, I in turn shalt beseech the Creator to prepare thee habitation in Heaven.” The cathedral temple of the Wisdom of God, Saint Sophia, answering from over the years in its restoration by him, proclaimeth: “He hath returned me to mine original grandeur, he hath adorned me with holy icons, he—is my praise and beauty.” Saint Evthymii built also a church in honour of his Guardian Angel [<i>i.e.</i> Russian idiom for “patron saint”], and in 1438 he built at Vyazhitsk monastery a stone church in honour of Saint Nicholas; and in the following year—a stone church in honour of Saint John the Theologian with a refectory and consistory. Zealous for the Glory of God, Saint Evthymii concerned himself over the increase of spiritual books. From this period is found quite many a Divine-service book, transcribed “under authority of archbishop Vladyka Evthymii.” Despite his abundant works, the saint always promptly fulfilled the monastic rule: whatever he did not succeed doing by day he accomplished by night. An hour before Matins the saint rose up for cell prayer. Often the whole night he spent without sleep; he wore chains, but no one knew about them until his end. The first week of Great Lent the saint spent at Vyazhitsk monastery in silent prayer, eating nothing.</p><p>In 1446 the great-princely throne was usurped by Shemyaka, who entered into relations with Novgorod. The political situation in Novgorod was often quite strained. Saint Jona (Comm. 31 March) in a special missive in 1451 urged the Novgorod people to cease their rowdiness and to heed their archpastor—”be ye in everything heedful to our son and brother, your father and teacher, the God-beloved archbishop Evthymii.” Saint Evthymii, quite up in age, was troubled in soul that the actions of Shemyaka might cast a pall over his relations with the church primate he so deeply revered, and he dispatched a letter to Saint Jona. Sensing the nearness of his death, Saint Evthymii besought for himself prayers and pardon. Saint Jona in the reply letter—a grammota of pardon, wrote: “We call to mind for thee, my son, that thou didst comport thyself too simply: one, who was excommunicated for transgressions by our humility, ye did accept unto yourself and find worthy of your blessing. And do thou, my son, offer repentance in this before God.” And with this Saint Jona gave orders: if the grammota of pardon should arrive after the blessed end of the Novgorod archpastor, then it should be read over his grave. Saint Evthymii reposed on 10 March 1458. The priest Evmenii, dispatched by Saint Jona with the grammota of pardon, arrived in Novgorod 16 days after the death of Saint Evthymii, whose grave at his bequest stood at the church of the Vyazhitsk monastery. When they opened the grave so as to read the grammota of pardon, they then saw that no decay had touched the body of the saint. Saint Evthymii lay there as though asleep, and his fingers were positioned in blessing. “God preserve yet Novgorod, for which Saint Evthymii doth pray,”—loudly exclaimed Evmenii, and reading the grammota of Saint Jona, he placed it into the hand of the deceased hierarch.</p><p>Soon after the death of the saint, the Lord glorified him in blessing with grace those, who recoursed to his prayerful intercession. Highly revering the saint, the monks of the Vyazhitsk monastery in gratitude erected a church in honour of Saint Evthymii, which was noted in the census of 1500. The celebration of the memory of Saint Evthymii was established at the Moscow Sobor of 1549. The Vita (Life) of Saint Evthymii was written by Pakhomii the Logothete, having been commissioned by Saint Jona, Archbishop of Novgorod († 1470, Comm. 5 November). </p>\n",
+                     "Id" : "bulgakov",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos."
+                  },
+                  "cid" : "737",
+                  "info" : null
+               },
+               {
+                  "cid" : "031100",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Venerable Patrick the Confessor († 1933)",
+                     "Short" : "Venerable Patrick"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "St Basil",
+                     "Nominative" : "St Basil the new hiero-confessor († 1937)"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "031101",
+                  "life" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Hieromartyr Pionius",
+                     "Nominative" : "Hieromartyr Pionius of Smyrna and those with him: Asclepiades, Macedonia, Linus, and Sabina († 250)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "619",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "2045",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Venerable Sophronius, Recluse of the Kiev Caves († 13th century)",
+                     "Short" : "Venerable Sophronius"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Holy Hierarch Sophronius the Bishop of Vratcha, Bulgaria († 1813)",
+                     "Short" : "Holy Hierarch"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "031102",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Translation of the relics of the Martyr Epimachus of Pelusium",
+                     "Short" : "Translation"
+                  },
+                  "info" : null,
+                  "cid" : "4620",
+                  "life" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Venerable George of Mt Sinai",
+                     "Short" : "Venerable George"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "031103",
+                  "life" : null,
+                  "info" : null
+               }
+            ],
+            "fastings" : "0000111",
+            "tone" : 2
+         },
+         "ponomar" : {
+            "fastings" : "0000111",
+            "tone" : 2,
+            "saints" : [
+               {
+                  "cid" : "9835",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Second Sunday of Lent",
+                     "Nominative" : "Second Sunday of Lent"
+                  },
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "66",
+                              "reading" : "Jn_21:1-14",
+                              "type" : "1"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "304",
+                              "type" : "apostol",
+                              "reading" : "Heb_1:10-2:3"
+                           },
+                           {
+                              "reading" : "Mk_2:1-12",
+                              "type" : "gospel",
+                              "effWeek" : null,
+                              "pericope" : "7"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "543",
+                  "menologion" : "",
+                  "type" : "0",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "318"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "36",
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Short" : "Saint Gregory",
+                     "Nominative" : "Saint Gregory Palamas, Archbishop of Thessalonica († c.  1360)"
+                  }
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Holy Hierarch Sophronius the Patriarch of Jerusalem (638-644)",
+                     "Short" : "Holy Hierarch"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : "1",
+                  "menologion" : "",
+                  "cid" : "614",
+                  "life" : {
+                     "Text" : "\n<p>Saint Sophronios, Patriarch of Jerusalem, was born in Damascus. From his youthful years he distinguished himself by his piety and his love for the classical sciences. He advanced especially in philosophy, for which they were wont to call him the Wise. But the future hierarch sought out an higher wisdom in the monasteries, and in conversations with the wilderness-dwellers. He arrived in Jerusalem at the monastery of Saint Theodosios, and there he became close with the PriestMonk John Moskhos, becoming his spiritual son and devoting himself to him in obedience. They journeyed together through the monasteries, and they wrote down descriptions of the lives and precepts of the ascetics found there. From these jottings was afterwards compiled their reknown book, the “Leimonarion” or “Spiritual Meadow,” which was highly esteemed at the Seventh Œcumenical Council.</p><p>To save themselves from the devastating incursions of the Persians, Saints John and Sophronios quit Palestine and withdrew to Antioch, and from there they went to Egypt. In Egypt Saint Sophronios became seriously ill. During this time he also decided to become a monk and so he accepted tonsure from the Monk John Moskhos. After the return to health of Saint Sophronios, they both decided to remain in Alexandria. There they were fondly received by the holy Patriarch John the Merciful (Comm. 12 November), to whom they rendered great aid in the struggle against the Monophysite heresy. At Alexandria Saint Sophronios’ eyesight was afflicted, and he recoursed with prayer and faith to the holy UnMercenaries Cyrus and John (Comm. 31 January), and he received healing in a church named for them. In gratitude, Saint Sophronios then wrote the Vita of these holy unmercenaries.</p><p>When the barbarians began to threaten Alexandria, the holy Patriarch John, accompanied by Saints Sophronios and John Moskhos, set out for Constantinople, but along the way he died. Saints John Moskhos and Sophronios with eighteen other monks then set out for Rome. At Rome the Monk John Moskhos also died († 622). His body was conveyed by Saint Sophronios to Jerusalem and buried at the monastery of Saint Theodosios. </p><p>In the year 628 the Jerusalem patriarch Zacharias (609-633) returned from the Persian Captivity. After his death, the patriarchal throne was occupied for a space of two years by Saint Modestos (633-634, Comm. 18 December). After the death of Saint Modestos, Saint Sophronios was chosen patriarch. Saint Sophronios toiled much for the welfare of the Jerusalem Church as its primate (634-644).</p><p>Towards the end of his life, Saint Sophronios with his flock lived through a two year siege of Jerusalem by the Mahometans. Worn down by hunger, the Christians finally consented to open the city gates, on the condition that the enemy spare the holy places. But this condition was not fulfilled, and holy Patriarch Sophronios died in deep grief over the desecration of the Christian holy places.</p><p>Written works by Patriarch Sophronios have come down to us in the area of dogmatics, and likewise his “Excursus on the Liturgy,” the Vita of the Nun Mary of Egypt (Comm. 1 April), and also about 950 tropars and stikhi-verses from Pascha to the Ascension. While still a priestmonk, Saint Sophronios made review and corrections to the “ustav-rule” of the monastery of the Monk Sava the Sanctified (Comm. 5 December). And the “tri-odic song” of the saint for the Holy Forty Day Great Lent is included in the composition of the contemporary Lenten Triodion.</p>\n",
+                     "Id" : "bulgakov",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos."
+                  },
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "3",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "name" : {
+                     "Short" : "Holy Hierarch",
+                     "Nominative" : "Holy Hierarch Euthymius, Archbishop of Novgorod († 1458)"
+                  },
+                  "info" : null,
+                  "life" : {
+                     "Text" : "\n<p>Saint Evthymii, in Baptism Ioann (John), was born at the fervent prayers of the presbyter Mikhei and his spouse Anna. For long years they had been childless, and they gave a vow: if a son were born, they would dedicate him to God. The reading of priestly books and frequent visits to Divine-services, which the boy served at with his father—a priest at a not-large temple named for Saint Theodore,—all this gave sanctity to the soul of young Ioann. And at the age of fifteen, in the year 1411, he departed his parental home for a monastery.</p><p>Twelve versts from Novgorod, in a wilderness spot named Vyazhisch, amidst the forests and the swamps there had settled three monks—Evphrosyn, Ignatii and Galaktion. There soon joined them the priest Pimen, who accepted tonsure with the name Pakhomii. Here they asceticised in complete solitude at a wooden chapel built by them in the name of Christ’s Saint Nicholas, living in unceasing prayer and in the harsh struggle with the severe conditions of nature in the Northern regions.</p><p>The young Ioann in seeking salvation came also to these ascetics. The hegumen Pakhomii accepted him fondly and tonsured him into monasticism with the name Evthymii. Tonsure at so early an age reflects the outstanding spiritual traits of the young ascetic, which were evident to the perspicacious Pakhomii. During this period in time the Novgorod archbishop’s cathedra-seat was occupied by archbishop Simeon, a simple monk elevated to archbishop. The virtuous life of the Monk Evthymii became known to the archbishop. Saint Evthymii was summoned to Novgorod and after a long talk with the vladyka he was appointed the archbishop’s steward. During these times Novgorod archbishops occupied quite unique a position: independent of princely authority, they were elected directly by the veche-assembly and they assumed a large role in secular matters; moreover, it imposed upon them the administration of vast land-holdings. And an archbishop’s steward under these conditions had to combine administrative talent with the utmost non-covetousness and deep Christian humility. Saint Evthymii fervently entreated the archpastor to send him away back again to Vyazhisch, but then he yielded.</p><p>In his new duty, Saint Evthymii evoked general astonishment and esteem, in that while occupying so important a position, and being at the centre of business life in a large crowded city, he as a monk asceticised as fervently as he would have in the deep forest. In 1421 archbishop Simeon died. Under the new hierarch, Evthymii I, Saint Evthymii again withdrew to his monastery. Soon however the monks of a monastery on Lisich Hill chose the saint as their hegumen. With the death of the Novgorod archbishop Evthymii I in 1429, the hegumen Saint Evthymii was then chosen archbishop of his native city, and on 29 November he entered into the temple of Saint Sophia. For four years the saint administered the Novgorod diocese, whilst putting off being acclaimed archbishop, and it was only on 24 May 1434 that he was consecrated at Smolensk. The archepiscopal laying on of hands was headed by metropolitan Gerasim. </p><p>Saint Evthymii wisely governed his diocese over the course of 29 years, zealous in the fulfilling of his archpastoral duty. Saint Evthymii toiled much at the construction and restoration of churches, especially after the devastating conflagrations of the years 1431 and 1442. The Sophia cathedral was richly embellished by the saint, and in the Novgorod Kremlin there was built several new churches. “If thou dost wish to see,—writes Pakhomii the Logothete,—some few from the number of his great works, go to the temple of Saint Sophia. There thou wilt catch glimpse the temples of saints built by him, standing like hillocks. Not by the voice, but in the deed do they bespeak their varied charm. This was bestowed me by archbishop Evthymii,—proclaims the one church; while another sayeth—so magnificently hath he adorned me; and yet a third one doth relate—he did build me up from the very foundations. The temple of great John Chrysostom, tall and beautiful, with the hand of a Chrysostomos he blesses and from its face is proclaimed: “In as thou hast erected me a temple-habitation, I in turn shalt beseech the Creator to prepare thee habitation in Heaven.” The cathedral temple of the Wisdom of God, Saint Sophia, answering from over the years in its restoration by him, proclaimeth: “He hath returned me to mine original grandeur, he hath adorned me with holy icons, he—is my praise and beauty.” Saint Evthymii built also a church in honour of his Guardian Angel [<i>i.e.</i> Russian idiom for “patron saint”], and in 1438 he built at Vyazhitsk monastery a stone church in honour of Saint Nicholas; and in the following year—a stone church in honour of Saint John the Theologian with a refectory and consistory. Zealous for the Glory of God, Saint Evthymii concerned himself over the increase of spiritual books. From this period is found quite many a Divine-service book, transcribed “under authority of archbishop Vladyka Evthymii.” Despite his abundant works, the saint always promptly fulfilled the monastic rule: whatever he did not succeed doing by day he accomplished by night. An hour before Matins the saint rose up for cell prayer. Often the whole night he spent without sleep; he wore chains, but no one knew about them until his end. The first week of Great Lent the saint spent at Vyazhitsk monastery in silent prayer, eating nothing.</p><p>In 1446 the great-princely throne was usurped by Shemyaka, who entered into relations with Novgorod. The political situation in Novgorod was often quite strained. Saint Jona (Comm. 31 March) in a special missive in 1451 urged the Novgorod people to cease their rowdiness and to heed their archpastor—”be ye in everything heedful to our son and brother, your father and teacher, the God-beloved archbishop Evthymii.” Saint Evthymii, quite up in age, was troubled in soul that the actions of Shemyaka might cast a pall over his relations with the church primate he so deeply revered, and he dispatched a letter to Saint Jona. Sensing the nearness of his death, Saint Evthymii besought for himself prayers and pardon. Saint Jona in the reply letter—a grammota of pardon, wrote: “We call to mind for thee, my son, that thou didst comport thyself too simply: one, who was excommunicated for transgressions by our humility, ye did accept unto yourself and find worthy of your blessing. And do thou, my son, offer repentance in this before God.” And with this Saint Jona gave orders: if the grammota of pardon should arrive after the blessed end of the Novgorod archpastor, then it should be read over his grave. Saint Evthymii reposed on 10 March 1458. The priest Evmenii, dispatched by Saint Jona with the grammota of pardon, arrived in Novgorod 16 days after the death of Saint Evthymii, whose grave at his bequest stood at the church of the Vyazhitsk monastery. When they opened the grave so as to read the grammota of pardon, they then saw that no decay had touched the body of the saint. Saint Evthymii lay there as though asleep, and his fingers were positioned in blessing. “God preserve yet Novgorod, for which Saint Evthymii doth pray,”—loudly exclaimed Evmenii, and reading the grammota of Saint Jona, he placed it into the hand of the deceased hierarch.</p><p>Soon after the death of the saint, the Lord glorified him in blessing with grace those, who recoursed to his prayerful intercession. Highly revering the saint, the monks of the Vyazhitsk monastery in gratitude erected a church in honour of Saint Evthymii, which was noted in the census of 1500. The celebration of the memory of Saint Evthymii was established at the Moscow Sobor of 1549. The Vita (Life) of Saint Evthymii was written by Pakhomii the Logothete, having been commissioned by Saint Jona, Archbishop of Novgorod († 1470, Comm. 5 November). </p>\n",
+                     "Id" : "bulgakov",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos."
+                  },
+                  "cid" : "737"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031100",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Venerable Patrick",
+                     "Nominative" : "Venerable Patrick the Confessor († 1933)"
+                  }
+               },
+               {
+                  "cid" : "031101",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "St Basil the new hiero-confessor († 1937)",
+                     "Short" : "St Basil"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "name" : {
+                     "Short" : "Hieromartyr Pionius",
+                     "Nominative" : "Hieromartyr Pionius of Smyrna and those with him: Asclepiades, Macedonia, Linus, and Sabina († 250)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "619",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "Venerable Sophronius",
+                     "Nominative" : "Venerable Sophronius, Recluse of the Kiev Caves († 13th century)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "2045",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Holy Hierarch Sophronius the Bishop of Vratcha, Bulgaria († 1813)",
+                     "Short" : "Holy Hierarch"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "031102",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "4620",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Translation of the relics of the Martyr Epimachus of Pelusium",
+                     "Short" : "Translation"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "life" : null,
+                  "cid" : "031103",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Venerable George",
+                     "Nominative" : "Venerable George of Mt Sinai"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               }
+            ]
+         }
+      },
+      "fr" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "cid" : "9835",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "type" : "1",
+                              "reading" : "Jn_21:1-14",
+                              "pericope" : "66",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_1:10-2:3",
+                              "effWeek" : null,
+                              "pericope" : "304"
+                           },
+                           {
+                              "pericope" : "7",
+                              "effWeek" : null,
+                              "reading" : "Mk_2:1-12",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "name" : {
+                     "Short" : "Le 2-me dimanche du Carême",
+                     "Nominative" : "Le 2-me dimanche du Carême"
+                  }
+               },
+               {
+                  "name" : {
+                     "Short" : "St. Grégoire",
+                     "Nominative" : "St. Grégoire Palamas, Archevêque de Thessalonique"
+                  },
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol",
+                              "pericope" : "318",
+                              "effWeek" : null
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "543",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "1",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "St. Sophrone",
+                     "Nominative" : "St. Sophrone, Patriarche de Jérusalem"
+                  },
+                  "info" : null,
+                  "cid" : "614",
+                  "life" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Sts. Pione de Smyrne et ses compagnons",
+                     "Short" : "Sts. Pione"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "619",
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Sts. Trophime et Thalle",
+                     "Short" : "Sts. Trophime"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "031106",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "031103",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "St. Georges",
+                     "Nominative" : "St. Georges le Sinaïte"
+                  }
+               },
+               {
+                  "cid" : "031107",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "St. Georges",
+                     "Nominative" : "St. Georges le Nouveau le Thaumaturge"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "cid" : "031108",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Ste. Théodora",
+                     "Nominative" : "Ste. Théodora, reine de l’Epire"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "St. Epimaque de Péluse (transfert des reliques)",
+                     "Short" : "St. Epimaque"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "4620"
+               },
+               {
+                  "life" : null,
+                  "cid" : "737",
+                  "info" : null,
+                  "type" : "3",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "St. Euthyme",
+                     "Nominative" : "St. Euthyme le Thaumaturge, Archevêque de Novgorod"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "St. Euloge",
+                     "Nominative" : "St. Euloge de Cordoue"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031105"
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "St. Alexis de la Skite Goloseievski à Kiev",
+                     "Short" : "St. Alexis"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "031104",
+                  "life" : null
+               }
+            ],
+            "fastings" : "0000111",
+            "tone" : 2
+         },
+         "ponomar" : {
+            "fastings" : "0000111",
+            "tone" : 2,
+            "saints" : [
+               {
+                  "info" : null,
+                  "cid" : "9835",
+                  "life" : null,
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "66",
+                              "effWeek" : null,
+                              "type" : "1",
+                              "reading" : "Jn_21:1-14"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_1:10-2:3",
+                              "effWeek" : null,
+                              "pericope" : "304"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Mk_2:1-12",
+                              "effWeek" : null,
+                              "pericope" : "7"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "name" : {
+                     "Nominative" : "Le 2-me dimanche du Carême",
+                     "Short" : "Le 2-me dimanche du Carême"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "318"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16",
+                              "effWeek" : null,
+                              "pericope" : "36"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "St. Grégoire",
+                     "Nominative" : "St. Grégoire Palamas, Archevêque de Thessalonique"
+                  },
+                  "info" : null,
+                  "cid" : "543",
+                  "life" : null
+               },
+               {
+                  "cid" : "614",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "St. Sophrone",
+                     "Nominative" : "St. Sophrone, Patriarche de Jérusalem"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "1",
+                  "menologion" : ""
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Sts. Pione de Smyrne et ses compagnons",
+                     "Short" : "Sts. Pione"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "619"
+               },
+               {
+                  "cid" : "031106",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Sts. Trophime",
+                     "Nominative" : "Sts. Trophime et Thalle"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "life" : null,
+                  "cid" : "031103",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "St. Georges",
+                     "Nominative" : "St. Georges le Sinaïte"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "St. Georges le Nouveau le Thaumaturge",
+                     "Short" : "St. Georges"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031107"
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Ste. Théodora, reine de l’Epire",
+                     "Short" : "Ste. Théodora"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "031108",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "cid" : "4620",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "St. Epimaque",
+                     "Nominative" : "St. Epimaque de Péluse (transfert des reliques)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "St. Euthyme le Thaumaturge, Archevêque de Novgorod",
+                     "Short" : "St. Euthyme"
+                  },
+                  "menologion" : "",
+                  "type" : "3",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "737"
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "St. Euloge de Cordoue",
+                     "Short" : "St. Euloge"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031105"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031104",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "St. Alexis",
+                     "Nominative" : "St. Alexis de la Skite Goloseievski à Kiev"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               }
+            ]
+         }
+      },
+      "zh/Hant" : {
+         "ponomar" : {
+            "saints" : [
+               {
+                  "name" : {
+                     "Short" : "大齋期第二主日",
+                     "Nominative" : "大齋期第二主日"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "66",
+                              "reading" : "Jn_21:1-14",
+                              "type" : "1"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "304",
+                              "type" : "apostol",
+                              "reading" : "Heb_1:10-2:3"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Mk_2:1-12",
+                              "pericope" : "7",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "9835",
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "聖格里高利·帕拉瑪斯（德撒洛尼基總主教，1360年）",
+                     "Nominative" : "聖格里高利·帕拉瑪斯（德撒洛尼基總主教，1360年）"
+                  },
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "318",
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "36",
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "life" : null,
+                  "cid" : "543",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "614",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "聖索弗若尼（耶路撒冷牧首，638年）",
+                     "Nominative" : "聖索弗若尼（耶路撒冷牧首，638年）"
+                  },
+                  "menologion" : "",
+                  "type" : "1"
+               },
+               {
+                  "type" : "3",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "聖艾弗提彌（諾夫哥羅德城主教，1458年）",
+                     "Short" : "聖艾弗提彌"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "737",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "聖帕特里克（新宣信者，1933年）",
+                     "Short" : "聖帕特里克（新宣信者，1933年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031100"
+               },
+               {
+                  "name" : {
+                     "Short" : "聖瓦西里（新司祭宣信者，1937年）",
+                     "Nominative" : "聖瓦西里（新司祭宣信者，1937年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "031101",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "殉道司祭彼奧尼及偕同就義者：阿斯克利彼亞迪、利諾；殉道女：瑪凱多尼亞、薩維納（斯密爾納【士麥那】，250年）",
+                     "Short" : "殉道司祭彼奧尼及偕同就義者：阿斯克利彼亞迪、利諾；殉道女：瑪凱多尼亞、薩維納（斯密爾納【士麥那】，250年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "619",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "2045",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "聖索弗若尼",
+                     "Nominative" : "聖索弗若尼（基輔洞窟之閉關者，十三世紀）"
+                  }
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031102",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "聖索弗若尼（弗拉察地方人，1815年）",
+                     "Short" : "聖索弗若尼（弗拉察地方人，1815年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "info" : null,
+                  "cid" : "4620",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "敬遷佩魯西翁的殉道者埃彼瑪霍之聖髑前往君士坦丁堡（250年）",
+                     "Nominative" : "敬遷佩魯西翁的殉道者埃彼瑪霍之聖髑前往君士坦丁堡（250年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "聖格奧爾吉（西奈山修道院院長，聖天梯約翰的兄弟，七世紀）",
+                     "Short" : "聖格奧爾吉（西奈山修道院院長，聖天梯約翰的兄弟，七世紀）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031103"
+               },
+               {
+                  "info" : null,
+                  "cid" : "031105",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "殉道司教艾弗羅吉（科爾多瓦都主教，859年）",
+                     "Nominative" : "殉道司教艾弗羅吉（科爾多瓦都主教，859年）"
+                  }
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "聖阿萊克西（基輔洞窟修道院的格羅瑟耶夫斯基精舍修士，1917年）",
+                     "Short" : "聖阿萊克西（基輔洞窟修道院的格羅瑟耶夫斯基精舍修士，1917年）"
+                  },
+                  "info" : null,
+                  "cid" : "031104",
+                  "life" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "031106",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "殉道者特若斐默及塔洛（勞迪基亞城，300年）",
+                     "Short" : "殉道者特若斐默及塔洛（勞迪基亞城，300年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "031107",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "新聖格奧爾吉（君士坦丁堡的顯行靈蹟者，970年）",
+                     "Nominative" : "新聖格奧爾吉（君士坦丁堡的顯行靈蹟者，970年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031108",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "聖德奧多拉（阿爾塔地方的王后，伊庇魯斯君主米迦勒二世之妻，1275年）",
+                     "Nominative" : "聖德奧多拉（阿爾塔地方的王后，伊庇魯斯君主米迦勒二世之妻，1275年）"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "031109",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "聖奧恩格（第一部愛爾蘭殉道錄編輯者，824年）",
+                     "Nominative" : "聖奧恩格（第一部愛爾蘭殉道錄編輯者，824年）"
+                  }
+               }
+            ],
+            "fastings" : "0000111",
+            "tone" : 2
+         },
+         "ponomarReordered" : {
+            "tone" : 2,
+            "fastings" : "0000111",
+            "saints" : [
+               {
+                  "cid" : "9835",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "大齋期第二主日",
+                     "Short" : "大齋期第二主日"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "matins",
+                        "readings" : [
+                           {
+                              "pericope" : "66",
+                              "effWeek" : null,
+                              "reading" : "Jn_21:1-14",
+                              "type" : "1"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "304",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Heb_1:10-2:3"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Mk_2:1-12",
+                              "pericope" : "7",
+                              "effWeek" : null
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "name" : {
+                     "Nominative" : "聖格里高利·帕拉瑪斯（德撒洛尼基總主教，1360年）",
+                     "Short" : "聖格里高利·帕拉瑪斯（德撒洛尼基總主教，1360年）"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "318",
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "36",
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "543",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "614",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "聖索弗若尼（耶路撒冷牧首，638年）",
+                     "Short" : "聖索弗若尼（耶路撒冷牧首，638年）"
+                  },
+                  "menologion" : "",
+                  "type" : "1"
+               },
+               {
+                  "cid" : "737",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "3",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "聖艾弗提彌",
+                     "Nominative" : "聖艾弗提彌（諾夫哥羅德城主教，1458年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "聖帕特里克（新宣信者，1933年）",
+                     "Nominative" : "聖帕特里克（新宣信者，1933年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "031100",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031101",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "聖瓦西里（新司祭宣信者，1937年）",
+                     "Nominative" : "聖瓦西里（新司祭宣信者，1937年）"
+                  }
+               },
+               {
+                  "life" : null,
+                  "cid" : "619",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "殉道司祭彼奧尼及偕同就義者：阿斯克利彼亞迪、利諾；殉道女：瑪凱多尼亞、薩維納（斯密爾納【士麥那】，250年）",
+                     "Short" : "殉道司祭彼奧尼及偕同就義者：阿斯克利彼亞迪、利諾；殉道女：瑪凱多尼亞、薩維納（斯密爾納【士麥那】，250年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "聖索弗若尼（基輔洞窟之閉關者，十三世紀）",
+                     "Short" : "聖索弗若尼"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "2045",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "031102",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "聖索弗若尼（弗拉察地方人，1815年）",
+                     "Nominative" : "聖索弗若尼（弗拉察地方人，1815年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "name" : {
+                     "Short" : "敬遷佩魯西翁的殉道者埃彼瑪霍之聖髑前往君士坦丁堡（250年）",
+                     "Nominative" : "敬遷佩魯西翁的殉道者埃彼瑪霍之聖髑前往君士坦丁堡（250年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "4620",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031103",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "聖格奧爾吉（西奈山修道院院長，聖天梯約翰的兄弟，七世紀）",
+                     "Nominative" : "聖格奧爾吉（西奈山修道院院長，聖天梯約翰的兄弟，七世紀）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "殉道司教艾弗羅吉（科爾多瓦都主教，859年）",
+                     "Nominative" : "殉道司教艾弗羅吉（科爾多瓦都主教，859年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "031105",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "聖阿萊克西（基輔洞窟修道院的格羅瑟耶夫斯基精舍修士，1917年）",
+                     "Short" : "聖阿萊克西（基輔洞窟修道院的格羅瑟耶夫斯基精舍修士，1917年）"
+                  },
+                  "info" : null,
+                  "cid" : "031104",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "031106",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "殉道者特若斐默及塔洛（勞迪基亞城，300年）",
+                     "Nominative" : "殉道者特若斐默及塔洛（勞迪基亞城，300年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "新聖格奧爾吉（君士坦丁堡的顯行靈蹟者，970年）",
+                     "Short" : "新聖格奧爾吉（君士坦丁堡的顯行靈蹟者，970年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031107"
+               },
+               {
+                  "name" : {
+                     "Nominative" : "聖德奧多拉（阿爾塔地方的王后，伊庇魯斯君主米迦勒二世之妻，1275年）",
+                     "Short" : "聖德奧多拉（阿爾塔地方的王后，伊庇魯斯君主米迦勒二世之妻，1275年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "031108",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "031109",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "聖奧恩格（第一部愛爾蘭殉道錄編輯者，824年）",
+                     "Nominative" : "聖奧恩格（第一部愛爾蘭殉道錄編輯者，824年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               }
+            ]
+         }
+      },
+      "cu" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "services" : [
+                     {
+                        "type" : "matins",
+                        "readings" : [
+                           {
+                              "pericope" : "66",
+                              "effWeek" : null,
+                              "reading" : "Jn_21:1-14",
+                              "type" : "1"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_1:10-2:3",
+                              "pericope" : "304",
+                              "effWeek" : null
+                           },
+                           {
+                              "pericope" : "7",
+                              "effWeek" : null,
+                              "reading" : "Mk_2:1-12",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Nominative" : "Недѣ́лѧ втора́ѧ ст҃ы́хъ постѡ́въ",
+                     "Short" : "Недѣ́лѧ"
+                  },
+                  "info" : null,
+                  "cid" : "9835",
+                  "life" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "543",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Ст҃и́телѧ григо́рїа пала́мы, а҆рхїепⷭ҇копа Фессалонитского (ок. 1360)",
+                     "Short" : "Ст҃и́телѧ григо́рїа"
+                  },
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "318"
+                           },
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "614",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "1",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ст҃а́гѡ сѡфро́нїа, патрїа́рха і҆ерꙋсали́мскагѡ (638-644)",
+                     "Short" : "Ст҃а́гѡ сѡфро́нїа,"
+                  }
+               },
+               {
+                  "cid" : "737",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Ст҃а́гѡ є҆ѵѳѵ́мїа,",
+                     "Nominative" : "Ст҃а́гѡ є҆ѵѳѵ́мїа, а҆рхїепⷭ҇копа новгоро́дскагѡ, чꙋдотво́рца (1458)"
+                  },
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Прпⷣбнагѡ патрїкі́а",
+                     "Nominative" : "Прпⷣбнагѡ патрїкі́а и҆сповѣ́дника (1933)"
+                  },
+                  "info" : null,
+                  "cid" : "031100",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "031101",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ст҃а́гѡ васі́лїа",
+                     "Nominative" : "Ст҃а́гѡ васі́лїа и҆сповѣ́дника, пресвѵ́тера (1937)"
+                  }
+               },
+               {
+                  "cid" : "619",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ст҃а́гѡ сщ҃енномч҃ника",
+                     "Nominative" : "Ст҃а́гѡ сщ҃енномч҃ника Пиония, пресвѵ́тера смѵ́рнскагѡ, и҆ и҆̀же съ ни́мъ (250)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "2045",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Прпⷣбнагѡ сѡфро́нїа, затво́рника пече́рскагѡ (гі҃)",
+                     "Short" : "Прпⷣбнагѡ сѡфро́нїа,"
+                  }
+               },
+               {
+                  "life" : null,
+                  "cid" : "031102",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Ст҃а́гѡ сѡфро́нїа,",
+                     "Nominative" : "Ст҃а́гѡ сѡфро́нїа, є҆пі́скопа врача́нскагѡ (1813)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Пренесе́нїе моще́й",
+                     "Nominative" : "Пренесе́нїе моще́й мч҃ника є҆пїма́ха"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "4620",
+                  "info" : null
+               }
+            ],
+            "tone" : 2,
+            "fastings" : "0000111"
+         },
+         "ponomar" : {
+            "saints" : [
+               {
+                  "cid" : "9835",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Недѣ́лѧ",
+                     "Nominative" : "Недѣ́лѧ втора́ѧ ст҃ы́хъ постѡ́въ"
+                  },
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "66",
+                              "effWeek" : null,
+                              "type" : "1",
+                              "reading" : "Jn_21:1-14"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_1:10-2:3",
+                              "pericope" : "304",
+                              "effWeek" : null
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "7",
+                              "type" : "gospel",
+                              "reading" : "Mk_2:1-12"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "543",
+                  "life" : null,
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "318"
+                           },
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ст҃и́телѧ григо́рїа",
+                     "Nominative" : "Ст҃и́телѧ григо́рїа пала́мы, а҆рхїепⷭ҇копа Фессалонитского (ок. 1360)"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "Ст҃а́гѡ сѡфро́нїа,",
+                     "Nominative" : "Ст҃а́гѡ сѡфро́нїа, патрїа́рха і҆ерꙋсали́мскагѡ (638-644)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "1",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "614",
+                  "info" : null
+               },
+               {
+                  "cid" : "737",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ст҃а́гѡ є҆ѵѳѵ́мїа, а҆рхїепⷭ҇копа новгоро́дскагѡ, чꙋдотво́рца (1458)",
+                     "Short" : "Ст҃а́гѡ є҆ѵѳѵ́мїа,"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ]
+               },
+               {
+                  "info" : null,
+                  "cid" : "031100",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Прпⷣбнагѡ патрїкі́а",
+                     "Nominative" : "Прпⷣбнагѡ патрїкі́а и҆сповѣ́дника (1933)"
+                  }
+               },
+               {
+                  "cid" : "031101",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Ст҃а́гѡ васі́лїа и҆сповѣ́дника, пресвѵ́тера (1937)",
+                     "Short" : "Ст҃а́гѡ васі́лїа"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "life" : null,
+                  "cid" : "619",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ст҃а́гѡ сщ҃енномч҃ника",
+                     "Nominative" : "Ст҃а́гѡ сщ҃енномч҃ника Пиония, пресвѵ́тера смѵ́рнскагѡ, и҆ и҆̀же съ ни́мъ (250)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "cid" : "2045",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Прпⷣбнагѡ сѡфро́нїа,",
+                     "Nominative" : "Прпⷣбнагѡ сѡфро́нїа, затво́рника пече́рскагѡ (гі҃)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "031102",
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ст҃а́гѡ сѡфро́нїа,",
+                     "Nominative" : "Ст҃а́гѡ сѡфро́нїа, є҆пі́скопа врача́нскагѡ (1813)"
+                  }
+               },
+               {
+                  "cid" : "4620",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Пренесе́нїе моще́й",
+                     "Nominative" : "Пренесе́нїе моще́й мч҃ника є҆пїма́ха"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               }
+            ],
+            "fastings" : "0000111",
+            "tone" : 2
+         }
+      }
+   },
+   "date" : "2019/3/11"
+}

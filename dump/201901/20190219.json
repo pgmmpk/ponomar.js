@@ -1,0 +1,2227 @@
+{
+   "langs" : {
+      "en" : {
+         "ponomar" : {
+            "tone" : 7,
+            "fastings" : "0111111",
+            "saints" : [
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9855",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "76",
+                              "reading" : "III Jn_1:1-15",
+                              "type" : "apostol"
+                           },
+                           {
+                              "reading" : "Lk_19:29-40, 22:7-39",
+                              "type" : "gospel",
+                              "effWeek" : null,
+                              "pericope" : "96"
+                           }
+                        ]
+                     }
+                  ],
+                  "name" : {
+                     "Short" : "Cheesefare Monday",
+                     "Nominative" : "Cheesefare Monday"
+                  }
+               },
+               {
+                  "menologion" : "",
+                  "type" : "1",
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Apostles",
+                     "Nominative" : "Apostles of the Seventy: Archippus and Philemon, and martyred Equal-to-the-Apostles Apphia (1<sup>st</sup> C)"
+                  },
+                  "info" : null,
+                  "life" : {
+                     "Text" : "\n<p>The Holy Disciples from the Seventy: Archippos, Philemon and Apthea (2<sup>nd</sup> Comm. 22 November) were students and companions of the holy Apostle Paul. In the Epistle to Philemon, the Apostle Paul names Saint Archippos as his companion.</p><p>The Disciple Archippos was bishop of the city of Colossa in Phrygia. The Disciple Philemon was an eminent citizen of this city, and in his home the Christians gathered to celebrate Divine-services. He was likewise ordained to the dignity of bishop by the Apostle Paul and he went about the cities of Phrygia, preaching the Gospel. Later on, he became archpastor of the city of Gaza. Saint Apthea, his spouse, took into her home the sick and vagrants, zealously attending to them. She was indeed a veritable co-worker to her spouse in proclaiming the Word of God. </p><p>During the persecution against Christians under the emperor Nero (54-68), the holy Disciples Archippos and Philemon and Equal-to-the-Apostles Apthea were brought to trial by the city-governor Artocles for confessing faith in Christ. The Disciple Archippos was brutally hacked at with knives. After torture, they buried Saints Philemon and Apthea up to the waist in the ground, and stoned them until the holy martyrs died. </p>\n",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Id" : "bulgakov"
+                  },
+                  "cid" : "09279"
+               },
+               {
+                  "cid" : "021900",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "St. Theodore of Sanaxar († 1791)",
+                     "Short" : "St. Theodore"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "New Martyr Demetrius (1942)",
+                     "Short" : "New Martyr Demetrius"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "021901"
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Venerable Dositheus of Palestine, a Disciple of Venerable Abba Dorotheus (7<sup>th</sup> C)",
+                     "Short" : "Venerable Dositheus"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "473",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Venerable Rabulas of Samosata († c. 530)",
+                     "Short" : "Venerable Rabulas"
+                  },
+                  "info" : null,
+                  "cid" : "474",
+                  "life" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Holy Confessors Eugene and Macarius, Presbyters at Antioch († 363)",
+                     "Short" : "Holy Confessors"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "472",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "471",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Martyrs Maximus, Theodotus, Hesychius and Asclepiodota of Adrianopolis († 305-311)",
+                     "Short" : "Martyrs"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Venerable Conon of Palestine († 555)",
+                     "Short" : "Venerable Conon"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "021902",
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "Venerable Philothea",
+                     "Nominative" : "Venerable Philothea of Athens († 1589)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "021903",
+                  "life" : null,
+                  "info" : null
+               }
+            ]
+         },
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "76",
+                              "type" : "apostol",
+                              "reading" : "III Jn_1:1-15"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_19:29-40, 22:7-39",
+                              "pericope" : "96",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Short" : "Cheesefare Monday",
+                     "Nominative" : "Cheesefare Monday"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9855"
+               },
+               {
+                  "name" : {
+                     "Short" : "Apostles",
+                     "Nominative" : "Apostles of the Seventy: Archippus and Philemon, and martyred Equal-to-the-Apostles Apphia (1<sup>st</sup> C)"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "menaion",
+                  "type" : "1",
+                  "menologion" : "",
+                  "cid" : "09279",
+                  "life" : {
+                     "Text" : "\n<p>The Holy Disciples from the Seventy: Archippos, Philemon and Apthea (2<sup>nd</sup> Comm. 22 November) were students and companions of the holy Apostle Paul. In the Epistle to Philemon, the Apostle Paul names Saint Archippos as his companion.</p><p>The Disciple Archippos was bishop of the city of Colossa in Phrygia. The Disciple Philemon was an eminent citizen of this city, and in his home the Christians gathered to celebrate Divine-services. He was likewise ordained to the dignity of bishop by the Apostle Paul and he went about the cities of Phrygia, preaching the Gospel. Later on, he became archpastor of the city of Gaza. Saint Apthea, his spouse, took into her home the sick and vagrants, zealously attending to them. She was indeed a veritable co-worker to her spouse in proclaiming the Word of God. </p><p>During the persecution against Christians under the emperor Nero (54-68), the holy Disciples Archippos and Philemon and Equal-to-the-Apostles Apthea were brought to trial by the city-governor Artocles for confessing faith in Christ. The Disciple Archippos was brutally hacked at with knives. After torture, they buried Saints Philemon and Apthea up to the waist in the ground, and stoned them until the holy martyrs died. </p>\n",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Id" : "bulgakov"
+                  },
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "021900",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "St. Theodore",
+                     "Nominative" : "St. Theodore of Sanaxar († 1791)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "021901",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "New Martyr Demetrius (1942)",
+                     "Short" : "New Martyr Demetrius"
+                  }
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "473",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Venerable Dositheus of Palestine, a Disciple of Venerable Abba Dorotheus (7<sup>th</sup> C)",
+                     "Short" : "Venerable Dositheus"
+                  }
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "474",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Venerable Rabulas",
+                     "Nominative" : "Venerable Rabulas of Samosata († c. 530)"
+                  }
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Holy Confessors",
+                     "Nominative" : "Holy Confessors Eugene and Macarius, Presbyters at Antioch († 363)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "472",
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Martyrs",
+                     "Nominative" : "Martyrs Maximus, Theodotus, Hesychius and Asclepiodota of Adrianopolis († 305-311)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "471",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Venerable Conon of Palestine († 555)",
+                     "Short" : "Venerable Conon"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "021902",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "021903",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Venerable Philothea",
+                     "Nominative" : "Venerable Philothea of Athens († 1589)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               }
+            ],
+            "tone" : 7,
+            "fastings" : "0111111"
+         }
+      },
+      "fr" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "name" : {
+                     "Nominative" : "Lundi des laitages",
+                     "Short" : "lundi des laitages"
+                  },
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "III Jn_1:1-15",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "76"
+                           },
+                           {
+                              "pericope" : "96",
+                              "effWeek" : null,
+                              "type" : "gospel",
+                              "reading" : "Lk_19:29-40, 22:7-39"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "9855",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : "1",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "St. Archippe, Apôtre",
+                     "Nominative" : "St. Archippe, Apôtre"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "09279",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Sts. Maxime, Théodote, Hesychius et Asclépiodote",
+                     "Short" : "Sts"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "471",
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "St. Rabulas",
+                     "Nominative" : "St. Rabulas"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "02190097",
+                  "info" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Sts. Eugène",
+                     "Nominative" : "Sts. Eugène et Marcaire"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "472"
+               },
+               {
+                  "info" : null,
+                  "cid" : "021902",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "St. Conon",
+                     "Nominative" : "St. Conon"
+                  }
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ste. Philothée d’Athène",
+                     "Short" : "Ste. Philothée d’Athène"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "021903",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "St. Nicétas l’Athonite",
+                     "Nominative" : "St. Nicétas l’Athonite"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "021904",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "St. Mesrop le Traducteur",
+                     "Short" : "St. Mesrop"
+                  },
+                  "info" : null,
+                  "cid" : "021905",
+                  "life" : null
+               }
+            ],
+            "fastings" : "0111111",
+            "tone" : 7
+         },
+         "ponomar" : {
+            "saints" : [
+               {
+                  "cid" : "9855",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Lundi des laitages",
+                     "Short" : "lundi des laitages"
+                  },
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "III Jn_1:1-15",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "76"
+                           },
+                           {
+                              "pericope" : "96",
+                              "effWeek" : null,
+                              "reading" : "Lk_19:29-40, 22:7-39",
+                              "type" : "gospel"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "1",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "St. Archippe, Apôtre",
+                     "Nominative" : "St. Archippe, Apôtre"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "09279"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Sts",
+                     "Nominative" : "Sts. Maxime, Théodote, Hesychius et Asclépiodote"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "471",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "02190097",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "St. Rabulas",
+                     "Short" : "St. Rabulas"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "life" : null,
+                  "cid" : "472",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Sts. Eugène",
+                     "Nominative" : "Sts. Eugène et Marcaire"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "021902",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "St. Conon",
+                     "Nominative" : "St. Conon"
+                  }
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ste. Philothée d’Athène",
+                     "Nominative" : "Ste. Philothée d’Athène"
+                  },
+                  "info" : null,
+                  "cid" : "021903",
+                  "life" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "St. Nicétas l’Athonite",
+                     "Short" : "St. Nicétas l’Athonite"
+                  },
+                  "info" : null,
+                  "cid" : "021904",
+                  "life" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "St. Mesrop",
+                     "Nominative" : "St. Mesrop le Traducteur"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "021905",
+                  "info" : null
+               }
+            ],
+            "fastings" : "0111111",
+            "tone" : 7
+         }
+      },
+      "cu" : {
+         "ponomar" : {
+            "fastings" : "0111111",
+            "tone" : 7,
+            "saints" : [
+               {
+                  "name" : {
+                     "Short" : "Понедѣ́льникъ",
+                     "Nominative" : "Понедѣ́льникъ сыропꙋ́стный"
+                  },
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "76",
+                              "reading" : "III Jn_1:1-15",
+                              "type" : "apostol"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_19:29-40, 22:7-39",
+                              "effWeek" : null,
+                              "pericope" : "96"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "9855",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "1",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ст҃ы́хъ а҆пⷭ҇лъ ѿ седми́десѧти а҆рхі́ппа и҆ фїлимѡ́на и҆ ст҃ы́ѧ мꙋ́ченицы равноапⷭ҇льнагѡ а҆пфі́и (а҃)",
+                     "Short" : "Ст҃ы́хъ а҆пⷭ҇лъ"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "09279"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "021900",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Прпⷣбнагѡ ѳео́дѡра",
+                     "Nominative" : "Прпⷣбнагѡ ѳео́дѡра санаѯа́рскагѡ (1791)"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ст҃а́гѡ мч҃ника дими́трїа (1942)",
+                     "Short" : "Ст҃а́гѡ мч҃ника"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "021901",
+                  "info" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ст҃ы́хъ мꙋ́чєникъ маѯі́ма, ѳеодо́та, и҆сѵ́хїѧ, ст҃ы́ѧ мꙋ́ченицы а҆склїады (305-311)",
+                     "Short" : "Ст҃ы́хъ мꙋ́чєникъ"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "471",
+                  "life" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Прпⷣбныхъ є҆ѵге́нїа и҆ мака́рїа и҆сповѣ̑дникъ, пресвѵ́терѡвъ а҆нтїохі́йскихъ  (363)",
+                     "Short" : "Прпⷣбныхъ є҆ѵге́нїа"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : "",
+                  "cid" : "472",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Прпⷣбнагѡ Равулы",
+                     "Nominative" : "Прпⷣбнагѡ Равулы (ок. 530)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "474",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "473",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Прпⷣбнагѡ досїѳе́ѧ (з҃), ѹ҆ч҃ника̀ прпⷣбнагѡ аввы дѡроѳе́а",
+                     "Short" : "Прпⷣбнагѡ Досифея"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               }
+            ]
+         },
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "76",
+                              "type" : "apostol",
+                              "reading" : "III Jn_1:1-15"
+                           },
+                           {
+                              "pericope" : "96",
+                              "effWeek" : null,
+                              "reading" : "Lk_19:29-40, 22:7-39",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Short" : "Понедѣ́льникъ",
+                     "Nominative" : "Понедѣ́льникъ сыропꙋ́стный"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9855"
+               },
+               {
+                  "cid" : "09279",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Ст҃ы́хъ а҆пⷭ҇лъ",
+                     "Nominative" : "Ст҃ы́хъ а҆пⷭ҇лъ ѿ седми́десѧти а҆рхі́ппа и҆ фїлимѡ́на и҆ ст҃ы́ѧ мꙋ́ченицы равноапⷭ҇льнагѡ а҆пфі́и (а҃)"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : "1",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "021900",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Прпⷣбнагѡ ѳео́дѡра санаѯа́рскагѡ (1791)",
+                     "Short" : "Прпⷣбнагѡ ѳео́дѡра"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "021901",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ст҃а́гѡ мч҃ника",
+                     "Nominative" : "Ст҃а́гѡ мч҃ника дими́трїа (1942)"
+                  }
+               },
+               {
+                  "name" : {
+                     "Short" : "Ст҃ы́хъ мꙋ́чєникъ",
+                     "Nominative" : "Ст҃ы́хъ мꙋ́чєникъ маѯі́ма, ѳеодо́та, и҆сѵ́хїѧ, ст҃ы́ѧ мꙋ́ченицы а҆склїады (305-311)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "471",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Прпⷣбныхъ є҆ѵге́нїа и҆ мака́рїа и҆сповѣ̑дникъ, пресвѵ́терѡвъ а҆нтїохі́йскихъ  (363)",
+                     "Short" : "Прпⷣбныхъ є҆ѵге́нїа"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "472"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "474",
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Прпⷣбнагѡ Равулы (ок. 530)",
+                     "Short" : "Прпⷣбнагѡ Равулы"
+                  }
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Прпⷣбнагѡ Досифея",
+                     "Nominative" : "Прпⷣбнагѡ досїѳе́ѧ (з҃), ѹ҆ч҃ника̀ прпⷣбнагѡ аввы дѡроѳе́а"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "473"
+               }
+            ],
+            "fastings" : "0111111",
+            "tone" : 7
+         }
+      },
+      "zh/Hant" : {
+         "ponomar" : {
+            "saints" : [
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "乳酪周瞻禮二",
+                     "Short" : "乳酪周瞻禮二"
+                  },
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "76",
+                              "type" : "apostol",
+                              "reading" : "III Jn_1:1-15"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "96",
+                              "type" : "gospel",
+                              "reading" : "Lk_19:29-40, 22:7-39"
+                           }
+                        ]
+                     }
+                  ],
+                  "cid" : "9855",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "七十使徒之亞基布、腓利門及殉道者亞腓亞（一世紀）",
+                     "Nominative" : "七十使徒之亞基布、腓利門及殉道者亞腓亞（一世紀）"
+                  },
+                  "menologion" : "",
+                  "type" : "1",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "09279"
+               },
+               {
+                  "cid" : "021900",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "聖德奧多若（薩納克撒爾修道院修士，1791年）",
+                     "Short" : "聖德奧多若（薩納克撒爾修道院修士，1791年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "新殉道者迪彌特里（1942年）",
+                     "Short" : "新殉道者迪彌特里（1942年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "021901"
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "聖多西德奧（聖多若德奧尊者之弟子，巴勒斯坦人，七世紀）",
+                     "Short" : "聖多西德奧（聖多若德奧尊者之弟子，巴勒斯坦人，七世紀）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "473",
+                  "life" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "聖拉弗拉斯（薩摩撒塔地方，530年）",
+                     "Nominative" : "聖拉弗拉斯（薩摩撒塔地方，530年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "474",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "472",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "聖艾弗革尼及聖瑪喀里（均為安提阿城司祭，宣信者，363年）",
+                     "Nominative" : "聖艾弗革尼及聖瑪喀里（均為安提阿城司祭，宣信者，363年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "殉道者：瑪克息默、德奧多特、伊息赫、阿斯克利彼奧多特（就義於阿德里亞諾頗利，305-311年間）",
+                     "Nominative" : "殉道者：瑪克息默、德奧多特、伊息赫、阿斯克利彼奧多特（就義於阿德里亞諾頗利，305-311年間）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "471",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "聖科農（巴勒斯坦地方修道院院長，555年）",
+                     "Short" : "聖科農（巴勒斯坦地方修道院院長，555年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "021902",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "021903",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "殉道修女聖斐洛德雅（雅典城，1589年）",
+                     "Nominative" : "殉道修女聖斐洛德雅（雅典城，1589年）"
+                  }
+               },
+               {
+                  "cid" : "021905",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "聖麥斯若普譯師（亞美尼亞人，439年）",
+                     "Short" : "聖麥斯若普譯師（亞美尼亞人，439年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "cid" : "021904",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "新殉道司祭尼基塔（伊庇魯斯地方，1809年）",
+                     "Nominative" : "新殉道司祭尼基塔（伊庇魯斯地方，1809年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               }
+            ],
+            "tone" : 7,
+            "fastings" : "0111111"
+         },
+         "ponomarReordered" : {
+            "fastings" : "0111111",
+            "tone" : 7,
+            "saints" : [
+               {
+                  "info" : null,
+                  "cid" : "9855",
+                  "life" : null,
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "III Jn_1:1-15",
+                              "pericope" : "76",
+                              "effWeek" : null
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_19:29-40, 22:7-39",
+                              "effWeek" : null,
+                              "pericope" : "96"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "乳酪周瞻禮二",
+                     "Short" : "乳酪周瞻禮二"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "name" : {
+                     "Short" : "七十使徒之亞基布、腓利門及殉道者亞腓亞（一世紀）",
+                     "Nominative" : "七十使徒之亞基布、腓利門及殉道者亞腓亞（一世紀）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "1",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "09279",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "021900",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "聖德奧多若（薩納克撒爾修道院修士，1791年）",
+                     "Nominative" : "聖德奧多若（薩納克撒爾修道院修士，1791年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "新殉道者迪彌特里（1942年）",
+                     "Short" : "新殉道者迪彌特里（1942年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "021901",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "473",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "聖多西德奧（聖多若德奧尊者之弟子，巴勒斯坦人，七世紀）",
+                     "Nominative" : "聖多西德奧（聖多若德奧尊者之弟子，巴勒斯坦人，七世紀）"
+                  }
+               },
+               {
+                  "name" : {
+                     "Nominative" : "聖拉弗拉斯（薩摩撒塔地方，530年）",
+                     "Short" : "聖拉弗拉斯（薩摩撒塔地方，530年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "474",
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "聖艾弗革尼及聖瑪喀里（均為安提阿城司祭，宣信者，363年）",
+                     "Short" : "聖艾弗革尼及聖瑪喀里（均為安提阿城司祭，宣信者，363年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "472",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "471",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "殉道者：瑪克息默、德奧多特、伊息赫、阿斯克利彼奧多特（就義於阿德里亞諾頗利，305-311年間）",
+                     "Nominative" : "殉道者：瑪克息默、德奧多特、伊息赫、阿斯克利彼奧多特（就義於阿德里亞諾頗利，305-311年間）"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "021902",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "聖科農（巴勒斯坦地方修道院院長，555年）",
+                     "Nominative" : "聖科農（巴勒斯坦地方修道院院長，555年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "殉道修女聖斐洛德雅（雅典城，1589年）",
+                     "Short" : "殉道修女聖斐洛德雅（雅典城，1589年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "021903"
+               },
+               {
+                  "name" : {
+                     "Short" : "聖麥斯若普譯師（亞美尼亞人，439年）",
+                     "Nominative" : "聖麥斯若普譯師（亞美尼亞人，439年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "021905",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "021904",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "新殉道司祭尼基塔（伊庇魯斯地方，1809年）",
+                     "Nominative" : "新殉道司祭尼基塔（伊庇魯斯地方，1809年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               }
+            ]
+         }
+      },
+      "el" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Δευτέρα τῆς τυρινῆς",
+                     "Short" : "Δευτέρα"
+                  },
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "III Jn_1:1-15",
+                              "effWeek" : null,
+                              "pericope" : "76"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "96",
+                              "reading" : "Lk_19:29-40, 22:7-39",
+                              "type" : "gospel"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "cid" : "9855",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "021903",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ἁγία Φιλοθέη ἡ Ἀθηναία",
+                     "Short" : "Ἁγία Φιλοθέη ἡ Ἀθηναία"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ἅγιος Ἄρχιππος ὁ Ἀπόστολος",
+                     "Short" : "Ἅγιος Ἄρχιππος ὁ Ἀπόστολος"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "02190195",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "021904",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ἅγιος Νικήτας ὁ νέος ἱερομάρτυρας",
+                     "Short" : "Ἅγιος Νικήτας ὁ νέος ἱερομάρτυρας"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "Ἅγιοι Μάξιμος, Θεόδοτος, Ἡσύχιος καὶ Ἀσκληπιοδότη",
+                     "Nominative" : "Ἅγιοι Μάξιμος, Θεόδοτος, Ἡσύχιος καὶ Ἀσκληπιοδότη"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : "",
+                  "cid" : "471",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "cid" : "474",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ὅσιος Ῥαβουλᾶς",
+                     "Nominative" : "Ὅσιος Ῥαβουλᾶς"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "Ὅσιοι Εὐγένιος καὶ Μακάριος οἱ Ὁμολογητὲς ",
+                     "Nominative" : "Ὅσιοι Εὐγένιος καὶ Μακάριος οἱ Ὁμολογητὲς "
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : "",
+                  "cid" : "472",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "021902",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ὅσιος Κόνων",
+                     "Nominative" : "Ὅσιος Κόνων"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "02190795",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ὅσιος Σωφρόνιος",
+                     "Nominative" : "Ὅσιος Σωφρόνιος"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "02190895",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Ὁσία Μαρία τοῦ Ὅλονετς",
+                     "Nominative" : "Ὁσία Μαρία τοῦ Ὅλονετς"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : ""
+               }
+            ],
+            "fastings" : "0111111",
+            "tone" : 7
+         },
+         "ponomar" : {
+            "tone" : 7,
+            "fastings" : "0111111",
+            "saints" : [
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Δευτέρα",
+                     "Nominative" : "Δευτέρα τῆς τυρινῆς"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "76",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "III Jn_1:1-15"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_19:29-40, 22:7-39",
+                              "effWeek" : null,
+                              "pericope" : "96"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "cid" : "9855",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "cid" : "021903",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ἁγία Φιλοθέη ἡ Ἀθηναία",
+                     "Short" : "Ἁγία Φιλοθέη ἡ Ἀθηναία"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ἅγιος Ἄρχιππος ὁ Ἀπόστολος",
+                     "Short" : "Ἅγιος Ἄρχιππος ὁ Ἀπόστολος"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "02190195"
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ἅγιος Νικήτας ὁ νέος ἱερομάρτυρας",
+                     "Short" : "Ἅγιος Νικήτας ὁ νέος ἱερομάρτυρας"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "021904",
+                  "life" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ἅγιοι Μάξιμος, Θεόδοτος, Ἡσύχιος καὶ Ἀσκληπιοδότη",
+                     "Short" : "Ἅγιοι Μάξιμος, Θεόδοτος, Ἡσύχιος καὶ Ἀσκληπιοδότη"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "471"
+               },
+               {
+                  "info" : null,
+                  "cid" : "474",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ὅσιος Ῥαβουλᾶς",
+                     "Nominative" : "Ὅσιος Ῥαβουλᾶς"
+                  }
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "472",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ὅσιοι Εὐγένιος καὶ Μακάριος οἱ Ὁμολογητὲς ",
+                     "Nominative" : "Ὅσιοι Εὐγένιος καὶ Μακάριος οἱ Ὁμολογητὲς "
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "021902",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ὅσιος Κόνων",
+                     "Short" : "Ὅσιος Κόνων"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "02190795",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ὅσιος Σωφρόνιος",
+                     "Short" : "Ὅσιος Σωφρόνιος"
+                  }
+               },
+               {
+                  "life" : null,
+                  "cid" : "02190895",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Ὁσία Μαρία τοῦ Ὅλονετς",
+                     "Short" : "Ὁσία Μαρία τοῦ Ὅλονετς"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : ""
+               }
+            ]
+         }
+      },
+      "cu/ru" : {
+         "ponomar" : {
+            "saints" : [
+               {
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "76",
+                              "effWeek" : null,
+                              "reading" : "III Jn_1:1-15",
+                              "type" : "apostol"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "96",
+                              "type" : "gospel",
+                              "reading" : "Lk_19:29-40, 22:7-39"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Понедельник сыропустная",
+                     "Nominative" : "Понедельник сыропустная",
+                     "Genetive" : "Понедельник сыропустная"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9855"
+               },
+               {
+                  "type" : "1",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Апп. От",
+                     "Nominative" : "Апп. От 70-ти Архиппа и Филимона и мц. равноап. Апфии (I)"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "cid" : "09279",
+                  "life" : {
+                     "Text" : "\n<p>Святые апостолы от 70-ти: Архипп, Филимон и Апфия (вторая память 22 ноября) были учениками и сподвижниками святого апостола Павла, В послании к Филимону апостол именует святого Архиппа своим сподвижником.</p><p>Апостол Архипп был епископом города Колоссы во Фригии. Апостол Филимон был именитым гражданином того же города, и в его доме собирались христиане, чтобы совершать Богослужение. Он был также рукоположен в сан епископа апостолом Павлом и обходил фригийские города, проповедуя Евангелие. Впоследствии он был архипастырем города Газы. Святая Апфия, супруга его, принимала в своем доме странников и больных, с усердием служа им. Она была верной сотрудницей супруга в благовестии Слова Божия. </p><p>В гонение на христиан императора Нерона (54—68) святые апостолы Архипп, Филимон и равноапостольная Апфия были преданы суду градоначальника Артоклиса за проповедь веры во Христа. Апостол Архипп был зверски изрезан ножами. После истязаний Филимона и Апфию по пояс закопали в землю и били камнями, пока святые мученики скончались. </p>",
+                     "Id" : "bulgakov",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга."
+                  },
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "021900",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Прп. Феодора Санаксарского (1791)",
+                     "Short" : "Прп. Феодора"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "cid" : "021901",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Мч. Димитрия (1942)",
+                     "Short" : "Мч. Димитрия (1942)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Мчч. Максима, Феодота, Исихия, мц. Асклипиодоты (305-311)",
+                     "Short" : "Мчч."
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "471",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Прпп. Евгения",
+                     "Nominative" : "Прпп. Евгения и Макария исповедников, пресвитеров Антиохийских (363)"
+                  },
+                  "info" : null,
+                  "cid" : "472",
+                  "life" : {
+                     "Copyright" : "Димитрий Ростовский. Жития Святых по изложению святителя Димитрия, митрополита Ростовского. Издательство прп. Максима Исповедника.",
+                     "Id" : "DmitryRostovsky",
+                     "Text" : "\n<p><b>Память преподобных Евгения и Макария исповедников</b></p><p>Когда в римской империи царствовал Юлиан, то все христиане скрывались из за того, что по повелению императора везде приносились жертвы языческим богам, и язычники в угоду своему государю, оскверняя себя и не боясь суда Божия и вечного наказания, силою принуждали твердых в вере исповедников Христа принимать участие в этих жертвоприношениях. В это время были схвачены и приведены на суд к Юлиану два пресвитера Антиохийской церкви Евгений и Макарий. На суде они исповедали Христа истинным Богом и Судиею живых и мертвых и обличили императора-отступника, как нечестивца и убийцу, нарушителя заповедей Божиих, язычника и служителя идолов, причем сказали ему:</p><p>— Горе тебе, нечестивец и наследник вечного, нескончаемого огня! Горе твоей суетности! Как ты решился вместо света снискать себе тьму?</p><p>От этих слов Юлиан пришел в гнев и повелел сперва связать святых тонкими ремнями, повесить вниз головами и окуривать ядовитым зловонным калом, а потом сильно раскалить железный лист и, обнажив их, разложить на нем. Подвергнутые таким мучениям, святые Евгений и Макарий возвели глаза свои к небу и, сохраняемые силою Божиею, оставались невредимыми, при чем лица их сияли радостью и тем обличали злобу мучителя. После сего Юлиан приказал заключить их в оковы и сослать в Оасим аравийский. Идя на место ссылки, святые радовались, что терпят изгнание за Христа, и пели: <i>«Блаженны непорочные в пути, ходящие в законе Господнем»</i> (Пс.118:1).</p><p>С радостным духом они прибыли в Оасим, взошли на одну гору и одни стали жить на ней. Правители страны сказали им:</p><p>— Братия, уйдите из этого места, потому что неподалеку отсюда обитает свирепый змей, который пожирает всех, кто близко подходит к нему.</p><p>На это святые отвечали:</p><p>— Покажите нам пещеру, где обитает этот змей.</p><p>Их привели к месту обитания змея и издали показали пещеру, где он находился. Тогда святые, преклонив колени, помолились Богу, и внезапно последовал с неба удар грома и поразил змея. Убитый змей объят был пламенем и немедленно же сгорел, причем вместе с ним сгорел и песок, бывший в пещере, и над пещерою бурным зловонным вихрем поднялась пыль. Увидев такое чудо, начальники страны, бывшие язычниками, уверовали во Христа.</p><p>Между тем святые Евгений и Макарий вошли в пещеру, где обитал змей, и тридцать дней провели в молитве, не имея при себе ни пищи, ни питья. Наконец они услышали голос, сказавший им:</p><p>— Рабы истинного Бога и Спасителя нашего Иисуса Христа, подойдите к камню, который находится вблизи вас.</p><p>Святые исполнили повеление и, когда подошли к камню, то сперва увидели в нем свет, а потом камень распался на две части, и из него в изобилии потекла вода. Взяв этой воды, они досыта напились ее и тем утолили и голод свой и жажду. Находясь в пещере, святые молились о том, чтобы Господь сподобил их умереть в одно время и вместе быть со Христом, и Господь принял молитву их: они оба вместе отошли ко Господу, благодаря и прославляя Его.</p><p><i>В тот же день память святых мучеников Максима, Феодота, Исихия и святой мученицы Асклипиодоты, пострадавших при императоре Максимиане Галерии в Адрианополе.</i></p>\n"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "474",
+                  "life" : {
+                     "Copyright" : "Димитрий Ростовский. Жития Святых по изложению святителя Димитрия, митрополита Ростовского. Издательство прп. Максима Исповедника.",
+                     "Id" : "DmitryRostovsky",
+                     "Text" : "\n<p><b>Память преподобного Равулы</b></p><p>Святой Равула родился в городе Самосатах. Образование он получил под руководством одного знаменитого, хорошо владевшего сирским языком, ученого мужа, по имени Варипсава. С юных лет проводя добродетельную жизнь, преподобный по достижении совершенного возраста принял иночество и избрал себе необыкновенные подвиги. Подобно святому пророку Илии, он один обитал по горам и пещерам и в образе жизни своей подражал святому Иоанну Крестителю.</p><p>По прошествии некоторого времени преподобный вместе с другим иноком отправился в Финикию и, подвизаясь здесь, обратил на себя внимание высокими своими добродетелями, так что вскоре помимо своего желания стал всем известен. Получив денежное пособие от императора Зенона, он при содействии Беритского епископа Иоанна построил в одном месте среди гор обширный монастырь и населил его иноками. В окрестностях монастыря проживало множество закоренелых язычников. Преподобный Равула и подвизавшиеся вместе с ним в обители иноки, уподобляясь святым Апостолам Павлу и Варнаве, а также Петру и Иоанну, стали то обличать их заблуждения, нередко вступая с ними в спор, то преподавать им наставление в вере, и вскоре привели всех их к познанию истинного Бога. Это было первое славное деяние преподобного.</p><p>После смерти императора Зенона управление империей принял император Анастасий. Преподобный Равула отправился в Константинополь и своими хлопотами достиг того, что император оказал ему новое денежное пособие, которое и было употреблено им на построение второго монастыря. Впоследствии он построил в разных местах много еще и других монастырей. Святой Равула всегда был ко всякому доброму делу рачителен, кроток, милостив, человеколюбив, никогда не предавался гневу, всегда пребывал в молитвах и ко всем относился благожелательно. И когда диавол, возбуждая в нем страсти, вступал с ним в борьбу, то, в совершенстве зная и понимая Священное Писание Ветхого и Нового Завета, он противопоставлял ему и слово Божие, и дела благочестия и тем отгонял от себя противника. Преподобный жил до времени царствования Юстиниана Великого, построившего знаменитой храм святой Софии в Константинополе. Достигши восьмидесяти лет, он услышал однажды голос с неба, сказавши ему: <i>«Придите ко Мне все труждающиеся и обремененные, и Я успокою вас»</i> (Мф.11:28), после этого, немного поболев, отошел ко Господу.</p>\n"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Прп. Равулы",
+                     "Nominative" : "Прп. Равулы (ок. 530)"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Прп. Досифея",
+                     "Nominative" : "Прп. Досифея (VII), ученика прп. аввы Дорофея"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "473",
+                  "life" : null,
+                  "info" : null
+               }
+            ],
+            "tone" : 7,
+            "fastings" : "0111111"
+         },
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "cid" : "9855",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "76",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "III Jn_1:1-15"
+                           },
+                           {
+                              "pericope" : "96",
+                              "effWeek" : null,
+                              "reading" : "Lk_19:29-40, 22:7-39",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Genetive" : "Понедельник сыропустная",
+                     "Short" : "Понедельник сыропустная",
+                     "Nominative" : "Понедельник сыропустная"
+                  }
+               },
+               {
+                  "info" : null,
+                  "life" : {
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Id" : "bulgakov",
+                     "Text" : "\n<p>Святые апостолы от 70-ти: Архипп, Филимон и Апфия (вторая память 22 ноября) были учениками и сподвижниками святого апостола Павла, В послании к Филимону апостол именует святого Архиппа своим сподвижником.</p><p>Апостол Архипп был епископом города Колоссы во Фригии. Апостол Филимон был именитым гражданином того же города, и в его доме собирались христиане, чтобы совершать Богослужение. Он был также рукоположен в сан епископа апостолом Павлом и обходил фригийские города, проповедуя Евангелие. Впоследствии он был архипастырем города Газы. Святая Апфия, супруга его, принимала в своем доме странников и больных, с усердием служа им. Она была верной сотрудницей супруга в благовестии Слова Божия. </p><p>В гонение на христиан императора Нерона (54—68) святые апостолы Архипп, Филимон и равноапостольная Апфия были преданы суду градоначальника Артоклиса за проповедь веры во Христа. Апостол Архипп был зверски изрезан ножами. После истязаний Филимона и Апфию по пояс закопали в землю и били камнями, пока святые мученики скончались. </p>"
+                  },
+                  "cid" : "09279",
+                  "menologion" : "",
+                  "type" : "1",
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Апп. От",
+                     "Nominative" : "Апп. От 70-ти Архиппа и Филимона и мц. равноап. Апфии (I)"
+                  }
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Прп. Феодора Санаксарского (1791)",
+                     "Short" : "Прп. Феодора"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "021900",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Мч. Димитрия (1942)",
+                     "Short" : "Мч. Димитрия (1942)"
+                  },
+                  "info" : null,
+                  "cid" : "021901",
+                  "life" : null
+               },
+               {
+                  "cid" : "471",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Мчч.",
+                     "Nominative" : "Мчч. Максима, Феодота, Исихия, мц. Асклипиодоты (305-311)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "info" : null,
+                  "life" : {
+                     "Text" : "\n<p><b>Память преподобных Евгения и Макария исповедников</b></p><p>Когда в римской империи царствовал Юлиан, то все христиане скрывались из за того, что по повелению императора везде приносились жертвы языческим богам, и язычники в угоду своему государю, оскверняя себя и не боясь суда Божия и вечного наказания, силою принуждали твердых в вере исповедников Христа принимать участие в этих жертвоприношениях. В это время были схвачены и приведены на суд к Юлиану два пресвитера Антиохийской церкви Евгений и Макарий. На суде они исповедали Христа истинным Богом и Судиею живых и мертвых и обличили императора-отступника, как нечестивца и убийцу, нарушителя заповедей Божиих, язычника и служителя идолов, причем сказали ему:</p><p>— Горе тебе, нечестивец и наследник вечного, нескончаемого огня! Горе твоей суетности! Как ты решился вместо света снискать себе тьму?</p><p>От этих слов Юлиан пришел в гнев и повелел сперва связать святых тонкими ремнями, повесить вниз головами и окуривать ядовитым зловонным калом, а потом сильно раскалить железный лист и, обнажив их, разложить на нем. Подвергнутые таким мучениям, святые Евгений и Макарий возвели глаза свои к небу и, сохраняемые силою Божиею, оставались невредимыми, при чем лица их сияли радостью и тем обличали злобу мучителя. После сего Юлиан приказал заключить их в оковы и сослать в Оасим аравийский. Идя на место ссылки, святые радовались, что терпят изгнание за Христа, и пели: <i>«Блаженны непорочные в пути, ходящие в законе Господнем»</i> (Пс.118:1).</p><p>С радостным духом они прибыли в Оасим, взошли на одну гору и одни стали жить на ней. Правители страны сказали им:</p><p>— Братия, уйдите из этого места, потому что неподалеку отсюда обитает свирепый змей, который пожирает всех, кто близко подходит к нему.</p><p>На это святые отвечали:</p><p>— Покажите нам пещеру, где обитает этот змей.</p><p>Их привели к месту обитания змея и издали показали пещеру, где он находился. Тогда святые, преклонив колени, помолились Богу, и внезапно последовал с неба удар грома и поразил змея. Убитый змей объят был пламенем и немедленно же сгорел, причем вместе с ним сгорел и песок, бывший в пещере, и над пещерою бурным зловонным вихрем поднялась пыль. Увидев такое чудо, начальники страны, бывшие язычниками, уверовали во Христа.</p><p>Между тем святые Евгений и Макарий вошли в пещеру, где обитал змей, и тридцать дней провели в молитве, не имея при себе ни пищи, ни питья. Наконец они услышали голос, сказавший им:</p><p>— Рабы истинного Бога и Спасителя нашего Иисуса Христа, подойдите к камню, который находится вблизи вас.</p><p>Святые исполнили повеление и, когда подошли к камню, то сперва увидели в нем свет, а потом камень распался на две части, и из него в изобилии потекла вода. Взяв этой воды, они досыта напились ее и тем утолили и голод свой и жажду. Находясь в пещере, святые молились о том, чтобы Господь сподобил их умереть в одно время и вместе быть со Христом, и Господь принял молитву их: они оба вместе отошли ко Господу, благодаря и прославляя Его.</p><p><i>В тот же день память святых мучеников Максима, Феодота, Исихия и святой мученицы Асклипиодоты, пострадавших при императоре Максимиане Галерии в Адрианополе.</i></p>\n",
+                     "Id" : "DmitryRostovsky",
+                     "Copyright" : "Димитрий Ростовский. Жития Святых по изложению святителя Димитрия, митрополита Ростовского. Издательство прп. Максима Исповедника."
+                  },
+                  "cid" : "472",
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Прпп. Евгения и Макария исповедников, пресвитеров Антиохийских (363)",
+                     "Short" : "Прпп. Евгения"
+                  }
+               },
+               {
+                  "life" : {
+                     "Text" : "\n<p><b>Память преподобного Равулы</b></p><p>Святой Равула родился в городе Самосатах. Образование он получил под руководством одного знаменитого, хорошо владевшего сирским языком, ученого мужа, по имени Варипсава. С юных лет проводя добродетельную жизнь, преподобный по достижении совершенного возраста принял иночество и избрал себе необыкновенные подвиги. Подобно святому пророку Илии, он один обитал по горам и пещерам и в образе жизни своей подражал святому Иоанну Крестителю.</p><p>По прошествии некоторого времени преподобный вместе с другим иноком отправился в Финикию и, подвизаясь здесь, обратил на себя внимание высокими своими добродетелями, так что вскоре помимо своего желания стал всем известен. Получив денежное пособие от императора Зенона, он при содействии Беритского епископа Иоанна построил в одном месте среди гор обширный монастырь и населил его иноками. В окрестностях монастыря проживало множество закоренелых язычников. Преподобный Равула и подвизавшиеся вместе с ним в обители иноки, уподобляясь святым Апостолам Павлу и Варнаве, а также Петру и Иоанну, стали то обличать их заблуждения, нередко вступая с ними в спор, то преподавать им наставление в вере, и вскоре привели всех их к познанию истинного Бога. Это было первое славное деяние преподобного.</p><p>После смерти императора Зенона управление империей принял император Анастасий. Преподобный Равула отправился в Константинополь и своими хлопотами достиг того, что император оказал ему новое денежное пособие, которое и было употреблено им на построение второго монастыря. Впоследствии он построил в разных местах много еще и других монастырей. Святой Равула всегда был ко всякому доброму делу рачителен, кроток, милостив, человеколюбив, никогда не предавался гневу, всегда пребывал в молитвах и ко всем относился благожелательно. И когда диавол, возбуждая в нем страсти, вступал с ним в борьбу, то, в совершенстве зная и понимая Священное Писание Ветхого и Нового Завета, он противопоставлял ему и слово Божие, и дела благочестия и тем отгонял от себя противника. Преподобный жил до времени царствования Юстиниана Великого, построившего знаменитой храм святой Софии в Константинополе. Достигши восьмидесяти лет, он услышал однажды голос с неба, сказавши ему: <i>«Придите ко Мне все труждающиеся и обремененные, и Я успокою вас»</i> (Мф.11:28), после этого, немного поболев, отошел ко Господу.</p>\n",
+                     "Copyright" : "Димитрий Ростовский. Жития Святых по изложению святителя Димитрия, митрополита Ростовского. Издательство прп. Максима Исповедника.",
+                     "Id" : "DmitryRostovsky"
+                  },
+                  "cid" : "474",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Прп. Равулы (ок. 530)",
+                     "Short" : "Прп. Равулы"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "473",
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Прп. Досифея",
+                     "Nominative" : "Прп. Досифея (VII), ученика прп. аввы Дорофея"
+                  }
+               }
+            ],
+            "tone" : 7,
+            "fastings" : "0111111"
+         }
+      },
+      "zh/Hans" : {
+         "ponomar" : {
+            "tone" : 7,
+            "fastings" : "0111111",
+            "saints" : [
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "乳酪周瞻礼二",
+                     "Short" : "乳酪周瞻礼二"
+                  },
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "76",
+                              "reading" : "III Jn_1:1-15",
+                              "type" : "apostol"
+                           },
+                           {
+                              "pericope" : "96",
+                              "effWeek" : null,
+                              "type" : "gospel",
+                              "reading" : "Lk_19:29-40, 22:7-39"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "cid" : "9855",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "09279",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "1",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "七十使徒之亚基布、腓利门及殉道者亚腓亚（1世纪）",
+                     "Nominative" : "七十使徒之亚基布、腓利门及殉道者亚腓亚（1世纪）"
+                  }
+               },
+               {
+                  "name" : {
+                     "Short" : "圣德奥多若（萨纳克撒尔修道院修士，1791年）",
+                     "Nominative" : "圣德奥多若（萨纳克撒尔修道院修士，1791年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "021900",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "新殉道者迪弥特里（1942年）",
+                     "Nominative" : "新殉道者迪弥特里（1942年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "021901",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "473",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "圣多西德奥（圣多若德奥尊者之弟子，巴勒斯坦人，7世纪）",
+                     "Short" : "圣多西德奥（圣多若德奥尊者之弟子，巴勒斯坦人，7世纪）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "圣拉弗拉斯（萨摩撒塔地方，530年）",
+                     "Nominative" : "圣拉弗拉斯（萨摩撒塔地方，530年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "474"
+               },
+               {
+                  "life" : null,
+                  "cid" : "472",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "圣艾弗革尼及圣玛喀里（均为安提阿城司祭，宣信者，363年）",
+                     "Nominative" : "圣艾弗革尼及圣玛喀里（均为安提阿城司祭，宣信者，363年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "殉道者：玛克息默、德奥多特、伊息赫、阿斯克利彼奥多特（就义于阿德里亚诺颇利，305-311年间）",
+                     "Nominative" : "殉道者：玛克息默、德奥多特、伊息赫、阿斯克利彼奥多特（就义于阿德里亚诺颇利，305-311年间）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "471"
+               },
+               {
+                  "name" : {
+                     "Short" : "圣科农（巴勒斯坦地方修道院院长，555年）",
+                     "Nominative" : "圣科农（巴勒斯坦地方修道院院长，555年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "021902",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "021903",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "殉道修女圣斐洛德雅（雅典城，1589年）",
+                     "Nominative" : "殉道修女圣斐洛德雅（雅典城，1589年）"
+                  }
+               },
+               {
+                  "name" : {
+                     "Nominative" : "圣麦斯若普译师（亚美尼亚人，439年）",
+                     "Short" : "圣麦斯若普译师（亚美尼亚人，439年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "021905",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "021904",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "新殉道司祭尼基塔（伊庇鲁斯地方，1809年）",
+                     "Nominative" : "新殉道司祭尼基塔（伊庇鲁斯地方，1809年）"
+                  }
+               }
+            ]
+         },
+         "ponomarReordered" : {
+            "fastings" : "0111111",
+            "tone" : 7,
+            "saints" : [
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "乳酪周瞻礼二",
+                     "Nominative" : "乳酪周瞻礼二"
+                  },
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "76",
+                              "type" : "apostol",
+                              "reading" : "III Jn_1:1-15"
+                           },
+                           {
+                              "pericope" : "96",
+                              "effWeek" : null,
+                              "type" : "gospel",
+                              "reading" : "Lk_19:29-40, 22:7-39"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "life" : null,
+                  "cid" : "9855",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "1",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "七十使徒之亚基布、腓利门及殉道者亚腓亚（1世纪）",
+                     "Short" : "七十使徒之亚基布、腓利门及殉道者亚腓亚（1世纪）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "09279"
+               },
+               {
+                  "life" : null,
+                  "cid" : "021900",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "圣德奥多若（萨纳克撒尔修道院修士，1791年）",
+                     "Nominative" : "圣德奥多若（萨纳克撒尔修道院修士，1791年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "021901",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "新殉道者迪弥特里（1942年）",
+                     "Nominative" : "新殉道者迪弥特里（1942年）"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "473",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "圣多西德奥（圣多若德奥尊者之弟子，巴勒斯坦人，7世纪）",
+                     "Nominative" : "圣多西德奥（圣多若德奥尊者之弟子，巴勒斯坦人，7世纪）"
+                  }
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣拉弗拉斯（萨摩撒塔地方，530年）",
+                     "Nominative" : "圣拉弗拉斯（萨摩撒塔地方，530年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "474"
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "圣艾弗革尼及圣玛喀里（均为安提阿城司祭，宣信者，363年）",
+                     "Short" : "圣艾弗革尼及圣玛喀里（均为安提阿城司祭，宣信者，363年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "472",
+                  "life" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "殉道者：玛克息默、德奥多特、伊息赫、阿斯克利彼奥多特（就义于阿德里亚诺颇利，305-311年间）",
+                     "Short" : "殉道者：玛克息默、德奥多特、伊息赫、阿斯克利彼奥多特（就义于阿德里亚诺颇利，305-311年间）"
+                  },
+                  "info" : null,
+                  "cid" : "471",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "021902",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "圣科农（巴勒斯坦地方修道院院长，555年）",
+                     "Short" : "圣科农（巴勒斯坦地方修道院院长，555年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "name" : {
+                     "Short" : "殉道修女圣斐洛德雅（雅典城，1589年）",
+                     "Nominative" : "殉道修女圣斐洛德雅（雅典城，1589年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "021903",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣麦斯若普译师（亚美尼亚人，439年）",
+                     "Nominative" : "圣麦斯若普译师（亚美尼亚人，439年）"
+                  },
+                  "info" : null,
+                  "cid" : "021905",
+                  "life" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "新殉道司祭尼基塔（伊庇鲁斯地方，1809年）",
+                     "Nominative" : "新殉道司祭尼基塔（伊庇鲁斯地方，1809年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "021904"
+               }
+            ]
+         }
+      }
+   },
+   "date" : "2019/2/19"
+}

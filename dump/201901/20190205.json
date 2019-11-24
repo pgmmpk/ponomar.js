@@ -1,0 +1,2515 @@
+{
+   "langs" : {
+      "zh/Hant" : {
+         "ponomarReordered" : {
+            "tone" : 5,
+            "fastings" : "1111111",
+            "saints" : [
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "66",
+                              "effWeek" : null,
+                              "reading" : "II Pet_1:20-2:9",
+                              "type" : "apostol"
+                           },
+                           {
+                              "pericope" : "59",
+                              "effWeek" : null,
+                              "reading" : "Mk_13:9-13",
+                              "type" : "gospel"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Nominative" : "瞻禮二（本周免齋）",
+                     "Short" : "瞻禮二（本周免齋）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9869"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "主進殿節慶期",
+                     "Short" : "主進殿節慶期"
+                  },
+                  "info" : null,
+                  "cid" : "37303",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "2369",
+                  "menologion" : "",
+                  "type" : "1",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "殉道女阿伽塔（西西里的巴勒莫城，251年）",
+                     "Short" : "殉道女阿伽塔（西西里的巴勒莫城，251年）"
+                  }
+               },
+               {
+                  "life" : null,
+                  "cid" : "2214",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "聖德奧多西（切爾尼科夫城總主教，1696年）",
+                     "Short" : "聖德奧多西（切爾尼科夫城總主教，1696年）"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "matins",
+                        "readings" : [
+                           {
+                              "type" : "1",
+                              "reading" : "Jn_10:9-16",
+                              "effWeek" : null,
+                              "pericope" : "36"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_13:17-21",
+                              "pericope" : "335",
+                              "effWeek" : null
+                           },
+                           {
+                              "pericope" : "24",
+                              "effWeek" : null,
+                              "type" : "gospel",
+                              "reading" : "Lk_6:17-23a"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : "4",
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "393",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "殉道者德奧杜拉及偕同她殉道的赫拉蒂烏、瑪喀里、博托斯和艾瓦格里（奇里乞亞地區的阿納扎布茲，304年）",
+                     "Short" : "殉道者德奧杜拉及偕同她殉道的赫拉蒂烏、瑪喀里、博托斯和艾瓦格里（奇里乞亞地區的阿納扎布茲，304年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "020525",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "新殉道者安托尼（雅典人，1774年）",
+                     "Nominative" : "新殉道者安托尼（雅典人，1774年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "聖頗利艾弗克特（君士坦丁堡牧首，970年）",
+                     "Short" : "聖頗利艾弗克特（君士坦丁堡牧首，970年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020502"
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "「切爾尼戈夫的雲杉樹」聖母像（1060年）、「西西里」或「低位諾戈爾斯基」聖母像（1060年）、「尋找失落者」聖母聖像紀念日（十七世紀）",
+                     "Nominative" : "「切爾尼戈夫的雲杉樹」聖母像（1060年）、「西西里」或「低位諾戈爾斯基」聖母像（1060年）、「尋找失落者」聖母聖像紀念日（十七世紀）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "394",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020503",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "新殉道女阿伽塔（司祭之妻，1938年）以及她的同伴：聖衣修士艾弗革尼（1939年）、義人帕拉蒙（1941年）（他們均為白俄羅斯地方人氏）",
+                     "Nominative" : "新殉道女阿伽塔（司祭之妻，1938年）以及她的同伴：聖衣修士艾弗革尼（1939年）、義人帕拉蒙（1941年）（他們均為白俄羅斯地方人氏）"
+                  }
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "聖德奧多西（西里西亞的斯科佩羅城人，421年）",
+                     "Short" : "聖德奧多西（西里西亞的斯科佩羅城人，421年）"
+                  },
+                  "info" : null,
+                  "cid" : "020504",
+                  "life" : null
+               },
+               {
+                  "cid" : "020505",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "聖阿維圖（維埃納城主教，525年）",
+                     "Short" : "聖阿維圖（維埃納城主教，525年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               }
+            ]
+         },
+         "ponomar" : {
+            "saints" : [
+               {
+                  "name" : {
+                     "Nominative" : "瞻禮二（本周免齋）",
+                     "Short" : "瞻禮二（本周免齋）"
+                  },
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "66",
+                              "effWeek" : null,
+                              "reading" : "II Pet_1:20-2:9",
+                              "type" : "apostol"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "59",
+                              "type" : "gospel",
+                              "reading" : "Mk_13:9-13"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "9869",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "主進殿節慶期",
+                     "Nominative" : "主進殿節慶期"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "37303",
+                  "info" : null
+               },
+               {
+                  "type" : "1",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "殉道女阿伽塔（西西里的巴勒莫城，251年）",
+                     "Short" : "殉道女阿伽塔（西西里的巴勒莫城，251年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "2369",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "2214",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "聖德奧多西（切爾尼科夫城總主教，1696年）",
+                     "Short" : "聖德奧多西（切爾尼科夫城總主教，1696年）"
+                  },
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "type" : "1",
+                              "reading" : "Jn_10:9-16",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "335",
+                              "type" : "apostol",
+                              "reading" : "Heb_13:17-21"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "24",
+                              "reading" : "Lk_6:17-23a",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "4",
+                  "menologion" : ""
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "殉道者德奧杜拉及偕同她殉道的赫拉蒂烏、瑪喀里、博托斯和艾瓦格里（奇里乞亞地區的阿納扎布茲，304年）",
+                     "Short" : "殉道者德奧杜拉及偕同她殉道的赫拉蒂烏、瑪喀里、博托斯和艾瓦格里（奇里乞亞地區的阿納扎布茲，304年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "393",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "020525",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "新殉道者安托尼（雅典人，1774年）",
+                     "Nominative" : "新殉道者安托尼（雅典人，1774年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "name" : {
+                     "Nominative" : "聖頗利艾弗克特（君士坦丁堡牧首，970年）",
+                     "Short" : "聖頗利艾弗克特（君士坦丁堡牧首，970年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "020502",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "394",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "「切爾尼戈夫的雲杉樹」聖母像（1060年）、「西西里」或「低位諾戈爾斯基」聖母像（1060年）、「尋找失落者」聖母聖像紀念日（十七世紀）",
+                     "Short" : "「切爾尼戈夫的雲杉樹」聖母像（1060年）、「西西里」或「低位諾戈爾斯基」聖母像（1060年）、「尋找失落者」聖母聖像紀念日（十七世紀）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "cid" : "020503",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "新殉道女阿伽塔（司祭之妻，1938年）以及她的同伴：聖衣修士艾弗革尼（1939年）、義人帕拉蒙（1941年）（他們均為白俄羅斯地方人氏）",
+                     "Nominative" : "新殉道女阿伽塔（司祭之妻，1938年）以及她的同伴：聖衣修士艾弗革尼（1939年）、義人帕拉蒙（1941年）（他們均為白俄羅斯地方人氏）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020504",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "聖德奧多西（西里西亞的斯科佩羅城人，421年）",
+                     "Short" : "聖德奧多西（西里西亞的斯科佩羅城人，421年）"
+                  }
+               },
+               {
+                  "cid" : "020505",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "聖阿維圖（維埃納城主教，525年）",
+                     "Nominative" : "聖阿維圖（維埃納城主教，525年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               }
+            ],
+            "tone" : 5,
+            "fastings" : "1111111"
+         }
+      },
+      "cu" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "life" : null,
+                  "cid" : "9869",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Понедѣ́льникъ",
+                     "Nominative" : "Понедѣ́льникъ блꙋ́днагѡ сы́на"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "II Pet_1:20-2:9",
+                              "pericope" : "66",
+                              "effWeek" : null
+                           },
+                           {
+                              "pericope" : "59",
+                              "effWeek" : null,
+                              "type" : "gospel",
+                              "reading" : "Mk_13:9-13"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "37303",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Попра́зднство срѣ́тенїѧ гдⷭ҇нѧ",
+                     "Nominative" : "Попра́зднство срѣ́тенїѧ гдⷭ҇нѧ"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "cid" : "2369",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Ст҃ы́ѧ мꙋ́ченицы",
+                     "Nominative" : "Ст҃ы́ѧ мꙋ́ченицы а҆га́ѳїи (251)"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "2214",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "4",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Jn_10:9-16",
+                              "type" : "1",
+                              "effWeek" : null,
+                              "pericope" : "36"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "335",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Heb_13:17-21"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_6:17-23a",
+                              "pericope" : "24",
+                              "effWeek" : null
+                           }
+                        ]
+                     }
+                  ],
+                  "name" : {
+                     "Short" : "Ст҃а́гѡ ѳеодо́сїа",
+                     "Nominative" : "Ст҃а́гѡ ѳеодо́сїа, а҆рхїепⷭ҇копа черни́говскагѡ (1696)"
+                  }
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "ст҃а́гѡ мч҃ника мїхаи́ла",
+                     "Nominative" : "ст҃а́гѡ мч҃ника мїхаи́ла, прст҃ы́ѧ мꙋ́ченицы а҆леѯа́ндры (1942)",
+                     "Genetive" : "ст҃а́гѡ мч҃ника мїхаи́ла"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "221405"
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ст҃ы́ѧ мꙋ́ченицы",
+                     "Nominative" : "Ст҃ы́ѧ мꙋ́ченицы Феодулии и҆ мꙋ́ченикѡвъ є҆лла́дїѧ Комментарисия, мака́рїа, Воифа помощника и҆ Евагрия (ок. 304)"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "393"
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Елецкой-Черниговской (1060),",
+                     "Nominative" : "Елецкой-Черниговской (1060), Сицилийской, или Дивногорской (1092), и҆ пра́зднованїе прест҃ѣ́й бцⷣѣ, въ че́сть і҆кѡ́ны є҆ѧ̀ взыска́нїе поги́бшихъ (зі҃) икон бж҃їѧ мт҃ри. )"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "394"
+               }
+            ],
+            "tone" : 5,
+            "fastings" : "1111111"
+         },
+         "ponomar" : {
+            "tone" : 5,
+            "fastings" : "1111111",
+            "saints" : [
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9869",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "II Pet_1:20-2:9",
+                              "effWeek" : null,
+                              "pericope" : "66"
+                           },
+                           {
+                              "reading" : "Mk_13:9-13",
+                              "type" : "gospel",
+                              "effWeek" : null,
+                              "pericope" : "59"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Short" : "Понедѣ́льникъ",
+                     "Nominative" : "Понедѣ́льникъ блꙋ́днагѡ сы́на"
+                  }
+               },
+               {
+                  "cid" : "37303",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Попра́зднство срѣ́тенїѧ гдⷭ҇нѧ",
+                     "Short" : "Попра́зднство срѣ́тенїѧ гдⷭ҇нѧ"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ст҃ы́ѧ мꙋ́ченицы а҆га́ѳїи (251)",
+                     "Short" : "Ст҃ы́ѧ мꙋ́ченицы"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "cid" : "2369",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "cid" : "2214",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Ст҃а́гѡ ѳеодо́сїа",
+                     "Nominative" : "Ст҃а́гѡ ѳеодо́сїа, а҆рхїепⷭ҇копа черни́говскагѡ (1696)"
+                  },
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "type" : "1",
+                              "reading" : "Jn_10:9-16",
+                              "effWeek" : null,
+                              "pericope" : "36"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Heb_13:17-21",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "335"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_6:17-23a",
+                              "effWeek" : null,
+                              "pericope" : "24"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "4",
+                  "menologion" : ""
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "ст҃а́гѡ мч҃ника мїхаи́ла",
+                     "Nominative" : "ст҃а́гѡ мч҃ника мїхаи́ла, прст҃ы́ѧ мꙋ́ченицы а҆леѯа́ндры (1942)",
+                     "Genetive" : "ст҃а́гѡ мч҃ника мїхаи́ла"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "221405",
+                  "life" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "393",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ст҃ы́ѧ мꙋ́ченицы",
+                     "Nominative" : "Ст҃ы́ѧ мꙋ́ченицы Феодулии и҆ мꙋ́ченикѡвъ є҆лла́дїѧ Комментарисия, мака́рїа, Воифа помощника и҆ Евагрия (ок. 304)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Елецкой-Черниговской (1060), Сицилийской, или Дивногорской (1092), и҆ пра́зднованїе прест҃ѣ́й бцⷣѣ, въ че́сть і҆кѡ́ны є҆ѧ̀ взыска́нїе поги́бшихъ (зі҃) икон бж҃їѧ мт҃ри. )",
+                     "Short" : "Елецкой-Черниговской (1060),"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "394",
+                  "info" : null
+               }
+            ]
+         }
+      },
+      "en" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "life" : null,
+                  "cid" : "9869",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Monday of the Fast-free Week",
+                     "Nominative" : "Monday of the Fast-free Week"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "II Pet_1:20-2:9",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "66"
+                           },
+                           {
+                              "pericope" : "59",
+                              "effWeek" : null,
+                              "type" : "gospel",
+                              "reading" : "Mk_13:9-13"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Afterfeast",
+                     "Nominative" : "Afterfeast of the Meeting of the Lord"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "37303",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "life" : {
+                     "Id" : "bulgakov",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Text" : "\n<p>The Holy Martyress Agatha was the daughter of rich and respected Christian parents from the city of Palermo (formerly called Panorum) in Sicily. During the time of the persecution under the emperor Decius (249-251), the city governor of Catana, Centianus,—having heard about the wealth and beauty of Agatha, sent his soldiers after her to bring her to trial as a Christian. At Catana they housed the saint with a certain rich woman, who had five daughters. They all attempted to provide temptations for Saint Agatha by means of fine clothes, amusements and entertainment, urging her to offer sacrifice to the pagan gods, but the saint would not give in to their tricks, and disdaining all the delights, she prayed the Lord to grant her the strength for the act of martyrdom. At the interrogation under Centianus, the holy martyress was swayed neither by the flattery, nor by the threats, and she was subjected to cruel jeering: they tore at her bosom with iron hooks, and finally, they cut off her breasts. In prison the holy Apostle Peter appeared to her and healed her of her wounds. Led again to torture, Saint Agatha astonished Centianus, in that her bosom was unharmed. They thereupon began to torture her anew. At this moment in the city there began an earthquake, and the earth opened up and swallowed the closest companions of Centianus. The terrified inhabitants rushed to Centianus, demanding that he stop the tortures. Fearing a revolt by the people, Centianus sent Saint Agatha back to prison, where the martyress, in offering up thanks to God, peacefully gave up her soul to the Lord.</p>\n"
+                  },
+                  "cid" : "2369",
+                  "info" : null,
+                  "type" : "1",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Martyr Agatha",
+                     "Nominative" : "Martyr Agatha of Palermo in Sicily († 251)"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "4",
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "reading" : "Jn_10:9-16",
+                              "type" : "1"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "335",
+                              "type" : "apostol",
+                              "reading" : "Heb_13:17-21"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "24",
+                              "type" : "gospel",
+                              "reading" : "Lk_6:17-23a"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Saint Theodosius",
+                     "Nominative" : "Repose of Saint Theodosius, Archbishop of Chernigov († 1696)"
+                  },
+                  "info" : null,
+                  "cid" : "2214",
+                  "life" : {
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Id" : "bulgakov",
+                     "Text" : "\n<p>Saint Theodosii (Feodosii), Archbishop of Chernigov, was born at the beginning of the decade of the thirties of the XVII Century in Podol’sk governance. He was descended from an old court-nobility lineage, the Polonitsky-Uglitsky’s. His parents were the priest Nikita and Maria. The piety prevailing within the family of the future saint contributed greatly to the spiritual growth of the boy. From childhood he distinguished himself with his gentleness and disposition towards prayer. The innate abilities of the youth came to light in the Kievo-Bratsk college at the Kiev Theophany monastery. This was a time of an extensive flourishing of the college (the end of the 1640’s), when its rectors were the archimandrite Innokentii (Gizel′), and later the hegumen and afterwards archbishop of Chernigov, Lazar (Baranovich). Among its instructors were: the priestmonk Epiphanii (Slavinetsky), the priestmonk Arsenii (Satanovsky), the Belorus bishop Theodosii (Bævsky), the hegumen Theodosii (Saphonovich) and Meletii Dzik—all these were indeed men of enlightenment for those times. The comrades of Saint Theodosii at the college were themselves to become future outstanding pastors: Simeon Polotsky, Ioannikii Golyatovsky, Antonii Radivillovsky, Varlaam Yasninsky. The Kievo-Bratsk Theophany school  was at this time the chief centre in the struggle of Orthodoxy against the assaults of Catholic clergy, and Jesuits and Uniates.</p><p>The vocation of Saint Theodosii to the monastic life ultimately formed during his years of study: he devoted all his free time to prayer, meditation on God and the reading of Sacred Scripture. </p><p>It might be surmised, that the saint did not finish the full course of the college studies, since the school ceased its activity for several years following the devastating of Podolia by the Poles. The saint all his life had deep regard for the Kievo-Bratsk monastery that had educated him. In the Synodikon of the Kievo-Vydubitsk monastery is the following remark about Saint Theodosii: “He was a man of fine intellect and generous to the Kiev Bratsk monastery.”</p><p>Upon receiving his education, the future hierarch accepted monastic tonsure at the Kievo-Kiev Caves Lavra with the name Theodosii, in honour of the Monk Theodosii (Feodosii) of Kiev Caves (Comm. 3 May) (worldly name unknown).</p><p>The Kiev metropolitan Dionysii (Balaban) made him archdeacon of the Kiev Sophia cathedral, and then appointed him administrator of the metropolitan cathedral house. But soon he left Kiev and resettled at the distant Krutitsk monastery (in Chernigov diocese), near the locale Baturino, which was famed for its strict monastic life. He was consecrated there to the dignity of priestmonk. In the year 1662 Saint Theodosii was appointed hegumen of the Korsunsk monastery in Kiev diocese, and in the year 1664—was made head of the ancient Kievo-Vydubitsk monastery. This monastery shortly before had fallen into the hands of the Uniates and was in complete ruin. But thanks to the energy and initiative of Saint Theodosii, the Vydubitsk Mikhailovsk monastery was quickly restored. He concerned himself in particular about the order of churchly property. He formed an excellent choir, which was famed not only in Little Russia, but also in Moscow, where Saint Theodosii in 1685 sent his singers. And concerning himself over the spiritual growth of the monastery inhabitants, being himself a strict ascetic, in 1680 the holy hegumen made on the island of Mikhailovschina, not far from the monastery, a small skete-monastery for brethren wishing solitude. He appointed there to organise and administrate it one of the most zealous monks of his monastery—the priestmonk Job (Opalinsky). </p><p>In his role as hegumen of the Kievo-Vydubitsk monastery, Saint Theodosii had to live through some quite difficult days. He was accused together with other hegumens by Methodii, bishop of Mstislavsk and Orshansk, of betraying the Russian governance in a supposed correspondence with those treasonous to Russia. On 20 September 1668 Saint Theodosii had occasion to give an explanation in the matter. And on 17 November 1668 the slander unraveled, and Saint Theodosii together with the other hegumens received a pardon. His Grace Lazar (Baranovich) esteemed the high spiritual qualities of Saint Theodosii and befriended him. He called him “a sheep of the flock of Christ, teaching by humility,” and he prophetically expressed the wish, that the name of Saint Theodosii might be inscribed in Heaven. When His Grace Lazar in 1689 became locum tenens of the Kiev metropolitan see, he appointed Saint Theodosii as his vicar in Kiev, while he himself remained at Chernigov. In his capacity as vicar of the locum tenens of the Kiev metropolitan see, Saint Theodosii had an active role in many a churchly event. In 1685 he participated with the right of a decisive vote in the selection of bishop Gedeon (Chetverinsky) as metropolitan of Kiev, and he was sent to Moscow with news of this event together with the Pereyaslavl’ hegumen Ieronim (Jerome) (Dubin). In Moscow both representatives were received with honour and esteem. And indeed, the result of this delegation was the re-uniting of the Kiev metropolitan see with the Russian Orthodox Church.</p><p>In 1688 Saint Theodosii was appointed archimandrite of the Chernigov Eletsk monastery, replacing the deceased archimandrite Ioannikii (Golyatovsky). And from the time all the activity of the saint transferred over from Kiev to Chernigov. This appointment comprised primarily, in accord with the wishes of His Grace Lazar, that Saint Theodosii should spare no little toil over putting back the Eletsk monastery in good order, since this monastery had not yet been set aright after the expulsion of the Jesuits and Dominicans, and it was very much in bad shape and disorder. Through the efforts of Saint Theodosii, good results were achieved over the course of two or three years, which then fully guaranteed its existence. The saint in his new position also rendered all kinds of assistance to His Grace Lazar in all kinds of important matters. He participated in composing a conciliar reply to the Moscow Patriarch Ioakim in response to his letters questioning the attitude of the Kiev metropolitan see to the Council of Florence, and its judgement on the question of the transformation of the Holy Gifts as accepted by this Florentine Council. When the Patriarch proved to be unsatisfied by these answers, there was dispatched to him at the beginning of 1689 the Baturinsk hegumen Saint Dimitrii (Tuptalo) (the future metropolitan of Rostov). Saint Theodosii journeyed with him in the capacity of representative of His Grace Lazar. He was entrusted to present the Patriarch a letter of reply and to clear up the misunderstandings. On 11 September 1692 Saint Theodosii was solemnly ordained an archbishop in the Uspenie (Dormition) cathdral of the Moscow Kremlin.</p><p>Little in the way of an account of the governance by Saint Theodosii of the Chernigov diocese has been preserved. The saint directed special attention to the rousing and increase in the flock of a true Christian piety. With this end in mind he concerned himself with the upkeep of the old and the building of new monasteries and churches. At the very beginning of his episcopate, with his blessing, there was established the Pecheniksk women’s monastery, and he himself consecrated the monastery church in honour of the Uspenie (Dormition) of the Most Holy Mother of God. In 1694, with his blessing, there was founded the Liubetsk skete-monastery, 2 versts from Liubech. In 1694 also the saint consecrated at the Domnitsk men’s monastery a temple in honour of the Nativity of the Most Holy Mother of God. And in the Summer of 1695 he consecrated a majestic temple in honour of the Most Holy Mother of God, built on the summit of Boldinsk Hill, near the ancient Il′insk monastery. Under Saint Theodosii may be noted an especial enthusiasm and strengthening of monasticism in the Chernigov diocese. The saint also devoted great attention to the clergy, and he was a strict questioner in the selection of candidates for priesthood. He gave especial patronage to the Chernigov clergy school, he invited learned monks from Kiev, among whom was Saint John (Maksimovich), the future metropolitan of Tobol’sk, but likewise an helper and successor of Saint Theodosii in organising the Chernigov clergy school. Strict uprightness in regard to clergy and flock, deep compassion, concern and Christian love of peace were distinguishing features in the activity of Saint Theodosii. To him often turned not only the Orthodox for aid and advice, but even persons of other confessions.</p><p>But Saint Theodosii could not long sustain the Chernigov flock. Sensing the approach of death, he summoned to him the administrator of the Bryansk Svensk monastery, Saint John (Maksimovich), and elevated him from priestmonk to archimandrite of the Chernigov Eletsk monastery. In this new archimandrite he prepared beforehand his successor. On 6 February 1696 Saint Theodosii died and was buried in the Chernigov Borisoglebsk cathedral church, beyond the right kleros-choir, in a special crypt made for this. His successor Saint John (Maksimovich) later built over his grave a brick arch with an eulogistic inscription in verse, in gratitude for a miraculous healing from a grievous illness. The special granting of grace to which Saint Theodosii attained, is testified to by his ascetic life and his hidden help to all, who recourse to him in prayer.</p><p>The glorification of Saint Theodosii occurred on 9 September 1896.</p>\n"
+                  }
+               },
+               {
+                  "name" : {
+                     "Short" : "Martyr Theodoula",
+                     "Nominative" : "Martyr Theodoula of Anazarbus in Cilicia, and with her Martyrs Helladius, Macarius, Boethus, and Evagrius († c. 304)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "393",
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "New Martyr",
+                     "Nominative" : "New Martyr Anthony of Athens"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "020525",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Holy Hierarch Polyeuctus",
+                     "Nominative" : "Holy Hierarch Polyeuctus, Patriarch of Constantinople"
+                  },
+                  "info" : null,
+                  "cid" : "020502",
+                  "life" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Icons of the Mother of God",
+                     "Nominative" : "Spruce (Eletsky) Icon found in Chernigov (1060) and the “In Search of the Perishing” Icon of the Mother of God"
+                  },
+                  "info" : null,
+                  "cid" : "394",
+                  "life" : null
+               }
+            ],
+            "tone" : 5,
+            "fastings" : "1111111"
+         },
+         "ponomar" : {
+            "tone" : 5,
+            "fastings" : "1111111",
+            "saints" : [
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "66",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "II Pet_1:20-2:9"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Mk_13:9-13",
+                              "pericope" : "59",
+                              "effWeek" : null
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Short" : "Monday of the Fast-free Week",
+                     "Nominative" : "Monday of the Fast-free Week"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9869"
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Afterfeast of the Meeting of the Lord",
+                     "Short" : "Afterfeast"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "37303"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "1",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Martyr Agatha",
+                     "Nominative" : "Martyr Agatha of Palermo in Sicily († 251)"
+                  },
+                  "info" : null,
+                  "cid" : "2369",
+                  "life" : {
+                     "Text" : "\n<p>The Holy Martyress Agatha was the daughter of rich and respected Christian parents from the city of Palermo (formerly called Panorum) in Sicily. During the time of the persecution under the emperor Decius (249-251), the city governor of Catana, Centianus,—having heard about the wealth and beauty of Agatha, sent his soldiers after her to bring her to trial as a Christian. At Catana they housed the saint with a certain rich woman, who had five daughters. They all attempted to provide temptations for Saint Agatha by means of fine clothes, amusements and entertainment, urging her to offer sacrifice to the pagan gods, but the saint would not give in to their tricks, and disdaining all the delights, she prayed the Lord to grant her the strength for the act of martyrdom. At the interrogation under Centianus, the holy martyress was swayed neither by the flattery, nor by the threats, and she was subjected to cruel jeering: they tore at her bosom with iron hooks, and finally, they cut off her breasts. In prison the holy Apostle Peter appeared to her and healed her of her wounds. Led again to torture, Saint Agatha astonished Centianus, in that her bosom was unharmed. They thereupon began to torture her anew. At this moment in the city there began an earthquake, and the earth opened up and swallowed the closest companions of Centianus. The terrified inhabitants rushed to Centianus, demanding that he stop the tortures. Fearing a revolt by the people, Centianus sent Saint Agatha back to prison, where the martyress, in offering up thanks to God, peacefully gave up her soul to the Lord.</p>\n",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Id" : "bulgakov"
+                  }
+               },
+               {
+                  "type" : "4",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Repose of Saint Theodosius, Archbishop of Chernigov († 1696)",
+                     "Short" : "Saint Theodosius"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "matins",
+                        "readings" : [
+                           {
+                              "type" : "1",
+                              "reading" : "Jn_10:9-16",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ]
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "335",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Heb_13:17-21"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_6:17-23a",
+                              "effWeek" : null,
+                              "pericope" : "24"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "life" : {
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Id" : "bulgakov",
+                     "Text" : "\n<p>Saint Theodosii (Feodosii), Archbishop of Chernigov, was born at the beginning of the decade of the thirties of the XVII Century in Podol’sk governance. He was descended from an old court-nobility lineage, the Polonitsky-Uglitsky’s. His parents were the priest Nikita and Maria. The piety prevailing within the family of the future saint contributed greatly to the spiritual growth of the boy. From childhood he distinguished himself with his gentleness and disposition towards prayer. The innate abilities of the youth came to light in the Kievo-Bratsk college at the Kiev Theophany monastery. This was a time of an extensive flourishing of the college (the end of the 1640’s), when its rectors were the archimandrite Innokentii (Gizel′), and later the hegumen and afterwards archbishop of Chernigov, Lazar (Baranovich). Among its instructors were: the priestmonk Epiphanii (Slavinetsky), the priestmonk Arsenii (Satanovsky), the Belorus bishop Theodosii (Bævsky), the hegumen Theodosii (Saphonovich) and Meletii Dzik—all these were indeed men of enlightenment for those times. The comrades of Saint Theodosii at the college were themselves to become future outstanding pastors: Simeon Polotsky, Ioannikii Golyatovsky, Antonii Radivillovsky, Varlaam Yasninsky. The Kievo-Bratsk Theophany school  was at this time the chief centre in the struggle of Orthodoxy against the assaults of Catholic clergy, and Jesuits and Uniates.</p><p>The vocation of Saint Theodosii to the monastic life ultimately formed during his years of study: he devoted all his free time to prayer, meditation on God and the reading of Sacred Scripture. </p><p>It might be surmised, that the saint did not finish the full course of the college studies, since the school ceased its activity for several years following the devastating of Podolia by the Poles. The saint all his life had deep regard for the Kievo-Bratsk monastery that had educated him. In the Synodikon of the Kievo-Vydubitsk monastery is the following remark about Saint Theodosii: “He was a man of fine intellect and generous to the Kiev Bratsk monastery.”</p><p>Upon receiving his education, the future hierarch accepted monastic tonsure at the Kievo-Kiev Caves Lavra with the name Theodosii, in honour of the Monk Theodosii (Feodosii) of Kiev Caves (Comm. 3 May) (worldly name unknown).</p><p>The Kiev metropolitan Dionysii (Balaban) made him archdeacon of the Kiev Sophia cathedral, and then appointed him administrator of the metropolitan cathedral house. But soon he left Kiev and resettled at the distant Krutitsk monastery (in Chernigov diocese), near the locale Baturino, which was famed for its strict monastic life. He was consecrated there to the dignity of priestmonk. In the year 1662 Saint Theodosii was appointed hegumen of the Korsunsk monastery in Kiev diocese, and in the year 1664—was made head of the ancient Kievo-Vydubitsk monastery. This monastery shortly before had fallen into the hands of the Uniates and was in complete ruin. But thanks to the energy and initiative of Saint Theodosii, the Vydubitsk Mikhailovsk monastery was quickly restored. He concerned himself in particular about the order of churchly property. He formed an excellent choir, which was famed not only in Little Russia, but also in Moscow, where Saint Theodosii in 1685 sent his singers. And concerning himself over the spiritual growth of the monastery inhabitants, being himself a strict ascetic, in 1680 the holy hegumen made on the island of Mikhailovschina, not far from the monastery, a small skete-monastery for brethren wishing solitude. He appointed there to organise and administrate it one of the most zealous monks of his monastery—the priestmonk Job (Opalinsky). </p><p>In his role as hegumen of the Kievo-Vydubitsk monastery, Saint Theodosii had to live through some quite difficult days. He was accused together with other hegumens by Methodii, bishop of Mstislavsk and Orshansk, of betraying the Russian governance in a supposed correspondence with those treasonous to Russia. On 20 September 1668 Saint Theodosii had occasion to give an explanation in the matter. And on 17 November 1668 the slander unraveled, and Saint Theodosii together with the other hegumens received a pardon. His Grace Lazar (Baranovich) esteemed the high spiritual qualities of Saint Theodosii and befriended him. He called him “a sheep of the flock of Christ, teaching by humility,” and he prophetically expressed the wish, that the name of Saint Theodosii might be inscribed in Heaven. When His Grace Lazar in 1689 became locum tenens of the Kiev metropolitan see, he appointed Saint Theodosii as his vicar in Kiev, while he himself remained at Chernigov. In his capacity as vicar of the locum tenens of the Kiev metropolitan see, Saint Theodosii had an active role in many a churchly event. In 1685 he participated with the right of a decisive vote in the selection of bishop Gedeon (Chetverinsky) as metropolitan of Kiev, and he was sent to Moscow with news of this event together with the Pereyaslavl’ hegumen Ieronim (Jerome) (Dubin). In Moscow both representatives were received with honour and esteem. And indeed, the result of this delegation was the re-uniting of the Kiev metropolitan see with the Russian Orthodox Church.</p><p>In 1688 Saint Theodosii was appointed archimandrite of the Chernigov Eletsk monastery, replacing the deceased archimandrite Ioannikii (Golyatovsky). And from the time all the activity of the saint transferred over from Kiev to Chernigov. This appointment comprised primarily, in accord with the wishes of His Grace Lazar, that Saint Theodosii should spare no little toil over putting back the Eletsk monastery in good order, since this monastery had not yet been set aright after the expulsion of the Jesuits and Dominicans, and it was very much in bad shape and disorder. Through the efforts of Saint Theodosii, good results were achieved over the course of two or three years, which then fully guaranteed its existence. The saint in his new position also rendered all kinds of assistance to His Grace Lazar in all kinds of important matters. He participated in composing a conciliar reply to the Moscow Patriarch Ioakim in response to his letters questioning the attitude of the Kiev metropolitan see to the Council of Florence, and its judgement on the question of the transformation of the Holy Gifts as accepted by this Florentine Council. When the Patriarch proved to be unsatisfied by these answers, there was dispatched to him at the beginning of 1689 the Baturinsk hegumen Saint Dimitrii (Tuptalo) (the future metropolitan of Rostov). Saint Theodosii journeyed with him in the capacity of representative of His Grace Lazar. He was entrusted to present the Patriarch a letter of reply and to clear up the misunderstandings. On 11 September 1692 Saint Theodosii was solemnly ordained an archbishop in the Uspenie (Dormition) cathdral of the Moscow Kremlin.</p><p>Little in the way of an account of the governance by Saint Theodosii of the Chernigov diocese has been preserved. The saint directed special attention to the rousing and increase in the flock of a true Christian piety. With this end in mind he concerned himself with the upkeep of the old and the building of new monasteries and churches. At the very beginning of his episcopate, with his blessing, there was established the Pecheniksk women’s monastery, and he himself consecrated the monastery church in honour of the Uspenie (Dormition) of the Most Holy Mother of God. In 1694, with his blessing, there was founded the Liubetsk skete-monastery, 2 versts from Liubech. In 1694 also the saint consecrated at the Domnitsk men’s monastery a temple in honour of the Nativity of the Most Holy Mother of God. And in the Summer of 1695 he consecrated a majestic temple in honour of the Most Holy Mother of God, built on the summit of Boldinsk Hill, near the ancient Il′insk monastery. Under Saint Theodosii may be noted an especial enthusiasm and strengthening of monasticism in the Chernigov diocese. The saint also devoted great attention to the clergy, and he was a strict questioner in the selection of candidates for priesthood. He gave especial patronage to the Chernigov clergy school, he invited learned monks from Kiev, among whom was Saint John (Maksimovich), the future metropolitan of Tobol’sk, but likewise an helper and successor of Saint Theodosii in organising the Chernigov clergy school. Strict uprightness in regard to clergy and flock, deep compassion, concern and Christian love of peace were distinguishing features in the activity of Saint Theodosii. To him often turned not only the Orthodox for aid and advice, but even persons of other confessions.</p><p>But Saint Theodosii could not long sustain the Chernigov flock. Sensing the approach of death, he summoned to him the administrator of the Bryansk Svensk monastery, Saint John (Maksimovich), and elevated him from priestmonk to archimandrite of the Chernigov Eletsk monastery. In this new archimandrite he prepared beforehand his successor. On 6 February 1696 Saint Theodosii died and was buried in the Chernigov Borisoglebsk cathedral church, beyond the right kleros-choir, in a special crypt made for this. His successor Saint John (Maksimovich) later built over his grave a brick arch with an eulogistic inscription in verse, in gratitude for a miraculous healing from a grievous illness. The special granting of grace to which Saint Theodosii attained, is testified to by his ascetic life and his hidden help to all, who recourse to him in prayer.</p><p>The glorification of Saint Theodosii occurred on 9 September 1896.</p>\n"
+                  },
+                  "cid" : "2214",
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Martyr Theodoula",
+                     "Nominative" : "Martyr Theodoula of Anazarbus in Cilicia, and with her Martyrs Helladius, Macarius, Boethus, and Evagrius († c. 304)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "393",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "New Martyr Anthony of Athens",
+                     "Short" : "New Martyr"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020525"
+               },
+               {
+                  "life" : null,
+                  "cid" : "020502",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Holy Hierarch Polyeuctus, Patriarch of Constantinople",
+                     "Short" : "Holy Hierarch Polyeuctus"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Spruce (Eletsky) Icon found in Chernigov (1060) and the “In Search of the Perishing” Icon of the Mother of God",
+                     "Short" : "Icons of the Mother of God"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "394",
+                  "life" : null,
+                  "info" : null
+               }
+            ]
+         }
+      },
+      "fr" : {
+         "ponomar" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9869",
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "II Pet_1:20-2:9",
+                              "pericope" : "66",
+                              "effWeek" : null
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "59",
+                              "reading" : "Mk_13:9-13",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Lundi de la Semaine sans jeune",
+                     "Nominative" : "Lundi de la Semaine sans jeune"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "L’aprèsfête",
+                     "Nominative" : "L’aprèsfête de la Rencontre"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "37303",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "2369",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ste. Agathe",
+                     "Nominative" : "Ste. Agathe de Sicile"
+                  },
+                  "menologion" : "",
+                  "type" : "1"
+               },
+               {
+                  "life" : null,
+                  "cid" : "020504",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "St. Théodose",
+                     "Nominative" : "St. Théodose de Skopelos"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "St. Polyeucte",
+                     "Nominative" : "St. Polyeucte, Patriarche de Contantinople"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020502"
+               },
+               {
+                  "name" : {
+                     "Short" : "St. Néomartyr",
+                     "Nominative" : "St. Néomartyr Antoine d’Athènes"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "020525",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "2214",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "4",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "reading" : "Jn_10:9-16",
+                              "type" : "1"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "335",
+                              "reading" : "Heb_13:17-21",
+                              "type" : "apostol"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "24",
+                              "type" : "gospel",
+                              "reading" : "Lk_6:17-23a"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "St. Théodose",
+                     "Nominative" : "St. Théodose, Archevêque de Tchernigov"
+                  }
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020505",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "St. Avit",
+                     "Nominative" : "St. Avit, Evêque de Vienne"
+                  }
+               }
+            ],
+            "fastings" : "1111111",
+            "tone" : 5
+         },
+         "ponomarReordered" : {
+            "tone" : 5,
+            "fastings" : "1111111",
+            "saints" : [
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Lundi de la Semaine sans jeune",
+                     "Nominative" : "Lundi de la Semaine sans jeune"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "II Pet_1:20-2:9",
+                              "effWeek" : null,
+                              "pericope" : "66"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Mk_13:9-13",
+                              "effWeek" : null,
+                              "pericope" : "59"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "life" : null,
+                  "cid" : "9869",
+                  "info" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "L’aprèsfête de la Rencontre",
+                     "Short" : "L’aprèsfête"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "37303",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "1",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ste. Agathe de Sicile",
+                     "Short" : "Ste. Agathe"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "2369"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "St. Théodose de Skopelos",
+                     "Short" : "St. Théodose"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "020504",
+                  "info" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "St. Polyeucte, Patriarche de Contantinople",
+                     "Short" : "St. Polyeucte"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020502"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020525",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "St. Néomartyr Antoine d’Athènes",
+                     "Short" : "St. Néomartyr"
+                  }
+               },
+               {
+                  "menologion" : "",
+                  "type" : "4",
+                  "services" : [
+                     {
+                        "type" : "matins",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "36",
+                              "reading" : "Jn_10:9-16",
+                              "type" : "1"
+                           }
+                        ]
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_13:17-21",
+                              "pericope" : "335",
+                              "effWeek" : null
+                           },
+                           {
+                              "pericope" : "24",
+                              "effWeek" : null,
+                              "type" : "gospel",
+                              "reading" : "Lk_6:17-23a"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "St. Théodose",
+                     "Nominative" : "St. Théodose, Archevêque de Tchernigov"
+                  },
+                  "info" : null,
+                  "cid" : "2214",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020505",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "St. Avit",
+                     "Nominative" : "St. Avit, Evêque de Vienne"
+                  }
+               }
+            ]
+         }
+      },
+      "cu/ru" : {
+         "ponomarReordered" : {
+            "fastings" : "1111111",
+            "tone" : 5,
+            "saints" : [
+               {
+                  "life" : null,
+                  "cid" : "9869",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Сполошная седмица. Понедельник",
+                     "Short" : "Сполошная седмица. Понедельник",
+                     "Genetive" : "Сполошная седмица. Понедельник"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "66",
+                              "effWeek" : null,
+                              "reading" : "II Pet_1:20-2:9",
+                              "type" : "apostol"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "59",
+                              "reading" : "Mk_13:9-13",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Попразднство",
+                     "Nominative" : "Попразднство Сретения Господня",
+                     "Genetive" : "Попразднства"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "37303"
+               },
+               {
+                  "info" : null,
+                  "cid" : "2369",
+                  "life" : {
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Id" : "bulgakov",
+                     "Text" : "\n    Святая мученица Агафия была дочерью именитых и богатых родителей-христиан из города Палермо (прежнее название Панорм) в Сицилии. Во время гонения при императоре Декии (249— 251) градоправитель Катаны-—Кинтиан, прослышав о богатстве и красоте Агафий, послал за ней воинов, чтобы привести ее на суд как христианку. В Катане святую поместили у одной богатой женщины, имевшей пятерых дочерей. Все они старались соблазнить святую Агафию нарядами, угощениями, развлечениями, убеждая ее принести жертву языческим богам, но святая не поддалась на их уловки и, презрев все наслаждения, молила Господа даровать ей силы на мученический подвиг. На допросе у Кинтиана святая мученица не склонилась ни на ласки, ни на уговоры и была подвергнута жестокому глумлению: ей терзали грудь железными когтями и, наконец, отрезали сосцы. В темнице страдалице явился святой апостол Петр и исцелил ее от ран. Вновь приведенная на пытку святая Агафия изумила Кинтиана тем, что грудь ее была невредима. Тогда ее опять стали мучить. В это время в городе началось землетрясение, и разверзшаяся земля поглотила ближайших друзей Кинтиана. Перепуганные жители прибежали к Кинтиану, требуя, чтобы он прекратил пытки.» Опасаясь народного возмущения, Кинтиан отослал святую Агафию обратно в темницу, где мученица, воздав благодарение, мирно предала дух свой Богу. \n"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Мц. Агафии (251)",
+                     "Nominative" : "Мц. Агафии (251)"
+                  }
+               },
+               {
+                  "name" : {
+                     "Short" : "Свт. Феодосия",
+                     "Nominative" : "Свт. Феодосия, архиеп. Черниговского (1696)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "matins",
+                        "readings" : [
+                           {
+                              "type" : "1",
+                              "reading" : "Jn_10:9-16",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ]
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "335",
+                              "type" : "apostol",
+                              "reading" : "Heb_13:17-21"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_6:17-23a",
+                              "effWeek" : null,
+                              "pericope" : "24"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "type" : "4",
+                  "menologion" : "",
+                  "life" : {
+                     "Text" : "\n     Святитель Феодосии, архиепископ Черниговский, родился в начале тридцатых годов XVII столетия в Подольской губернии. Он происходил из древнего дворянского рода Полоницких-Углицких; родителями его были иерей Никита и Мария. Благочестие, царившее в семье будущего святителя, благотворно содействовало духовному развитию мальчика. С детства он отличался кротостью и прилежанием к молитве. Природные способности юноши раскрылись в Киево-Братской коллегии при Киевском Богоявленском монастыре. Это было время самого расцвета коллегии (конец сороковых годов XVII века), когда ее ректорами были архимандрит Иннокентий (Гизель), а затем игумен, впоследствии архиепископ Черниговский, Лазарь (Баранович),, а в числе наставников — иеромонах Епифаний (Славинецкий), иеромонах Арсений (Сатановский), епископ Белорусский Феодосии (Баевский), игумен Феодосии (Сафонович) и Мелетий Дзик, которые были просвещеннейшими людьми того времени. Товарищами святого Феодосия по коллегии были будущие выдающиеся пастыри: Симеон Полоцкий, Иоанникий Голятовский, Антоний Радивилловский, Варлаам Ясинский. Киево-Братская Богоявленская школа являлась в то время главным центром борьбы Православия против нападок католического духовенства, иезуитов и униатов.     В годы обучения окончательно утвердилось призвание святого Феодосия к иноческому подвигу: всё свободное от занятий время он отдавал молитве, Богомыслию и чтению Священного Писания.     Можно полагать, что святой не окончил полного курса колле гии, так как после разорения Подола поляками она на несколько  лет прекратила свою деятельность. Святитель на всю жизнь сохранил глубокую признательность воспитавшему его Киево-Братскому  монастырю. В синодике Киево-Выдубицкого монастыря сделано  следующее замечание о святом Феодосии: «Был он муж благора зумен и благотворящ Киевскому Братскому монастырю».     По получении образования будущий святитель принял иноче ский постриг в Киево-Печерской Лавре с именем Феодосии, в честь  преподобного Феодосия Печерского (память 3 мая) (мирское имя  его неизвестно).      Киевским митрополитом Дионисием (Балабаном) он был поставлен архидиаконом Киево-Софийского собора, а затем назначен наместником митрополичьего кафедрального дома. Но вскоре он оставил Киев и поселился в отдаленном Крутицком монастыре  (Черниговской епархии), возле местечка Батурина, славившемся строгой иноческой жизнью. Там он был посвящен в сан иеромонаха. В 1662 году святой Феодосии был назначен игуменом Корсунского монастыря Киевской епархии, а в 1664 году — настоятелем древнего Киево-Выдубицкого монастыря. Эта обитель неза долго перед тем находилась в руках униатов и была совершенно разорена. Но святому Феодосию благодаря своей энергии и настойчивости удалось быстро возродить Выдубицкий Михайловский монастырь. Он особенно заботился об устроении церковного благолепия. Он создал прекрасный хор, который славился не только в Малороссии, но и в Москве, куда святой Феодосии в 1685 году посылал своих певчих. Заботясь о духовном возрастании насельни ков обители, святой игумен, сам строгий подвижник, устроил в  1680 году недалеко от обители, на острове Михайловщине, не большой скит для братии, желавшей уединения. Он назначил туда  устроителем и наместником одного из самых ревностных иноков  обители — иеромонаха Иова (Опалинского). В бытность святого  Феодосия игуменом Киево-Выдубицкого монастыря ему пришлось  пережить тяжелые дни. Вместе с другими игуменами он был об винен Мефодием, епископом Мстиславским и Оршанским, в измене  русскому правительству и в мнимой переписке с изменниками Рос сии. 20 сентября 1668 года святому Феодосию пришлось давать   объяснения по этому делу. 17 ноября 1668 года клевета была  обнаружена, и святой Феодосии, вместе с другими игуменами,   получил прощение. Преосвященный Лазарь (Баранович) оценил   высокие духовные качества святого Феодосия и приблизил его к   себе. Он называл его «овцой стада Христова, научившейся покор  ности», и пророчески желал, чтобы имя святого Феодосия было   написано на Небесах. Когда в 1679 году Преосвященный Лазарь   стал местоблюстителем Киевской митрополии, он назначил   святого Феодосия своим наместником в Киеве, а сам оставался в   Чернигове. В качестве наместника местоблюстителя Киевской   митрополии святой Феодосии принимал деятельное участие во   многих церковных событиях. В 1685 году он участвовал с правом   решающего голоса в избрании епископа Гедеона (Четвертинского)   митрополитом Киевским и вместе с Иеронимом (Дубиною), игу   меном Переяславским, был послан в Москву с извещением об    избрании. В Москве оба представителя были приняты с почетом    и уважением. Результатом этого посольства было воссоединение    Киевской митрополии с Русской Православной Церковью.       В 1688 году святой Феодосии был назначен архимандритом    Черниговского Елецкого монастыря,, на место почившего архиман   дрита Иоанникия (Голятовского). С того времени вся деятель   ность святого переносится из Киева в Чернигов. Это назначение состоялось, главным образом, по желанию Преосвященного Лазаря. Святому Феодосию пришлось немало потрудиться над благоустройством Елецкой обители, так как монастырь этот, еще не оправившийся после опустошения иезуитами и доминиканцами, был весьма беден и неустроен. Трудами святого Феодосия удалось достигнуть в продолжение двух-трех лет для Елецкой обители благосостояния, вполне обеспечивавшего ее существование. Святой и в своей новой должности оказывал всемерное содействие Преосвященному Лазарю во всех важных -делах. Он участвовал в составлении соборного ответа Московскому Патриарху Иоакиму на его вопросные грамоты об отношении Киевской митрополии к Флорентийскому Собору и в обсуждении вопроса о времени пресуществления Святых Даров, поднятого на этом Соборе. Когда же Патриарх не удовлетворился этими ответами и в Москву в начале 1689 года был послан Батуринский игумен святой Димитрий (Туптало) (будущий митрополит Ростовский), святой Феодосии ездил с ним в качестве представителя от Преосвященного Лазаря. Ему поручено было передать Патриарху ответное письмо и выяснить недоразумения. 11 сентября 1692 года святой Феодосии был торжественно хиротонисан во архиепископа в Успенском соборе Московского Кремля.     Об управлении святителем Феодосией Черниговской епархией сохранилось мало сведений. Особенное внимание святитель обращал на пробуждение и поддержание в пастве духа истинно христианского благочестия. С этой целью он заботился о поддержании старых и устройстве новых монастырей и храмов. В самом начале его святительства, по его благословению, был создан Печеникский девичий монастырь, и он сам освятил храм этой обители в честь Успения Пресвятой Богородицы. В 1694 году, по его благословению, был основан Любецкий скит в 2-х верстах от Любеча; в 1694 году святитель освятил в Домницком мужском монастыре храм в' честь Рождества Пресвятой Богородицы, а летом 1695 года — величественный храм в честь Пресвятой Богородицы, построенный на вершине горы Болдинской, близ древнего Ильинского монастыря. При святителе Феодосии в Черниговской епархии замечается особенный подъем и усиление иночества. Святитель уделял также большое внимание духовенству и был строго разборчив при выборе кандидатов священства. Он особенно покровительствовал черниговским духовным школам, приглашал в них из Киева ученых монахов, среди которых был святой Иоанн (Максимович),, будущий митрополит Тобольский, сделавшийся впоследствии помощником и преемником святителя и устроителем черниговских духовных школ. Строгая справедливость в отношении к духовенству и пастве, глубокое сострадание, снисходительность и христианское миролюбие были отличительными чертами деятельности святителя Феодосия. К нему часто обращались за помощью и советом не только православные, но и лица других исповеданий.    Но недолго святитель Феодосии окормлял Черниговскую паству. Чувствуя приближение смерти, он вызвал к себе в Чернигов наместника Брянского Свенского монастыря, святого Иоанна (Максимовича) и возвел его из иеромонаха в архимандрита Черниговского Елецкого монастыря. В новом архимандрите он заранее готовил себе преемника. 6 февраля 1696 года святитель Феодосии скончался и был погребен в Черниговском кафедральном Борисоглебском соборе, за правым клиросом, в особо сделанном для того склепе. Впоследствии его преемник святитель Иоанн (Максимович) построил над его гробом кирпичный свод с хвалебной надписью в стихах в благодарность за чудесное исцеление от тяжкой болезни. Особое благодатное дарование, которое стяжал святитель Феодосии, засвидетельствовано его подвижнической жизнью и сокровенной помощью всем, возносившим ему молитвы.     Прославление святителя Феодосия совершилось 9 сентября 1896 года. \n",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Id" : "bulgakov"
+                  },
+                  "cid" : "2214",
+                  "info" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Мч. Михаила, прмц. Александры (1942)",
+                     "Short" : "Мч. Михаила",
+                     "Genetive" : "Мч. Михаила"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "221405"
+               },
+               {
+                  "info" : null,
+                  "cid" : "393",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Мц. Феодулии",
+                     "Nominative" : "Мц. Феодулии и мчч. Елладия Комментарисия, Макария, Воифа помощника и Евагрия (ок. 304)"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "394",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Елецкой-Черниговской (1060)",
+                     "Nominative" : "Елецкой-Черниговской (1060), Сицилийской, или Дивногорской (1092), и именуемой  «Взыскание погибших» (XVII) икон Божией Матери. )"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               }
+            ]
+         },
+         "ponomar" : {
+            "fastings" : "1111111",
+            "tone" : 5,
+            "saints" : [
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "66",
+                              "type" : "apostol",
+                              "reading" : "II Pet_1:20-2:9"
+                           },
+                           {
+                              "pericope" : "59",
+                              "effWeek" : null,
+                              "reading" : "Mk_13:9-13",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Сполошная седмица. Понедельник",
+                     "Short" : "Сполошная седмица. Понедельник",
+                     "Genetive" : "Сполошная седмица. Понедельник"
+                  },
+                  "info" : null,
+                  "cid" : "9869",
+                  "life" : null
+               },
+               {
+                  "cid" : "37303",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Genetive" : "Попразднства",
+                     "Short" : "Попразднство",
+                     "Nominative" : "Попразднство Сретения Господня"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "life" : {
+                     "Id" : "bulgakov",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Text" : "\n    Святая мученица Агафия была дочерью именитых и богатых родителей-христиан из города Палермо (прежнее название Панорм) в Сицилии. Во время гонения при императоре Декии (249— 251) градоправитель Катаны-—Кинтиан, прослышав о богатстве и красоте Агафий, послал за ней воинов, чтобы привести ее на суд как христианку. В Катане святую поместили у одной богатой женщины, имевшей пятерых дочерей. Все они старались соблазнить святую Агафию нарядами, угощениями, развлечениями, убеждая ее принести жертву языческим богам, но святая не поддалась на их уловки и, презрев все наслаждения, молила Господа даровать ей силы на мученический подвиг. На допросе у Кинтиана святая мученица не склонилась ни на ласки, ни на уговоры и была подвергнута жестокому глумлению: ей терзали грудь железными когтями и, наконец, отрезали сосцы. В темнице страдалице явился святой апостол Петр и исцелил ее от ран. Вновь приведенная на пытку святая Агафия изумила Кинтиана тем, что грудь ее была невредима. Тогда ее опять стали мучить. В это время в городе началось землетрясение, и разверзшаяся земля поглотила ближайших друзей Кинтиана. Перепуганные жители прибежали к Кинтиану, требуя, чтобы он прекратил пытки.» Опасаясь народного возмущения, Кинтиан отослал святую Агафию обратно в темницу, где мученица, воздав благодарение, мирно предала дух свой Богу. \n"
+                  },
+                  "cid" : "2369",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Мц. Агафии (251)",
+                     "Short" : "Мц. Агафии (251)"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "matins",
+                        "readings" : [
+                           {
+                              "type" : "1",
+                              "reading" : "Jn_10:9-16",
+                              "effWeek" : null,
+                              "pericope" : "36"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_13:17-21",
+                              "effWeek" : null,
+                              "pericope" : "335"
+                           },
+                           {
+                              "pericope" : "24",
+                              "effWeek" : null,
+                              "reading" : "Lk_6:17-23a",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "name" : {
+                     "Nominative" : "Свт. Феодосия, архиеп. Черниговского (1696)",
+                     "Short" : "Свт. Феодосия"
+                  },
+                  "menologion" : "",
+                  "type" : "4",
+                  "info" : null,
+                  "cid" : "2214",
+                  "life" : {
+                     "Id" : "bulgakov",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Text" : "\n     Святитель Феодосии, архиепископ Черниговский, родился в начале тридцатых годов XVII столетия в Подольской губернии. Он происходил из древнего дворянского рода Полоницких-Углицких; родителями его были иерей Никита и Мария. Благочестие, царившее в семье будущего святителя, благотворно содействовало духовному развитию мальчика. С детства он отличался кротостью и прилежанием к молитве. Природные способности юноши раскрылись в Киево-Братской коллегии при Киевском Богоявленском монастыре. Это было время самого расцвета коллегии (конец сороковых годов XVII века), когда ее ректорами были архимандрит Иннокентий (Гизель), а затем игумен, впоследствии архиепископ Черниговский, Лазарь (Баранович),, а в числе наставников — иеромонах Епифаний (Славинецкий), иеромонах Арсений (Сатановский), епископ Белорусский Феодосии (Баевский), игумен Феодосии (Сафонович) и Мелетий Дзик, которые были просвещеннейшими людьми того времени. Товарищами святого Феодосия по коллегии были будущие выдающиеся пастыри: Симеон Полоцкий, Иоанникий Голятовский, Антоний Радивилловский, Варлаам Ясинский. Киево-Братская Богоявленская школа являлась в то время главным центром борьбы Православия против нападок католического духовенства, иезуитов и униатов.     В годы обучения окончательно утвердилось призвание святого Феодосия к иноческому подвигу: всё свободное от занятий время он отдавал молитве, Богомыслию и чтению Священного Писания.     Можно полагать, что святой не окончил полного курса колле гии, так как после разорения Подола поляками она на несколько  лет прекратила свою деятельность. Святитель на всю жизнь сохранил глубокую признательность воспитавшему его Киево-Братскому  монастырю. В синодике Киево-Выдубицкого монастыря сделано  следующее замечание о святом Феодосии: «Был он муж благора зумен и благотворящ Киевскому Братскому монастырю».     По получении образования будущий святитель принял иноче ский постриг в Киево-Печерской Лавре с именем Феодосии, в честь  преподобного Феодосия Печерского (память 3 мая) (мирское имя  его неизвестно).      Киевским митрополитом Дионисием (Балабаном) он был поставлен архидиаконом Киево-Софийского собора, а затем назначен наместником митрополичьего кафедрального дома. Но вскоре он оставил Киев и поселился в отдаленном Крутицком монастыре  (Черниговской епархии), возле местечка Батурина, славившемся строгой иноческой жизнью. Там он был посвящен в сан иеромонаха. В 1662 году святой Феодосии был назначен игуменом Корсунского монастыря Киевской епархии, а в 1664 году — настоятелем древнего Киево-Выдубицкого монастыря. Эта обитель неза долго перед тем находилась в руках униатов и была совершенно разорена. Но святому Феодосию благодаря своей энергии и настойчивости удалось быстро возродить Выдубицкий Михайловский монастырь. Он особенно заботился об устроении церковного благолепия. Он создал прекрасный хор, который славился не только в Малороссии, но и в Москве, куда святой Феодосии в 1685 году посылал своих певчих. Заботясь о духовном возрастании насельни ков обители, святой игумен, сам строгий подвижник, устроил в  1680 году недалеко от обители, на острове Михайловщине, не большой скит для братии, желавшей уединения. Он назначил туда  устроителем и наместником одного из самых ревностных иноков  обители — иеромонаха Иова (Опалинского). В бытность святого  Феодосия игуменом Киево-Выдубицкого монастыря ему пришлось  пережить тяжелые дни. Вместе с другими игуменами он был об винен Мефодием, епископом Мстиславским и Оршанским, в измене  русскому правительству и в мнимой переписке с изменниками Рос сии. 20 сентября 1668 года святому Феодосию пришлось давать   объяснения по этому делу. 17 ноября 1668 года клевета была  обнаружена, и святой Феодосии, вместе с другими игуменами,   получил прощение. Преосвященный Лазарь (Баранович) оценил   высокие духовные качества святого Феодосия и приблизил его к   себе. Он называл его «овцой стада Христова, научившейся покор  ности», и пророчески желал, чтобы имя святого Феодосия было   написано на Небесах. Когда в 1679 году Преосвященный Лазарь   стал местоблюстителем Киевской митрополии, он назначил   святого Феодосия своим наместником в Киеве, а сам оставался в   Чернигове. В качестве наместника местоблюстителя Киевской   митрополии святой Феодосии принимал деятельное участие во   многих церковных событиях. В 1685 году он участвовал с правом   решающего голоса в избрании епископа Гедеона (Четвертинского)   митрополитом Киевским и вместе с Иеронимом (Дубиною), игу   меном Переяславским, был послан в Москву с извещением об    избрании. В Москве оба представителя были приняты с почетом    и уважением. Результатом этого посольства было воссоединение    Киевской митрополии с Русской Православной Церковью.       В 1688 году святой Феодосии был назначен архимандритом    Черниговского Елецкого монастыря,, на место почившего архиман   дрита Иоанникия (Голятовского). С того времени вся деятель   ность святого переносится из Киева в Чернигов. Это назначение состоялось, главным образом, по желанию Преосвященного Лазаря. Святому Феодосию пришлось немало потрудиться над благоустройством Елецкой обители, так как монастырь этот, еще не оправившийся после опустошения иезуитами и доминиканцами, был весьма беден и неустроен. Трудами святого Феодосия удалось достигнуть в продолжение двух-трех лет для Елецкой обители благосостояния, вполне обеспечивавшего ее существование. Святой и в своей новой должности оказывал всемерное содействие Преосвященному Лазарю во всех важных -делах. Он участвовал в составлении соборного ответа Московскому Патриарху Иоакиму на его вопросные грамоты об отношении Киевской митрополии к Флорентийскому Собору и в обсуждении вопроса о времени пресуществления Святых Даров, поднятого на этом Соборе. Когда же Патриарх не удовлетворился этими ответами и в Москву в начале 1689 года был послан Батуринский игумен святой Димитрий (Туптало) (будущий митрополит Ростовский), святой Феодосии ездил с ним в качестве представителя от Преосвященного Лазаря. Ему поручено было передать Патриарху ответное письмо и выяснить недоразумения. 11 сентября 1692 года святой Феодосии был торжественно хиротонисан во архиепископа в Успенском соборе Московского Кремля.     Об управлении святителем Феодосией Черниговской епархией сохранилось мало сведений. Особенное внимание святитель обращал на пробуждение и поддержание в пастве духа истинно христианского благочестия. С этой целью он заботился о поддержании старых и устройстве новых монастырей и храмов. В самом начале его святительства, по его благословению, был создан Печеникский девичий монастырь, и он сам освятил храм этой обители в честь Успения Пресвятой Богородицы. В 1694 году, по его благословению, был основан Любецкий скит в 2-х верстах от Любеча; в 1694 году святитель освятил в Домницком мужском монастыре храм в' честь Рождества Пресвятой Богородицы, а летом 1695 года — величественный храм в честь Пресвятой Богородицы, построенный на вершине горы Болдинской, близ древнего Ильинского монастыря. При святителе Феодосии в Черниговской епархии замечается особенный подъем и усиление иночества. Святитель уделял также большое внимание духовенству и был строго разборчив при выборе кандидатов священства. Он особенно покровительствовал черниговским духовным школам, приглашал в них из Киева ученых монахов, среди которых был святой Иоанн (Максимович),, будущий митрополит Тобольский, сделавшийся впоследствии помощником и преемником святителя и устроителем черниговских духовных школ. Строгая справедливость в отношении к духовенству и пастве, глубокое сострадание, снисходительность и христианское миролюбие были отличительными чертами деятельности святителя Феодосия. К нему часто обращались за помощью и советом не только православные, но и лица других исповеданий.    Но недолго святитель Феодосии окормлял Черниговскую паству. Чувствуя приближение смерти, он вызвал к себе в Чернигов наместника Брянского Свенского монастыря, святого Иоанна (Максимовича) и возвел его из иеромонаха в архимандрита Черниговского Елецкого монастыря. В новом архимандрите он заранее готовил себе преемника. 6 февраля 1696 года святитель Феодосии скончался и был погребен в Черниговском кафедральном Борисоглебском соборе, за правым клиросом, в особо сделанном для того склепе. Впоследствии его преемник святитель Иоанн (Максимович) построил над его гробом кирпичный свод с хвалебной надписью в стихах в благодарность за чудесное исцеление от тяжкой болезни. Особое благодатное дарование, которое стяжал святитель Феодосии, засвидетельствовано его подвижнической жизнью и сокровенной помощью всем, возносившим ему молитвы.     Прославление святителя Феодосия совершилось 9 сентября 1896 года. \n"
+                  }
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Genetive" : "Мч. Михаила",
+                     "Short" : "Мч. Михаила",
+                     "Nominative" : "Мч. Михаила, прмц. Александры (1942)"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "221405",
+                  "life" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Мц. Феодулии и мчч. Елладия Комментарисия, Макария, Воифа помощника и Евагрия (ок. 304)",
+                     "Short" : "Мц. Феодулии"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "393",
+                  "life" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "Елецкой-Черниговской (1060)",
+                     "Nominative" : "Елецкой-Черниговской (1060), Сицилийской, или Дивногорской (1092), и именуемой  «Взыскание погибших» (XVII) икон Божией Матери. )"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "cid" : "394",
+                  "life" : null,
+                  "info" : null
+               }
+            ]
+         }
+      },
+      "zh/Hans" : {
+         "ponomar" : {
+            "tone" : 5,
+            "fastings" : "1111111",
+            "saints" : [
+               {
+                  "name" : {
+                     "Nominative" : "瞻礼二（本周免斋）",
+                     "Short" : "瞻礼二（本周免斋）"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "66",
+                              "effWeek" : null,
+                              "reading" : "II Pet_1:20-2:9",
+                              "type" : "apostol"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Mk_13:9-13",
+                              "pericope" : "59",
+                              "effWeek" : null
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "9869",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "cid" : "37303",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "主进殿节庆期",
+                     "Short" : "主进殿节庆期"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "name" : {
+                     "Short" : "殉道女阿伽塔（西西里的巴勒莫城，251年）",
+                     "Nominative" : "殉道女阿伽塔（西西里的巴勒莫城，251年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "1",
+                  "menologion" : "",
+                  "cid" : "2369",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "4",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "36",
+                              "reading" : "Jn_10:9-16",
+                              "type" : "1"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_13:17-21",
+                              "pericope" : "335",
+                              "effWeek" : null
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "24",
+                              "reading" : "Lk_6:17-23a",
+                              "type" : "gospel"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣德奥多西（切尔尼科夫城总主教，1696年）",
+                     "Nominative" : "圣德奥多西（切尔尼科夫城总主教，1696年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "2214"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "殉道者德奥杜拉及偕同她殉道的赫拉蒂乌、玛喀里、博托斯和艾瓦格里（奇里乞亚地区的阿纳扎布兹，304年）",
+                     "Short" : "殉道者德奥杜拉及偕同她殉道的赫拉蒂乌、玛喀里、博托斯和艾瓦格里（奇里乞亚地区的阿纳扎布兹，304年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "393",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "新殉道者安托尼（雅典人，1774年）",
+                     "Short" : "新殉道者安托尼（雅典人，1774年）"
+                  },
+                  "info" : null,
+                  "cid" : "020525",
+                  "life" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "020502",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "圣颇利艾弗克特（君士坦丁堡牧首，970年）",
+                     "Nominative" : "圣颇利艾弗克特（君士坦丁堡牧首，970年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "“切尔尼戈夫的云杉树”圣母像（1060年）、“西西里”或“低位诺戈尔斯基”圣母像（1060年）、“寻找失落者”圣母圣像纪念日（17世纪）",
+                     "Short" : "“切尔尼戈夫的云杉树”圣母像（1060年）、“西西里”或“低位诺戈尔斯基”圣母像（1060年）、“寻找失落者”圣母圣像纪念日（17世纪）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "394",
+                  "info" : null
+               },
+               {
+                  "cid" : "020503",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "新殉道女阿伽塔（司祭之妻，1938年）以及她的同伴：圣衣修士艾弗革尼（1939年）、义人帕拉蒙（1941年）（他们均为白俄罗斯地方人氏）",
+                     "Short" : "新殉道女阿伽塔（司祭之妻，1938年）以及她的同伴：圣衣修士艾弗革尼（1939年）、义人帕拉蒙（1941年）（他们均为白俄罗斯地方人氏）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "020504",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "圣德奥多西（西里西亚的斯科佩罗城人，421年）",
+                     "Short" : "圣德奥多西（西里西亚的斯科佩罗城人，421年）"
+                  }
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣阿维图（维埃纳城主教，525年）",
+                     "Nominative" : "圣阿维图（维埃纳城主教，525年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020505"
+               }
+            ]
+         },
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "cid" : "9869",
+                  "life" : null,
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "66",
+                              "type" : "apostol",
+                              "reading" : "II Pet_1:20-2:9"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Mk_13:9-13",
+                              "pericope" : "59",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Nominative" : "瞻礼二（本周免斋）",
+                     "Short" : "瞻礼二（本周免斋）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "cid" : "37303",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "主进殿节庆期",
+                     "Short" : "主进殿节庆期"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "life" : null,
+                  "cid" : "2369",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "殉道女阿伽塔（西西里的巴勒莫城，251年）",
+                     "Short" : "殉道女阿伽塔（西西里的巴勒莫城，251年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "1",
+                  "menologion" : ""
+               },
+               {
+                  "menologion" : "",
+                  "type" : "4",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "36",
+                              "reading" : "Jn_10:9-16",
+                              "type" : "1"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "335",
+                              "type" : "apostol",
+                              "reading" : "Heb_13:17-21"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "24",
+                              "type" : "gospel",
+                              "reading" : "Lk_6:17-23a"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣德奥多西（切尔尼科夫城总主教，1696年）",
+                     "Nominative" : "圣德奥多西（切尔尼科夫城总主教，1696年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "2214"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "殉道者德奥杜拉及偕同她殉道的赫拉蒂乌、玛喀里、博托斯和艾瓦格里（奇里乞亚地区的阿纳扎布兹，304年）",
+                     "Nominative" : "殉道者德奥杜拉及偕同她殉道的赫拉蒂乌、玛喀里、博托斯和艾瓦格里（奇里乞亚地区的阿纳扎布兹，304年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "393",
+                  "info" : null
+               },
+               {
+                  "cid" : "020525",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "新殉道者安托尼（雅典人，1774年）",
+                     "Nominative" : "新殉道者安托尼（雅典人，1774年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣颇利艾弗克特（君士坦丁堡牧首，970年）",
+                     "Nominative" : "圣颇利艾弗克特（君士坦丁堡牧首，970年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "020502",
+                  "life" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "“切尔尼戈夫的云杉树”圣母像（1060年）、“西西里”或“低位诺戈尔斯基”圣母像（1060年）、“寻找失落者”圣母圣像纪念日（17世纪）",
+                     "Nominative" : "“切尔尼戈夫的云杉树”圣母像（1060年）、“西西里”或“低位诺戈尔斯基”圣母像（1060年）、“寻找失落者”圣母圣像纪念日（17世纪）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "394",
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "新殉道女阿伽塔（司祭之妻，1938年）以及她的同伴：圣衣修士艾弗革尼（1939年）、义人帕拉蒙（1941年）（他们均为白俄罗斯地方人氏）",
+                     "Nominative" : "新殉道女阿伽塔（司祭之妻，1938年）以及她的同伴：圣衣修士艾弗革尼（1939年）、义人帕拉蒙（1941年）（他们均为白俄罗斯地方人氏）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "020503",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020504",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "圣德奥多西（西里西亚的斯科佩罗城人，421年）",
+                     "Nominative" : "圣德奥多西（西里西亚的斯科佩罗城人，421年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "cid" : "020505",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "圣阿维图（维埃纳城主教，525年）",
+                     "Nominative" : "圣阿维图（维埃纳城主教，525年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               }
+            ],
+            "tone" : 5,
+            "fastings" : "1111111"
+         }
+      },
+      "el" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9869",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "II Pet_1:20-2:9",
+                              "type" : "apostol",
+                              "pericope" : "66",
+                              "effWeek" : null
+                           },
+                           {
+                              "pericope" : "59",
+                              "effWeek" : null,
+                              "type" : "gospel",
+                              "reading" : "Mk_13:9-13"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Short" : "Δευτέρα",
+                     "Nominative" : "Δευτέρα"
+                  }
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Μετὰ τῶν Ὑπαπαντὴ τοῦ Κυρίου",
+                     "Nominative" : "Μετὰ τῶν Ὑπαπαντὴ τοῦ Κυρίου"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "37303",
+                  "info" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ἁγία Ἀγάθη",
+                     "Short" : "Ἁγία Ἀγάθη"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "2369",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020504",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ὅσιος Θεοδόσιος ὁ ἐξ Ἀντιοχείας",
+                     "Short" : "Ὅσιος Θεοδόσιος ὁ ἐξ Ἀντιοχείας"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "020525",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ἅγιος Ἀντώνιος ὁ Ἀθηναῖος",
+                     "Nominative" : "Ἅγιος Ἀντώνιος ὁ Ἀθηναῖος"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "02055597",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ὅσιος Πολύευκτος Πατριάρχης Κωνσταντινουπόλεως",
+                     "Short" : "Ὅσιος Πολύευκτος Πατριάρχης Κωνσταντινουπόλεως"
+                  }
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ὅσιος Σάββας ἐκ Σικελίας",
+                     "Nominative" : "Ὅσιος Σάββας ἐκ Σικελίας"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "02050695"
+               },
+               {
+                  "type" : "4",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ὅσιος Θεοδόσιος ἐκ Ῥωσίας",
+                     "Nominative" : "Ὅσιος Θεοδόσιος ἐκ Ῥωσίας"
+                  },
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "reading" : "Jn_10:9-16",
+                              "type" : "1"
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "335",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Heb_13:17-21"
+                           },
+                           {
+                              "reading" : "Lk_6:17-23a",
+                              "type" : "gospel",
+                              "pericope" : "24",
+                              "effWeek" : null
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "2214",
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς ἀναζητήσεως τῶν ἀπολωλότων, ἐν Ῥωσίᾳ",
+                     "Short" : "Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς ἀναζητήσεως τῶν ἀπολωλότων, ἐν Ῥωσίᾳ"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "02050895",
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Σικελιωτίσσης ἐν Ντιβνογκόρσκ τῆς Ῥωσίας",
+                     "Nominative" : "Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Σικελιωτίσσης ἐν Ντιβνογκόρσκ τῆς Ῥωσίας"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "02050995",
+                  "info" : null
+               },
+               {
+                  "cid" : "394",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Σύναξις Ὑπεραγίας Θεοτόκου τῆς Ἐλεούσης ἐν Τσέρνιγκωφ τῆς Ῥωσίας",
+                     "Nominative" : "Σύναξις Ὑπεραγίας Θεοτόκου τῆς Ἐλεούσης ἐν Τσέρνιγκωφ τῆς Ῥωσίας"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               }
+            ],
+            "tone" : 5,
+            "fastings" : "1111111"
+         },
+         "ponomar" : {
+            "saints" : [
+               {
+                  "cid" : "9869",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Δευτέρα",
+                     "Nominative" : "Δευτέρα"
+                  },
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "II Pet_1:20-2:9",
+                              "type" : "apostol",
+                              "pericope" : "66",
+                              "effWeek" : null
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "59",
+                              "reading" : "Mk_13:9-13",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Μετὰ τῶν Ὑπαπαντὴ τοῦ Κυρίου",
+                     "Short" : "Μετὰ τῶν Ὑπαπαντὴ τοῦ Κυρίου"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "37303",
+                  "life" : null
+               },
+               {
+                  "cid" : "2369",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ἁγία Ἀγάθη",
+                     "Nominative" : "Ἁγία Ἀγάθη"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "020504",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ὅσιος Θεοδόσιος ὁ ἐξ Ἀντιοχείας",
+                     "Short" : "Ὅσιος Θεοδόσιος ὁ ἐξ Ἀντιοχείας"
+                  }
+               },
+               {
+                  "cid" : "020525",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Ἅγιος Ἀντώνιος ὁ Ἀθηναῖος",
+                     "Short" : "Ἅγιος Ἀντώνιος ὁ Ἀθηναῖος"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ὅσιος Πολύευκτος Πατριάρχης Κωνσταντινουπόλεως",
+                     "Short" : "Ὅσιος Πολύευκτος Πατριάρχης Κωνσταντινουπόλεως"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "02055597",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Ὅσιος Σάββας ἐκ Σικελίας",
+                     "Short" : "Ὅσιος Σάββας ἐκ Σικελίας"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "02050695",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "2214",
+                  "info" : null,
+                  "type" : "4",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ὅσιος Θεοδόσιος ἐκ Ῥωσίας",
+                     "Nominative" : "Ὅσιος Θεοδόσιος ἐκ Ῥωσίας"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "type" : "1",
+                              "reading" : "Jn_10:9-16",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "matins"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "335",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Heb_13:17-21"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_6:17-23a",
+                              "effWeek" : null,
+                              "pericope" : "24"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς ἀναζητήσεως τῶν ἀπολωλότων, ἐν Ῥωσίᾳ",
+                     "Short" : "Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς ἀναζητήσεως τῶν ἀπολωλότων, ἐν Ῥωσίᾳ"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "02050895",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "02050995",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Σικελιωτίσσης ἐν Ντιβνογκόρσκ τῆς Ῥωσίας",
+                     "Short" : "Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Σικελιωτίσσης ἐν Ντιβνογκόρσκ τῆς Ῥωσίας"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Σύναξις Ὑπεραγίας Θεοτόκου τῆς Ἐλεούσης ἐν Τσέρνιγκωφ τῆς Ῥωσίας",
+                     "Short" : "Σύναξις Ὑπεραγίας Θεοτόκου τῆς Ἐλεούσης ἐν Τσέρνιγκωφ τῆς Ῥωσίας"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : "",
+                  "cid" : "394",
+                  "life" : null,
+                  "info" : null
+               }
+            ],
+            "tone" : 5,
+            "fastings" : "1111111"
+         }
+      }
+   },
+   "date" : "2019/2/5"
+}

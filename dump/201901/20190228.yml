@@ -1,0 +1,2178 @@
+---
+date: 2019/2/28
+langs:
+  cu:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9846'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сре́да а҃-ѧ седми́цы ст҃а́гѡ поста̀'
+            Short: Сре́да
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_2:3-11
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:24-2:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_2:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '523'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ васі́лїа и҆сповѣ́дника, спо́стника прпⷣбнагѡ проко́пїа декаполі́та (ок. 750)'
+            Short: 'Прпⷣбнагѡ васі́лїа'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '4762'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника а҆рсе́нїа, митрополі́та росто́вскагѡ (1772)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02280098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника се́ргїа пресвѵ́тера (1932)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '527'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника не́стора, пергі́йскагѡ (250)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '528'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбныхъ жє́нъ марі́ны и҆ кѵ́ры (ок. 450)'
+            Short: 'Прпⷣбныхъ же́нъ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '526'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника Протерия, патрїа́рха а҆леѯандрі́йскагѡ (457)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '1636'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Бл҃же́ннагѡ нїкола́ѧ, хрⷭ҇та̀ ра́ди ю҆ро́дивагѡ, псковска́гѡ (1576)'
+            Short: 'Бл҃же́ннагѡ нїкола́ѧ'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9846'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сре́да а҃-ѧ седми́цы ст҃а́гѡ поста̀'
+            Short: Сре́да
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_2:3-11
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:24-2:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_2:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '523'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ васі́лїа и҆сповѣ́дника, спо́стника прпⷣбнагѡ проко́пїа декаполі́та (ок. 750)'
+            Short: 'Прпⷣбнагѡ васі́лїа'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '4762'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника а҆рсе́нїа, митрополі́та росто́вскагѡ (1772)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02280098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника се́ргїа пресвѵ́тера (1932)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '527'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника не́стора, пергі́йскагѡ (250)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '528'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбныхъ жє́нъ марі́ны и҆ кѵ́ры (ок. 450)'
+            Short: 'Прпⷣбныхъ же́нъ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '526'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника Протерия, патрїа́рха а҆леѯандрі́йскагѡ (457)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '1636'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Бл҃же́ннагѡ нїкола́ѧ, хрⷭ҇та̀ ра́ди ю҆ро́дивагѡ, псковска́гѡ (1576)'
+            Short: 'Бл҃же́ннагѡ нїкола́ѧ'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+  cu/ru:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9846'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Чистая среда'
+            Nominative: 'Чистая среда'
+            Short: 'Чистая среда'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_2:3-11
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:24-2:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_2:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '523'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Преподобный Василий исповедник был иноком и пострадал в царствование иконоборца Льва Исавра (717—741). Когда началось гонение на почитателей святых икон, святой Василий вместе со своим сподвижником преподобным Прокопием (память 27 февраля) был предан многим истязаниям и заключен в темницу, где оба мученика томились долгое время, до самой смерти нечестивого императора. Когда святых исповедников Василия и Прокопия освободили вместе с другими почитателями святых икон, они продолжили свой иноческий подвиг, наставляя многих в православной вере и добродетельной жизни. В 750 году преподобный Василий мирно скончался. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Василия исповедника, спостника прп. Прокопия Декаполита (ок. 750)'
+            Short: 'Прп. Василия'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '4762'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Арсения, митр. Ростовского (1772)'
+            Short: 'Сщмч. Арсения'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02280098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Сергия пресвитера (1932)'
+            Short: 'Сщмч. Сергия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '527'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Нестора, еп. Магиддийского (250)'
+            Short: 'Сщмч. Нестора'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '528'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпп. жен Марины и Киры (ок. 450)'
+            Short: 'Прпп. жен'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '526'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Протерия, Патриарха Александрийского (457)'
+            Short: 'Сщмч. Протерия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '1636'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Блж. Николая Саллоса, Христа ради юродивого, Псковского (1576)'
+            Short: 'Блж. Николая'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9846'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Чистая среда'
+            Nominative: 'Чистая среда'
+            Short: 'Чистая среда'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_2:3-11
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:24-2:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_2:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '523'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Преподобный Василий исповедник был иноком и пострадал в царствование иконоборца Льва Исавра (717—741). Когда началось гонение на почитателей святых икон, святой Василий вместе со своим сподвижником преподобным Прокопием (память 27 февраля) был предан многим истязаниям и заключен в темницу, где оба мученика томились долгое время, до самой смерти нечестивого императора. Когда святых исповедников Василия и Прокопия освободили вместе с другими почитателями святых икон, они продолжили свой иноческий подвиг, наставляя многих в православной вере и добродетельной жизни. В 750 году преподобный Василий мирно скончался. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Василия исповедника, спостника прп. Прокопия Декаполита (ок. 750)'
+            Short: 'Прп. Василия'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '4762'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Арсения, митр. Ростовского (1772)'
+            Short: 'Сщмч. Арсения'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02280098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Сергия пресвитера (1932)'
+            Short: 'Сщмч. Сергия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '527'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Нестора, еп. Магиддийского (250)'
+            Short: 'Сщмч. Нестора'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '528'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпп. жен Марины и Киры (ок. 450)'
+            Short: 'Прпп. жен'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '526'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Протерия, Патриарха Александрийского (457)'
+            Short: 'Сщмч. Протерия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '1636'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Блж. Николая Саллоса, Христа ради юродивого, Псковского (1576)'
+            Short: 'Блж. Николая'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+  el:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9846'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Τετάρτη
+            Short: Τετάρτη
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_2:3-11
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:24-2:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_2:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '523'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Βασίλειος ὁ Ὁμολογητὴς'
+            Short: 'Ὅσιος Βασίλειος ὁ Ὁμολογητὴς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02280295'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Κασσιανὸς ὁ Ῥωμαῖος'
+            Short: 'Ὅσιος Κασσιανὸς ὁ Ῥωμαῖος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '022803'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγία Κυράννα ὁ Νεομάρτυρας'
+            Short: 'Ἁγία Κυράννα ὁ Νεομάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '526'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Προτέριος ὁ ἱερομάρτυρας Ἀρχιεπίσκοπος Ἀλεξανδρείας'
+            Short: 'Ἅγιος Προτέριος ὁ ἱερομάρτυρας Ἀρχιεπίσκοπος Ἀλεξανδρείας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '022801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Βάρσος Ἐπίσκοπος Δαμασκοῦ'
+            Short: 'Ὅσιος Βάρσος Ἐπίσκοπος Δαμασκοῦ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἀβίρκιος ὁ Μάρτυρας'
+            Short: 'Ἅγιος Ἀβίρκιος ὁ Μάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '527'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Νέστωρας ὁ Μάρτυρας'
+            Short: 'Ἅγιος Νέστωρας ὁ Μάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '528'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Οσίες Μαράνα καὶ Κύρα'
+            Short: 'Οσίες Μαράνα καὶ Κύρα'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02280995'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Ἕξι Μάρτυρες ἐξ Αἰγύπτου'
+            Short: 'Ἅγιοι Ἕξι Μάρτυρες ἐξ Αἰγύπτου'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281095'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἰωνᾶς ὁ Λέριος'
+            Short: 'Ἅγιος Ἰωνᾶς ὁ Λέριος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281195'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Γεώργιος ὁ Ὁμολογητὴς Ἐπίσκοπος Δεφέλτου'
+            Short: 'Ἅγιος Γεώργιος ὁ Ὁμολογητὴς Ἐπίσκοπος Δεφέλτου'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '022800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Νυμφᾶς καὶ Εὔβουλος οἱ Ἀπόστολοι '
+            Short: 'Ἅγιοι Νυμφᾶς καὶ Εὔβουλος οἱ Ἀπόστολοι '
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Μακάριος, Ῥουφῖνος, Ἰοῦστος καὶ Θεόφιλος οἱ Μάρτυρες'
+            Short: 'Ἅγιοι Μακάριος, Ῥουφῖνος, Ἰοῦστος καὶ Θεόφιλος οἱ Μάρτυρες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Καιράλιος, Πουπούλιος, Γάϊος καὶ Σεραπίων οἱ Μάρτυρες'
+            Short: 'Ἅγιοι Καιράλιος, Πουπούλιος, Γάϊος καὶ Σεραπίων οἱ Μάρτυρες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Γερμανὸς ἐκ Ῥουμανίας'
+            Short: 'Ὅσιος Γερμανὸς ἐκ Ῥουμανίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Τεσσαράκοντα Χιλιάδες Μάρτυρες'
+            Short: 'Ἅγιοι Τεσσαράκοντα Χιλιάδες Μάρτυρες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '1636'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Νικόλαος τοῦ Πσκὼφ'
+            Short: 'Ἅγιος Νικόλαος τοῦ Πσκὼφ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281895'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Μελέτιος Ἐπίσκοπος Χαρκὼβ'
+            Short: 'Ὅσιος Μελέτιος Ἐπίσκοπος Χαρκὼβ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281995'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Μνήμη Μεγάλου Σεισμοῦ '
+            Short: 'Μνήμη Μεγάλου Σεισμοῦ '
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4762'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἀρσένιος Μητροπολίτης Ῥοστὼβ'
+            Short: 'Ἅγιος Ἀρσένιος Μητροπολίτης Ῥοστὼβ'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9846'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Τετάρτη
+            Short: Τετάρτη
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_2:3-11
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:24-2:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_2:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '523'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Βασίλειος ὁ Ὁμολογητὴς'
+            Short: 'Ὅσιος Βασίλειος ὁ Ὁμολογητὴς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02280295'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Κασσιανὸς ὁ Ῥωμαῖος'
+            Short: 'Ὅσιος Κασσιανὸς ὁ Ῥωμαῖος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '022803'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγία Κυράννα ὁ Νεομάρτυρας'
+            Short: 'Ἁγία Κυράννα ὁ Νεομάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '526'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Προτέριος ὁ ἱερομάρτυρας Ἀρχιεπίσκοπος Ἀλεξανδρείας'
+            Short: 'Ἅγιος Προτέριος ὁ ἱερομάρτυρας Ἀρχιεπίσκοπος Ἀλεξανδρείας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '022801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Βάρσος Ἐπίσκοπος Δαμασκοῦ'
+            Short: 'Ὅσιος Βάρσος Ἐπίσκοπος Δαμασκοῦ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἀβίρκιος ὁ Μάρτυρας'
+            Short: 'Ἅγιος Ἀβίρκιος ὁ Μάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '527'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Νέστωρας ὁ Μάρτυρας'
+            Short: 'Ἅγιος Νέστωρας ὁ Μάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '528'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Οσίες Μαράνα καὶ Κύρα'
+            Short: 'Οσίες Μαράνα καὶ Κύρα'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02280995'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Ἕξι Μάρτυρες ἐξ Αἰγύπτου'
+            Short: 'Ἅγιοι Ἕξι Μάρτυρες ἐξ Αἰγύπτου'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281095'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἰωνᾶς ὁ Λέριος'
+            Short: 'Ἅγιος Ἰωνᾶς ὁ Λέριος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281195'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Γεώργιος ὁ Ὁμολογητὴς Ἐπίσκοπος Δεφέλτου'
+            Short: 'Ἅγιος Γεώργιος ὁ Ὁμολογητὴς Ἐπίσκοπος Δεφέλτου'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '022800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Νυμφᾶς καὶ Εὔβουλος οἱ Ἀπόστολοι '
+            Short: 'Ἅγιοι Νυμφᾶς καὶ Εὔβουλος οἱ Ἀπόστολοι '
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Μακάριος, Ῥουφῖνος, Ἰοῦστος καὶ Θεόφιλος οἱ Μάρτυρες'
+            Short: 'Ἅγιοι Μακάριος, Ῥουφῖνος, Ἰοῦστος καὶ Θεόφιλος οἱ Μάρτυρες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Καιράλιος, Πουπούλιος, Γάϊος καὶ Σεραπίων οἱ Μάρτυρες'
+            Short: 'Ἅγιοι Καιράλιος, Πουπούλιος, Γάϊος καὶ Σεραπίων οἱ Μάρτυρες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Γερμανὸς ἐκ Ῥουμανίας'
+            Short: 'Ὅσιος Γερμανὸς ἐκ Ῥουμανίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Τεσσαράκοντα Χιλιάδες Μάρτυρες'
+            Short: 'Ἅγιοι Τεσσαράκοντα Χιλιάδες Μάρτυρες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '1636'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Νικόλαος τοῦ Πσκὼφ'
+            Short: 'Ἅγιος Νικόλαος τοῦ Πσκὼφ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281895'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Μελέτιος Ἐπίσκοπος Χαρκὼβ'
+            Short: 'Ὅσιος Μελέτιος Ἐπίσκοπος Χαρκὼβ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02281995'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Μνήμη Μεγάλου Σεισμοῦ '
+            Short: 'Μνήμη Μεγάλου Σεισμοῦ '
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4762'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἀρσένιος Μητροπολίτης Ῥοστὼβ'
+            Short: 'Ἅγιος Ἀρσένιος Μητροπολίτης Ῥοστὼβ'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+  en:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9846'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Clean Wednesday'
+            Short: 'Clean Wednesday'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_2:3-11
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:24-2:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_2:1-22
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '523'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Basil the Confessor was a monastic and suffered during the reign of the iconoclast emperor Leo the Isaurian (717-741). When a persecution started against those that venerated holy icons, Saint Basil together with his companion the Monk Prokopios (Comm. 27 February) was subjected to much torture and locked up in prison. here both martyrs languished for a long while, until the death of the impious emperor. When the holy Confessors Basil and Prokopios were set free together with other venerators of holy icons, they continued with their monastic efforts, instructing many in the Orthodox faith and the virtuous life. The Monk Basil died peacefully in the year 750. </p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Basil the Confessor, companion of the Venerable Procopius of Decapolis († c.  750)'
+            Short: 'Venerable Basil'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '526'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Proterius the Patriarch of Alexandria († 457)'
+            Short: 'Hieromartyr Proterius'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '527'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Nestor, Bishop of Magydos in Pamphylia († 250)'
+            Short: 'Hieromartyr Nestor'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '528'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable women: Marina, Cyra, and Domnina of Syria († c.  450)'
+            Short: 'Venerable women'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Apostles of the 70: Nymphas and Euboulus'
+            Short: 'Apostles Nymphas and Euboulus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022803'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Martyr Kyr-Anna'
+            Short: 'New Martyr Kyr-Anna'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1636'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Blessed Nicholas Salos of Pskov the Fool-For-Christ († 1576)'
+            Short: 'Blessed Nicholas'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4762'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Arsenius, Metropolitan of Rostov († 1772)'
+            Short: 'Hieromartyr Arsenius'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9846'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Clean Wednesday'
+            Short: 'Clean Wednesday'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_2:3-11
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:24-2:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_2:1-22
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '523'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Basil the Confessor was a monastic and suffered during the reign of the iconoclast emperor Leo the Isaurian (717-741). When a persecution started against those that venerated holy icons, Saint Basil together with his companion the Monk Prokopios (Comm. 27 February) was subjected to much torture and locked up in prison. here both martyrs languished for a long while, until the death of the impious emperor. When the holy Confessors Basil and Prokopios were set free together with other venerators of holy icons, they continued with their monastic efforts, instructing many in the Orthodox faith and the virtuous life. The Monk Basil died peacefully in the year 750. </p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Basil the Confessor, companion of the Venerable Procopius of Decapolis († c.  750)'
+            Short: 'Venerable Basil'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '526'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Proterius the Patriarch of Alexandria († 457)'
+            Short: 'Hieromartyr Proterius'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '527'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Nestor, Bishop of Magydos in Pamphylia († 250)'
+            Short: 'Hieromartyr Nestor'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '528'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable women: Marina, Cyra, and Domnina of Syria († c.  450)'
+            Short: 'Venerable women'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Apostles of the 70: Nymphas and Euboulus'
+            Short: 'Apostles Nymphas and Euboulus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022803'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Martyr Kyr-Anna'
+            Short: 'New Martyr Kyr-Anna'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1636'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Blessed Nicholas Salos of Pskov the Fool-For-Christ († 1576)'
+            Short: 'Blessed Nicholas'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4762'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Arsenius, Metropolitan of Rostov († 1772)'
+            Short: 'Hieromartyr Arsenius'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+  fr:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9846'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Mercredi Propre'
+            Short: 'Mercredi Propre'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_2:3-11
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:24-2:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_2:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '523'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Basile le Confesseur'
+            Short: 'St. Basile'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '022800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Nymphas et Eubule, Apôtres'
+            Short: 'Sts. Nymphas'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '527'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Nestor, Evêque de Magydos'
+            Short: 'St. Nestor'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '526'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Protère, Archevêque d’Alexandrie et ses compagnons'
+            Short: 'St. Protère'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02281300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Abricius'
+            Short: 'St. Abricius'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Barsos, Evêque de Damas'
+            Short: 'St. Barsos'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '528'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Stes Marana et Cyra'
+            Short: 'Stes Marana'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022803'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Kyranna'
+            Short: 'Ste. Kyranna'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1636'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Nicolas de Pskov, Fol en Christ'
+            Short: 'St. Nicolas'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02280497'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Shio (Syméon) en Géorgie'
+            Short: 'St. Shio'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022802'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Romain et Lucipin, fondateurs du Monastère de Condat dans le Jura'
+            Short: 'Sts. Romain'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9846'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Mercredi Propre'
+            Short: 'Mercredi Propre'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_2:3-11
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:24-2:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_2:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '523'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Basile le Confesseur'
+            Short: 'St. Basile'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '022800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Nymphas et Eubule, Apôtres'
+            Short: 'Sts. Nymphas'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '527'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Nestor, Evêque de Magydos'
+            Short: 'St. Nestor'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '526'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Protère, Archevêque d’Alexandrie et ses compagnons'
+            Short: 'St. Protère'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02281300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Abricius'
+            Short: 'St. Abricius'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Barsos, Evêque de Damas'
+            Short: 'St. Barsos'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '528'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Stes Marana et Cyra'
+            Short: 'Stes Marana'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022803'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Kyranna'
+            Short: 'Ste. Kyranna'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1636'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Nicolas de Pskov, Fol en Christ'
+            Short: 'St. Nicolas'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02280497'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Shio (Syméon) en Géorgie'
+            Short: 'St. Shio'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022802'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Romain et Lucipin, fondateurs du Monastère de Condat dans le Jura'
+            Short: 'Sts. Romain'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+  zh/Hans:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9846'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 洁净瞻礼四：大斋期第一周
+            Short: 洁净瞻礼四：大斋期第一周
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_2:3-11
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:24-2:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_2:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '523'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣瓦西里（宣信者，德卡颇利城的圣普若科彼的同伴，747年）
+            Short: 圣瓦西里（宣信者，德卡颇利城的圣普若科彼的同伴，747年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '022800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 使徒圣宁法及圣艾弗佛洛
+            Short: 使徒圣宁法及圣艾弗佛洛
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '527'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司教奈斯托尔（庞非里亚的玛吉多城主教，250年）
+            Short: 殉道司教奈斯托尔（庞非里亚的玛吉多城主教，250年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '528'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣女玛拉纳，基雅纳，多穆尼卡（均为叙利亚修女，450年）
+            Short: 圣女玛拉纳，基雅纳，多穆尼卡（均为叙利亚修女，450年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '526'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司教普若特里（亚历山大里亚牧首）及一同就义的六位殉道者（457年）
+            Short: 殉道司教普若特里（亚历山大里亚牧首）及一同就义的六位殉道者（457年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣瓦尔索（大马士革主教）
+            Short: 圣瓦尔索（大马士革主教）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022802'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣罗玛诺（居于高卢的犹拉山区孔达特地方之荒野的修行者，460年）
+            Short: 圣罗玛诺（居于高卢的犹拉山区孔达特地方之荒野的修行者，460年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022803'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新童贞殉道女基拉纳（就义于德撒洛尼基，1751年）
+            Short: 新童贞殉道女基拉纳（就义于德撒洛尼基，1751年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1636'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 蒙福者尼科拉（普斯科夫地方的圣愚，1576年）
+            Short: 蒙福者尼科拉（普斯科夫地方的圣愚，1576年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4762'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣阿尔塞尼（本姓马奇耶维奇，罗斯托夫都主教，宣信者，1772年）
+            Short: 圣阿尔塞尼（本姓马奇耶维奇，罗斯托夫都主教，宣信者，1772年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9846'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 洁净瞻礼四：大斋期第一周
+            Short: 洁净瞻礼四：大斋期第一周
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_2:3-11
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:24-2:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_2:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '523'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣瓦西里（宣信者，德卡颇利城的圣普若科彼的同伴，747年）
+            Short: 圣瓦西里（宣信者，德卡颇利城的圣普若科彼的同伴，747年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '022800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 使徒圣宁法及圣艾弗佛洛
+            Short: 使徒圣宁法及圣艾弗佛洛
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '527'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司教奈斯托尔（庞非里亚的玛吉多城主教，250年）
+            Short: 殉道司教奈斯托尔（庞非里亚的玛吉多城主教，250年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '528'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣女玛拉纳，基雅纳，多穆尼卡（均为叙利亚修女，450年）
+            Short: 圣女玛拉纳，基雅纳，多穆尼卡（均为叙利亚修女，450年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '526'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司教普若特里（亚历山大里亚牧首）及一同就义的六位殉道者（457年）
+            Short: 殉道司教普若特里（亚历山大里亚牧首）及一同就义的六位殉道者（457年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣瓦尔索（大马士革主教）
+            Short: 圣瓦尔索（大马士革主教）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022802'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣罗玛诺（居于高卢的犹拉山区孔达特地方之荒野的修行者，460年）
+            Short: 圣罗玛诺（居于高卢的犹拉山区孔达特地方之荒野的修行者，460年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022803'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新童贞殉道女基拉纳（就义于德撒洛尼基，1751年）
+            Short: 新童贞殉道女基拉纳（就义于德撒洛尼基，1751年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1636'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 蒙福者尼科拉（普斯科夫地方的圣愚，1576年）
+            Short: 蒙福者尼科拉（普斯科夫地方的圣愚，1576年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4762'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣阿尔塞尼（本姓马奇耶维奇，罗斯托夫都主教，宣信者，1772年）
+            Short: 圣阿尔塞尼（本姓马奇耶维奇，罗斯托夫都主教，宣信者，1772年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+  zh/Hant:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9846'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 潔淨瞻禮四：大齋期第一周
+            Short: 潔淨瞻禮四：大齋期第一周
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_2:3-11
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:24-2:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_2:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '523'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖瓦西里（宣信者，德卡頗利城的聖普若科彼的同伴，747年）
+            Short: 聖瓦西里（宣信者，德卡頗利城的聖普若科彼的同伴，747年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '022800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 使徒聖寧法及聖艾弗佛洛
+            Short: 使徒聖寧法及聖艾弗佛洛
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '527'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司教奈斯托爾（龐非里亞的瑪吉多城主教，250年）
+            Short: 殉道司教奈斯托爾（龐非里亞的瑪吉多城主教，250年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '528'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖女瑪拉納，基雅納，多穆尼卡（均為敘利亞修女，450年）
+            Short: 聖女瑪拉納，基雅納，多穆尼卡（均為敘利亞修女，450年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '526'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司教普若特里（亞歷山大里亞牧首）及一同就義的六位殉道者（457年）
+            Short: 殉道司教普若特里（亞歷山大里亞牧首）及一同就義的六位殉道者（457年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖瓦爾索（大馬士革主教）
+            Short: 聖瓦爾索（大馬士革主教）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022802'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖羅瑪諾（居於高盧的猶拉山區孔達特地方之荒野的修行者，460年）
+            Short: 聖羅瑪諾（居於高盧的猶拉山區孔達特地方之荒野的修行者，460年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022803'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新童貞殉道女基拉納（就義於德撒洛尼基，1751年）
+            Short: 新童貞殉道女基拉納（就義於德撒洛尼基，1751年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1636'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 蒙福者尼科拉（普斯科夫地方的聖愚，1576年）
+            Short: 蒙福者尼科拉（普斯科夫地方的聖愚，1576年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4762'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖阿爾塞尼（本姓馬奇耶維奇，羅斯托夫都主教，宣信者，1772年）
+            Short: 聖阿爾塞尼（本姓馬奇耶維奇，羅斯托夫都主教，宣信者，1772年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9846'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 潔淨瞻禮四：大齋期第一周
+            Short: 潔淨瞻禮四：大齋期第一周
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_2:3-11
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_1:24-2:3
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_2:1-22
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '523'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖瓦西里（宣信者，德卡頗利城的聖普若科彼的同伴，747年）
+            Short: 聖瓦西里（宣信者，德卡頗利城的聖普若科彼的同伴，747年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '022800'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 使徒聖寧法及聖艾弗佛洛
+            Short: 使徒聖寧法及聖艾弗佛洛
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '527'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司教奈斯托爾（龐非里亞的瑪吉多城主教，250年）
+            Short: 殉道司教奈斯托爾（龐非里亞的瑪吉多城主教，250年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '528'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖女瑪拉納，基雅納，多穆尼卡（均為敘利亞修女，450年）
+            Short: 聖女瑪拉納，基雅納，多穆尼卡（均為敘利亞修女，450年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '526'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司教普若特里（亞歷山大里亞牧首）及一同就義的六位殉道者（457年）
+            Short: 殉道司教普若特里（亞歷山大里亞牧首）及一同就義的六位殉道者（457年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022801'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖瓦爾索（大馬士革主教）
+            Short: 聖瓦爾索（大馬士革主教）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022802'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖羅瑪諾（居於高盧的猶拉山區孔達特地方之荒野的修行者，460年）
+            Short: 聖羅瑪諾（居於高盧的猶拉山區孔達特地方之荒野的修行者，460年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '022803'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新童貞殉道女基拉納（就義於德撒洛尼基，1751年）
+            Short: 新童貞殉道女基拉納（就義於德撒洛尼基，1751年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1636'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 蒙福者尼科拉（普斯科夫地方的聖愚，1576年）
+            Short: 蒙福者尼科拉（普斯科夫地方的聖愚，1576年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4762'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖阿爾塞尼（本姓馬奇耶維奇，羅斯托夫都主教，宣信者，1772年）
+            Short: 聖阿爾塞尼（本姓馬奇耶維奇，羅斯托夫都主教，宣信者，1772年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8

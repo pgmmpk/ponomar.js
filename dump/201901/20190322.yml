@@ -1,0 +1,1484 @@
+---
+date: 2019/3/22
+langs:
+  cu:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9824'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Четверто́къ д҃-ѧ седми́цы ст҃а́гѡ поста̀'
+            Short: Четверто́къ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_28:14-22
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_10:32-11:9
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_13:20-14:6
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '689'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника васі́лїа, пресвѵ́тера а҆гкѵ́рскїѧ це́ркве (363)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '690'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́ѧ мꙋ́ченицы Дросиды, дще́ри царѧ̀ Траяна, и҆ съ не́ю дѣ̑въ а҆глаі́ды, а҆поллїна́рїи, да́рїи, Мамфусы, таи́сїи (ок. 104-117)'
+            Short: 'Ст҃ы́ѧ мꙋ́ченицы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '110100'
+          info: ~
+          life: ~
+          menologion: ''
+          name: ~
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9824'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Четверто́къ д҃-ѧ седми́цы ст҃а́гѡ поста̀'
+            Short: Четверто́къ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_28:14-22
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_10:32-11:9
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_13:20-14:6
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '689'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника васі́лїа, пресвѵ́тера а҆гкѵ́рскїѧ це́ркве (363)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '690'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́ѧ мꙋ́ченицы Дросиды, дще́ри царѧ̀ Траяна, и҆ съ не́ю дѣ̑въ а҆глаі́ды, а҆поллїна́рїи, да́рїи, Мамфусы, таи́сїи (ок. 104-117)'
+            Short: 'Ст҃ы́ѧ мꙋ́ченицы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '110100'
+          info: ~
+          life: ~
+          menologion: ''
+          name: ~
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+  cu/ru:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9824'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Четверг 4-й седмицы Великого поста'
+            Nominative: 'Четверг 4-й седмицы Великого поста'
+            Short: 'Четверг 4-й седмицы Великого поста'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_28:14-22
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_10:32-11:9
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_13:20-14:6
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '689'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Василия, пресвитера Анкирского (363)'
+            Short: 'Сщмч. Василия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '690'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мц. Дросиды, дщери царя Траяна, и с нею дев Аглаиды, Аполлинарии, Дарии, Мамфусы, Таисии (ок. 104-117)'
+            Short: 'Мц. Дросиды'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '110100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Исаакия Далматского († 383)'
+            Short: 'Прп. Исаакия'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9824'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Четверг 4-й седмицы Великого поста'
+            Nominative: 'Четверг 4-й седмицы Великого поста'
+            Short: 'Четверг 4-й седмицы Великого поста'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_28:14-22
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_10:32-11:9
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_13:20-14:6
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '689'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Василия, пресвитера Анкирского (363)'
+            Short: 'Сщмч. Василия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '690'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мц. Дросиды, дщери царя Траяна, и с нею дев Аглаиды, Аполлинарии, Дарии, Мамфусы, Таисии (ок. 104-117)'
+            Short: 'Мц. Дросиды'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '110100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Исаакия Далматского († 383)'
+            Short: 'Прп. Исаакия'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+  el:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9824'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Πέμπτη
+            Short: Πέμπτη
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_28:14-22
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_10:32-11:9
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_13:20-14:6
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '689'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Βασίλειος ἱερομάρτυρας Πρεσβύτερος Ἀγκύρας'
+            Short: 'Ἅγιος Βασίλειος ἱερομάρτυρας Πρεσβύτερος Ἀγκύρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Οἱ Ἁγίες Καλλίνικη καὶ Βασίλισσα'
+            Short: 'Οἱ Ἁγίες Καλλίνικη καὶ Βασίλισσα'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Εὐθύμιος ὁ Πελοποννήσιος'
+            Short: 'Ἅγιος Εὐθύμιος ὁ Πελοποννήσιος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '690'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγία Δροσίδα καὶ τῶν σὺν αὐτῇ πέντε Παρθένων'
+            Short: 'Ἁγία Δροσίδα καὶ τῶν σὺν αὐτῇ πέντε Παρθένων'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03220195'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Δημήτριος ὁ ἱερομάρτυρας'
+            Short: 'Ἅγιος Δημήτριος ὁ ἱερομάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03220295'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγία Σοφία ἡ Ὁσιομάρτυς'
+            Short: 'Ἁγία Σοφία ἡ Ὁσιομάρτυς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03220395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Βασίλειος ὁ ἱερομάρτυρας καὶ Θαυματουργὸς Ἐπίσκοπος Μανγκαζίας Σιβηρίας'
+            Short: 'Ἅγιος Βασίλειος ὁ ἱερομάρτυρας καὶ Θαυματουργὸς Ἐπίσκοπος Μανγκαζίας Σιβηρίας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9824'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Πέμπτη
+            Short: Πέμπτη
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_28:14-22
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_10:32-11:9
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_13:20-14:6
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '689'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Βασίλειος ἱερομάρτυρας Πρεσβύτερος Ἀγκύρας'
+            Short: 'Ἅγιος Βασίλειος ἱερομάρτυρας Πρεσβύτερος Ἀγκύρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Οἱ Ἁγίες Καλλίνικη καὶ Βασίλισσα'
+            Short: 'Οἱ Ἁγίες Καλλίνικη καὶ Βασίλισσα'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Εὐθύμιος ὁ Πελοποννήσιος'
+            Short: 'Ἅγιος Εὐθύμιος ὁ Πελοποννήσιος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '690'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγία Δροσίδα καὶ τῶν σὺν αὐτῇ πέντε Παρθένων'
+            Short: 'Ἁγία Δροσίδα καὶ τῶν σὺν αὐτῇ πέντε Παρθένων'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03220195'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Δημήτριος ὁ ἱερομάρτυρας'
+            Short: 'Ἅγιος Δημήτριος ὁ ἱερομάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03220295'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγία Σοφία ἡ Ὁσιομάρτυς'
+            Short: 'Ἁγία Σοφία ἡ Ὁσιομάρτυς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03220395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Βασίλειος ὁ ἱερομάρτυρας καὶ Θαυματουργὸς Ἐπίσκοπος Μανγκαζίας Σιβηρίας'
+            Short: 'Ἅγιος Βασίλειος ὁ ἱερομάρτυρας καὶ Θαυματουργὸς Ἐπίσκοπος Μανγκαζίας Σιβηρίας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+  en:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9824'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Thursday of the Fourth Week of Lent'
+            Short: 'Thursday of the Fourth Week of Lent'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_28:14-22
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_10:32-11:9
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_13:20-14:6
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '689'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Basil of Ancyra († 363)'
+            Short: 'Hieromartyr Basil'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '690'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Drosis the Daughter of the Emperor Trajan (104-117)'
+            Short: 'Martyr Drosis'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '110100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Isaac the Founder of the Dalmatian Monastery at Constantinople († 383)'
+            Short: 'Venerable Isaac'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyrs Callinica and Basilissa of Rome'
+            Short: 'Martyrs Callinica'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Martyr Euthymius of Constantinople'
+            Short: 'Venerable Martyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Euthymius of Prodromou on Mt Athos († 1814)'
+            Short: 'Hieromartyr Euthymius'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9824'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Thursday of the Fourth Week of Lent'
+            Short: 'Thursday of the Fourth Week of Lent'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_28:14-22
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_10:32-11:9
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_13:20-14:6
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '689'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Basil of Ancyra († 363)'
+            Short: 'Hieromartyr Basil'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '690'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Drosis the Daughter of the Emperor Trajan (104-117)'
+            Short: 'Martyr Drosis'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '110100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Isaac the Founder of the Dalmatian Monastery at Constantinople († 383)'
+            Short: 'Venerable Isaac'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyrs Callinica and Basilissa of Rome'
+            Short: 'Martyrs Callinica'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Martyr Euthymius of Constantinople'
+            Short: 'Venerable Martyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Euthymius of Prodromou on Mt Athos († 1814)'
+            Short: 'Hieromartyr Euthymius'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+  fr:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9824'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Jeudi de la 4-me semaine du Carême'
+            Short: 'Jeudi de la 4-me semaine du Carême'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_28:14-22
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_10:32-11:9
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_13:20-14:6
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '689'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Basile d’Ancyre'
+            Short: 'St. Basile d’Ancyre'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '03220097'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Drosis d’Antioche'
+            Short: 'Ste. Drosis d’Antioche'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '690'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Stes Drosis, fille de l’empereur Trajan et ses 5 compagnes'
+            Short: 'Stes Drosis'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '110100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Isaac le Confesseur, fondateur du Monastère de Dalmate à Constantinople'
+            Short: 'St. Isaac'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Stes Callinique et Basilisse'
+            Short: 'Stes Callinique'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Euthyme l’Athonite'
+            Short: 'St. Euthyme l’Athonite'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03220397'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Ruf, Fondateur de l’Eglise d’Avignon'
+            Short: 'St. Ruf'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Paul de Narbonne'
+            Short: 'St. Paul'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9824'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Jeudi de la 4-me semaine du Carême'
+            Short: 'Jeudi de la 4-me semaine du Carême'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_28:14-22
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_10:32-11:9
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_13:20-14:6
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '689'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Basile d’Ancyre'
+            Short: 'St. Basile d’Ancyre'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '03220097'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Drosis d’Antioche'
+            Short: 'Ste. Drosis d’Antioche'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '690'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Stes Drosis, fille de l’empereur Trajan et ses 5 compagnes'
+            Short: 'Stes Drosis'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '110100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Isaac le Confesseur, fondateur du Monastère de Dalmate à Constantinople'
+            Short: 'St. Isaac'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Stes Callinique et Basilisse'
+            Short: 'Stes Callinique'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Euthyme l’Athonite'
+            Short: 'St. Euthyme l’Athonite'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03220397'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Ruf, Fondateur de l’Eglise d’Avignon'
+            Short: 'St. Ruf'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Paul de Narbonne'
+            Short: 'St. Paul'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+  zh/Hans:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9824'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大斋期第四周瞻礼五
+            Short: 大斋期第四周瞻礼五
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_28:14-22
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_10:32-11:9
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_13:20-14:6
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '689'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司祭瓦西里（安基拉城，362年）
+            Short: 殉道司祭瓦西里（安基拉城，362年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '690'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道女德若息斯及偕同就义者五位童贞女（安提阿城，104年）
+            Short: 殉道女德若息斯及偕同就义者五位童贞女（安提阿城，104年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '110100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣伊萨克（君士坦丁堡的达尔马提亚修道院创建者，383年）
+            Short: 圣伊萨克（君士坦丁堡的达尔马提亚修道院创建者，383年）
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道女卡利尼喀及瓦西利萨（罗马，2世纪）
+            Short: 殉道女卡利尼喀及瓦西利萨（罗马，2世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者艾弗提弥（君士坦丁的可敬者）
+            Short: 殉道者艾弗提弥（君士坦丁的可敬者）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者艾弗提弥（阿托斯圣山，1814年）
+            Short: 新殉道者艾弗提弥（阿托斯圣山，1814年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03220396'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道修女索斐亚（大圣衣修女院院长，基辅，1941年）
+            Short: 新殉道修女索斐亚（大圣衣修女院院长，基辅，1941年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣保罗（布列塔尼德的纳巴达城主教，3世纪）
+            Short: 圣保罗（布列塔尼德的纳巴达城主教，3世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9824'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大斋期第四周瞻礼五
+            Short: 大斋期第四周瞻礼五
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_28:14-22
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_10:32-11:9
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_13:20-14:6
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '689'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司祭瓦西里（安基拉城，362年）
+            Short: 殉道司祭瓦西里（安基拉城，362年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '690'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道女德若息斯及偕同就义者五位童贞女（安提阿城，104年）
+            Short: 殉道女德若息斯及偕同就义者五位童贞女（安提阿城，104年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '110100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣伊萨克（君士坦丁堡的达尔马提亚修道院创建者，383年）
+            Short: 圣伊萨克（君士坦丁堡的达尔马提亚修道院创建者，383年）
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道女卡利尼喀及瓦西利萨（罗马，2世纪）
+            Short: 殉道女卡利尼喀及瓦西利萨（罗马，2世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者艾弗提弥（君士坦丁的可敬者）
+            Short: 殉道者艾弗提弥（君士坦丁的可敬者）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者艾弗提弥（阿托斯圣山，1814年）
+            Short: 新殉道者艾弗提弥（阿托斯圣山，1814年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03220396'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道修女索斐亚（大圣衣修女院院长，基辅，1941年）
+            Short: 新殉道修女索斐亚（大圣衣修女院院长，基辅，1941年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣保罗（布列塔尼德的纳巴达城主教，3世纪）
+            Short: 圣保罗（布列塔尼德的纳巴达城主教，3世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+  zh/Hant:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9824'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大齋期第四周瞻禮五
+            Short: 大齋期第四周瞻禮五
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_28:14-22
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_10:32-11:9
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_13:20-14:6
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '689'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司祭瓦西里（安基拉城，362年）
+            Short: 殉道司祭瓦西里（安基拉城，362年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '690'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道女德若息斯及偕同就義者五位童貞女（安提阿城，104年）
+            Short: 殉道女德若息斯及偕同就義者五位童貞女（安提阿城，104年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '110100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖伊薩克（君士坦丁堡的達爾馬提亞修道院創建者，383年）
+            Short: 聖伊薩克（君士坦丁堡的達爾馬提亞修道院創建者，383年）
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道女卡利尼喀及瓦西利薩（羅馬，二世紀）
+            Short: 殉道女卡利尼喀及瓦西利薩（羅馬，二世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者艾弗提彌（君士坦丁的可敬者）
+            Short: 殉道者艾弗提彌（君士坦丁的可敬者）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者艾弗提彌（阿托斯聖山，1814年）
+            Short: 新殉道者艾弗提彌（阿托斯聖山，1814年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03220396'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道修女索斐亞（大聖衣修女院院長，基輔，1941年）
+            Short: 新殉道修女索斐亞（大聖衣修女院院長，基輔，1941年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖帕弗羅（布列塔尼德的納巴達城主教，三世紀）
+            Short: 聖帕弗羅（布列塔尼德的納巴達城主教，三世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9824'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大齋期第四周瞻禮五
+            Short: 大齋期第四周瞻禮五
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_28:14-22
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_10:32-11:9
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_13:20-14:6
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '689'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司祭瓦西里（安基拉城，362年）
+            Short: 殉道司祭瓦西里（安基拉城，362年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '690'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道女德若息斯及偕同就義者五位童貞女（安提阿城，104年）
+            Short: 殉道女德若息斯及偕同就義者五位童貞女（安提阿城，104年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '110100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖伊薩克（君士坦丁堡的達爾馬提亞修道院創建者，383年）
+            Short: 聖伊薩克（君士坦丁堡的達爾馬提亞修道院創建者，383年）
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '032200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道女卡利尼喀及瓦西利薩（羅馬，二世紀）
+            Short: 殉道女卡利尼喀及瓦西利薩（羅馬，二世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者艾弗提彌（君士坦丁的可敬者）
+            Short: 殉道者艾弗提彌（君士坦丁的可敬者）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者艾弗提彌（阿托斯聖山，1814年）
+            Short: 新殉道者艾弗提彌（阿托斯聖山，1814年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03220396'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道修女索斐亞（大聖衣修女院院長，基輔，1941年）
+            Short: 新殉道修女索斐亞（大聖衣修女院院長，基輔，1941年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '032203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖帕弗羅（布列塔尼德的納巴達城主教，三世紀）
+            Short: 聖帕弗羅（布列塔尼德的納巴達城主教，三世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3

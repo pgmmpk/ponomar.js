@@ -1,0 +1,1710 @@
+---
+date: 2019/2/2
+langs:
+  cu:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пѧто́къ л҃и-ѧ седми́цы по пѧтидесѧ́тницѣ'
+            Short: Пѧто́къ
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '33'
+                  pericope: '64'
+                  reading: 'II Pet_1:1-10a'
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '373'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Срѣ́тенїе гдⷭ҇а бг҃а и҆ сп҃са на́шегѡ і҆и҃са хрⷭ҇та̀'
+            Short: 'Срѣ́тенїе гдⷭ҇а'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Composite_6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_6:1-12
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'Isa_19:1-5, 12, 16, 19-21'
+                  type: '3'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '8'
+                  reading: Lk_2:25-32
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '316'
+                  reading: Heb_7:7-17
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '7'
+                  reading: Lk_2:22-40
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: ~
+      tone: 4
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пѧто́къ л҃и-ѧ седми́цы по пѧтидесѧ́тницѣ'
+            Short: Пѧто́къ
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '33'
+                  pericope: '64'
+                  reading: 'II Pet_1:1-10a'
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '373'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Срѣ́тенїе гдⷭ҇а бг҃а и҆ сп҃са на́шегѡ і҆и҃са хрⷭ҇та̀'
+            Short: 'Срѣ́тенїе гдⷭ҇а'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Composite_6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_6:1-12
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'Isa_19:1-5, 12, 16, 19-21'
+                  type: '3'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '8'
+                  reading: Lk_2:25-32
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '316'
+                  reading: Heb_7:7-17
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '7'
+                  reading: Lk_2:22-40
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: ~
+      tone: 4
+  cu/ru:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пятница 38-й седмицы по Пятидесятнице'
+            Short: 'Пятница 38-й седмицы по Пятидесятнице'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '33'
+                  pericope: '64'
+                  reading: 'II Pet_1:1-10a'
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '373'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сретение Господне'
+            Short: 'Сретение Господне'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Composite_6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_6:1-12
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'Isa_19:1-5, 12, 16, 19-21'
+                  type: '3'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '8'
+                  reading: Lk_2:25-32
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '316'
+                  reading: Heb_7:7-17
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '7'
+                  reading: Lk_2:22-40
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: ~
+      tone: 4
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пятница 38-й седмицы по Пятидесятнице'
+            Short: 'Пятница 38-й седмицы по Пятидесятнице'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '33'
+                  pericope: '64'
+                  reading: 'II Pet_1:1-10a'
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '373'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сретение Господне'
+            Short: 'Сретение Господне'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Composite_6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_6:1-12
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'Isa_19:1-5, 12, 16, 19-21'
+                  type: '3'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '8'
+                  reading: Lk_2:25-32
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '316'
+                  reading: Heb_7:7-17
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '7'
+                  reading: Lk_2:22-40
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: ~
+      tone: 4
+  el:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Παρασκευὴ
+            Short: Παρασκευὴ
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '33'
+                  pericope: '64'
+                  reading: 'II Pet_1:1-10a'
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '373'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Ἡ Ὑπαπαντὴ τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ'
+            Nominative: 'Ἡ Ὑπαπαντὴ τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ'
+            Short: 'Ἡ Ὑπαπαντὴ τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Composite_6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_6:1-12
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'Isa_19:1-5, 12, 16, 19-21'
+                  type: '3'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '8'
+                  reading: Lk_2:25-32
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '316'
+                  reading: Heb_7:7-17
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '7'
+                  reading: Lk_2:22-40
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '020202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἀγαθόδωρος'
+            Short: 'Ἅγιος Ἀγαθόδωρος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '020200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἰορδάνης ὁ ἐκ Τραπεζούντας'
+            Short: 'Ἅγιος Ἰορδάνης ὁ ἐκ Τραπεζούντας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02024596'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Εὐθύμιος ἐκ Γεωργίας'
+            Short: 'Ὅσιος Εὐθύμιος ἐκ Γεωργίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '020201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Γαβριὴλ ὁ Ὁσιομάρτυρας ὁ ἐν Κωνσταντινουπόλει'
+            Short: 'Ἅγιος Γαβριὴλ ὁ Ὁσιομάρτυρας ὁ ἐν Κωνσταντινουπόλει'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02020695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Ἀπεκοῆς'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Ἀπεκοῆς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02020795'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Γουμενίσσης'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Γουμενίσσης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02020895'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Κακιᾶς Μέλισσας'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Κακιᾶς Μέλισσας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02020995'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Ὑπαπαντῆς'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Ὑπαπαντῆς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02021095'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Φλεβαριωτίσσης ἤ Λιβύης'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Φλεβαριωτίσσης ἤ Λιβύης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02021195'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Φλεβαριωτίσσης'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Φλεβαριωτίσσης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02021295'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Χρυσαλινιωτίσσης'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Χρυσαλινιωτίσσης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02021395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Μαρουλιανής'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Μαρουλιανής'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02021495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Παναγίας τῆς Θαλασσίτρας στὴν Μήλο'
+            Short: 'Σύναξις τῆς Παναγίας τῆς Θαλασσίτρας στὴν Μήλο'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 4
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Παρασκευὴ
+            Short: Παρασκευὴ
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '33'
+                  pericope: '64'
+                  reading: 'II Pet_1:1-10a'
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '373'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Ἡ Ὑπαπαντὴ τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ'
+            Nominative: 'Ἡ Ὑπαπαντὴ τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ'
+            Short: 'Ἡ Ὑπαπαντὴ τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Composite_6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_6:1-12
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'Isa_19:1-5, 12, 16, 19-21'
+                  type: '3'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '8'
+                  reading: Lk_2:25-32
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '316'
+                  reading: Heb_7:7-17
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '7'
+                  reading: Lk_2:22-40
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '020202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἀγαθόδωρος'
+            Short: 'Ἅγιος Ἀγαθόδωρος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '020200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἰορδάνης ὁ ἐκ Τραπεζούντας'
+            Short: 'Ἅγιος Ἰορδάνης ὁ ἐκ Τραπεζούντας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02024596'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Εὐθύμιος ἐκ Γεωργίας'
+            Short: 'Ὅσιος Εὐθύμιος ἐκ Γεωργίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '020201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Γαβριὴλ ὁ Ὁσιομάρτυρας ὁ ἐν Κωνσταντινουπόλει'
+            Short: 'Ἅγιος Γαβριὴλ ὁ Ὁσιομάρτυρας ὁ ἐν Κωνσταντινουπόλει'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02020695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Ἀπεκοῆς'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Ἀπεκοῆς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02020795'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Γουμενίσσης'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Γουμενίσσης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02020895'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Κακιᾶς Μέλισσας'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Κακιᾶς Μέλισσας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02020995'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Ὑπαπαντῆς'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Ὑπαπαντῆς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02021095'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Φλεβαριωτίσσης ἤ Λιβύης'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Φλεβαριωτίσσης ἤ Λιβύης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02021195'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Φλεβαριωτίσσης'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Φλεβαριωτίσσης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02021295'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Χρυσαλινιωτίσσης'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Χρυσαλινιωτίσσης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02021395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Μαρουλιανής'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τῆς Μαρουλιανής'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02021495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Παναγίας τῆς Θαλασσίτρας στὴν Μήλο'
+            Short: 'Σύναξις τῆς Παναγίας τῆς Θαλασσίτρας στὴν Μήλο'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 4
+  en:
+    ponomar:
+      fastings: '0011111'
+      saints:
+        -
+          cid: '9314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Friday of the 38<sup>th</sup> Week after Pentecost'
+            Short: 'Friday of the 38<sup>th</sup> Week after Pentecost'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '33'
+                  pericope: '64'
+                  reading: 'II Pet_1:1-10a'
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '373'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'The Meeting of our Lord, God, and Saviour Jesus Christ in the Temple'
+            Short: Meeting
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Composite_6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_6:1-12
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'Isa_19:1-5, 12, 16, 19-21'
+                  type: '3'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '8'
+                  reading: Lk_2:25-32
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '316'
+                  reading: Heb_7:7-17
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '7'
+                  reading: Lk_2:22-40
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '7'
+        -
+          cid: '020200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Martyr Jordan of Trebizond'
+            Short: 'New Martyr Jordan'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Venerable Martyr Gabriel'
+            Short: 'New Venerable Martyr Gabriel'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02020399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Icon of the Mother of God “Softening of evil hearts”'
+            Short: 'Icon of'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 4
+    ponomarReordered:
+      fastings: '0011111'
+      saints:
+        -
+          cid: '9314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Friday of the 38<sup>th</sup> Week after Pentecost'
+            Short: 'Friday of the 38<sup>th</sup> Week after Pentecost'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '373'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'The Meeting of our Lord, God, and Saviour Jesus Christ in the Temple'
+            Short: Meeting
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Composite_6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_6:1-12
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'Isa_19:1-5, 12, 16, 19-21'
+                  type: '3'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '8'
+                  reading: Lk_2:25-32
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '316'
+                  reading: Heb_7:7-17
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '7'
+                  reading: Lk_2:22-40
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '7'
+        -
+          cid: '020200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Martyr Jordan of Trebizond'
+            Short: 'New Martyr Jordan'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Venerable Martyr Gabriel'
+            Short: 'New Venerable Martyr Gabriel'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02020399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Icon of the Mother of God “Softening of evil hearts”'
+            Short: 'Icon of'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 4
+  fr:
+    ponomar:
+      fastings: '0011111'
+      saints:
+        -
+          cid: '9314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Vendredi de la 38-me semaine après le Pentecôte'
+            Short: 'Vendredi de la 38-me semaine après le Pentecôte'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '33'
+                  pericope: '64'
+                  reading: 'II Pet_1:1-10a'
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '373'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sainte Rencontre (Hypapante) de notre Seigneur'
+            Short: 'Sainte Rencontre'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Composite_6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_6:1-12
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'Isa_19:1-5, 12, 16, 19-21'
+                  type: '3'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '8'
+                  reading: Lk_2:25-32
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '316'
+                  reading: Heb_7:7-17
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '7'
+                  reading: Lk_2:22-40
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '7'
+        -
+          cid: '020202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Agathodore'
+            Short: 'St. Agathodore'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Néomartyr Jourdain de Trébizonde'
+            Short: 'St. Néomartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Néomartyr Gabriel à Constantinople'
+            Short: 'St. Néomartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 4
+    ponomarReordered:
+      fastings: '0011111'
+      saints:
+        -
+          cid: '9314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Vendredi de la 38-me semaine après le Pentecôte'
+            Short: 'Vendredi de la 38-me semaine après le Pentecôte'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '373'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sainte Rencontre (Hypapante) de notre Seigneur'
+            Short: 'Sainte Rencontre'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Composite_6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_6:1-12
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'Isa_19:1-5, 12, 16, 19-21'
+                  type: '3'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '8'
+                  reading: Lk_2:25-32
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '316'
+                  reading: Heb_7:7-17
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '7'
+                  reading: Lk_2:22-40
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '7'
+        -
+          cid: '020202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Agathodore'
+            Short: 'St. Agathodore'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Néomartyr Jourdain de Trébizonde'
+            Short: 'St. Néomartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Néomartyr Gabriel à Constantinople'
+            Short: 'St. Néomartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 4
+  zh/Hans:
+    ponomar:
+      fastings: '0011111'
+      saints:
+        -
+          cid: '9314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬节后第卅八周预备日
+            Short: 五旬节后第卅八周预备日
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '33'
+                  pericope: '64'
+                  reading: 'II Pet_1:1-10a'
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '373'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 主进殿节——纪念我们的主，上帝，救主被奉献于圣殿，也纪念圣母取洁
+            Short: 主进殿节
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Composite_6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_6:1-12
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'Isa_19:1-5, 12, 16, 19-21'
+                  type: '3'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '8'
+                  reading: Lk_2:25-32
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '316'
+                  reading: Heb_7:7-17
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '7'
+                  reading: Lk_2:22-40
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '7'
+        -
+          cid: '020200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者约尔达尼（特里维宗德，1650年）
+            Short: 新殉道者约尔达尼（特里维宗德，1650年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者加百列（君士坦丁堡，1676年）
+            Short: 新殉道者加百列（君士坦丁堡，1676年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者阿伽托多若（卡帕多西亚）
+            Short: 殉道者阿伽托多若（卡帕多西亚）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣安提默（希俄斯岛，1960年）
+            Short: 圣安提默（希俄斯岛，1960年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 4
+    ponomarReordered:
+      fastings: '0011111'
+      saints:
+        -
+          cid: '9314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬节后第卅八周预备日
+            Short: 五旬节后第卅八周预备日
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '373'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 主进殿节——纪念我们的主，上帝，救主被奉献于圣殿，也纪念圣母取洁
+            Short: 主进殿节
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Composite_6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_6:1-12
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'Isa_19:1-5, 12, 16, 19-21'
+                  type: '3'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '8'
+                  reading: Lk_2:25-32
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '316'
+                  reading: Heb_7:7-17
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '7'
+                  reading: Lk_2:22-40
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '7'
+        -
+          cid: '020200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者约尔达尼（特里维宗德，1650年）
+            Short: 新殉道者约尔达尼（特里维宗德，1650年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者加百列（君士坦丁堡，1676年）
+            Short: 新殉道者加百列（君士坦丁堡，1676年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者阿伽托多若（卡帕多西亚）
+            Short: 殉道者阿伽托多若（卡帕多西亚）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣安提默（希俄斯岛，1960年）
+            Short: 圣安提默（希俄斯岛，1960年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 4
+  zh/Hant:
+    ponomar:
+      fastings: '0011111'
+      saints:
+        -
+          cid: '9314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬節後第卅八周預備日
+            Short: 五旬節後第卅八周預備日
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '33'
+                  pericope: '64'
+                  reading: 'II Pet_1:1-10a'
+                  type: apostol
+                -
+                  effWeek: '33'
+                  pericope: '58'
+                  reading: Mk_13:1-8
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '373'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 主進殿節——紀念我們的主，上帝，救主被奉獻於聖殿，也紀念聖母取潔
+            Short: 主進殿節
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Composite_6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_6:1-12
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'Isa_19:1-5, 12, 16, 19-21'
+                  type: '3'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '8'
+                  reading: Lk_2:25-32
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '316'
+                  reading: Heb_7:7-17
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '7'
+                  reading: Lk_2:22-40
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '7'
+        -
+          cid: '020200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者約爾達尼（特里維宗德，1650年）
+            Short: 新殉道者約爾達尼（特里維宗德，1650年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者加百列（君士坦丁堡，1676年）
+            Short: 新殉道者加百列（君士坦丁堡，1676年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者阿伽托多若（卡帕多西亞）
+            Short: 殉道者阿伽托多若（卡帕多西亞）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖安提默（希俄斯島，1960年）
+            Short: 聖安提默（希俄斯島，1960年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 4
+    ponomarReordered:
+      fastings: '0011111'
+      saints:
+        -
+          cid: '9314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬節後第卅八周預備日
+            Short: 五旬節後第卅八周預備日
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '373'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 主進殿節——紀念我們的主，上帝，救主被奉獻於聖殿，也紀念聖母取潔
+            Short: 主進殿節
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Composite_6
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_6:1-12
+                  type: '2'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: 'Isa_19:1-5, 12, 16, 19-21'
+                  type: '3'
+              type: vespers
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '8'
+                  reading: Lk_2:25-32
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '316'
+                  reading: Heb_7:7-17
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '7'
+                  reading: Lk_2:22-40
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '7'
+        -
+          cid: '020200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者約爾達尼（特里維宗德，1650年）
+            Short: 新殉道者約爾達尼（特里維宗德，1650年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者加百列（君士坦丁堡，1676年）
+            Short: 新殉道者加百列（君士坦丁堡，1676年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者阿伽托多若（卡帕多西亞）
+            Short: 殉道者阿伽托多若（卡帕多西亞）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '020203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖安提默（希俄斯島，1960年）
+            Short: 聖安提默（希俄斯島，1960年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 4

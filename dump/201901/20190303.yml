@@ -1,0 +1,1840 @@
+---
+date: 2019/3/3
+langs:
+  cu:
+    ponomar:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9843'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сꙋббѡ́та а҃-ѧ седми́цы ст҃а́гѡ поста̀'
+            Short: Сꙋббѡ́та
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '303'
+                  reading: Heb_1:1-12
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '10'
+                  reading: Mk_2:23-3:5
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '2203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: "с\x99т҃гѡ ѳео́дѡра"
+            Nominative: ''
+            Short: "с\x99т҃гѡ ѳео́дѡра"
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '292'
+                  reading: 'II Tim_2:1-10'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '52'
+                  reading: Jn_15:17-16:2
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '555'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́хъ мꙋ́чєникъ є҆ѵтро́пїая, клеоні́ка и҆ васїлі́ска (ок. 308)'
+            Short: 'Ст҃ы́хъ мꙋ́чєникъ'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '030300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбномꙋ́ченицы ма́рѳы и҆ мч҃ника мїхаи́ла (1938)'
+            Short: 'Прпⷣбномꙋ́ченицы ма́рѳы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '556'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ Пиамы дѣ́вы (337)'
+            Short: 'Прпⷣбнагѡ Пиамы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '030301'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́хъ зинѡ́на и҆ Зоила'
+            Short: 'Ст҃ы́хъ Зинона'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '557'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Волокола́мскїѧ і҆кѡ́ны бж҃їѧ мт҃ри (1572)'
+            Short: 'Волоколамской і҆кѡ́ны'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+    ponomarReordered:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9843'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сꙋббѡ́та а҃-ѧ седми́цы ст҃а́гѡ поста̀'
+            Short: Сꙋббѡ́та
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '303'
+                  reading: Heb_1:1-12
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '10'
+                  reading: Mk_2:23-3:5
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '2203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: "с\x99т҃гѡ ѳео́дѡра"
+            Nominative: ''
+            Short: "с\x99т҃гѡ ѳео́дѡра"
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '292'
+                  reading: 'II Tim_2:1-10'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '52'
+                  reading: Jn_15:17-16:2
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '555'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́хъ мꙋ́чєникъ є҆ѵтро́пїая, клеоні́ка и҆ васїлі́ска (ок. 308)'
+            Short: 'Ст҃ы́хъ мꙋ́чєникъ'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '030300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбномꙋ́ченицы ма́рѳы и҆ мч҃ника мїхаи́ла (1938)'
+            Short: 'Прпⷣбномꙋ́ченицы ма́рѳы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '556'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ Пиамы дѣ́вы (337)'
+            Short: 'Прпⷣбнагѡ Пиамы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '030301'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́хъ зинѡ́на и҆ Зоила'
+            Short: 'Ст҃ы́хъ Зинона'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '557'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Волокола́мскїѧ і҆кѡ́ны бж҃їѧ мт҃ри (1572)'
+            Short: 'Волоколамской і҆кѡ́ны'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+  cu/ru:
+    ponomar:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9843'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: субботы
+            Nominative: 'Чистая суббота, Феодоровская суббота'
+            Short: суббота
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '303'
+                  reading: Heb_1:1-12
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '10'
+                  reading: Mk_2:23-3:5
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '2203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Вмч. Феодора'
+            Nominative: 'Вмч. Феодора Тирона (306)'
+            Short: 'Вмч. Феодора'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '292'
+                  reading: 'II Tim_2:1-10'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '52'
+                  reading: Jn_15:17-16:2
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '555'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n     Святые мученики Евтропий, Клеоник и Василиск пострадали в  городе Амасии Понтийской (Малая Азия) около 308 года.     Братья Евтропий и Клеоник и племянник святого великомуче ника Феодора Тирона (память 17 февраля) Василиск были друзья ми. После мученической кончины святого Феодора они находились  в заключении и своей проповедью привели к христианской вере  многих язычников, бывших с ними в темнице.     Когда истязавший святого Феодора Публий бесславно погиб, пораженный Божиим гневом, правителем Амасии Понтийской был назначен Асклипиодот, не уступавший в жестокости своему предшественнику. Узнав, что друзья мученика Феодора Тирона все еще находятся в темнице, правитель велел привести их к себе. Перед новым правителем святые Евтропий, Клеоник и Василиск так же твердо исповедали веру во Христа. Они были беспощадно избиты, так что тела их превратились в сплошную рану. Во время пыток святой Евтропий громко молился Спасителю: «Даждь, Господи, нам терпения совершенного в ранах сих ради венца мученического, и прииди на помощь к нам, якоже к рабу Твоему Феодору пришел еси». В ответ на мольбу святого мученикам явился Сам Господь с Ангелами и с ними святой великомученик Феодор Тирон, сказавший им: «Се на помощь вашу Спаситель прииде, да известны будете о вечной жизни».     Воины и многие из стоявших поблизости людей также сподобились видеть Спасителя. Они стали просить Асклипиодота прекратить пытки. Увидев, что народ волнуется и готов уверовать в Истинного Бога, правитель велел увести мучеников. Потом правитель пригласил святого Евтропия к себе на обед и предложил ему публично принести жертвы языческим богам, а в душе оставаться христианином.     Но Евтропий отверг это предложение.     На следующий день мучеников привели в языческий храм, чтобы насильно заставить их принести жертвы. Тогда Евтропий стал просить Спасителя: «Господи, буди с нами, а все языческое беснование истреби. Даждь, да на месте сем христиане Бескровные Жертвы принесут Тебе, Истинному Богу». Только прозвучало последнее слово молитвы, как началось землетрясение, стали рушиться стены храма, а с ними разбилось и изображение богини Артемиды. Все бросились из храма, чтобы не погибнуть среди развалин. Среди шума землетрясения раздался свыше глас: «Молитва ваша услышана, и на этом месте будет дом для молитвы христиан».     Когда кончилось землетрясение, едва опомнившийся от страха правитель Асклипиодот велел врыть в землю высокие деревянные колья, привязать к ним мучеников и поливать кипящей смолой. Святые стали молиться Богу, а Евтропий воскликнул, обращаясь к мучителям: «Да обратит Господь дело ваше против вас!» И смола стала обтекать тела мучеников, как вода мрамор, и обжигать мучителей. Видевшие это пришли в ужас, а правитель в ожесточении приказал рвать тела святых железными крючьями и уязвлять  их раны горчицей, смешанной с солью и уксусом. Святые и эти  муки перенесли с удивительной твердостью.     Последнюю ночь перед казнью мученики провели в молитве,  и снова Господь явился им и укреплял их.     Утром 3 марта святые Евтропий и Клеоник были распяты, а  Василиск оставлен в заточении.     22 мая в городе Команах казнили святого Василиска. Его обез главили, а тело бросили в реку. Однако христиане нашли его  останки и похоронили их на вспаханном поле. Позже в Команах  была воздвигнута церковь во имя святого Василиска.     Сведения о житии святого мученика помещены 22 мая. \n"
+          menologion: ''
+          name:
+            Nominative: 'Мчч. Евтропия, Клеоника и Василиска (ок. 308)'
+            Short: 'Мчч. Евтропия'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '030300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прмц. Марфы и мч. Михаила (1938)'
+            Short: 'Прмц. Марфы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '556'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Пиамы девы (337)'
+            Short: 'Прп. Пиамы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '030301'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свв. Зинона и Зоила'
+            Short: 'Свв. Зинона'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '557'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Волоколамской иконы Божией Матери (1572)'
+            Short: 'Волоколамской иконы'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+    ponomarReordered:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9843'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: субботы
+            Nominative: 'Чистая суббота, Феодоровская суббота'
+            Short: суббота
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '303'
+                  reading: Heb_1:1-12
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '10'
+                  reading: Mk_2:23-3:5
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '2203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Вмч. Феодора'
+            Nominative: 'Вмч. Феодора Тирона (306)'
+            Short: 'Вмч. Феодора'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '292'
+                  reading: 'II Tim_2:1-10'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '52'
+                  reading: Jn_15:17-16:2
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '555'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n     Святые мученики Евтропий, Клеоник и Василиск пострадали в  городе Амасии Понтийской (Малая Азия) около 308 года.     Братья Евтропий и Клеоник и племянник святого великомуче ника Феодора Тирона (память 17 февраля) Василиск были друзья ми. После мученической кончины святого Феодора они находились  в заключении и своей проповедью привели к христианской вере  многих язычников, бывших с ними в темнице.     Когда истязавший святого Феодора Публий бесславно погиб, пораженный Божиим гневом, правителем Амасии Понтийской был назначен Асклипиодот, не уступавший в жестокости своему предшественнику. Узнав, что друзья мученика Феодора Тирона все еще находятся в темнице, правитель велел привести их к себе. Перед новым правителем святые Евтропий, Клеоник и Василиск так же твердо исповедали веру во Христа. Они были беспощадно избиты, так что тела их превратились в сплошную рану. Во время пыток святой Евтропий громко молился Спасителю: «Даждь, Господи, нам терпения совершенного в ранах сих ради венца мученического, и прииди на помощь к нам, якоже к рабу Твоему Феодору пришел еси». В ответ на мольбу святого мученикам явился Сам Господь с Ангелами и с ними святой великомученик Феодор Тирон, сказавший им: «Се на помощь вашу Спаситель прииде, да известны будете о вечной жизни».     Воины и многие из стоявших поблизости людей также сподобились видеть Спасителя. Они стали просить Асклипиодота прекратить пытки. Увидев, что народ волнуется и готов уверовать в Истинного Бога, правитель велел увести мучеников. Потом правитель пригласил святого Евтропия к себе на обед и предложил ему публично принести жертвы языческим богам, а в душе оставаться христианином.     Но Евтропий отверг это предложение.     На следующий день мучеников привели в языческий храм, чтобы насильно заставить их принести жертвы. Тогда Евтропий стал просить Спасителя: «Господи, буди с нами, а все языческое беснование истреби. Даждь, да на месте сем христиане Бескровные Жертвы принесут Тебе, Истинному Богу». Только прозвучало последнее слово молитвы, как началось землетрясение, стали рушиться стены храма, а с ними разбилось и изображение богини Артемиды. Все бросились из храма, чтобы не погибнуть среди развалин. Среди шума землетрясения раздался свыше глас: «Молитва ваша услышана, и на этом месте будет дом для молитвы христиан».     Когда кончилось землетрясение, едва опомнившийся от страха правитель Асклипиодот велел врыть в землю высокие деревянные колья, привязать к ним мучеников и поливать кипящей смолой. Святые стали молиться Богу, а Евтропий воскликнул, обращаясь к мучителям: «Да обратит Господь дело ваше против вас!» И смола стала обтекать тела мучеников, как вода мрамор, и обжигать мучителей. Видевшие это пришли в ужас, а правитель в ожесточении приказал рвать тела святых железными крючьями и уязвлять  их раны горчицей, смешанной с солью и уксусом. Святые и эти  муки перенесли с удивительной твердостью.     Последнюю ночь перед казнью мученики провели в молитве,  и снова Господь явился им и укреплял их.     Утром 3 марта святые Евтропий и Клеоник были распяты, а  Василиск оставлен в заточении.     22 мая в городе Команах казнили святого Василиска. Его обез главили, а тело бросили в реку. Однако христиане нашли его  останки и похоронили их на вспаханном поле. Позже в Команах  была воздвигнута церковь во имя святого Василиска.     Сведения о житии святого мученика помещены 22 мая. \n"
+          menologion: ''
+          name:
+            Nominative: 'Мчч. Евтропия, Клеоника и Василиска (ок. 308)'
+            Short: 'Мчч. Евтропия'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '030300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прмц. Марфы и мч. Михаила (1938)'
+            Short: 'Прмц. Марфы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '556'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Пиамы девы (337)'
+            Short: 'Прп. Пиамы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '030301'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свв. Зинона и Зоила'
+            Short: 'Свв. Зинона'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '557'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Волоколамской иконы Божией Матери (1572)'
+            Short: 'Волоколамской иконы'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+  el:
+    ponomar:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9843'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σάββατον Aʹ τῶν νηστειῶν'
+            Short: Σάββατον
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '303'
+                  reading: Heb_1:1-12
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '10'
+                  reading: Mk_2:23-3:5
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '2203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Θεόδωρος ὁ Τήρων'
+            Short: 'Ἅγιος Θεόδωρος ὁ Τήρων'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '292'
+                  reading: 'II Tim_2:1-10'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '52'
+                  reading: Jn_15:17-16:2
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '555'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Εὐτρόπιος , Κλεόνικος καὶ Βασιλίσκος'
+            Short: 'Ἅγιοι Εὐτρόπιος , Κλεόνικος καὶ Βασιλίσκος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '030304'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Ἅγιος Θεοδώρητος'
+            Nominative: 'Ἅγιος Θεοδώρητος ὁ ἱερομάρτυρας, πρεσβύτερος Ἀντιοχείας'
+            Short: 'Ἅγιος Θεοδώρητος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '030301'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιοι Ζήνων καὶ Ζωΐλος'
+            Short: 'Ὅσιοι Ζήνων καὶ Ζωΐλος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '556'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὁσία Πιαμοῦν ἡ Παρθένος'
+            Short: 'Ὁσία Πιαμοῦν ἡ Παρθένος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03030395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὁσία Αλεξάνδρα ἡ ἐξ Ἀλεξανδρείας'
+            Short: 'Ὁσία Αλεξάνδρα ἡ ἐξ Ἀλεξανδρείας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '557'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τοῦ Βολοκολὰμσκ ἐν Ῥωσίᾳ'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τοῦ Βολοκολὰμσκ ἐν Ῥωσίᾳ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03030495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἰωάννης Πατριάρχης Γεωργίας'
+            Short: 'Ἅγιος Ἰωάννης Πατριάρχης Γεωργίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03030295'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Ἐννέα Μάρτυρες οἱ ἐκ Γεωργίας'
+            Short: 'Ἅγιοι Ἐννέα Μάρτυρες οἱ ἐκ Γεωργίας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+    ponomarReordered:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9843'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σάββατον Aʹ τῶν νηστειῶν'
+            Short: Σάββατον
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '303'
+                  reading: Heb_1:1-12
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '10'
+                  reading: Mk_2:23-3:5
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '2203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Θεόδωρος ὁ Τήρων'
+            Short: 'Ἅγιος Θεόδωρος ὁ Τήρων'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '292'
+                  reading: 'II Tim_2:1-10'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '52'
+                  reading: Jn_15:17-16:2
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '555'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Εὐτρόπιος , Κλεόνικος καὶ Βασιλίσκος'
+            Short: 'Ἅγιοι Εὐτρόπιος , Κλεόνικος καὶ Βασιλίσκος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '030304'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Ἅγιος Θεοδώρητος'
+            Nominative: 'Ἅγιος Θεοδώρητος ὁ ἱερομάρτυρας, πρεσβύτερος Ἀντιοχείας'
+            Short: 'Ἅγιος Θεοδώρητος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '030301'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιοι Ζήνων καὶ Ζωΐλος'
+            Short: 'Ὅσιοι Ζήνων καὶ Ζωΐλος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '556'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὁσία Πιαμοῦν ἡ Παρθένος'
+            Short: 'Ὁσία Πιαμοῦν ἡ Παρθένος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03030395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὁσία Αλεξάνδρα ἡ ἐξ Ἀλεξανδρείας'
+            Short: 'Ὁσία Αλεξάνδρα ἡ ἐξ Ἀλεξανδρείας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '557'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τοῦ Βολοκολὰμσκ ἐν Ῥωσίᾳ'
+            Short: 'Σύναξις τῆς Ὑπεραγίας Θεοτόκου τοῦ Βολοκολὰμσκ ἐν Ῥωσίᾳ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03030495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἰωάννης Πατριάρχης Γεωργίας'
+            Short: 'Ἅγιος Ἰωάννης Πατριάρχης Γεωργίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03030295'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Ἐννέα Μάρτυρες οἱ ἐκ Γεωργίας'
+            Short: 'Ἅγιοι Ἐννέα Μάρτυρες οἱ ἐκ Γεωργίας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+  en:
+    ponomar:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9843'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Theodore Saturday'
+            Short: Saturday
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '303'
+                  reading: Heb_1:1-12
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '10'
+                  reading: Mk_2:23-3:5
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '2203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Great Martyr Theodore the Recruit († c. 306)'
+            Short: 'Great Martyr Theodore'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '292'
+                  reading: 'II Tim_2:1-10'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '52'
+                  reading: Jn_15:17-16:2
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '2'
+        -
+          cid: '555'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Holy Martyrs Eutropios, Kleonikos and Basiliskos suffered in the city of Pontine Amasia (Asia Minor) in about the year 308. </p><p>The brothers Eutropios and Kleonikos, and Basiliskos the nephew of the Great Martyr Theodore of Tyre (Comm. 17 February), were comrades. After the martyr’s death of Saint Theodore, they wound up in prison and by their preaching brought to the Christian faith many of the pagans located in prison with them.</p><p>When he tortured Saint Theodore, Publius perished shamefully, struck down by Divine wrath. Asclepiodotos was chosen governor of Pontine Amasia, and did not bend from the fierceness of his predecessor. Knowing the comrades of the martyr Theodore of Tyre were still all in prison, the governor commanded that they be brought to him. Saints Eutropios, Kleonikos and Basiliskos thus firmly confessed their faith in Christ in front of this new governor. They were mercilessly beaten, such that their bodies became entirely bruised. At the time of torture Saint Eutropios prayed loudly to the Saviour: “Grant us, O Lord, to endure the making of these wounds for the sake of the crown of martyrdom, and come in help to us, like as Thou camest to Thy servant Theodore.” In answer to this prayer of the saint, there appeared to the martyrs the Lord Himself with Angels and together with them the holy Great Martyr Theodore of Tyre, saying to them: “Behold, the Saviour is come in help to you, that ye may know about life eternal.” </p><p>Soldiers and many of the people standing nearby were also granted to behold the Saviour. They began to urge Asclepiodotos to halt the tortures. Seeing, that the people were distraught and ready to believe in the True God, the governor commanded the martyrs to be taken away. The governor then invited Saint Eutropios to him at supper and urged him to publicly offer sacrifice to the pagan gods, yet remain a Christian in soul.</p><p>But Eutropios refused this offer.</p><p>On the following day they brought the martyrs to a pagan temple, so as to compel them by force to offer sacrifice. Eutropios thereupon began to entreat the Saviour: “Lord, be with us, and destroy the raging of the pagans. Grant, that on this place be offered a Christian Bloodless Sacrifice unto Thee, the True God.” These last words of prayer had only just been spoken, when there began an earthquake, the walls of the temple began to collapse, and with them was smashed also the statue of the goddess Artemis. Everyone fled from the temple so as not to be crushed amidst the rubble. Amidst the noise of the earthquake was heard a voice from on high: “Your prayer is heard, and on this place shalt be built an house for Christian prayer.”</p><p>When the earthquake ended, the governor Asclepiodotos, barely just recovered from fright, gave orders to drive high wooden stakes into the ground, tie the martyrs to them and pour boiling tar over them. The saints began to pray to God, and Eutropios cried out turning to the torturers: “May the Lord turn your deed against you!” And the tar began to flow aside the bodies of the martyrs, like water with marble, scorching the torturers. Those seeing this fled in terror, but the governor in his bitterness gave orders to rend their bodies with iron hooks and to sting their wounds with mustard, mixed with salt and vinegar. The saints endured these torments with remarkable firmness.</p><p>The following night before execution the saints spent their time at prayer, and again the Lord appeared to them and strengthened them.</p><p>On the morning of 3 March, Saints Eutropios and Kleonikos were crucified, but Basiliskos was left in prison.</p><p>They executed Saint Basiliskos on 22 May in the city of Komana. They beheaded him, and threw his body into a river. But christians found his remains and buried them in a ploughed field. Later at Komana was built a church in the name of Saint Basiliskos. </p><p>An account about the life of the holy martyr is located under 22 May.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Martyrs Eutropius, Cleonicus and Basiliscus of Amasea († c. 308)'
+            Short: 'Martyrs Eutropius'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '030300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Venerable Martyr Martha and Martyr Michael († 1938)'
+            Short: 'New Venerable'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '556'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Virgin Piama († 337)'
+            Short: 'Venerable Virgin'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030301'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Zeno and Zoilus'
+            Short: 'Sts. Zeno'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '557'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Icon of the Mother of God of Volokolamsk (1572)'
+            Short: 'Icon of'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+    ponomarReordered:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9843'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Theodore Saturday'
+            Short: Saturday
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '303'
+                  reading: Heb_1:1-12
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '10'
+                  reading: Mk_2:23-3:5
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '2203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Great Martyr Theodore the Recruit († c. 306)'
+            Short: 'Great Martyr Theodore'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '292'
+                  reading: 'II Tim_2:1-10'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '52'
+                  reading: Jn_15:17-16:2
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '2'
+        -
+          cid: '555'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Holy Martyrs Eutropios, Kleonikos and Basiliskos suffered in the city of Pontine Amasia (Asia Minor) in about the year 308. </p><p>The brothers Eutropios and Kleonikos, and Basiliskos the nephew of the Great Martyr Theodore of Tyre (Comm. 17 February), were comrades. After the martyr’s death of Saint Theodore, they wound up in prison and by their preaching brought to the Christian faith many of the pagans located in prison with them.</p><p>When he tortured Saint Theodore, Publius perished shamefully, struck down by Divine wrath. Asclepiodotos was chosen governor of Pontine Amasia, and did not bend from the fierceness of his predecessor. Knowing the comrades of the martyr Theodore of Tyre were still all in prison, the governor commanded that they be brought to him. Saints Eutropios, Kleonikos and Basiliskos thus firmly confessed their faith in Christ in front of this new governor. They were mercilessly beaten, such that their bodies became entirely bruised. At the time of torture Saint Eutropios prayed loudly to the Saviour: “Grant us, O Lord, to endure the making of these wounds for the sake of the crown of martyrdom, and come in help to us, like as Thou camest to Thy servant Theodore.” In answer to this prayer of the saint, there appeared to the martyrs the Lord Himself with Angels and together with them the holy Great Martyr Theodore of Tyre, saying to them: “Behold, the Saviour is come in help to you, that ye may know about life eternal.” </p><p>Soldiers and many of the people standing nearby were also granted to behold the Saviour. They began to urge Asclepiodotos to halt the tortures. Seeing, that the people were distraught and ready to believe in the True God, the governor commanded the martyrs to be taken away. The governor then invited Saint Eutropios to him at supper and urged him to publicly offer sacrifice to the pagan gods, yet remain a Christian in soul.</p><p>But Eutropios refused this offer.</p><p>On the following day they brought the martyrs to a pagan temple, so as to compel them by force to offer sacrifice. Eutropios thereupon began to entreat the Saviour: “Lord, be with us, and destroy the raging of the pagans. Grant, that on this place be offered a Christian Bloodless Sacrifice unto Thee, the True God.” These last words of prayer had only just been spoken, when there began an earthquake, the walls of the temple began to collapse, and with them was smashed also the statue of the goddess Artemis. Everyone fled from the temple so as not to be crushed amidst the rubble. Amidst the noise of the earthquake was heard a voice from on high: “Your prayer is heard, and on this place shalt be built an house for Christian prayer.”</p><p>When the earthquake ended, the governor Asclepiodotos, barely just recovered from fright, gave orders to drive high wooden stakes into the ground, tie the martyrs to them and pour boiling tar over them. The saints began to pray to God, and Eutropios cried out turning to the torturers: “May the Lord turn your deed against you!” And the tar began to flow aside the bodies of the martyrs, like water with marble, scorching the torturers. Those seeing this fled in terror, but the governor in his bitterness gave orders to rend their bodies with iron hooks and to sting their wounds with mustard, mixed with salt and vinegar. The saints endured these torments with remarkable firmness.</p><p>The following night before execution the saints spent their time at prayer, and again the Lord appeared to them and strengthened them.</p><p>On the morning of 3 March, Saints Eutropios and Kleonikos were crucified, but Basiliskos was left in prison.</p><p>They executed Saint Basiliskos on 22 May in the city of Komana. They beheaded him, and threw his body into a river. But christians found his remains and buried them in a ploughed field. Later at Komana was built a church in the name of Saint Basiliskos. </p><p>An account about the life of the holy martyr is located under 22 May.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Martyrs Eutropius, Cleonicus and Basiliscus of Amasea († c. 308)'
+            Short: 'Martyrs Eutropius'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '030300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Venerable Martyr Martha and Martyr Michael († 1938)'
+            Short: 'New Venerable'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '556'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Virgin Piama († 337)'
+            Short: 'Venerable Virgin'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030301'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Zeno and Zoilus'
+            Short: 'Sts. Zeno'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '557'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Icon of the Mother of God of Volokolamsk (1572)'
+            Short: 'Icon of'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+  fr:
+    ponomar:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9843'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Samedi Propre, Samedi de St. Théodore de Tyro'
+            Short: Samedi
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '303'
+                  reading: Heb_1:1-12
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '10'
+                  reading: Mk_2:23-3:5
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '2203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Théodore le Conscrit (Tiron)'
+            Short: 'St. Théodore'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '292'
+                  reading: 'II Tim_2:1-10'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '52'
+                  reading: Jn_15:17-16:2
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '2'
+        -
+          cid: '555'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Eutrope, Cléonique et Basilisque'
+            Short: 'St. Eutrope'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '030304'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Théodoret d’Antioche'
+            Short: 'St. Théodoret d’Antioche'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030301'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Zénon et Zoile'
+            Short: 'St. Zénon'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '556'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Piamoun'
+            Short: 'Ste. Piamoun'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03030297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Guénolé, fondateur de l’abbaye de Landevennec'
+            Short: 'St. Guénolé'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Caluppan d’Auvergne'
+            Short: 'St. Caluppan d’Auvergne'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+    ponomarReordered:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9843'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Samedi Propre, Samedi de St. Théodore de Tyro'
+            Short: Samedi
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '303'
+                  reading: Heb_1:1-12
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '10'
+                  reading: Mk_2:23-3:5
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '2203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Théodore le Conscrit (Tiron)'
+            Short: 'St. Théodore'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '292'
+                  reading: 'II Tim_2:1-10'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '52'
+                  reading: Jn_15:17-16:2
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '2'
+        -
+          cid: '555'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Eutrope, Cléonique et Basilisque'
+            Short: 'St. Eutrope'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '030304'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Théodoret d’Antioche'
+            Short: 'St. Théodoret d’Antioche'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030301'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Zénon et Zoile'
+            Short: 'St. Zénon'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '556'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Piamoun'
+            Short: 'Ste. Piamoun'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03030297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Guénolé, fondateur de l’abbaye de Landevennec'
+            Short: 'St. Guénolé'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Caluppan d’Auvergne'
+            Short: 'St. Caluppan d’Auvergne'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+  zh/Hans:
+    ponomar:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9843'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大斋期第一安息日：纪念殉道者新兵德奥多若
+            Short: 大斋期第一安息日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '303'
+                  reading: Heb_1:1-12
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '10'
+                  reading: Mk_2:23-3:5
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '2203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大殉道者新兵德奥多若（306年）
+            Short: 大殉道者新兵德奥多若（306年）
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '292'
+                  reading: 'II Tim_2:1-10'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '52'
+                  reading: Jn_15:17-16:2
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '2'
+        -
+          cid: '555'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者：艾弗特若彼、克莱奥尼科、瓦西利斯科（阿玛塞亚地方，308年）
+            Short: 殉道者：艾弗特若彼、克莱奥尼科、瓦西利斯科（阿玛塞亚地方，308年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '030300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道修女玛尔塔及殉道者米迦勒（1938年）
+            Short: 新殉道修女玛尔塔及殉道者米迦勒（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '556'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣童贞女彼雅玛（337年）及圣女亚力山德拉（亚历山大里亚城人）
+            Short: 圣童贞女彼雅玛（337年）及圣女亚力山德拉（亚历山大里亚城人）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030301'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣兹诺及佐伊洛
+            Short: 圣兹诺及佐伊洛
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '557'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 佛洛科拉穆斯克圣母圣像纪念日（1572年）
+            Short: 佛洛科拉穆斯克圣母圣像纪念日（1572年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030302'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣文瓦洛埃（布列塔尼地方，530年）
+            Short: 圣文瓦洛埃（布列塔尼地方，530年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣喀路般（高卢的奥弗涅地方人，576年）
+            Short: 圣喀路般（高卢的奥弗涅地方人，576年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030304'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司祭德奥多里特（安提阿城司祭，361-363年间）
+            Short: 殉道司祭德奥多里特（安提阿城司祭，361-363年间）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030305'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣妇农（威尔士的圣大卫之母，6世纪）圣约翰（一名奥克若彼里，格鲁吉亚之卡托利科斯〖首席主教〗，1049年）
+            Short: 圣妇农（威尔士的圣大卫之母，6世纪）圣约翰（一名奥克若彼里，格鲁吉亚之卡托利科斯〖首席主教〗，1049年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+    ponomarReordered:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9843'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大斋期第一安息日：纪念殉道者新兵德奥多若
+            Short: 大斋期第一安息日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '303'
+                  reading: Heb_1:1-12
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '10'
+                  reading: Mk_2:23-3:5
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '2203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大殉道者新兵德奥多若（306年）
+            Short: 大殉道者新兵德奥多若（306年）
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '292'
+                  reading: 'II Tim_2:1-10'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '52'
+                  reading: Jn_15:17-16:2
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '2'
+        -
+          cid: '555'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者：艾弗特若彼、克莱奥尼科、瓦西利斯科（阿玛塞亚地方，308年）
+            Short: 殉道者：艾弗特若彼、克莱奥尼科、瓦西利斯科（阿玛塞亚地方，308年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '030300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道修女玛尔塔及殉道者米迦勒（1938年）
+            Short: 新殉道修女玛尔塔及殉道者米迦勒（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '556'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣童贞女彼雅玛（337年）及圣女亚力山德拉（亚历山大里亚城人）
+            Short: 圣童贞女彼雅玛（337年）及圣女亚力山德拉（亚历山大里亚城人）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030301'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣兹诺及佐伊洛
+            Short: 圣兹诺及佐伊洛
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '557'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 佛洛科拉穆斯克圣母圣像纪念日（1572年）
+            Short: 佛洛科拉穆斯克圣母圣像纪念日（1572年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030302'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣文瓦洛埃（布列塔尼地方，530年）
+            Short: 圣文瓦洛埃（布列塔尼地方，530年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣喀路般（高卢的奥弗涅地方人，576年）
+            Short: 圣喀路般（高卢的奥弗涅地方人，576年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030304'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司祭德奥多里特（安提阿城司祭，361-363年间）
+            Short: 殉道司祭德奥多里特（安提阿城司祭，361-363年间）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030305'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣妇农（威尔士的圣大卫之母，6世纪）圣约翰（一名奥克若彼里，格鲁吉亚之卡托利科斯〖首席主教〗，1049年）
+            Short: 圣妇农（威尔士的圣大卫之母，6世纪）圣约翰（一名奥克若彼里，格鲁吉亚之卡托利科斯〖首席主教〗，1049年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+  zh/Hant:
+    ponomar:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9843'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大齋期第一安息日：紀念殉道者新兵德奧多若
+            Short: 大齋期第一安息日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '303'
+                  reading: Heb_1:1-12
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '10'
+                  reading: Mk_2:23-3:5
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '2203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大殉道者新兵德奧多若（306年）
+            Short: 大殉道者新兵德奧多若（306年）
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '292'
+                  reading: 'II Tim_2:1-10'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '52'
+                  reading: Jn_15:17-16:2
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '2'
+        -
+          cid: '555'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者：艾弗特若彼、克萊奧尼科、瓦西利斯科（阿瑪塞亞地方，308年）
+            Short: 殉道者：艾弗特若彼、克萊奧尼科、瓦西利斯科（阿瑪塞亞地方，308年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '030300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道修女瑪爾塔及殉道者米迦勒（1938年）
+            Short: 新殉道修女瑪爾塔及殉道者米迦勒（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '556'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖童貞女彼雅瑪（337年）及聖女亞力山德拉（亞歷山大里亞城人）
+            Short: 聖童貞女彼雅瑪（337年）及聖女亞力山德拉（亞歷山大里亞城人）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030301'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖茲諾及佐伊洛
+            Short: 聖茲諾及佐伊洛
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '557'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 佛洛科拉穆斯克聖母聖像紀念日（1572年）
+            Short: 佛洛科拉穆斯克聖母聖像紀念日（1572年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030302'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖文瓦洛埃（布列塔尼地方，530年）
+            Short: 聖文瓦洛埃（布列塔尼地方，530年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖喀路般（高盧的奧弗涅地方人，576年）
+            Short: 聖喀路般（高盧的奧弗涅地方人，576年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030304'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司祭德奧多里特（安提阿城司祭，361-363年間）
+            Short: 殉道司祭德奧多里特（安提阿城司祭，361-363年間）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030305'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖婦農（威爾士的聖大衛之母，六世紀）聖約翰（一名奧克若彼里，格魯吉亞之卡托利科斯【首席主教】，1049年）
+            Short: 聖婦農（威爾士的聖大衛之母，六世紀）聖約翰（一名奧克若彼里，格魯吉亞之卡托利科斯【首席主教】，1049年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+    ponomarReordered:
+      fastings: '0000111'
+      saints:
+        -
+          cid: '9843'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大齋期第一安息日：紀念殉道者新兵德奧多若
+            Short: 大齋期第一安息日
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '303'
+                  reading: Heb_1:1-12
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '10'
+                  reading: Mk_2:23-3:5
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '1'
+        -
+          cid: '2203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大殉道者新兵德奧多若（306年）
+            Short: 大殉道者新兵德奧多若（306年）
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '292'
+                  reading: 'II Tim_2:1-10'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '52'
+                  reading: Jn_15:17-16:2
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '2'
+        -
+          cid: '555'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者：艾弗特若彼、克萊奧尼科、瓦西利斯科（阿瑪塞亞地方，308年）
+            Short: 殉道者：艾弗特若彼、克萊奧尼科、瓦西利斯科（阿瑪塞亞地方，308年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '030300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道修女瑪爾塔及殉道者米迦勒（1938年）
+            Short: 新殉道修女瑪爾塔及殉道者米迦勒（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '556'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖童貞女彼雅瑪（337年）及聖女亞力山德拉（亞歷山大里亞城人）
+            Short: 聖童貞女彼雅瑪（337年）及聖女亞力山德拉（亞歷山大里亞城人）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030301'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖茲諾及佐伊洛
+            Short: 聖茲諾及佐伊洛
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '557'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 佛洛科拉穆斯克聖母聖像紀念日（1572年）
+            Short: 佛洛科拉穆斯克聖母聖像紀念日（1572年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030302'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖文瓦洛埃（布列塔尼地方，530年）
+            Short: 聖文瓦洛埃（布列塔尼地方，530年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖喀路般（高盧的奧弗涅地方人，576年）
+            Short: 聖喀路般（高盧的奧弗涅地方人，576年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030304'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道司祭德奧多里特（安提阿城司祭，361-363年間）
+            Short: 殉道司祭德奧多里特（安提阿城司祭，361-363年間）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '030305'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖婦農（威爾士的聖大衛之母，六世紀）聖約翰（一名奧克若彼里，格魯吉亞之卡托利科斯【首席主教】，1049年）
+            Short: 聖婦農（威爾士的聖大衛之母，六世紀）聖約翰（一名奧克若彼里，格魯吉亞之卡托利科斯【首席主教】，1049年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8

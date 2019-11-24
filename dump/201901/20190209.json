@@ -1,0 +1,2429 @@
+{
+   "langs" : {
+      "el" : {
+         "ponomarReordered" : {
+            "fastings" : "1111111",
+            "tone" : 5,
+            "saints" : [
+               {
+                  "cid" : "9865",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Παρασκευὴ",
+                     "Short" : "Παρασκευὴ"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "I Jn_2:7-17",
+                              "effWeek" : null,
+                              "pericope" : "70"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "63",
+                              "reading" : "Mk_14:3-9",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion"
+               },
+               {
+                  "life" : null,
+                  "cid" : "37302",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Ἀπόδοση τῶν Ὑπαπαντὴ τοῦ Κυρίου",
+                     "Short" : "Ἀπόδοση τῶν Ὑπαπαντὴ τοῦ Κυρίου"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "1621",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Ἅγιος Νικηφόρος",
+                     "Nominative" : "Ἅγιος Νικηφόρος"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "life" : null,
+                  "cid" : "419",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Ἅγιοι Μάρκελλος Ἐπίσκοπος Σικελίας, Φιλάγριος Ἐπίσκοπος Κύπρου καὶ Παγκράτιος Ἐπίσκοπος Ταυρομενίου",
+                     "Short" : "Ἅγιοι Μάρκελλος Ἐπίσκοπος Σικελίας, Φιλάγριος Ἐπίσκοπος Κύπρου καὶ Παγκράτιος Ἐπίσκοπος Ταυρομενίου"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "02091100",
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ὅσιος Ῥωμανὸς ὁ Κίλικας ὁ θαυματουργὸς",
+                     "Short" : "Ὅσιος Ῥωμανὸς ὁ Κίλικας ὁ θαυματουργὸς"
+                  }
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ἅγιος Πέτρος ὁ Δαμασκηνὸς",
+                     "Nominative" : "Ἅγιος Πέτρος ὁ Δαμασκηνὸς"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "020902",
+                  "info" : null
+               },
+               {
+                  "cid" : "02090595",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ἅγιοι Ἄμμων καὶ Ἀλέξανδρος",
+                     "Nominative" : "Ἅγιοι Ἄμμων καὶ Ἀλέξανδρος"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "468",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ὅσιοι Νικηφόρος καὶ Γεννάδιος ἐν Βολογντά",
+                     "Short" : "Ὅσιοι Νικηφόρος καὶ Γεννάδιος ἐν Βολογντά"
+                  }
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Ὅσιος Παγκράτιος ὁ Ἔγκλειστος ἐν τῷ Σπηλαίῳ",
+                     "Short" : "Ὅσιος Παγκράτιος ὁ Ἔγκλειστος ἐν τῷ Σπηλαίῳ"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : "",
+                  "cid" : "020900",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "02090895",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Εὕρεσις τῶν Τιμίων Λειψάνων τοῦ Ἁγίου Ἰννοκεντίου ἐκ Ῥωσίας",
+                     "Nominative" : "Εὕρεσις τῶν Τιμίων Λειψάνων τοῦ Ἁγίου Ἰννοκεντίου ἐκ Ῥωσίας"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               }
+            ]
+         },
+         "ponomar" : {
+            "fastings" : "1111111",
+            "tone" : 5,
+            "saints" : [
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Παρασκευὴ",
+                     "Short" : "Παρασκευὴ"
+                  },
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "I Jn_2:7-17",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "70"
+                           },
+                           {
+                              "reading" : "Mk_14:3-9",
+                              "type" : "gospel",
+                              "pericope" : "63",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "cid" : "9865",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "cid" : "37302",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Ἀπόδοση τῶν Ὑπαπαντὴ τοῦ Κυρίου",
+                     "Short" : "Ἀπόδοση τῶν Ὑπαπαντὴ τοῦ Κυρίου"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "1621",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ἅγιος Νικηφόρος",
+                     "Short" : "Ἅγιος Νικηφόρος"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "cid" : "419",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Ἅγιοι Μάρκελλος Ἐπίσκοπος Σικελίας, Φιλάγριος Ἐπίσκοπος Κύπρου καὶ Παγκράτιος Ἐπίσκοπος Ταυρομενίου",
+                     "Nominative" : "Ἅγιοι Μάρκελλος Ἐπίσκοπος Σικελίας, Φιλάγριος Ἐπίσκοπος Κύπρου καὶ Παγκράτιος Ἐπίσκοπος Ταυρομενίου"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Ὅσιος Ῥωμανὸς ὁ Κίλικας ὁ θαυματουργὸς",
+                     "Short" : "Ὅσιος Ῥωμανὸς ὁ Κίλικας ὁ θαυματουργὸς"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "02091100",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "020902",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ἅγιος Πέτρος ὁ Δαμασκηνὸς",
+                     "Nominative" : "Ἅγιος Πέτρος ὁ Δαμασκηνὸς"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ἅγιοι Ἄμμων καὶ Ἀλέξανδρος",
+                     "Short" : "Ἅγιοι Ἄμμων καὶ Ἀλέξανδρος"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "02090595"
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ὅσιοι Νικηφόρος καὶ Γεννάδιος ἐν Βολογντά",
+                     "Nominative" : "Ὅσιοι Νικηφόρος καὶ Γεννάδιος ἐν Βολογντά"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "468",
+                  "info" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ὅσιος Παγκράτιος ὁ Ἔγκλειστος ἐν τῷ Σπηλαίῳ",
+                     "Nominative" : "Ὅσιος Παγκράτιος ὁ Ἔγκλειστος ἐν τῷ Σπηλαίῳ"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "020900",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Εὕρεσις τῶν Τιμίων Λειψάνων τοῦ Ἁγίου Ἰννοκεντίου ἐκ Ῥωσίας",
+                     "Short" : "Εὕρεσις τῶν Τιμίων Λειψάνων τοῦ Ἁγίου Ἰννοκεντίου ἐκ Ῥωσίας"
+                  },
+                  "info" : null,
+                  "cid" : "02090895",
+                  "life" : null
+               }
+            ]
+         }
+      },
+      "zh/Hans" : {
+         "ponomar" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9865",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "70",
+                              "type" : "apostol",
+                              "reading" : "I Jn_2:7-17"
+                           },
+                           {
+                              "pericope" : "63",
+                              "effWeek" : null,
+                              "reading" : "Mk_14:3-9",
+                              "type" : "gospel"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Nominative" : "预备日（本周免斋）",
+                     "Short" : "预备日（本周免斋）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "3",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "主进殿节庆期圆满日"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "37302"
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "殉道者尼基佛若（安提阿，约257年）",
+                     "Nominative" : "殉道者尼基佛若（安提阿，约257年）"
+                  },
+                  "menologion" : "",
+                  "type" : "1",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "1621"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "殉道司教：玛尔凯洛（西西里主教）、斐拉格里（塞浦路斯主教）、庞克拉提（陶尔米纳城主教）（均为使徒圣彼得的弟子，1世纪）",
+                     "Short" : "殉道司教：玛尔凯洛（西西里主教）、斐拉格里（塞浦路斯主教）、庞克拉提（陶尔米纳城主教）（均为使徒圣彼得的弟子，1世纪）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "419",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "殉道司教彼得•达玛斯基诺（大马士革主教，743年）",
+                     "Short" : "殉道司教彼得•达玛斯基诺（大马士革主教，743年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020902"
+               },
+               {
+                  "info" : null,
+                  "cid" : "468",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣艮纳迪（1516年）和圣尼基佛若（1557年）（均为沃洛格达的瓦则湖区域修士）",
+                     "Nominative" : "圣艮纳迪（1516年）和圣尼基佛若（1557年）（均为沃洛格达的瓦则湖区域修士）"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "020900",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣庞克拉提（基辅洞窟修道院修士司祭，13世纪）",
+                     "Nominative" : "圣庞克拉提（基辅洞窟修道院修士司祭，13世纪）"
+                  }
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "951",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "寻获伊尔库次克的圣英诺肯提（1731年）之圣髑纪念日（1805年）",
+                     "Short" : "寻获伊尔库次克的圣英诺肯提（1731年）之圣髑纪念日（1805年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "新殉道者约翰（伊庇鲁斯地方，1814年）",
+                     "Short" : "新殉道者约翰（伊庇鲁斯地方，1814年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "4766"
+               },
+               {
+                  "info" : null,
+                  "cid" : "020901",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "新殉道司祭約安（1938年）",
+                     "Short" : "新殉道司祭約安（1938年）"
+                  }
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "殉道者阿颇罗尼亚（亚历山大里亚，249年）",
+                     "Nominative" : "殉道者阿颇罗尼亚（亚历山大里亚，249年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020903"
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "圣埃弥利亚诺、及圣弗拉克希（高卢图尔斯地方的成德者，6世纪）",
+                     "Nominative" : "圣埃弥利亚诺、及圣弗拉克希（高卢图尔斯地方的成德者，6世纪）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020904"
+               },
+               {
+                  "life" : null,
+                  "cid" : "020905",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "圣罗玛诺（西里西亚的显行灵迹者，5世纪）",
+                     "Short" : "圣罗玛诺（西里西亚的显行灵迹者，5世纪）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "life" : null,
+                  "cid" : "020906",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "圣提洛（威尔士郎达夫的主教，6世纪）",
+                     "Short" : "圣提洛（威尔士郎达夫的主教，6世纪）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               }
+            ],
+            "fastings" : "1111111",
+            "tone" : 5
+         },
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9865",
+                  "menologion" : "",
+                  "type" : "0",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "I Jn_2:7-17",
+                              "effWeek" : null,
+                              "pericope" : "70"
+                           },
+                           {
+                              "reading" : "Mk_14:3-9",
+                              "type" : "gospel",
+                              "pericope" : "63",
+                              "effWeek" : null
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Nominative" : "预备日（本周免斋）",
+                     "Short" : "预备日（本周免斋）"
+                  }
+               },
+               {
+                  "cid" : "37302",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "主进殿节庆期圆满日"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "3",
+                  "menologion" : ""
+               },
+               {
+                  "life" : null,
+                  "cid" : "1621",
+                  "info" : null,
+                  "type" : "1",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "殉道者尼基佛若（安提阿，约257年）",
+                     "Short" : "殉道者尼基佛若（安提阿，约257年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "殉道司教：玛尔凯洛（西西里主教）、斐拉格里（塞浦路斯主教）、庞克拉提（陶尔米纳城主教）（均为使徒圣彼得的弟子，1世纪）",
+                     "Nominative" : "殉道司教：玛尔凯洛（西西里主教）、斐拉格里（塞浦路斯主教）、庞克拉提（陶尔米纳城主教）（均为使徒圣彼得的弟子，1世纪）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "419",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "殉道司教彼得•达玛斯基诺（大马士革主教，743年）",
+                     "Nominative" : "殉道司教彼得•达玛斯基诺（大马士革主教，743年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "020902",
+                  "info" : null
+               },
+               {
+                  "cid" : "468",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "圣艮纳迪（1516年）和圣尼基佛若（1557年）（均为沃洛格达的瓦则湖区域修士）",
+                     "Nominative" : "圣艮纳迪（1516年）和圣尼基佛若（1557年）（均为沃洛格达的瓦则湖区域修士）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "info" : null,
+                  "cid" : "020900",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "圣庞克拉提（基辅洞窟修道院修士司祭，13世纪）",
+                     "Short" : "圣庞克拉提（基辅洞窟修道院修士司祭，13世纪）"
+                  }
+               },
+               {
+                  "name" : {
+                     "Short" : "寻获伊尔库次克的圣英诺肯提（1731年）之圣髑纪念日（1805年）",
+                     "Nominative" : "寻获伊尔库次克的圣英诺肯提（1731年）之圣髑纪念日（1805年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "951",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "4766",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "新殉道者约翰（伊庇鲁斯地方，1814年）",
+                     "Nominative" : "新殉道者约翰（伊庇鲁斯地方，1814年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "新殉道司祭約安（1938年）",
+                     "Nominative" : "新殉道司祭約安（1938年）"
+                  },
+                  "info" : null,
+                  "cid" : "020901",
+                  "life" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "殉道者阿颇罗尼亚（亚历山大里亚，249年）",
+                     "Nominative" : "殉道者阿颇罗尼亚（亚历山大里亚，249年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "020903",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "圣埃弥利亚诺、及圣弗拉克希（高卢图尔斯地方的成德者，6世纪）",
+                     "Short" : "圣埃弥利亚诺、及圣弗拉克希（高卢图尔斯地方的成德者，6世纪）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020904"
+               },
+               {
+                  "info" : null,
+                  "cid" : "020905",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "圣罗玛诺（西里西亚的显行灵迹者，5世纪）",
+                     "Nominative" : "圣罗玛诺（西里西亚的显行灵迹者，5世纪）"
+                  }
+               },
+               {
+                  "cid" : "020906",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "圣提洛（威尔士郎达夫的主教，6世纪）",
+                     "Short" : "圣提洛（威尔士郎达夫的主教，6世纪）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               }
+            ],
+            "tone" : 5,
+            "fastings" : "1111111"
+         }
+      },
+      "cu/ru" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "I Jn_2:7-17",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "70"
+                           },
+                           {
+                              "reading" : "Mk_14:3-9",
+                              "type" : "gospel",
+                              "pericope" : "63",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "name" : {
+                     "Genetive" : "Сплошная седмица. Пятница",
+                     "Nominative" : "Сплошная седмица. Пятница",
+                     "Short" : "Сплошная седмица. Пятница"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9865"
+               },
+               {
+                  "info" : null,
+                  "cid" : "37302",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "3",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Genetive" : "Отдания",
+                     "Nominative" : "Отдание Сретения Господня",
+                     "Short" : "Отдание"
+                  }
+               },
+               {
+                  "life" : {
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Id" : "bulgakov",
+                     "Text" : "\n    Святой мученик Никифор жил в городе Антиохии Сирийской. В этом же городе жил также пресвитер Саприкий, с которым Никифор был очень дружен, так что их считали за родных братьев. По наущению вражию они поссорились, и прежнюю любовь сменила вражда и ненависть. Через некоторое время Никифор пришел в себя, раскаялся в своем грехе и не раз просил через своих друзей прощения у Саприкия, но тот не хотел простить его. Тогда Никифор сам пришел к своему бывшему другу и горячо просил прощения, но Саприкий был неумолим. В это время императорами Валерианой (253—259) и Галлиеном (260—268) было воздвигнуто гонение на христиан, и одним из первых предстал пред судом пресвитер Саприкий. Он твердо исповедал себя христианином, претерпел истязания за свою веру и был приговорен к смерти через усечение мечом. Когда его вели на казнь, Никифор со слезами умолял о прощении, называя его святым мучеником, который скоро предстанет перед Господом и воспримет венец от Него.    Но пресвитер Саприкий ожесточился сердцем и даже перед смертью не захотел простить своего брата-христианина. За это Господь удалил от Саприкия Свою благодать, укреплявшую его во время перенесения мучений, и он, уже почти достигнув блаженного конца своего подвига, вдруг устрашился смерти и согласился принести жертву идолам. Напрасно святой Никифор уговаривал со слезами Са'прикия,, чтобы он не губил себя отречением, стоя уже на пороге Царства Небесного. Тогда святой Никифор сказал палачам: «Я христианин и верую в Господа нашего Иисуса Христа, от Которого отвергся Саприкий. Казните меня вместо Саприкия». Тут же палачи донесли об этом правителю. Последовал приказ: Саприкия отпустить, а вместо него -усечь мечом Никифора. Так воспринял мученический венец святой Никифор. \n"
+                  },
+                  "cid" : "1621",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Мч. Никифора",
+                     "Nominative" : "Мч. Никифора, из Антиохии Сирской (ок. 257)"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Обретение мощей свт. Иннокентия, еп. Иркутского (1805).",
+                     "Short" : "Обретение мощей"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "951",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "476604",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Сщмч. Василия",
+                     "Nominative" : "Сщмч. Василия пресвитера (1930)"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "020901",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Сщмч. Иоанна",
+                     "Nominative" : "Сщмч. Иоанна пресвитера (1938)"
+                  }
+               },
+               {
+                  "name" : {
+                     "Short" : "Сщмчч. Маркелла",
+                     "Nominative" : "Сщмчч. Маркелла, еп. Сикелийского, Филагрия, еп. Кипрского, и Панкратия, еп. Тавроменийского (I)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "419",
+                  "info" : null
+               },
+               {
+                  "cid" : "020900",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Прп. Панкратия Печерского, в Дальних пещерах (XIII)",
+                     "Short" : "Прп. Панкратия"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Прпп. Геннадия (ок. 1516) и Никифора (1557) Важеезерских.",
+                     "Short" : "Прпп. Геннадия"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "468",
+                  "life" : null,
+                  "info" : null
+               }
+            ],
+            "tone" : 5,
+            "fastings" : "1111111"
+         },
+         "ponomar" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "cid" : "9865",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "I Jn_2:7-17",
+                              "type" : "apostol",
+                              "pericope" : "70",
+                              "effWeek" : null
+                           },
+                           {
+                              "pericope" : "63",
+                              "effWeek" : null,
+                              "reading" : "Mk_14:3-9",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Genetive" : "Сплошная седмица. Пятница",
+                     "Short" : "Сплошная седмица. Пятница",
+                     "Nominative" : "Сплошная седмица. Пятница"
+                  }
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Отдание Сретения Господня",
+                     "Short" : "Отдание",
+                     "Genetive" : "Отдания"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "3",
+                  "menologion" : "",
+                  "cid" : "37302",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Мч. Никифора",
+                     "Nominative" : "Мч. Никифора, из Антиохии Сирской (ок. 257)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "life" : {
+                     "Text" : "\n    Святой мученик Никифор жил в городе Антиохии Сирийской. В этом же городе жил также пресвитер Саприкий, с которым Никифор был очень дружен, так что их считали за родных братьев. По наущению вражию они поссорились, и прежнюю любовь сменила вражда и ненависть. Через некоторое время Никифор пришел в себя, раскаялся в своем грехе и не раз просил через своих друзей прощения у Саприкия, но тот не хотел простить его. Тогда Никифор сам пришел к своему бывшему другу и горячо просил прощения, но Саприкий был неумолим. В это время императорами Валерианой (253—259) и Галлиеном (260—268) было воздвигнуто гонение на христиан, и одним из первых предстал пред судом пресвитер Саприкий. Он твердо исповедал себя христианином, претерпел истязания за свою веру и был приговорен к смерти через усечение мечом. Когда его вели на казнь, Никифор со слезами умолял о прощении, называя его святым мучеником, который скоро предстанет перед Господом и воспримет венец от Него.    Но пресвитер Саприкий ожесточился сердцем и даже перед смертью не захотел простить своего брата-христианина. За это Господь удалил от Саприкия Свою благодать, укреплявшую его во время перенесения мучений, и он, уже почти достигнув блаженного конца своего подвига, вдруг устрашился смерти и согласился принести жертву идолам. Напрасно святой Никифор уговаривал со слезами Са'прикия,, чтобы он не губил себя отречением, стоя уже на пороге Царства Небесного. Тогда святой Никифор сказал палачам: «Я христианин и верую в Господа нашего Иисуса Христа, от Которого отвергся Саприкий. Казните меня вместо Саприкия». Тут же палачи донесли об этом правителю. Последовал приказ: Саприкия отпустить, а вместо него -усечь мечом Никифора. Так воспринял мученический венец святой Никифор. \n",
+                     "Id" : "bulgakov",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга."
+                  },
+                  "cid" : "1621",
+                  "info" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Обретение мощей свт. Иннокентия, еп. Иркутского (1805).",
+                     "Short" : "Обретение мощей"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "951"
+               },
+               {
+                  "info" : null,
+                  "cid" : "476604",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Сщмч. Василия",
+                     "Nominative" : "Сщмч. Василия пресвитера (1930)"
+                  }
+               },
+               {
+                  "cid" : "020901",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Сщмч. Иоанна пресвитера (1938)",
+                     "Short" : "Сщмч. Иоанна"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Сщмчч. Маркелла, еп. Сикелийского, Филагрия, еп. Кипрского, и Панкратия, еп. Тавроменийского (I)",
+                     "Short" : "Сщмчч. Маркелла"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "419",
+                  "info" : null
+               },
+               {
+                  "cid" : "020900",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Прп. Панкратия",
+                     "Nominative" : "Прп. Панкратия Печерского, в Дальних пещерах (XIII)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Прпп. Геннадия (ок. 1516) и Никифора (1557) Важеезерских.",
+                     "Short" : "Прпп. Геннадия"
+                  },
+                  "info" : null,
+                  "cid" : "468",
+                  "life" : null
+               }
+            ],
+            "tone" : 5,
+            "fastings" : "1111111"
+         }
+      },
+      "en" : {
+         "ponomar" : {
+            "saints" : [
+               {
+                  "life" : null,
+                  "cid" : "9865",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Friday of the Fast-free Week",
+                     "Nominative" : "Friday of the Fast-free Week"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "70",
+                              "reading" : "I Jn_2:7-17",
+                              "type" : "apostol"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "63",
+                              "reading" : "Mk_14:3-9",
+                              "type" : "gospel"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion"
+               },
+               {
+                  "name" : {
+                     "Short" : "Apodosis",
+                     "Nominative" : "Apodosis of the Meeting of the Lord"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "3",
+                  "menologion" : "",
+                  "cid" : "37302",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "1621",
+                  "life" : {
+                     "Text" : "\n<p>The Holy Martyr Nicephorus lived in the city of Syrian Antioch. In this city lived also the presbyter Sapricios, with whom Nicephorus was very friendly, such that they were considered like kindred brothers. Through the onset of a disagreement they quarreled, and their former love changed into enmity and hate. After a certain while Nicephorus came to his senses, repented of his sin and more than once through mutual friends asked forgiveness of Sapricios, who did not wish to forgive him. Nicephorus then went himself to his former friend and fervently asked forgiveness, but Sapricios was adamant. At this time the emperors Valerian (253-259) and Gallius (260-268) started up persecutions against christians, and one of the first taken before the judgement court was presbyter Sapricios. He firmly confessed himself a Christian, underwent tortures for his faith and was condemned to death by beheading with a sword. When they took him to execution, Nicephorus tearfully entreated his forgiveness, calling on him as an holy martyr who would soon stand before the Lord and receive of Him a crown.</p><p>But presbyter Sapricios remained hardened of heart and even before death he refused to forgive his brother-christian. Because of this the Lord withheld His blessing from Sapricios, having formerly strengthened him during the time of enduring torture; but now, having nearly reached the blessed end of his ordeal, he suddenly became afraid of death and consented to offer sacrifice to idols. In vain did Saint Nicephorus tearfully urge on Sapricios, that he not destroy himself by apostasy, since already he was standing at the threshold of the Heavenly Kingdom. Saint Nicephorus then said to the executioner: “I am a Christian and I believe in our Lord Jesus Christ, from whom Sapricios hath recanted. Execute me in place of Sapricios.” The executioners reported about this to the governor. He issued an edict: to free Sapricios, and in place of him to behead Nicephorus with a sword. Thus did Saint Nicephorus receive his martyr’s crown.</p>\n",
+                     "Id" : "bulgakov",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos."
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "name" : {
+                     "Short" : "Martyr Nicephorus",
+                     "Nominative" : "Martyr Nicephorus of Antioch in Syria († c. 257)"
+                  },
+                  "menologion" : "",
+                  "type" : "1"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Hieromartyr Marcellus and companions",
+                     "Nominative" : "Hieromartyrs Marcellus, Bishop of Syracuse in Sicily; Philagrius, Bishop of Cyprus; and Pancratius Bishop of Tauromenium (1<sup>st</sup> C)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "419",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Hieromartyr Peter",
+                     "Nominative" : "Hieromartyr Peter, Bishop of Damascus"
+                  },
+                  "info" : null,
+                  "cid" : "020902",
+                  "life" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "468",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Venerable Gennadius († c. 1516) of Vazha Lake",
+                     "Short" : "Venerable Gennadius"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "cid" : "02090199",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Saint Nicephorus",
+                     "Nominative" : "Venerable Nicephorus of Vazha Lake († 1557)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "life" : null,
+                  "cid" : "020900",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Venerable Pancratius",
+                     "Nominative" : "Venerable Pancratius, Hieromonk of the Kiev Caves, Far Caves (13th C)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Finding of the relics",
+                     "Nominative" : "Finding of the relics of Holy Hierarch Innocent, Bishop of Irkutsk (1805)"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "951",
+                  "life" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "New Hieromartyr Priest Basil († 1930)",
+                     "Short" : "New Hieromartyr Basil"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "476604",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "New Hieromartyr",
+                     "Nominative" : "New Hieromartyr Priest John († 1938)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "020901",
+                  "life" : null,
+                  "info" : null
+               }
+            ],
+            "fastings" : "1111111",
+            "tone" : 5
+         },
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "70",
+                              "type" : "apostol",
+                              "reading" : "I Jn_2:7-17"
+                           },
+                           {
+                              "reading" : "Mk_14:3-9",
+                              "type" : "gospel",
+                              "effWeek" : null,
+                              "pericope" : "63"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Nominative" : "Friday of the Fast-free Week",
+                     "Short" : "Friday of the Fast-free Week"
+                  },
+                  "info" : null,
+                  "cid" : "9865",
+                  "life" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Apodosis",
+                     "Nominative" : "Apodosis of the Meeting of the Lord"
+                  },
+                  "menologion" : "",
+                  "type" : "3",
+                  "info" : null,
+                  "cid" : "37302",
+                  "life" : null
+               },
+               {
+                  "cid" : "1621",
+                  "life" : {
+                     "Id" : "bulgakov",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Text" : "\n<p>The Holy Martyr Nicephorus lived in the city of Syrian Antioch. In this city lived also the presbyter Sapricios, with whom Nicephorus was very friendly, such that they were considered like kindred brothers. Through the onset of a disagreement they quarreled, and their former love changed into enmity and hate. After a certain while Nicephorus came to his senses, repented of his sin and more than once through mutual friends asked forgiveness of Sapricios, who did not wish to forgive him. Nicephorus then went himself to his former friend and fervently asked forgiveness, but Sapricios was adamant. At this time the emperors Valerian (253-259) and Gallius (260-268) started up persecutions against christians, and one of the first taken before the judgement court was presbyter Sapricios. He firmly confessed himself a Christian, underwent tortures for his faith and was condemned to death by beheading with a sword. When they took him to execution, Nicephorus tearfully entreated his forgiveness, calling on him as an holy martyr who would soon stand before the Lord and receive of Him a crown.</p><p>But presbyter Sapricios remained hardened of heart and even before death he refused to forgive his brother-christian. Because of this the Lord withheld His blessing from Sapricios, having formerly strengthened him during the time of enduring torture; but now, having nearly reached the blessed end of his ordeal, he suddenly became afraid of death and consented to offer sacrifice to idols. In vain did Saint Nicephorus tearfully urge on Sapricios, that he not destroy himself by apostasy, since already he was standing at the threshold of the Heavenly Kingdom. Saint Nicephorus then said to the executioner: “I am a Christian and I believe in our Lord Jesus Christ, from whom Sapricios hath recanted. Execute me in place of Sapricios.” The executioners reported about this to the governor. He issued an edict: to free Sapricios, and in place of him to behead Nicephorus with a sword. Thus did Saint Nicephorus receive his martyr’s crown.</p>\n"
+                  },
+                  "info" : null,
+                  "type" : "1",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Martyr Nicephorus of Antioch in Syria († c. 257)",
+                     "Short" : "Martyr Nicephorus"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null
+               },
+               {
+                  "cid" : "419",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Hieromartyrs Marcellus, Bishop of Syracuse in Sicily; Philagrius, Bishop of Cyprus; and Pancratius Bishop of Tauromenium (1<sup>st</sup> C)",
+                     "Short" : "Hieromartyr Marcellus and companions"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020902",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Hieromartyr Peter",
+                     "Nominative" : "Hieromartyr Peter, Bishop of Damascus"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "info" : null,
+                  "cid" : "468",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Venerable Gennadius († c. 1516) of Vazha Lake",
+                     "Short" : "Venerable Gennadius"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "02090199",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Venerable Nicephorus of Vazha Lake († 1557)",
+                     "Short" : "Saint Nicephorus"
+                  }
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Venerable Pancratius",
+                     "Nominative" : "Venerable Pancratius, Hieromonk of the Kiev Caves, Far Caves (13th C)"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "020900",
+                  "life" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Finding of the relics of Holy Hierarch Innocent, Bishop of Irkutsk (1805)",
+                     "Short" : "Finding of the relics"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "951",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "New Hieromartyr Priest Basil († 1930)",
+                     "Short" : "New Hieromartyr Basil"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "476604"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020901",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "New Hieromartyr",
+                     "Nominative" : "New Hieromartyr Priest John († 1938)"
+                  }
+               }
+            ],
+            "tone" : 5,
+            "fastings" : "1111111"
+         }
+      },
+      "fr" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "life" : null,
+                  "cid" : "9865",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Vendredi de la Semaine sans jeune",
+                     "Short" : "Vendredi de la Semaine sans jeune"
+                  },
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "I Jn_2:7-17",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "70"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "63",
+                              "type" : "gospel",
+                              "reading" : "Mk_14:3-9"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "37302",
+                  "menologion" : "",
+                  "type" : "3",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Apodose de la Rencontre",
+                     "Short" : "Apodose"
+                  }
+               },
+               {
+                  "life" : null,
+                  "cid" : "1621",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "St. Nicéphore d’Antioche",
+                     "Nominative" : "St. Nicéphore d’Antioche"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "1",
+                  "menologion" : ""
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "St. Romanos",
+                     "Nominative" : "St. Romanos le thaumaturge"
+                  },
+                  "info" : null,
+                  "cid" : "02091100",
+                  "life" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "419",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Sts. Marcel (Marcien), Philagrios et Pancrace, Evêques de Sicile, Chypre et Taormina",
+                     "Short" : "Sts. Marcel"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "St. Pierre Damascène",
+                     "Nominative" : "St. Pierre Damascène"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020902"
+               },
+               {
+                  "life" : null,
+                  "cid" : "468",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Sts. Nicéphore",
+                     "Nominative" : "Sts. Nicéphore et Gennade du lac Vaje"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "name" : {
+                     "Short" : "Ste. Apolline",
+                     "Nominative" : "Ste. Apolline"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "020903",
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Sts. Emilien et Brachio de Tours",
+                     "Short" : "Sts. Emilien"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "020904",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "951",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "St. Innocent",
+                     "Nominative" : "St. Innocent, Evêque d’Irkoutsk (invention des reliques)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "1",
+                  "menologion" : ""
+               }
+            ],
+            "fastings" : "1111111",
+            "tone" : 5
+         },
+         "ponomar" : {
+            "fastings" : "1111111",
+            "tone" : 5,
+            "saints" : [
+               {
+                  "cid" : "9865",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Vendredi de la Semaine sans jeune",
+                     "Nominative" : "Vendredi de la Semaine sans jeune"
+                  },
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "I Jn_2:7-17",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "70"
+                           },
+                           {
+                              "pericope" : "63",
+                              "effWeek" : null,
+                              "type" : "gospel",
+                              "reading" : "Mk_14:3-9"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion"
+               },
+               {
+                  "info" : null,
+                  "cid" : "37302",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Apodose",
+                     "Nominative" : "Apodose de la Rencontre"
+                  },
+                  "menologion" : "",
+                  "type" : "3"
+               },
+               {
+                  "info" : null,
+                  "cid" : "1621",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "St. Nicéphore d’Antioche",
+                     "Short" : "St. Nicéphore d’Antioche"
+                  },
+                  "menologion" : "",
+                  "type" : "1"
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "St. Romanos le thaumaturge",
+                     "Short" : "St. Romanos"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "02091100",
+                  "info" : null
+               },
+               {
+                  "cid" : "419",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Sts. Marcel (Marcien), Philagrios et Pancrace, Evêques de Sicile, Chypre et Taormina",
+                     "Short" : "Sts. Marcel"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "life" : null,
+                  "cid" : "020902",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "St. Pierre Damascène",
+                     "Nominative" : "St. Pierre Damascène"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "468",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Sts. Nicéphore",
+                     "Nominative" : "Sts. Nicéphore et Gennade du lac Vaje"
+                  }
+               },
+               {
+                  "name" : {
+                     "Short" : "Ste. Apolline",
+                     "Nominative" : "Ste. Apolline"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "020903",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Sts. Emilien",
+                     "Nominative" : "Sts. Emilien et Brachio de Tours"
+                  },
+                  "info" : null,
+                  "cid" : "020904",
+                  "life" : null
+               },
+               {
+                  "cid" : "951",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "1",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "St. Innocent",
+                     "Nominative" : "St. Innocent, Evêque d’Irkoutsk (invention des reliques)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               }
+            ]
+         }
+      },
+      "cu" : {
+         "ponomar" : {
+            "saints" : [
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Пѧто́къ",
+                     "Nominative" : "Пѧто́къ блꙋ́днагѡ сы́на"
+                  },
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "I Jn_2:7-17",
+                              "type" : "apostol",
+                              "pericope" : "70",
+                              "effWeek" : null
+                           },
+                           {
+                              "reading" : "Mk_14:3-9",
+                              "type" : "gospel",
+                              "pericope" : "63",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "life" : null,
+                  "cid" : "9865",
+                  "info" : null
+               },
+               {
+                  "cid" : "37302",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Ѿдани́е срѣ́тенїѧ гдⷭ҇нѧ",
+                     "Nominative" : "Ѿдани́е срѣ́тенїѧ гдⷭ҇нѧ"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "3",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "1621",
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ст҃а́гѡ мч҃ника",
+                     "Nominative" : "Ст҃а́гѡ мч҃ника нїки́фора, и҆з̾ а҆нтїохі́и сѵ́рскїѧ (ок. 257)"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "Ѡ҆брѣ́тенїе моще́й",
+                     "Nominative" : "Ѡ҆брѣ́тенїе моще́й ст҃а́гѡ і҆нноке́нтїа, є҆пі́скопа і҆ркꙋ́тскагѡ (1805)."
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "951",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ст҃а́гѡ сщ҃енномч҃ника васі́лїа пресвѵ́тера (1930)",
+                     "Short" : "Ст҃а́гѡ сщ҃енномч҃ника"
+                  },
+                  "info" : null,
+                  "cid" : "476604",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020901",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ст҃а́гѡ сщ҃енномч҃ника і҆ѡа́нна пресвѵ́тера (1938)",
+                     "Short" : "Ст҃а́гѡ сщ҃енномч҃ника"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "419",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Сщ҃енномꙋ́ченикѡвъ марке́лла, є҆пі́скопа сїкелі́йстѣмъ, ѳїла́грїя, є҆пі́скопа кѵ́прскагѡ, и҆ пагкра́тїа, є҆пі́скопа таѵромені́йскагѡ (а҃)",
+                     "Short" : "Сщ҃енномꙋ́ченикѡвъ марке́лла,"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Прпⷣбнагѡ пагкра́тїа",
+                     "Nominative" : "Прпⷣбнагѡ пагкра́тїа пече́рскагѡ (гі҃)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "020900",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Прпⷣбныхъ генна́дїѧ",
+                     "Nominative" : "Прпⷣбныхъ генна́дїѧ (ок. 1516) и҆ нїки́фора (1557) Важеезерских."
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "468"
+               }
+            ],
+            "tone" : 5,
+            "fastings" : "1111111"
+         },
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "life" : null,
+                  "cid" : "9865",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Пѧто́къ",
+                     "Nominative" : "Пѧто́къ блꙋ́днагѡ сы́на"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "I Jn_2:7-17",
+                              "type" : "apostol",
+                              "pericope" : "70",
+                              "effWeek" : null
+                           },
+                           {
+                              "pericope" : "63",
+                              "effWeek" : null,
+                              "reading" : "Mk_14:3-9",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion"
+               },
+               {
+                  "type" : "3",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ѿдани́е срѣ́тенїѧ гдⷭ҇нѧ",
+                     "Nominative" : "Ѿдани́е срѣ́тенїѧ гдⷭ҇нѧ"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "37302",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "1621",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "name" : {
+                     "Nominative" : "Ст҃а́гѡ мч҃ника нїки́фора, и҆з̾ а҆нтїохі́и сѵ́рскїѧ (ок. 257)",
+                     "Short" : "Ст҃а́гѡ мч҃ника"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "951",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ѡ҆брѣ́тенїе моще́й ст҃а́гѡ і҆нноке́нтїа, є҆пі́скопа і҆ркꙋ́тскагѡ (1805).",
+                     "Short" : "Ѡ҆брѣ́тенїе моще́й"
+                  }
+               },
+               {
+                  "cid" : "476604",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ст҃а́гѡ сщ҃енномч҃ника васі́лїа пресвѵ́тера (1930)",
+                     "Short" : "Ст҃а́гѡ сщ҃енномч҃ника"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020901",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ст҃а́гѡ сщ҃енномч҃ника і҆ѡа́нна пресвѵ́тера (1938)",
+                     "Short" : "Ст҃а́гѡ сщ҃енномч҃ника"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "cid" : "419",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Сщ҃енномꙋ́ченикѡвъ марке́лла,",
+                     "Nominative" : "Сщ҃енномꙋ́ченикѡвъ марке́лла, є҆пі́скопа сїкелі́йстѣмъ, ѳїла́грїя, є҆пі́скопа кѵ́прскагѡ, и҆ пагкра́тїа, є҆пі́скопа таѵромені́йскагѡ (а҃)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Прпⷣбнагѡ пагкра́тїа",
+                     "Nominative" : "Прпⷣбнагѡ пагкра́тїа пече́рскагѡ (гі҃)"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020900"
+               },
+               {
+                  "cid" : "468",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Прпⷣбныхъ генна́дїѧ",
+                     "Nominative" : "Прпⷣбныхъ генна́дїѧ (ок. 1516) и҆ нїки́фора (1557) Важеезерских."
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               }
+            ],
+            "tone" : 5,
+            "fastings" : "1111111"
+         }
+      },
+      "zh/Hant" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "I Jn_2:7-17",
+                              "type" : "apostol",
+                              "pericope" : "70",
+                              "effWeek" : null
+                           },
+                           {
+                              "reading" : "Mk_14:3-9",
+                              "type" : "gospel",
+                              "pericope" : "63",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "name" : {
+                     "Short" : "預備日（本周免齋）",
+                     "Nominative" : "預備日（本周免齋）"
+                  },
+                  "info" : null,
+                  "cid" : "9865",
+                  "life" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "3",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "主進殿節慶期圓滿日"
+                  },
+                  "info" : null,
+                  "cid" : "37302",
+                  "life" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "殉道者尼基佛若（安提阿，約257年）",
+                     "Short" : "殉道者尼基佛若（安提阿，約257年）"
+                  },
+                  "menologion" : "",
+                  "type" : "1",
+                  "info" : null,
+                  "cid" : "1621",
+                  "life" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "殉道司教：瑪爾凱洛（西西里主教）、斐拉格里（塞浦路斯主教）、龐克拉提（陶爾米納城主教）（均為使徒聖裴特若的弟子，一世紀）",
+                     "Short" : "殉道司教：瑪爾凱洛（西西里主教）、斐拉格里（塞浦路斯主教）、龐克拉提（陶爾米納城主教）（均為使徒聖裴特若的弟子，一世紀）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "419",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "020902",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "殉道司教裴特若·達瑪斯基諾（大馬士革主教，743年）",
+                     "Nominative" : "殉道司教裴特若·達瑪斯基諾（大馬士革主教，743年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "468",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "聖艮納迪（1516年）和聖尼基佛若（1557年）（均為沃洛格達的瓦則湖區域修士）",
+                     "Short" : "聖艮納迪（1516年）和聖尼基佛若（1557年）（均為沃洛格達的瓦則湖區域修士）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "name" : {
+                     "Nominative" : "聖龐克拉提（基輔洞窟修道院修士司祭，十三世紀）",
+                     "Short" : "聖龐克拉提（基輔洞窟修道院修士司祭，十三世紀）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "020900",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "951",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "尋獲伊爾庫次克的聖英諾肯提（1731年）之聖髑紀念日（1805年）",
+                     "Short" : "尋獲伊爾庫次克的聖英諾肯提（1731年）之聖髑紀念日（1805年）"
+                  }
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "4766",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "新殉道者約翰（伊庇魯斯地方，1814年）",
+                     "Nominative" : "新殉道者約翰（伊庇魯斯地方，1814年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "name" : {
+                     "Short" : "新殉道司祭約翰（1938年）",
+                     "Nominative" : "新殉道司祭約翰（1938年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "020901",
+                  "info" : null
+               },
+               {
+                  "cid" : "020903",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "殉道者阿頗羅尼亞（亞歷山大里亞，249年）",
+                     "Short" : "殉道者阿頗羅尼亞（亞歷山大里亞，249年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "cid" : "020904",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "聖埃彌利亞諾、及聖弗拉克希（高盧圖爾斯地方的成德者，六世紀）",
+                     "Nominative" : "聖埃彌利亞諾、及聖弗拉克希（高盧圖爾斯地方的成德者，六世紀）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "020905",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "聖羅瑪諾（西里西亞的顯行靈蹟者，五世紀）",
+                     "Short" : "聖羅瑪諾（西里西亞的顯行靈蹟者，五世紀）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "020906",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "聖提洛（威爾士郎達夫的主教，六世紀）",
+                     "Short" : "聖提洛（威爾士郎達夫的主教，六世紀）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               }
+            ],
+            "tone" : 5,
+            "fastings" : "1111111"
+         },
+         "ponomar" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "cid" : "9865",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "I Jn_2:7-17",
+                              "effWeek" : null,
+                              "pericope" : "70"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "63",
+                              "reading" : "Mk_14:3-9",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Short" : "預備日（本周免齋）",
+                     "Nominative" : "預備日（本周免齋）"
+                  }
+               },
+               {
+                  "type" : "3",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "主進殿節慶期圓滿日"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "37302",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "1621",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "殉道者尼基佛若（安提阿，約257年）",
+                     "Nominative" : "殉道者尼基佛若（安提阿，約257年）"
+                  },
+                  "menologion" : "",
+                  "type" : "1"
+               },
+               {
+                  "cid" : "419",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "殉道司教：瑪爾凱洛（西西里主教）、斐拉格里（塞浦路斯主教）、龐克拉提（陶爾米納城主教）（均為使徒聖裴特若的弟子，一世紀）",
+                     "Nominative" : "殉道司教：瑪爾凱洛（西西里主教）、斐拉格里（塞浦路斯主教）、龐克拉提（陶爾米納城主教）（均為使徒聖裴特若的弟子，一世紀）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "name" : {
+                     "Nominative" : "殉道司教裴特若·達瑪斯基諾（大馬士革主教，743年）",
+                     "Short" : "殉道司教裴特若·達瑪斯基諾（大馬士革主教，743年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "020902",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "468",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "聖艮納迪（1516年）和聖尼基佛若（1557年）（均為沃洛格達的瓦則湖區域修士）",
+                     "Short" : "聖艮納迪（1516年）和聖尼基佛若（1557年）（均為沃洛格達的瓦則湖區域修士）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "020900",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "聖龐克拉提（基輔洞窟修道院修士司祭，十三世紀）",
+                     "Short" : "聖龐克拉提（基輔洞窟修道院修士司祭，十三世紀）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "尋獲伊爾庫次克的聖英諾肯提（1731年）之聖髑紀念日（1805年）",
+                     "Short" : "尋獲伊爾庫次克的聖英諾肯提（1731年）之聖髑紀念日（1805年）"
+                  },
+                  "info" : null,
+                  "cid" : "951",
+                  "life" : null
+               },
+               {
+                  "cid" : "4766",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "新殉道者約翰（伊庇魯斯地方，1814年）",
+                     "Short" : "新殉道者約翰（伊庇魯斯地方，1814年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "life" : null,
+                  "cid" : "020901",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "新殉道司祭約翰（1938年）",
+                     "Nominative" : "新殉道司祭約翰（1938年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020903",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "殉道者阿頗羅尼亞（亞歷山大里亞，249年）",
+                     "Short" : "殉道者阿頗羅尼亞（亞歷山大里亞，249年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "聖埃彌利亞諾、及聖弗拉克希（高盧圖爾斯地方的成德者，六世紀）",
+                     "Nominative" : "聖埃彌利亞諾、及聖弗拉克希（高盧圖爾斯地方的成德者，六世紀）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "020904",
+                  "life" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "聖羅瑪諾（西里西亞的顯行靈蹟者，五世紀）",
+                     "Short" : "聖羅瑪諾（西里西亞的顯行靈蹟者，五世紀）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020905"
+               },
+               {
+                  "cid" : "020906",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "聖提洛（威爾士郎達夫的主教，六世紀）",
+                     "Nominative" : "聖提洛（威爾士郎達夫的主教，六世紀）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               }
+            ],
+            "fastings" : "1111111",
+            "tone" : 5
+         }
+      }
+   },
+   "date" : "2019/2/9"
+}

@@ -1,0 +1,2270 @@
+---
+date: 2019/1/26
+langs:
+  cu:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9307'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пѧто́къ л҃з-ѧ седми́цы по пѧтидесѧ́тницѣ'
+            Short: Пѧто́къ
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '32'
+                  pericope: '58'
+                  reading: 'I Pet_1:1-2, 10-12, 2:6-10'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '53'
+                  reading: Mk_12:1-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '312'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбныхъ ѯенофѡ́нта, дрꙋжи́ны є҆гѡ̀ марі́и и҆ сыновей и҆х̾ а҆рка́дїѧ и҆ і҆ѡа́нна (е҃-ѕ҃)'
+            Short: 'Прпⷣбныхъ ѯенофѡ́нта,'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '01260098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника і҆ѡа́нна (1938)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́хъ мꙋ́чєникъ а҆на́нїи пресвѵ́тера, петра̀, темничного стража, и҆ и҆̀же съ ни́ми семѝ воинов (295)'
+            Short: 'Ст҃ы́хъ мꙋ́чєникъ'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '315'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ сѷмеѡ́на Ветхого (390)'
+            Short: 'Прпⷣбнагѡ сѷмеѡ́на'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '31701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ і҆ѡ́сифа стꙋді́та, а҆рхїепⷭ҇копа ѳессалоні́тскагѡ, бра́та прпⷣбнагѡ ѳео́дѡра стꙋді́та (830)'
+            Short: 'Ст҃а́гѡ і҆ѡ́сифа'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '2202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пренесе́нїе моще́й прпⷣбнагѡ ѳео́дѡра, и҆гꙋ́мена стꙋді́йскагѡ (845)'
+            Short: 'Пренесе́нїе моще́й'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '318'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Благовѣ́рнагѡ даві́да г҃ возобнови́телѧ, царѧ̀ Иверии и҆ Абхазии (1125)'
+            Short: 'Благовѣ́рнагѡ даві́да'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '141001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ ѯенофѡ́нта робе́йскагѡ (1262)'
+            Short: 'Прпⷣбнагѡ ѯенофѡ́нта'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '390'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ сѷмеѡ́на Ветхого'
+            Short: 'Преподобный Симеон Ветхий'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9307'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пѧто́къ л҃з-ѧ седми́цы по пѧтидесѧ́тницѣ'
+            Short: Пѧто́къ
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '32'
+                  pericope: '58'
+                  reading: 'I Pet_1:1-2, 10-12, 2:6-10'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '53'
+                  reading: Mk_12:1-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '312'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбныхъ ѯенофѡ́нта, дрꙋжи́ны є҆гѡ̀ марі́и и҆ сыновей и҆х̾ а҆рка́дїѧ и҆ і҆ѡа́нна (е҃-ѕ҃)'
+            Short: 'Прпⷣбныхъ ѯенофѡ́нта,'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '01260098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника і҆ѡа́нна (1938)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́хъ мꙋ́чєникъ а҆на́нїи пресвѵ́тера, петра̀, темничного стража, и҆ и҆̀же съ ни́ми семѝ воинов (295)'
+            Short: 'Ст҃ы́хъ мꙋ́чєникъ'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '315'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ сѷмеѡ́на Ветхого (390)'
+            Short: 'Прпⷣбнагѡ сѷмеѡ́на'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '31701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ і҆ѡ́сифа стꙋді́та, а҆рхїепⷭ҇копа ѳессалоні́тскагѡ, бра́та прпⷣбнагѡ ѳео́дѡра стꙋді́та (830)'
+            Short: 'Ст҃а́гѡ і҆ѡ́сифа'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '2202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пренесе́нїе моще́й прпⷣбнагѡ ѳео́дѡра, и҆гꙋ́мена стꙋді́йскагѡ (845)'
+            Short: 'Пренесе́нїе моще́й'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '318'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Благовѣ́рнагѡ даві́да г҃ возобнови́телѧ, царѧ̀ Иверии и҆ Абхазии (1125)'
+            Short: 'Благовѣ́рнагѡ даві́да'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '141001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ ѯенофѡ́нта робе́йскагѡ (1262)'
+            Short: 'Прпⷣбнагѡ ѯенофѡ́нта'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '390'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ сѷмеѡ́на Ветхого'
+            Short: 'Преподобный Симеон Ветхий'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+  cu/ru:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9307'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пятница 37-й седмицы по Пятидесятнице'
+            Short: 'Пятница 37-й седмицы по Пятидесятнице'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '32'
+                  pericope: '58'
+                  reading: 'I Pet_1:1-2, 10-12, 2:6-10'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '53'
+                  reading: Mk_12:1-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '312'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Преподобный Ксенофонт, супруга его Мария и сыновья их Аркадий и Иоанн, знатные константинопольские граждане, жили в V веке. Несмотря на богатство и знатность, они отличались душевной простотой и добрым сердцем. Желая дать своим сыновьям, Иоанну и Аркадию, более полное образование, они отправили их в финикийский город Бейрут. Промыслом Божиим корабль, на котором отправились оба брата, потерпел крушение. Братья были выброшены волнами на берег в разных местах. Скорбя о разлучении, братья посвятили себя Богу и приняли иночество. Родители долго не получали известий о своих детях и считали их погибшими. Однако преподобный Ксенофонт, уже будучи старцем, сохранял твердое упование на Господа, утешал свою жену Марию, советовал не скорбеть и верить, что дети будут сохранены Господом. Через несколько лет супруги совершили паломничество по Святым местам и встретили в Иерусалиме своих сыновей, подвизавшихся в разных монастырях. Обрадованные супруги благодарили Господа, промыслительно соединившего всю семью. Оставшуюся жизнь преподобные Ксенофонт и Мария посвятили Богу, приняв иночество. Преподобные Аркадий и Иоанн, простившись с родителями, отошли в пустыню, где после долгих подвигов прославились даром чудотворений и прозорливости. Преподобные старцы Ксенофонт и Мария, подвизаясь в безмолвии и строгом  постничестве, также получили от Бога дар чудотворений. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прпп. Ксенофонта, супруги его Марии и сыновей их Аркадия и Иоанна (V-VI)'
+            Short: 'Прпп. Ксенофонта'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '01260098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Иоанна (1938)'
+            Short: 'Мч. Иоанна (1938)'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '314'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Святые мученики Анания, пресвитер, Петр, темничный страж, и с ними 7 воинов пострадали в Финикии в 295 году. Во время гонений на христиан императора Диоклитиана (284—305) к финикийскому правителю Максиму привели святого Ананию за исповедание веры во Христа и нежелание поклоняться идолам. Его избивали молотками, жгли4 огнем и на опаленное тело сыпали соль. После страшных пыток по молитве святого мученика разрушился идоложертвенный храм и стоявшие в нем идолы. Святого мученика заключили в темницу. Охранявший его Петр и 7 других воинов, ставшие свидетелями мучений святого пресвитера Анании, уверовали во Христа, за что после долгих мучений были утоплены в море. За мученический подвиг они, вместе со святым мучеником Ананией, получили от Христа венцы славы. \n"
+          menologion: ''
+          name:
+            Nominative: 'Мчч. Анании пресвитера, Петра, темничного стража, и с ними семи воинов (295)'
+            Short: 'Мчч. Анании'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '315'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Симеона Ветхого (390)'
+            Short: 'Прп. Симеона'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '31701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свт. Иосифа Студита, архиеп. Солунского, брата прп. Феодора Студита (830)'
+            Short: 'Свт. Иосифа'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '2202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Перенесение мощей прп. Феодора, игумена Студийского (845)'
+            Short: 'Перенесение мощей'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '318'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Блгв. Давида III Возобновителя, царя Иверии и Абхазии (1125)'
+            Short: 'Блгв. Давида'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '141001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Прп. Ксенофонта'
+            Nominative: 'Прп. Ксенофонта Робейского (1262)'
+            Short: 'Прпⷣбнагѡ ѯенофѡ́нта'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '390'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\nПреподобный Симеон Ветхий, назван так в отличие от преподобного Симеона Столпника (память 1 сентября), подвизавшегося в Сирии в V веке, в детские годы ушел в пустыню в Сирии и поселился в пещере, в совершенном уединении. Непрерывная молитва, внутреннее самоуглубление и Богомыслие были постоянным его занятием. Подвижник питался только травами, росшими вокруг его пещеры. Когда к нему стали приходить люди, чтобы получить наставление, он, желая сохранить безмолвие, оставил пещеру и переселился на одну из гор Аманского хребта. Но и здесь уединение подвижника нарушалось множеством посетителей. Тогда преподобный Симеон удалился на Синайскую гору, где некогда пророк Моисей (память 4 сентября) получил откровение от Бога. Божиим Промыслом, после недолгого пребывания  на Синае, святой подвижник возвратился в Аман и там основал две обители: одну на вершине горы, другую у ее подножия. Являясь настоятелем этих обителей, преподобный Симеон духовно назидал иноков, предупреждал их о кознях врага рода человеческого и учил бороться с искушениями, ободрял и укреплял в подвигах, возбуждая к размышлению о спасении. За святость жизни преподобный Симеон получил от Бога дар благодатных чудотворений. После многотрудной подвижнической жизни преподобный Симеон преставился к Богу около 390 года. \n"
+          menologion: ''
+          name:
+            Nominative: 'Преподобный Симеон Ветхий'
+            Short: 'Преподобный Симеон Ветхий'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9307'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пятница 37-й седмицы по Пятидесятнице'
+            Short: 'Пятница 37-й седмицы по Пятидесятнице'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '32'
+                  pericope: '58'
+                  reading: 'I Pet_1:1-2, 10-12, 2:6-10'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '53'
+                  reading: Mk_12:1-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '312'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Преподобный Ксенофонт, супруга его Мария и сыновья их Аркадий и Иоанн, знатные константинопольские граждане, жили в V веке. Несмотря на богатство и знатность, они отличались душевной простотой и добрым сердцем. Желая дать своим сыновьям, Иоанну и Аркадию, более полное образование, они отправили их в финикийский город Бейрут. Промыслом Божиим корабль, на котором отправились оба брата, потерпел крушение. Братья были выброшены волнами на берег в разных местах. Скорбя о разлучении, братья посвятили себя Богу и приняли иночество. Родители долго не получали известий о своих детях и считали их погибшими. Однако преподобный Ксенофонт, уже будучи старцем, сохранял твердое упование на Господа, утешал свою жену Марию, советовал не скорбеть и верить, что дети будут сохранены Господом. Через несколько лет супруги совершили паломничество по Святым местам и встретили в Иерусалиме своих сыновей, подвизавшихся в разных монастырях. Обрадованные супруги благодарили Господа, промыслительно соединившего всю семью. Оставшуюся жизнь преподобные Ксенофонт и Мария посвятили Богу, приняв иночество. Преподобные Аркадий и Иоанн, простившись с родителями, отошли в пустыню, где после долгих подвигов прославились даром чудотворений и прозорливости. Преподобные старцы Ксенофонт и Мария, подвизаясь в безмолвии и строгом  постничестве, также получили от Бога дар чудотворений. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прпп. Ксенофонта, супруги его Марии и сыновей их Аркадия и Иоанна (V-VI)'
+            Short: 'Прпп. Ксенофонта'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '01260098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Иоанна (1938)'
+            Short: 'Мч. Иоанна (1938)'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '314'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Святые мученики Анания, пресвитер, Петр, темничный страж, и с ними 7 воинов пострадали в Финикии в 295 году. Во время гонений на христиан императора Диоклитиана (284—305) к финикийскому правителю Максиму привели святого Ананию за исповедание веры во Христа и нежелание поклоняться идолам. Его избивали молотками, жгли4 огнем и на опаленное тело сыпали соль. После страшных пыток по молитве святого мученика разрушился идоложертвенный храм и стоявшие в нем идолы. Святого мученика заключили в темницу. Охранявший его Петр и 7 других воинов, ставшие свидетелями мучений святого пресвитера Анании, уверовали во Христа, за что после долгих мучений были утоплены в море. За мученический подвиг они, вместе со святым мучеником Ананией, получили от Христа венцы славы. \n"
+          menologion: ''
+          name:
+            Nominative: 'Мчч. Анании пресвитера, Петра, темничного стража, и с ними семи воинов (295)'
+            Short: 'Мчч. Анании'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '315'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Симеона Ветхого (390)'
+            Short: 'Прп. Симеона'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '31701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свт. Иосифа Студита, архиеп. Солунского, брата прп. Феодора Студита (830)'
+            Short: 'Свт. Иосифа'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '2202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Перенесение мощей прп. Феодора, игумена Студийского (845)'
+            Short: 'Перенесение мощей'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '318'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Блгв. Давида III Возобновителя, царя Иверии и Абхазии (1125)'
+            Short: 'Блгв. Давида'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '141001'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Прп. Ксенофонта'
+            Nominative: 'Прп. Ксенофонта Робейского (1262)'
+            Short: 'Прпⷣбнагѡ ѯенофѡ́нта'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '390'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\nПреподобный Симеон Ветхий, назван так в отличие от преподобного Симеона Столпника (память 1 сентября), подвизавшегося в Сирии в V веке, в детские годы ушел в пустыню в Сирии и поселился в пещере, в совершенном уединении. Непрерывная молитва, внутреннее самоуглубление и Богомыслие были постоянным его занятием. Подвижник питался только травами, росшими вокруг его пещеры. Когда к нему стали приходить люди, чтобы получить наставление, он, желая сохранить безмолвие, оставил пещеру и переселился на одну из гор Аманского хребта. Но и здесь уединение подвижника нарушалось множеством посетителей. Тогда преподобный Симеон удалился на Синайскую гору, где некогда пророк Моисей (память 4 сентября) получил откровение от Бога. Божиим Промыслом, после недолгого пребывания  на Синае, святой подвижник возвратился в Аман и там основал две обители: одну на вершине горы, другую у ее подножия. Являясь настоятелем этих обителей, преподобный Симеон духовно назидал иноков, предупреждал их о кознях врага рода человеческого и учил бороться с искушениями, ободрял и укреплял в подвигах, возбуждая к размышлению о спасении. За святость жизни преподобный Симеон получил от Бога дар благодатных чудотворений. После многотрудной подвижнической жизни преподобный Симеон преставился к Богу около 390 года. \n"
+          menologion: ''
+          name:
+            Nominative: 'Преподобный Симеон Ветхий'
+            Short: 'Преподобный Симеон Ветхий'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+  el:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9307'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Παρασκευὴ
+            Short: Παρασκευὴ
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '32'
+                  pericope: '58'
+                  reading: 'I Pet_1:1-2, 10-12, 2:6-10'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '53'
+                  reading: Mk_12:1-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '312'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ξενοφῶν μετὰ τῆς συμβίου τοῦ Μαρίας καὶ τῶν τέκνων Ἀρκαδίου καὶ Ἰωάννου'
+            Short: 'Ὅσιος Ξενοφῶν μετὰ τῆς συμβίου τοῦ Μαρίας καὶ τῶν τέκνων Ἀρκαδίου καὶ Ἰωάννου'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '390'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Συμεὼν ὁ Παλαιὸς'
+            Short: 'Ὅσιος Συμεὼν ὁ Παλαιὸς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '012602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἀμμωνᾶς'
+            Short: 'Ὅσιος Ἀμμωνᾶς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '012604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Ὅσιος Κλήμης'
+            Nominative: 'Ὅσιος Κλήμης ὁ ἐν τῷ Όρει Σαγματίω άσκησας'
+            Short: 'Ὅσιος Κλήμης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01260195'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Μνήμη τοῦ Μεγάλου Σεισμοῦ'
+            Nominative: 'Μνήμη τοῦ Μεγάλου Σεισμοῦ'
+            Short: 'Μνήμη τοῦ Μεγάλου Σεισμοῦ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Ἀνανίας ὁ Πρεσβύτερος, Πέτρος ὁ δεσμοφύλακας καὶ οἱ ἑπτὰ στρατιῶτες μάρτυρες'
+            Short: 'Ἅγιοι Ἀνανίας ὁ Πρεσβύτερος, Πέτρος ὁ δεσμοφύλακας καὶ οἱ ἑπτὰ στρατιῶτες μάρτυρες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '012600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Γαβριὴλ'
+            Short: 'Ὅσιος Γαβριὴλ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01260495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Ἅγιοι δύο Μάρτυρες'
+            Nominative: 'Ἅγιοι δύο Μάρτυρες οἱ ἐν Φρυγία'
+            Short: 'Ἅγιοι δύο Μάρτυρες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '2202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἀνακομιδὴ ἱερῶν Λειψάνων τοῦ Ὁσίου Θεοδώρου τοῦ Στουδίτου'
+            Short: 'Ἀνακομιδὴ ἱερῶν Λειψάνων τοῦ Ὁσίου Θεοδώρου τοῦ Στουδίτου'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01260695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Γερμανὸς ὁ ἐν Σαγματά'
+            Short: 'Ὅσιος Γερμανὸς ὁ ἐν Σαγματά'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01260795'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῶν Βοιωτών Ἁγίων'
+            Short: 'Σύναξις τῶν Βοιωτών Ἁγίων'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '318'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Δαυΐδ βασιλεὺς τῆς Γεωργίας'
+            Short: 'Ἅγιος Δαυΐδ βασιλεὺς τῆς Γεωργίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01260895'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἀρκάδιος'
+            Short: 'Ὅσιος Ἀρκάδιος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '0126995'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Γαβριὴλ Μητροπολίτης Νόβγκοροντ καὶ Ἁγίας Πετρούπολης'
+            Short: 'Ἅγιος Γαβριὴλ Μητροπολίτης Νόβγκοροντ καὶ Ἁγίας Πετρούπολης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '012607'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Κύριλλος Μητροπολίτης Καζὰν'
+            Short: 'Ἅγιος Κύριλλος Μητροπολίτης Καζὰν'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9307'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Παρασκευὴ
+            Short: Παρασκευὴ
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '32'
+                  pericope: '58'
+                  reading: 'I Pet_1:1-2, 10-12, 2:6-10'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '53'
+                  reading: Mk_12:1-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '312'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ξενοφῶν μετὰ τῆς συμβίου τοῦ Μαρίας καὶ τῶν τέκνων Ἀρκαδίου καὶ Ἰωάννου'
+            Short: 'Ὅσιος Ξενοφῶν μετὰ τῆς συμβίου τοῦ Μαρίας καὶ τῶν τέκνων Ἀρκαδίου καὶ Ἰωάννου'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '390'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Συμεὼν ὁ Παλαιὸς'
+            Short: 'Ὅσιος Συμεὼν ὁ Παλαιὸς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '012602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἀμμωνᾶς'
+            Short: 'Ὅσιος Ἀμμωνᾶς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '012604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Ὅσιος Κλήμης'
+            Nominative: 'Ὅσιος Κλήμης ὁ ἐν τῷ Όρει Σαγματίω άσκησας'
+            Short: 'Ὅσιος Κλήμης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01260195'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Μνήμη τοῦ Μεγάλου Σεισμοῦ'
+            Nominative: 'Μνήμη τοῦ Μεγάλου Σεισμοῦ'
+            Short: 'Μνήμη τοῦ Μεγάλου Σεισμοῦ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Ἀνανίας ὁ Πρεσβύτερος, Πέτρος ὁ δεσμοφύλακας καὶ οἱ ἑπτὰ στρατιῶτες μάρτυρες'
+            Short: 'Ἅγιοι Ἀνανίας ὁ Πρεσβύτερος, Πέτρος ὁ δεσμοφύλακας καὶ οἱ ἑπτὰ στρατιῶτες μάρτυρες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '012600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Γαβριὴλ'
+            Short: 'Ὅσιος Γαβριὴλ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01260495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Ἅγιοι δύο Μάρτυρες'
+            Nominative: 'Ἅγιοι δύο Μάρτυρες οἱ ἐν Φρυγία'
+            Short: 'Ἅγιοι δύο Μάρτυρες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '2202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἀνακομιδὴ ἱερῶν Λειψάνων τοῦ Ὁσίου Θεοδώρου τοῦ Στουδίτου'
+            Short: 'Ἀνακομιδὴ ἱερῶν Λειψάνων τοῦ Ὁσίου Θεοδώρου τοῦ Στουδίτου'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01260695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Γερμανὸς ὁ ἐν Σαγματά'
+            Short: 'Ὅσιος Γερμανὸς ὁ ἐν Σαγματά'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01260795'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Σύναξις τῶν Βοιωτών Ἁγίων'
+            Short: 'Σύναξις τῶν Βοιωτών Ἁγίων'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '318'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Δαυΐδ βασιλεὺς τῆς Γεωργίας'
+            Short: 'Ἅγιος Δαυΐδ βασιλεὺς τῆς Γεωργίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01260895'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἀρκάδιος'
+            Short: 'Ὅσιος Ἀρκάδιος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '0126995'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Γαβριὴλ Μητροπολίτης Νόβγκοροντ καὶ Ἁγίας Πετρούπολης'
+            Short: 'Ἅγιος Γαβριὴλ Μητροπολίτης Νόβγκοροντ καὶ Ἁγίας Πετρούπολης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '012607'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Κύριλλος Μητροπολίτης Καζὰν'
+            Short: 'Ἅγιος Κύριλλος Μητροπολίτης Καζὰν'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 3
+  en:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9307'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Friday of the 37<sup>th</sup> Week after Pentecost'
+            Short: 'Friday of the 37<sup>th</sup> Week after Pentecost'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '32'
+                  pericope: '58'
+                  reading: 'I Pet_1:1-2, 10-12, 2:6-10'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '53'
+                  reading: Mk_12:1-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '312'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Xenophon, his spouse Mary and their sons Arcadius and John, were noted citizens of Constantinople and lived in the V Century. Despite riches and position, they distinguished themselves by their simplicity of soul and goodness of heart. Wishing to give their sons John and Arkadios a more complete education, they sent them off to the Phœnician city of Beirut. Through Divine Providence the ship on which both brothers sailed became ship-wrecked. The brothers were pitched by the waves onto shore at different places. Aggrieved at being separated, the brothers dedicated themselves to God and accepted monasticism. For a long time the parents received no news about their children and presumed them to have perished. Xenophontes, however, now already quite old, maintained firm hope in the Lord and consoled his wife Maria, telling her not to sorrow but to believe that their children were watched over by the Lord. After several years the spouses made pilgrimage to the Holy places and at Jerusalem they met their sons, pursuing asceticsm at different monasteries. The joyful parents gave thanks to the Lord for providently re-uniting the whole family. For the remainder of their lives, the monastics Xenophontes and Maria dedicated themselves to God and accepted monasticism. The Monks Arkadios and John, having taken leave of their parents, went out into the wilderness, where after long ascetic toil they were glorified by gifts of wonderworking and perspicacity. The monastic elders Xenophontes and Maria, having pursued asceticism in silence and strict fasting, also received of God the gift of wonderworking.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Xenophon with his wife Mary, and their sons Arcadius and John of Constantinople (5<sup>th</sup>-6<sup>th</sup> C)'
+            Short: 'Venerable Xenophon and family'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '390'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Simeon the Ancient was called this in distinction from the Monk Simeon the Stylite (Comm. 1 September). He practised asceticism in Syria in the V Century, and in his childhood years went out into the Syrian wilderness and settled in a cave in complete solitude. Constant prayer, inner meditation and thought about God were his constant occupation. The ascetic ate only the grass which grew about his cave. When people began to come to him to receive guidance, he in wishing to preserve his silence left his cave and settled on one of the mountains of the Aman range. But here also his ascetic solitude was disturbed by a throng of visitors. The Monk Simeon then withdrew onto Mount Sinai, where formerly the Prophet Moses (Comm. 4 September) received revelation from God. By Divine Providence, after a short stay on Sinai the holy ascetic returned to Aman and founded two monasteries: one at the top of the mountain, the other at its base. Being head of these monasteries, the Monk Simeon spiritually guided the monks, warning them about the wiles of the enemy of humankind, and he taught them to struggle against temptations. He inspired and encouraged them in ascetic deeds, rousing them to meditate about salvation. Because of the holiness of his life the Monk Simeon received of God the gift of grace-abundant wonderworking. After the many toils of his ascetic life the Monk Simeon expired to God in about the year 390.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Symeon the Ancient of Syria († c. 390)'
+            Short: 'Venerable Symeon'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '314'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Holy Martyrs Ananias the Presbyter, Peter the Prison Guard, and with them 7 Soldiers, suffered in Phœnicia in the year 295. During the time of persecution against christians under the emperor Diocletian (284-305), Saint Ananias was brought before Maximus the governor of Phœnicia, for confessing faith in Christ and refusal to worship idols. They beat him with hammers, burnt at him with fire, and on his scorched body they sprinkled salt. After his terrible sufferings, an idolatrous temple and the idols standing in it were destroyed through the prayers of the holy martyr. They locked up the holy martyr in prison. Stationed as witnesses to the tortures of holy presbyter Ananias and guarding him, were Peter and 7 other soldiers who came to believe in Christ. For this they were drowned in the sea after lengthy torture. For their act of martyrdom they, together with the holy martyr Ananias, received from Christ crowns of glory.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Martyrs Ananias the Presbyter, Peter the Prison Guard and 7 soldiers († 295)'
+            Short: 'Martyr Ananias and companions'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '2202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Translation of the relics of Venerable Theodore, Abbot of the Studion Monastery (845)'
+            Short: 'Translation of'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '31701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Saint Joseph, Archbishop of Thessalonica, brother of St. Theodore of the Studion († 830)'
+            Short: 'Saint Joseph'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Gabriel, Abbot of Jerusalem'
+            Short: 'Venerable Gabriel'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '318'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Blessed David III the Restorer, King of Iberia (Georgia) († 1125)'
+            Short: 'Blessed David'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9307'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Friday of the 37<sup>th</sup> Week after Pentecost'
+            Short: 'Friday of the 37<sup>th</sup> Week after Pentecost'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '32'
+                  pericope: '58'
+                  reading: 'I Pet_1:1-2, 10-12, 2:6-10'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '53'
+                  reading: Mk_12:1-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '312'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Xenophon, his spouse Mary and their sons Arcadius and John, were noted citizens of Constantinople and lived in the V Century. Despite riches and position, they distinguished themselves by their simplicity of soul and goodness of heart. Wishing to give their sons John and Arkadios a more complete education, they sent them off to the Phœnician city of Beirut. Through Divine Providence the ship on which both brothers sailed became ship-wrecked. The brothers were pitched by the waves onto shore at different places. Aggrieved at being separated, the brothers dedicated themselves to God and accepted monasticism. For a long time the parents received no news about their children and presumed them to have perished. Xenophontes, however, now already quite old, maintained firm hope in the Lord and consoled his wife Maria, telling her not to sorrow but to believe that their children were watched over by the Lord. After several years the spouses made pilgrimage to the Holy places and at Jerusalem they met their sons, pursuing asceticsm at different monasteries. The joyful parents gave thanks to the Lord for providently re-uniting the whole family. For the remainder of their lives, the monastics Xenophontes and Maria dedicated themselves to God and accepted monasticism. The Monks Arkadios and John, having taken leave of their parents, went out into the wilderness, where after long ascetic toil they were glorified by gifts of wonderworking and perspicacity. The monastic elders Xenophontes and Maria, having pursued asceticism in silence and strict fasting, also received of God the gift of wonderworking.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Xenophon with his wife Mary, and their sons Arcadius and John of Constantinople (5<sup>th</sup>-6<sup>th</sup> C)'
+            Short: 'Venerable Xenophon and family'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '390'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Simeon the Ancient was called this in distinction from the Monk Simeon the Stylite (Comm. 1 September). He practised asceticism in Syria in the V Century, and in his childhood years went out into the Syrian wilderness and settled in a cave in complete solitude. Constant prayer, inner meditation and thought about God were his constant occupation. The ascetic ate only the grass which grew about his cave. When people began to come to him to receive guidance, he in wishing to preserve his silence left his cave and settled on one of the mountains of the Aman range. But here also his ascetic solitude was disturbed by a throng of visitors. The Monk Simeon then withdrew onto Mount Sinai, where formerly the Prophet Moses (Comm. 4 September) received revelation from God. By Divine Providence, after a short stay on Sinai the holy ascetic returned to Aman and founded two monasteries: one at the top of the mountain, the other at its base. Being head of these monasteries, the Monk Simeon spiritually guided the monks, warning them about the wiles of the enemy of humankind, and he taught them to struggle against temptations. He inspired and encouraged them in ascetic deeds, rousing them to meditate about salvation. Because of the holiness of his life the Monk Simeon received of God the gift of grace-abundant wonderworking. After the many toils of his ascetic life the Monk Simeon expired to God in about the year 390.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Symeon the Ancient of Syria († c. 390)'
+            Short: 'Venerable Symeon'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '314'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Holy Martyrs Ananias the Presbyter, Peter the Prison Guard, and with them 7 Soldiers, suffered in Phœnicia in the year 295. During the time of persecution against christians under the emperor Diocletian (284-305), Saint Ananias was brought before Maximus the governor of Phœnicia, for confessing faith in Christ and refusal to worship idols. They beat him with hammers, burnt at him with fire, and on his scorched body they sprinkled salt. After his terrible sufferings, an idolatrous temple and the idols standing in it were destroyed through the prayers of the holy martyr. They locked up the holy martyr in prison. Stationed as witnesses to the tortures of holy presbyter Ananias and guarding him, were Peter and 7 other soldiers who came to believe in Christ. For this they were drowned in the sea after lengthy torture. For their act of martyrdom they, together with the holy martyr Ananias, received from Christ crowns of glory.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Martyrs Ananias the Presbyter, Peter the Prison Guard and 7 soldiers († 295)'
+            Short: 'Martyr Ananias and companions'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '2202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Translation of the relics of Venerable Theodore, Abbot of the Studion Monastery (845)'
+            Short: 'Translation of'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '31701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Saint Joseph, Archbishop of Thessalonica, brother of St. Theodore of the Studion († 830)'
+            Short: 'Saint Joseph'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Gabriel, Abbot of Jerusalem'
+            Short: 'Venerable Gabriel'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '318'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Blessed David III the Restorer, King of Iberia (Georgia) († 1125)'
+            Short: 'Blessed David'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+  fr:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9307'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Vendredi de la 37-me semaine après le Pentecôte'
+            Short: 'Vendredi de la 37-me semaine après le Pentecôte'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '32'
+                  pericope: '58'
+                  reading: 'I Pet_1:1-2, 10-12, 2:6-10'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '53'
+                  reading: Mk_12:1-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '312'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Xénophon, Marie, Arcade et Jean'
+            Short: 'Sts. Xénophon'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '390'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Syméon l’Ancien'
+            Short: 'St. Syméon l’Ancien'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Ananie, Pierre et leurs 7 compagnons en Phénicie'
+            Short: 'Sts. Ananie'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Ammonas en Egypte'
+            Short: 'St. Ammonas'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Gabriel, Higoumène à Jérusalem'
+            Short: 'St. Gabriel'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Clément du Mont Sagmation'
+            Short: 'St. Clément'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '318'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. David III le Bâtisseur, roi de Géorgie'
+            Short: 'St. David'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Paule de Rome'
+            Short: 'Ste. Paule'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9307'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Vendredi de la 37-me semaine après le Pentecôte'
+            Short: 'Vendredi de la 37-me semaine après le Pentecôte'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '32'
+                  pericope: '58'
+                  reading: 'I Pet_1:1-2, 10-12, 2:6-10'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '53'
+                  reading: Mk_12:1-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '312'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Xénophon, Marie, Arcade et Jean'
+            Short: 'Sts. Xénophon'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '390'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Syméon l’Ancien'
+            Short: 'St. Syméon l’Ancien'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Ananie, Pierre et leurs 7 compagnons en Phénicie'
+            Short: 'Sts. Ananie'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Ammonas en Egypte'
+            Short: 'St. Ammonas'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Gabriel, Higoumène à Jérusalem'
+            Short: 'St. Gabriel'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Clément du Mont Sagmation'
+            Short: 'St. Clément'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '318'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. David III le Bâtisseur, roi de Géorgie'
+            Short: 'St. David'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ste. Paule de Rome'
+            Short: 'Ste. Paule'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+  zh/Hans:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9307'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬节后第卅七周预备日
+            Short: 五旬节后第卅七周预备日
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '32'
+                  pericope: '58'
+                  reading: 'I Pet_1:1-2, 10-12, 2:6-10'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '53'
+                  reading: Mk_12:1-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '312'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣克塞诺芬和他的妻子圣玛利亚，及他们的两个儿子：圣阿尔卡迪，圣约翰（君士坦丁堡人，6世纪）
+            Short: 圣克塞诺芬和他的妻子圣玛利亚，及他们的两个儿子：圣阿尔卡迪，圣约翰（君士坦丁堡人，6世纪）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '390'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣西面（被称为‘老者’西奈山之成德者，390年）
+            Short: 圣西面（被称为‘老者’西奈山之成德者，390年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者：阿纳尼雅司祭、彼得、以及协同他们就义者7位士兵（腓尼基，295年）
+            Short: 殉道者：阿纳尼雅司祭、彼得、以及协同他们就义者7位士兵（腓尼基，295年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '2202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬迁斯督迪修道院的圣德奥多若院长之圣髑纪念日（845年）
+            Short: 敬迁斯督迪修道院的圣德奥多若院长之圣髑纪念日（845年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '31701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣约熙福（德撒洛尼基城主教，斯督迪修道院的圣德奥多若院长的同胞兄弟，830年）
+            Short: 圣约熙福（德撒洛尼基城主教，斯督迪修道院的圣德奥多若院长的同胞兄弟，830年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣加百列（耶路撒冷地方修道院院长，490年）
+            Short: 圣加百列（耶路撒冷地方修道院院长，490年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣女帕弗拉（巴勒斯坦人，404年）
+            Short: 圣女帕弗拉（巴勒斯坦人，404年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '318'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣大卫（被称为‘建造者’，格鲁吉亚国王，1125年）
+            Short: 圣大卫（被称为‘建造者’，格鲁吉亚国王，1125年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣安孟（埃及人，大圣安托尼之弟子，350年）
+            Short: 圣安孟（埃及人，大圣安托尼之弟子，350年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣科农（曼岛主教及修道院创立者，648年）
+            Short: 圣科农（曼岛主教及修道院创立者，648年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣克利孟（撒格玛提翁山成德者，12世纪）
+            Short: 圣克利孟（撒格玛提翁山成德者，12世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012605'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣克塞诺芬（诺夫哥罗德的若北卡修道院院长，1262年）
+            Short: 圣克塞诺芬（诺夫哥罗德的若北卡修道院院长，1262年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012606'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司教基里尔（喀山都主教，1937年）
+            Short: 新殉道司教基里尔（喀山都主教，1937年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012607'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司教阿尔卡迪（1938年）
+            Short: 新殉道司教阿尔卡迪（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012608'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道女玛利亚（司祭之妻，噶特奇那地方人，1930年）
+            Short: 新殉道女玛利亚（司祭之妻，噶特奇那地方人，1930年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9307'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬节后第卅七周预备日
+            Short: 五旬节后第卅七周预备日
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '32'
+                  pericope: '58'
+                  reading: 'I Pet_1:1-2, 10-12, 2:6-10'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '53'
+                  reading: Mk_12:1-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '312'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣克塞诺芬和他的妻子圣玛利亚，及他们的两个儿子：圣阿尔卡迪，圣约翰（君士坦丁堡人，6世纪）
+            Short: 圣克塞诺芬和他的妻子圣玛利亚，及他们的两个儿子：圣阿尔卡迪，圣约翰（君士坦丁堡人，6世纪）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '390'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣西面（被称为‘老者’西奈山之成德者，390年）
+            Short: 圣西面（被称为‘老者’西奈山之成德者，390年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者：阿纳尼雅司祭、彼得、以及协同他们就义者7位士兵（腓尼基，295年）
+            Short: 殉道者：阿纳尼雅司祭、彼得、以及协同他们就义者7位士兵（腓尼基，295年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '2202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬迁斯督迪修道院的圣德奥多若院长之圣髑纪念日（845年）
+            Short: 敬迁斯督迪修道院的圣德奥多若院长之圣髑纪念日（845年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '31701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣约熙福（德撒洛尼基城主教，斯督迪修道院的圣德奥多若院长的同胞兄弟，830年）
+            Short: 圣约熙福（德撒洛尼基城主教，斯督迪修道院的圣德奥多若院长的同胞兄弟，830年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣加百列（耶路撒冷地方修道院院长，490年）
+            Short: 圣加百列（耶路撒冷地方修道院院长，490年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣女帕弗拉（巴勒斯坦人，404年）
+            Short: 圣女帕弗拉（巴勒斯坦人，404年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '318'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣大卫（被称为‘建造者’，格鲁吉亚国王，1125年）
+            Short: 圣大卫（被称为‘建造者’，格鲁吉亚国王，1125年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣安孟（埃及人，大圣安托尼之弟子，350年）
+            Short: 圣安孟（埃及人，大圣安托尼之弟子，350年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣科农（曼岛主教及修道院创立者，648年）
+            Short: 圣科农（曼岛主教及修道院创立者，648年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣克利孟（撒格玛提翁山成德者，12世纪）
+            Short: 圣克利孟（撒格玛提翁山成德者，12世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012605'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣克塞诺芬（诺夫哥罗德的若北卡修道院院长，1262年）
+            Short: 圣克塞诺芬（诺夫哥罗德的若北卡修道院院长，1262年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012606'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司教基里尔（喀山都主教，1937年）
+            Short: 新殉道司教基里尔（喀山都主教，1937年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012607'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司教阿尔卡迪（1938年）
+            Short: 新殉道司教阿尔卡迪（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012608'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道女玛利亚（司祭之妻，噶特奇那地方人，1930年）
+            Short: 新殉道女玛利亚（司祭之妻，噶特奇那地方人，1930年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+  zh/Hant:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9307'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬節後第卅七周預備日
+            Short: 五旬節後第卅七周預備日
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '32'
+                  pericope: '58'
+                  reading: 'I Pet_1:1-2, 10-12, 2:6-10'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '53'
+                  reading: Mk_12:1-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '312'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖克塞諾芬和他的妻子聖瑪利亞，及他們的兩個兒子：聖阿爾卡迪，聖約翰（君士坦丁堡人，六世紀）
+            Short: 聖克塞諾芬和他的妻子聖瑪利亞，及他們的兩個兒子：聖阿爾卡迪，聖約翰（君士坦丁堡人，六世紀）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '390'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖西面（被稱為『老者』西奈山之成德者，390年）
+            Short: 聖西面（被稱為『老者』西奈山之成德者，390年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者：阿納尼雅司祭、裴特若、以及協同他們就義者7位士兵（腓尼基，295年）
+            Short: 殉道者：阿納尼雅司祭、裴特若、以及協同他們就義者7位士兵（腓尼基，295年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '2202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬遷斯督迪修道院的聖德奧多若院長之聖髑紀念日（845年）
+            Short: 敬遷斯督迪修道院的聖德奧多若院長之聖髑紀念日（845年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '31701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖約熙福（德撒洛尼基城主教，斯督迪修道院的聖德奧多若院長的同胞兄弟，830年）
+            Short: 聖約熙福（德撒洛尼基城主教，斯督迪修道院的聖德奧多若院長的同胞兄弟，830年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖加百列（耶路撒冷地方修道院院長，490年）
+            Short: 聖加百列（耶路撒冷地方修道院院長，490年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖女帕弗拉（巴勒斯坦人，404年）
+            Short: 聖女帕弗拉（巴勒斯坦人，404年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '318'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖大衛（被稱為『建造者』，格魯吉亞國王，1125年）
+            Short: 聖大衛（被稱為『建造者』，格魯吉亞國王，1125年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖安孟（埃及人，大聖安托尼之弟子，350年）
+            Short: 聖安孟（埃及人，大聖安托尼之弟子，350年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖科農（曼島主教及修道院創立者，648年）
+            Short: 聖科農（曼島主教及修道院創立者，648年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖克利孟（撒格瑪提翁山成德者，十二世紀）
+            Short: 聖克利孟（撒格瑪提翁山成德者，十二世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012605'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖克塞諾芬（諾夫哥羅德的若北卡修道院院長，1262年）
+            Short: 聖克塞諾芬（諾夫哥羅德的若北卡修道院院長，1262年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012606'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司教基里爾（喀山都主教，1937年）
+            Short: 新殉道司教基里爾（喀山都主教，1937年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012607'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司教阿爾卡迪（1938年）
+            Short: 新殉道司教阿爾卡迪（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012608'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道女瑪利亞（司祭之妻，噶特奇那地方人，1930年）
+            Short: 新殉道女瑪利亞（司祭之妻，噶特奇那地方人，1930年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9307'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬節後第卅七周預備日
+            Short: 五旬節後第卅七周預備日
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '32'
+                  pericope: '58'
+                  reading: 'I Pet_1:1-2, 10-12, 2:6-10'
+                  type: apostol
+                -
+                  effWeek: '32'
+                  pericope: '53'
+                  reading: Mk_12:1-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '312'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖克塞諾芬和他的妻子聖瑪利亞，及他們的兩個兒子：聖阿爾卡迪，聖約翰（君士坦丁堡人，六世紀）
+            Short: 聖克塞諾芬和他的妻子聖瑪利亞，及他們的兩個兒子：聖阿爾卡迪，聖約翰（君士坦丁堡人，六世紀）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '390'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖西面（被稱為『老者』西奈山之成德者，390年）
+            Short: 聖西面（被稱為『老者』西奈山之成德者，390年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '314'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者：阿納尼雅司祭、裴特若、以及協同他們就義者7位士兵（腓尼基，295年）
+            Short: 殉道者：阿納尼雅司祭、裴特若、以及協同他們就義者7位士兵（腓尼基，295年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '2202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬遷斯督迪修道院的聖德奧多若院長之聖髑紀念日（845年）
+            Short: 敬遷斯督迪修道院的聖德奧多若院長之聖髑紀念日（845年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '31701'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖約熙福（德撒洛尼基城主教，斯督迪修道院的聖德奧多若院長的同胞兄弟，830年）
+            Short: 聖約熙福（德撒洛尼基城主教，斯督迪修道院的聖德奧多若院長的同胞兄弟，830年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖加百列（耶路撒冷地方修道院院長，490年）
+            Short: 聖加百列（耶路撒冷地方修道院院長，490年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖女帕弗拉（巴勒斯坦人，404年）
+            Short: 聖女帕弗拉（巴勒斯坦人，404年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '318'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖大衛（被稱為『建造者』，格魯吉亞國王，1125年）
+            Short: 聖大衛（被稱為『建造者』，格魯吉亞國王，1125年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖安孟（埃及人，大聖安托尼之弟子，350年）
+            Short: 聖安孟（埃及人，大聖安托尼之弟子，350年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖科農（曼島主教及修道院創立者，648年）
+            Short: 聖科農（曼島主教及修道院創立者，648年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖克利孟（撒格瑪提翁山成德者，十二世紀）
+            Short: 聖克利孟（撒格瑪提翁山成德者，十二世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012605'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖克塞諾芬（諾夫哥羅德的若北卡修道院院長，1262年）
+            Short: 聖克塞諾芬（諾夫哥羅德的若北卡修道院院長，1262年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012606'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司教基里爾（喀山都主教，1937年）
+            Short: 新殉道司教基里爾（喀山都主教，1937年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012607'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司教阿爾卡迪（1938年）
+            Short: 新殉道司教阿爾卡迪（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '012608'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道女瑪利亞（司祭之妻，噶特奇那地方人，1930年）
+            Short: 新殉道女瑪利亞（司祭之妻，噶特奇那地方人，1930年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 3

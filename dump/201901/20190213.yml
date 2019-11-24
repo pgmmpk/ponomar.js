@@ -1,0 +1,1838 @@
+---
+date: 2019/2/13
+langs:
+  cu:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9861'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Вто́рникъ мѧсопꙋ́стнаѧ'
+            Short: Вто́рникъ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '72'
+                  reading: 'I Jn_3:10b-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '64'
+                  reading: Mk_14:10-42
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '439'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ мартїнїа́на (е҃)'
+            Short: 'Прпⷣбнагѡ мартїнїа́на (е҃)'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '021300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника васі́лїа и҆ гаврїи́ла пресвѵ́терѡвъ (1919)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4911'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника сїльве́стра, а҆рхїепⷭ҇копа ѻ҆́мскагѡ (1920)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4805'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника зѡсі́мы, нїкола́ѧ, васі́лїа, і҆ѡа́нна, лео́нтїа, влади́мїра, парѳе́нїа, і҆ѡа́нна, і҆ѡа́нна, мїхаи́ла пресвѵ́терѡвъ и҆ є҆ѵге́нїа дїа́кона, мч҃ника па́ѵла, прмч҃ницъ а҆́нны, вѣ́ры и҆ і҆ри́ны (1938)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '43901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбныхъ зѡ́и и҆ фѡті́нїи (е҃)'
+            Short: 'Прпⷣбныхъ Зои'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '0'
+        -
+          cid: '440'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ є҆ѵло́гїѧ, а҆рхїепⷭ҇копа а҆леѯандрі́йскагѡ (607-608)'
+            Short: 'Прпⷣбнагѡ Евлогия,'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '2359'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ ші́о мгви́мскагѡ (ѕ҃)'
+            Short: 'Прпⷣбнагѡ Шио'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '2003'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ стефа́на, во и҆́ноцѣхъ сѷмеѡ́на, царѧ̀ се́рбскагѡ, мѷроточи́вагѡ (1200)'
+            Short: 'Прпⷣбнагѡ стефа́на,'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 6
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9861'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Вто́рникъ мѧсопꙋ́стнаѧ'
+            Short: Вто́рникъ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '72'
+                  reading: 'I Jn_3:10b-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '64'
+                  reading: Mk_14:10-42
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '439'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ мартїнїа́на (е҃)'
+            Short: 'Прпⷣбнагѡ мартїнїа́на (е҃)'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '021300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника васі́лїа и҆ гаврїи́ла пресвѵ́терѡвъ (1919)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4911'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника сїльве́стра, а҆рхїепⷭ҇копа ѻ҆́мскагѡ (1920)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4805'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника зѡсі́мы, нїкола́ѧ, васі́лїа, і҆ѡа́нна, лео́нтїа, влади́мїра, парѳе́нїа, і҆ѡа́нна, і҆ѡа́нна, мїхаи́ла пресвѵ́терѡвъ и҆ є҆ѵге́нїа дїа́кона, мч҃ника па́ѵла, прмч҃ницъ а҆́нны, вѣ́ры и҆ і҆ри́ны (1938)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '43901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбныхъ зѡ́и и҆ фѡті́нїи (е҃)'
+            Short: 'Прпⷣбныхъ Зои'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '0'
+        -
+          cid: '440'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ є҆ѵло́гїѧ, а҆рхїепⷭ҇копа а҆леѯандрі́йскагѡ (607-608)'
+            Short: 'Прпⷣбнагѡ Евлогия,'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '2359'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ ші́о мгви́мскагѡ (ѕ҃)'
+            Short: 'Прпⷣбнагѡ Шио'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '2003'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ стефа́на, во и҆́ноцѣхъ сѷмеѡ́на, царѧ̀ се́рбскагѡ, мѷроточи́вагѡ (1200)'
+            Short: 'Прпⷣбнагѡ стефа́на,'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 6
+  cu/ru:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9861'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Вторник мясопустный'
+            Nominative: 'Вторник мясопустный'
+            Short: 'Вторник мясопустный'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '72'
+                  reading: 'I Jn_3:10b-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '64'
+                  reading: Mk_14:10-42
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '439'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\nПреподобный Мартиниан с 18 лет поселился в пустыне, близ города Кесарии Палестинской, где пробыл в подвигах и безмолвии 25 лет, удостоившись благодатного дара исцеления болезней. Однако враг не оставлял отшельника, наводя на него различные искушения. Однажды женщина-блудница поспорила с развратными людьми, что соблазнит святого Мартиннана, слава о добродетельной жизни которого распространилась по городу. Она пришла к нему в ночной час под видом странницы, прося ночлега. Святой впустил ее, так как погода была ненастная. Но вот лукавая гостья переоделась в дорогую одежду и стала соблазнять подвижника. Тогда святой вышел из келлии, зажег костер и встал босыми ногами на пылающие угли. Он говорил при этом себе: «Трудно тебе, Мартиниан, терпеть этот временный огонь, как же ты будешь терпеть вечный огонь, приготовленный тебе диаволом?» Женщина, пораженная этим зрелищем, раскаялась и просила святого наставить ее на путь спасения. По его указанию она отправилась в Вифлеем, в монастырь святой Павлы, где в строгих подвигах прожила 12 лет до своей блаженной кончины. Имя женщины было Зоя.    Исцелившись от ожогов, святой Мартиниан удалился на необитаемый скалистый остров и прожил под открытым небом несколько лет, питаясь пищей, которую ему время от времени привозил один корабельщик, а преподобный плел для него корзины.     Однажды во время сильной бури разбился корабль и к острову, где спасался святой Мартиниан, волны принесли на обломках корабля девицу по имени Фотиния. Святой Мартиниан помог ей выбраться на остров. «Оставайся здесь, — сказал он ей, — вот хлеб и вода, а через два месяца приедет корабельщик», — а сам бросился в море и поплыл. Два дельфина вынесли его на сушу. С тех пор блаженный Мартиниан стал вести жизнь странника. Так продолжалось два года. Однажды, придя в Афины, святой заболел и, чувствуя приближение кончины, вошел в храм, лег на пол, призвал епископа и попросил предать свое тело погребению. Это произошло около 422 года. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Мартиниана (V)'
+            Short: 'Прп. Мартиниана (V)'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '021300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Василия и Гавриила пресвитеров (1919)'
+            Short: 'Сщмч. Василия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4911'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Сильвестра, архиеп. Омского (1920)'
+            Short: 'Сщмч. Сильвестра'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4805'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Зосимы, Николая, Василия, Иоанна, Леонтия, Владимира, Парфения, Иоанна, Иоанна, Михаила пресвитеров и Евгения диакона, мч. Павла, прмцц. Анны, Веры и Ирины (1938)'
+            Short: 'Сщмч. Зосимы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '43901'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n<p>Преподобный Мартиниан с 18 лет поселился в пустыне, близ города Кесарии Палестинской, где пробыл в подвигах и безмолвии 25 лет, удостоившись благодатного дара исцеления болезней. Однако враг не оставлял отшельника, наводя на него различные искушения. Однажды женщина-блудница поспорила с развратными людьми, что соблазнит святого Мартиннана, слава о добродетельной жизни которого распространилась по городу. Она пришла к нему в ночной час под видом странницы, прося ночлега. Святой впустил ее, так как погода была ненастная. Но вот лукавая гостья переоделась в дорогую одежду и стала соблазнять подвижника. Тогда святой вышел из келлии, зажег костер и встал босыми ногами на пылающие угли. Он говорил при этом себе: «Трудно тебе, Мартиниан, терпеть этот временный огонь, как же ты будешь терпеть вечный огонь, приготовленный тебе диаволом?» Женщина, пораженная этим зрелищем, раскаялась и просила святого наставить ее на путь спасения. По его указанию она отправилась в Вифлеем, в монастырь святой Павлы, где в строгих подвигах прожила 12 лет до своей блаженной кончины. Имя женщины было Зоя.</p><p>Исцелившись от ожогов, святой Мартиниан удалился на необитаемый скалистый остров и прожил под открытым небом несколько лет, питаясь пищей, которую ему время от времени привозил один корабельщик, а преподобный плел для него корзины.</p><p>Однажды во время сильной бури разбился корабль и к острову, где спасался святой Мартиниан, волны принесли на обломках корабля девицу по имени Фотиния. Святой Мартиниан помог ей выбраться на остров. «Оставайся здесь, — сказал он ей, — вот хлеб и вода, а через два месяца приедет корабельщик», — а сам бросился в море и поплыл. Два дельфина вынесли его на сушу. С тех пор блаженный Мартиниан стал вести жизнь странника. Так продолжалось два года. Однажды, придя в Афины, святой заболел и, чувствуя приближение кончины, вошел в храм, лег на пол, призвал епископа и попросил предать свое тело погребению. Это произошло около 422 года.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Прпп. Зои и Фотинии (Светланы) (V)'
+            Short: 'Прпп. Зои'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '0'
+        -
+          cid: '440'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Евлогия, архиеп. Александрийского (607-608)'
+            Short: 'Прп. Евлогия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '2359'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Шио Мгвимского (VI)'
+            Short: 'Прп. Шио'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '2003'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Стефана, в иночестве Симеона, царя Сербского, Мироточивого (1200)'
+            Short: 'Прп. Стефана'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 6
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9861'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Вторник мясопустный'
+            Nominative: 'Вторник мясопустный'
+            Short: 'Вторник мясопустный'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '72'
+                  reading: 'I Jn_3:10b-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '64'
+                  reading: Mk_14:10-42
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '439'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\nПреподобный Мартиниан с 18 лет поселился в пустыне, близ города Кесарии Палестинской, где пробыл в подвигах и безмолвии 25 лет, удостоившись благодатного дара исцеления болезней. Однако враг не оставлял отшельника, наводя на него различные искушения. Однажды женщина-блудница поспорила с развратными людьми, что соблазнит святого Мартиннана, слава о добродетельной жизни которого распространилась по городу. Она пришла к нему в ночной час под видом странницы, прося ночлега. Святой впустил ее, так как погода была ненастная. Но вот лукавая гостья переоделась в дорогую одежду и стала соблазнять подвижника. Тогда святой вышел из келлии, зажег костер и встал босыми ногами на пылающие угли. Он говорил при этом себе: «Трудно тебе, Мартиниан, терпеть этот временный огонь, как же ты будешь терпеть вечный огонь, приготовленный тебе диаволом?» Женщина, пораженная этим зрелищем, раскаялась и просила святого наставить ее на путь спасения. По его указанию она отправилась в Вифлеем, в монастырь святой Павлы, где в строгих подвигах прожила 12 лет до своей блаженной кончины. Имя женщины было Зоя.    Исцелившись от ожогов, святой Мартиниан удалился на необитаемый скалистый остров и прожил под открытым небом несколько лет, питаясь пищей, которую ему время от времени привозил один корабельщик, а преподобный плел для него корзины.     Однажды во время сильной бури разбился корабль и к острову, где спасался святой Мартиниан, волны принесли на обломках корабля девицу по имени Фотиния. Святой Мартиниан помог ей выбраться на остров. «Оставайся здесь, — сказал он ей, — вот хлеб и вода, а через два месяца приедет корабельщик», — а сам бросился в море и поплыл. Два дельфина вынесли его на сушу. С тех пор блаженный Мартиниан стал вести жизнь странника. Так продолжалось два года. Однажды, придя в Афины, святой заболел и, чувствуя приближение кончины, вошел в храм, лег на пол, призвал епископа и попросил предать свое тело погребению. Это произошло около 422 года. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Мартиниана (V)'
+            Short: 'Прп. Мартиниана (V)'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '021300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Василия и Гавриила пресвитеров (1919)'
+            Short: 'Сщмч. Василия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4911'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Сильвестра, архиеп. Омского (1920)'
+            Short: 'Сщмч. Сильвестра'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '4805'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Зосимы, Николая, Василия, Иоанна, Леонтия, Владимира, Парфения, Иоанна, Иоанна, Михаила пресвитеров и Евгения диакона, мч. Павла, прмцц. Анны, Веры и Ирины (1938)'
+            Short: 'Сщмч. Зосимы'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '43901'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n<p>Преподобный Мартиниан с 18 лет поселился в пустыне, близ города Кесарии Палестинской, где пробыл в подвигах и безмолвии 25 лет, удостоившись благодатного дара исцеления болезней. Однако враг не оставлял отшельника, наводя на него различные искушения. Однажды женщина-блудница поспорила с развратными людьми, что соблазнит святого Мартиннана, слава о добродетельной жизни которого распространилась по городу. Она пришла к нему в ночной час под видом странницы, прося ночлега. Святой впустил ее, так как погода была ненастная. Но вот лукавая гостья переоделась в дорогую одежду и стала соблазнять подвижника. Тогда святой вышел из келлии, зажег костер и встал босыми ногами на пылающие угли. Он говорил при этом себе: «Трудно тебе, Мартиниан, терпеть этот временный огонь, как же ты будешь терпеть вечный огонь, приготовленный тебе диаволом?» Женщина, пораженная этим зрелищем, раскаялась и просила святого наставить ее на путь спасения. По его указанию она отправилась в Вифлеем, в монастырь святой Павлы, где в строгих подвигах прожила 12 лет до своей блаженной кончины. Имя женщины было Зоя.</p><p>Исцелившись от ожогов, святой Мартиниан удалился на необитаемый скалистый остров и прожил под открытым небом несколько лет, питаясь пищей, которую ему время от времени привозил один корабельщик, а преподобный плел для него корзины.</p><p>Однажды во время сильной бури разбился корабль и к острову, где спасался святой Мартиниан, волны принесли на обломках корабля девицу по имени Фотиния. Святой Мартиниан помог ей выбраться на остров. «Оставайся здесь, — сказал он ей, — вот хлеб и вода, а через два месяца приедет корабельщик», — а сам бросился в море и поплыл. Два дельфина вынесли его на сушу. С тех пор блаженный Мартиниан стал вести жизнь странника. Так продолжалось два года. Однажды, придя в Афины, святой заболел и, чувствуя приближение кончины, вошел в храм, лег на пол, призвал епископа и попросил предать свое тело погребению. Это произошло около 422 года.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Прпп. Зои и Фотинии (Светланы) (V)'
+            Short: 'Прпп. Зои'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '0'
+        -
+          cid: '440'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Евлогия, архиеп. Александрийского (607-608)'
+            Short: 'Прп. Евлогия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '2359'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Шио Мгвимского (VI)'
+            Short: 'Прп. Шио'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '2003'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Стефана, в иночестве Симеона, царя Сербского, Мироточивого (1200)'
+            Short: 'Прп. Стефана'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 6
+  el:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9861'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Παρασκευὴ
+            Short: Παρασκευὴ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '72'
+                  reading: 'I Jn_3:10b-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '64'
+                  reading: Mk_14:10-42
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '439'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Μαρτινιανὸς'
+            Short: 'Ὅσιος Μαρτινιανὸς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '021302'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Ἀκύλας καὶ Πρίσκιλλα οἱ Ἀπόστολοι '
+            Short: 'Ἅγιοι Ἀκύλας καὶ Πρίσκιλλα οἱ Ἀπόστολοι '
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '440'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Εὐλόγιος Ἀρχιεπίσκοπος Ἀλεξάνδρειας'
+            Short: 'Ἅγιος Εὐλόγιος Ἀρχιεπίσκοπος Ἀλεξάνδρειας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02130395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Πατὴρ καὶ Υιὸς'
+            Short: 'Ἅγιοι Πατὴρ καὶ Υιὸς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '2003'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Συμεὼν Κτήτορας τῆς μονῆς Χιλανδαρίου Ἁγίου Ὄρους'
+            Short: 'Ὅσιος Συμεὼν Κτήτορας τῆς μονῆς Χιλανδαρίου Ἁγίου Ὄρους'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02130595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Γεώργιος Ἀρχιεπίσκοπος Λευκορωσίας'
+            Short: 'Ἅγιος Γεώργιος Ἀρχιεπίσκοπος Λευκορωσίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02130695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὁσία Σεραφεὶμα ἐκ Ῥωσίας'
+            Short: 'Ὁσία Σεραφεὶμα ἐκ Ῥωσίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02130795'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἐγκαίνια Ἱεροῦ Ναοῦ τῆς Θεοτόκου καὶ τῆς Ἁγίας Θέκλας ἐν τῷ ὄρει Ποσαλέως'
+            Short: 'Ἐγκαίνια Ἱεροῦ Ναοῦ τῆς Θεοτόκου καὶ τῆς Ἁγίας Θέκλας ἐν τῷ ὄρει Ποσαλέως'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02130895'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Μαϋουμὰς'
+            Short: 'Ὅσιος Μαϋουμὰς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02130995'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἀνακομιδὴ τῶν ἱερῶν λειψάνων τοῦ Ἁγίου Edward βασιλέα τῆς Ἀγγλίας'
+            Short: 'Ἀνακομιδὴ τῶν ἱερῶν λειψάνων τοῦ Ἁγίου Edward βασιλέα τῆς Ἀγγλίας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 6
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9861'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Παρασκευὴ
+            Short: Παρασκευὴ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '72'
+                  reading: 'I Jn_3:10b-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '64'
+                  reading: Mk_14:10-42
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '439'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Μαρτινιανὸς'
+            Short: 'Ὅσιος Μαρτινιανὸς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '021302'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Ἀκύλας καὶ Πρίσκιλλα οἱ Ἀπόστολοι '
+            Short: 'Ἅγιοι Ἀκύλας καὶ Πρίσκιλλα οἱ Ἀπόστολοι '
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '440'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Εὐλόγιος Ἀρχιεπίσκοπος Ἀλεξάνδρειας'
+            Short: 'Ἅγιος Εὐλόγιος Ἀρχιεπίσκοπος Ἀλεξάνδρειας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02130395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Πατὴρ καὶ Υιὸς'
+            Short: 'Ἅγιοι Πατὴρ καὶ Υιὸς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '2003'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Συμεὼν Κτήτορας τῆς μονῆς Χιλανδαρίου Ἁγίου Ὄρους'
+            Short: 'Ὅσιος Συμεὼν Κτήτορας τῆς μονῆς Χιλανδαρίου Ἁγίου Ὄρους'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02130595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Γεώργιος Ἀρχιεπίσκοπος Λευκορωσίας'
+            Short: 'Ἅγιος Γεώργιος Ἀρχιεπίσκοπος Λευκορωσίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02130695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὁσία Σεραφεὶμα ἐκ Ῥωσίας'
+            Short: 'Ὁσία Σεραφεὶμα ἐκ Ῥωσίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02130795'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἐγκαίνια Ἱεροῦ Ναοῦ τῆς Θεοτόκου καὶ τῆς Ἁγίας Θέκλας ἐν τῷ ὄρει Ποσαλέως'
+            Short: 'Ἐγκαίνια Ἱεροῦ Ναοῦ τῆς Θεοτόκου καὶ τῆς Ἁγίας Θέκλας ἐν τῷ ὄρει Ποσαλέως'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02130895'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Μαϋουμὰς'
+            Short: 'Ὅσιος Μαϋουμὰς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '02130995'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἀνακομιδὴ τῶν ἱερῶν λειψάνων τοῦ Ἁγίου Edward βασιλέα τῆς Ἀγγλίας'
+            Short: 'Ἀνακομιδὴ τῶν ἱερῶν λειψάνων τοῦ Ἁγίου Edward βασιλέα τῆς Ἀγγλίας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 6
+  en:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9861'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Meatfare Tuesday'
+            Short: 'Meatfare Tuesday'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '72'
+                  reading: 'I Jn_3:10b-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '64'
+                  reading: Mk_14:10-42
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '439'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Martinian at age 18 settled into the wilderness, somewhat off from the city of Palestinian Cæsarea, where he dwelt in ascetic deeds and silence for 25 years, and he was granted a graced gift of healing illness. But the enemy of the race of man would not stop bothering the hermit with various temptations. One time a profligate woman got into a wager with some dissolute people, as to whether she could seduce Saint Martinian, the fame of whose virtuous life had spread throughout all the city. She came to him at night-time under the guise of a wandering suppliant asking night lodging. The saint let her enter, since the weather outside was inclement. But here the wicked guest changed over into her good clothes and began to tempt the ascetic. The saint thereupon rushed out of the cell, set alight a fire and put his bare feet upon the burning coals. He said such as this to himself: “It is hard enough for thee, Martinian, to suffer this temporal fire, now then wilt thou instead suffer the eternal fire, prepared for thee by the devil?” The woman, shaken by the spectacle, became repentant and besought the saint to guide her onto the way of repentance. At his directing she set off to Bethlehem, to a monastery of SaintPaula, where she dwelt for 12 years in strict ascetic deeds until her blessed end. The name of this woman was Zoa.</p><p>Having recovered from his scorching, Saint Martinian set off to an uninhabited rocky island, and lived on it under the open sky for several years, nourished by the victuals brought by a certain sailor from time to time, and in return the monk weaved baskets for him.</p><p>One time a powerful storm wrecked a ship, and to the island of Saint Martinian the waves carried on the ship debris a maiden named Photinia. Saint Martinian helped her to survive the island. “Remain here,—said he to her,—for here is bread and water, and in two months a boat will come,”—and he jumped into the sea and swam off. Two dolphins carried him to dry land. Thereafter Blessed Martinian began to lead the life of a wanderer. And so passed two years. One time, having come to Athens, the saint fell ill, and sensing the nearness of his end, he went into church and lay upon the floor, and calling out to the bishop he besought him to give his body over to burial. This occurred in about the year 422. </p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Martinian of Cæsarea in Palestine (c.422)'
+            Short: 'Venerable Martinian'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '021300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyrs Priests Basil and Gabriel († 1919)'
+            Short: 'New Hieromartyrs Basil and Gabriel'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4911'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Sylvester, Archbishop of Omsk († 1920)'
+            Short: 'New Hieromartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4805'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyrs Priests Zosimas, Nicholas, Basil, John, Leontius, Vladimir, Parthenius, John, John, Michael; Deacon Eugene; Venerable Martyrs Anna, Faith and Irene; Martyr Paul († 1938)'
+            Short: 'New Hieromartyr Zosimas and companions'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '2003'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Saint Stephen Nemanja (in monasticism Symeon), Prince of Serbia, the Myrrh-Gusher († 1200)'
+            Short: 'Saint Stephen Nemanja'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021302'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Holy Apostle Aquila and his wife Priscilla (1<sup>st</sup> C)'
+            Short: 'Holy Apostle'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '440'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Saint Eulogius, Archbishop of Alexandria († 607-608)'
+            Short: 'Saint Eulogius'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '43901'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Martinian at age 18 settled into the wilderness, somewhat off from the city of Palestinian Cæsarea, where he dwelt in ascetic deeds and silence for 25 years, and he was granted a graced gift of healing illness. But the enemy of the race of man would not stop bothering the hermit with various temptations. One time a profligate woman got into a wager with some dissolute people, as to whether she could seduce Saint Martinian, the fame of whose virtuous life had spread throughout all the city. She came to him at night-time under the guise of a wandering suppliant asking night lodging. The saint let her enter, since the weather outside was inclement. But here the wicked guest changed over into her good clothes and began to tempt the ascetic. The saint thereupon rushed out of the cell, set alight a fire and put his bare feet upon the burning coals. He said such as this to himself: �It is hard enough for thee, Martinian, to suffer this temporal fire, now then wilt thou instead suffer the eternal fire, prepared for thee by the devil?� The woman, shaken by the spectacle, became repentant and besought the saint to guide her onto the way of repentance. At his directing she set off to Bethlehem, to a monastery of Saint Paula, where she dwelt for 12 years in strict ascetic deeds until her blessed end. The name of this woman was Zoa.<p></p>Having recovered from his scorching, Saint Martinian set off to an uninhabited rocky island, and lived on it under the open sky for several years, nourished by the victuals brought by a certain sailor from time to time, and in return the monk weaved baskets for him. <p></p>One time a powerful storm wrecked a ship, and to the island of Saint Martinian the waves carried on the ship debris a maiden named Photinia. Saint Martinian helped her to survive the island. �Remain here,�said he to her,�for here is bread and water, and in two months a boat will come,�� and he jumped into the sea and swam off. Two dolphins carried him to dry land. Thereafter Blessed Martinian began to lead the life of a wanderer. And so passed two years. One time, having come to Athens, the saint fell ill, and sensing the nearness of his end, he went into church and lay upon the floor, and calling out to the bishop he besought him to give his body over to burial. This occurred in about the year 422.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Zoe and Photina (5<sup>th</sup> C)'
+            Short: 'Venerable Zoe'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+      tone: 6
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9861'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Meatfare Tuesday'
+            Short: 'Meatfare Tuesday'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '72'
+                  reading: 'I Jn_3:10b-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '64'
+                  reading: Mk_14:10-42
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '439'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Martinian at age 18 settled into the wilderness, somewhat off from the city of Palestinian Cæsarea, where he dwelt in ascetic deeds and silence for 25 years, and he was granted a graced gift of healing illness. But the enemy of the race of man would not stop bothering the hermit with various temptations. One time a profligate woman got into a wager with some dissolute people, as to whether she could seduce Saint Martinian, the fame of whose virtuous life had spread throughout all the city. She came to him at night-time under the guise of a wandering suppliant asking night lodging. The saint let her enter, since the weather outside was inclement. But here the wicked guest changed over into her good clothes and began to tempt the ascetic. The saint thereupon rushed out of the cell, set alight a fire and put his bare feet upon the burning coals. He said such as this to himself: “It is hard enough for thee, Martinian, to suffer this temporal fire, now then wilt thou instead suffer the eternal fire, prepared for thee by the devil?” The woman, shaken by the spectacle, became repentant and besought the saint to guide her onto the way of repentance. At his directing she set off to Bethlehem, to a monastery of SaintPaula, where she dwelt for 12 years in strict ascetic deeds until her blessed end. The name of this woman was Zoa.</p><p>Having recovered from his scorching, Saint Martinian set off to an uninhabited rocky island, and lived on it under the open sky for several years, nourished by the victuals brought by a certain sailor from time to time, and in return the monk weaved baskets for him.</p><p>One time a powerful storm wrecked a ship, and to the island of Saint Martinian the waves carried on the ship debris a maiden named Photinia. Saint Martinian helped her to survive the island. “Remain here,—said he to her,—for here is bread and water, and in two months a boat will come,”—and he jumped into the sea and swam off. Two dolphins carried him to dry land. Thereafter Blessed Martinian began to lead the life of a wanderer. And so passed two years. One time, having come to Athens, the saint fell ill, and sensing the nearness of his end, he went into church and lay upon the floor, and calling out to the bishop he besought him to give his body over to burial. This occurred in about the year 422. </p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Martinian of Cæsarea in Palestine (c.422)'
+            Short: 'Venerable Martinian'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '021300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyrs Priests Basil and Gabriel († 1919)'
+            Short: 'New Hieromartyrs Basil and Gabriel'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4911'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Sylvester, Archbishop of Omsk († 1920)'
+            Short: 'New Hieromartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4805'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyrs Priests Zosimas, Nicholas, Basil, John, Leontius, Vladimir, Parthenius, John, John, Michael; Deacon Eugene; Venerable Martyrs Anna, Faith and Irene; Martyr Paul († 1938)'
+            Short: 'New Hieromartyr Zosimas and companions'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '2003'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Saint Stephen Nemanja (in monasticism Symeon), Prince of Serbia, the Myrrh-Gusher († 1200)'
+            Short: 'Saint Stephen Nemanja'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021302'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Holy Apostle Aquila and his wife Priscilla (1<sup>st</sup> C)'
+            Short: 'Holy Apostle'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '440'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Saint Eulogius, Archbishop of Alexandria († 607-608)'
+            Short: 'Saint Eulogius'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '43901'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Martinian at age 18 settled into the wilderness, somewhat off from the city of Palestinian Cæsarea, where he dwelt in ascetic deeds and silence for 25 years, and he was granted a graced gift of healing illness. But the enemy of the race of man would not stop bothering the hermit with various temptations. One time a profligate woman got into a wager with some dissolute people, as to whether she could seduce Saint Martinian, the fame of whose virtuous life had spread throughout all the city. She came to him at night-time under the guise of a wandering suppliant asking night lodging. The saint let her enter, since the weather outside was inclement. But here the wicked guest changed over into her good clothes and began to tempt the ascetic. The saint thereupon rushed out of the cell, set alight a fire and put his bare feet upon the burning coals. He said such as this to himself: �It is hard enough for thee, Martinian, to suffer this temporal fire, now then wilt thou instead suffer the eternal fire, prepared for thee by the devil?� The woman, shaken by the spectacle, became repentant and besought the saint to guide her onto the way of repentance. At his directing she set off to Bethlehem, to a monastery of Saint Paula, where she dwelt for 12 years in strict ascetic deeds until her blessed end. The name of this woman was Zoa.<p></p>Having recovered from his scorching, Saint Martinian set off to an uninhabited rocky island, and lived on it under the open sky for several years, nourished by the victuals brought by a certain sailor from time to time, and in return the monk weaved baskets for him. <p></p>One time a powerful storm wrecked a ship, and to the island of Saint Martinian the waves carried on the ship debris a maiden named Photinia. Saint Martinian helped her to survive the island. �Remain here,�said he to her,�for here is bread and water, and in two months a boat will come,�� and he jumped into the sea and swam off. Two dolphins carried him to dry land. Thereafter Blessed Martinian began to lead the life of a wanderer. And so passed two years. One time, having come to Athens, the saint fell ill, and sensing the nearness of his end, he went into church and lay upon the floor, and calling out to the bishop he besought him to give his body over to burial. This occurred in about the year 422.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Zoe and Photina (5<sup>th</sup> C)'
+            Short: 'Venerable Zoe'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+      tone: 6
+  fr:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9861'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Mardi de carnival'
+            Short: 'mardi de carnival'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '72'
+                  reading: 'I Jn_3:10b-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '64'
+                  reading: Mk_14:10-42
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '439'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Martinien'
+            Short: 'St. Martinien'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '021302'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Apôtres Pricille et Aquilla'
+            Short: 'Sts. Apôtres'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '440'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Euloge, Archevêque d’Alexandrie'
+            Short: 'St. Euloge'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '2003'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Syméon de Serbie (Némanja) le Myroblite (père de St. Sava), fondateur du Monastère de Chilandar (Mont Athos)'
+            Short: 'St. Syméon'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '43901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Stes Zoé et Photine'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 6
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9861'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Mardi de carnival'
+            Short: 'mardi de carnival'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '72'
+                  reading: 'I Jn_3:10b-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '64'
+                  reading: Mk_14:10-42
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '439'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Martinien'
+            Short: 'St. Martinien'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '021302'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Apôtres Pricille et Aquilla'
+            Short: 'Sts. Apôtres'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '440'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Euloge, Archevêque d’Alexandrie'
+            Short: 'St. Euloge'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '2003'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Syméon de Serbie (Némanja) le Myroblite (père de St. Sava), fondateur du Monastère de Chilandar (Mont Athos)'
+            Short: 'St. Syméon'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '43901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Stes Zoé et Photine'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 6
+  zh/Hans:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9861'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 离肉瞻礼三
+            Short: 离肉瞻礼三
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '72'
+                  reading: 'I Jn_3:10b-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '64'
+                  reading: Mk_14:10-42
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '439'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣玛尔提尼安（巴勒斯坦的恺撒里亚地方修士，422年）
+            Short: 圣玛尔提尼安（巴勒斯坦的恺撒里亚地方修士，422年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '021300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭瓦西里、及加百列（1919年）
+            Short: 新殉道司祭瓦西里、及加百列（1919年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4911'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司教斯尔维斯特（本姓奥尔申维斯基，鄂木斯克和巴甫洛达尔的主教，1920年）
+            Short: 新殉道司教斯尔维斯特（本姓奥尔申维斯基，鄂木斯克和巴甫洛达尔的主教，1920年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4805'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭：佐息玛、尼科拉、瓦西里、约翰、利安迪、弗拉迪弥尔、帕尔特尼、约翰、约翰、米迦勒；殉道辅祭艾弗格尼；殉道童女亚纳、维拉、伊利纳、及殉道者保罗（1938年）
+            Short: 新殉道司祭：佐息玛、尼科拉、瓦西里、约翰、利安迪、弗拉迪弥尔、帕尔特尼、约翰、约翰、米迦勒；殉道辅祭艾弗格尼；殉道童女亚纳、维拉、伊利纳、及殉道者保罗（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '2003'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣西面（塞尔维亚王子，施香液者，1200年）
+            Short: 圣西面（塞尔维亚王子，施香液者，1200年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021302'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 使徒及殉道者阿桂拉，及殉道女普里斯基拉
+            Short: 使徒及殉道者阿桂拉，及殉道女普里斯基拉
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '440'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣艾弗罗吉（亚历山大里亚总主教，607-608年间）
+            Short: 圣艾弗罗吉（亚历山大里亚总主教，607-608年间）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '43901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣妇佐伊（伯利恒人）及童贞女佛提纳（5世纪）
+            Short: 圣妇佐伊（伯利恒人）及童贞女佛提纳（5世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02130296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣提摩泰（亚历山大里亚牧首，385年）
+            Short: 圣提摩泰（亚历山大里亚牧首，385年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣约熙福（佛洛科拉穆斯克地方，1515年）
+            Short: 圣约熙福（佛洛科拉穆斯克地方，1515年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021304'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣摩多穆诺克（奥索瑞主教，6世纪）
+            Short: 圣摩多穆诺克（奥索瑞主教，6世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 6
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9861'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 离肉瞻礼三
+            Short: 离肉瞻礼三
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '72'
+                  reading: 'I Jn_3:10b-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '64'
+                  reading: Mk_14:10-42
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '439'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣玛尔提尼安（巴勒斯坦的恺撒里亚地方修士，422年）
+            Short: 圣玛尔提尼安（巴勒斯坦的恺撒里亚地方修士，422年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '021300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭瓦西里、及加百列（1919年）
+            Short: 新殉道司祭瓦西里、及加百列（1919年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4911'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司教斯尔维斯特（本姓奥尔申维斯基，鄂木斯克和巴甫洛达尔的主教，1920年）
+            Short: 新殉道司教斯尔维斯特（本姓奥尔申维斯基，鄂木斯克和巴甫洛达尔的主教，1920年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4805'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭：佐息玛、尼科拉、瓦西里、约翰、利安迪、弗拉迪弥尔、帕尔特尼、约翰、约翰、米迦勒；殉道辅祭艾弗格尼；殉道童女亚纳、维拉、伊利纳、及殉道者保罗（1938年）
+            Short: 新殉道司祭：佐息玛、尼科拉、瓦西里、约翰、利安迪、弗拉迪弥尔、帕尔特尼、约翰、约翰、米迦勒；殉道辅祭艾弗格尼；殉道童女亚纳、维拉、伊利纳、及殉道者保罗（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '2003'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣西面（塞尔维亚王子，施香液者，1200年）
+            Short: 圣西面（塞尔维亚王子，施香液者，1200年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021302'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 使徒及殉道者阿桂拉，及殉道女普里斯基拉
+            Short: 使徒及殉道者阿桂拉，及殉道女普里斯基拉
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '440'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣艾弗罗吉（亚历山大里亚总主教，607-608年间）
+            Short: 圣艾弗罗吉（亚历山大里亚总主教，607-608年间）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '43901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣妇佐伊（伯利恒人）及童贞女佛提纳（5世纪）
+            Short: 圣妇佐伊（伯利恒人）及童贞女佛提纳（5世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02130296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣提摩泰（亚历山大里亚牧首，385年）
+            Short: 圣提摩泰（亚历山大里亚牧首，385年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣约熙福（佛洛科拉穆斯克地方，1515年）
+            Short: 圣约熙福（佛洛科拉穆斯克地方，1515年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021304'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣摩多穆诺克（奥索瑞主教，6世纪）
+            Short: 圣摩多穆诺克（奥索瑞主教，6世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 6
+  zh/Hant:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9861'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 離肉瞻禮三
+            Short: 離肉瞻禮三
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '72'
+                  reading: 'I Jn_3:10b-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '64'
+                  reading: Mk_14:10-42
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '439'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖瑪爾提尼安（巴勒斯坦的愷撒里亞地方修士，422年）
+            Short: 聖瑪爾提尼安（巴勒斯坦的愷撒里亞地方修士，422年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '021300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭瓦西里、及加百列（1919年）
+            Short: 新殉道司祭瓦西里、及加百列（1919年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4911'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司教斯爾維斯特（本姓奧爾申維斯基，鄂木斯克和巴甫洛達爾的主教，1920年）
+            Short: 新殉道司教斯爾維斯特（本姓奧爾申維斯基，鄂木斯克和巴甫洛達爾的主教，1920年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4805'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭：佐息瑪、尼科拉、瓦西里、約翰、利安迪、弗拉迪彌爾、帕爾特尼、約翰、約翰、米迦勒；殉道輔祭艾弗格尼；殉道童女亞納、維拉、伊利納、及殉道者帕弗羅（1938年）
+            Short: 新殉道司祭：佐息瑪、尼科拉、瓦西里、約翰、利安迪、弗拉迪彌爾、帕爾特尼、約翰、約翰、米迦勒；殉道輔祭艾弗格尼；殉道童女亞納、維拉、伊利納、及殉道者帕弗羅（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '2003'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖西面（塞爾維亞王子，施香液者，1200年）
+            Short: 聖西面（塞爾維亞王子，施香液者，1200年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021302'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 使徒及殉道者阿桂拉，及殉道女普里斯基拉
+            Short: 使徒及殉道者阿桂拉，及殉道女普里斯基拉
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '440'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖艾弗羅吉（亞歷山大里亞總主教，607-608年間）
+            Short: 聖艾弗羅吉（亞歷山大里亞總主教，607-608年間）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '43901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖婦佐伊（伯利恆人）及童貞女佛提納（五世紀）
+            Short: 聖婦佐伊（伯利恆人）及童貞女佛提納（五世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02130296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖提摩泰（亞歷山大里亞牧首，385年）
+            Short: 聖提摩泰（亞歷山大里亞牧首，385年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖約熙福（佛洛科拉穆斯克地方，1515年）
+            Short: 聖約熙福（佛洛科拉穆斯克地方，1515年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021304'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖摩多穆諾克（奧索瑞主教，六世紀）
+            Short: 聖摩多穆諾克（奧索瑞主教，六世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 6
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9861'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 離肉瞻禮三
+            Short: 離肉瞻禮三
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '72'
+                  reading: 'I Jn_3:10b-20'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '64'
+                  reading: Mk_14:10-42
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '439'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖瑪爾提尼安（巴勒斯坦的愷撒里亞地方修士，422年）
+            Short: 聖瑪爾提尼安（巴勒斯坦的愷撒里亞地方修士，422年）
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '021300'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭瓦西里、及加百列（1919年）
+            Short: 新殉道司祭瓦西里、及加百列（1919年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4911'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司教斯爾維斯特（本姓奧爾申維斯基，鄂木斯克和巴甫洛達爾的主教，1920年）
+            Short: 新殉道司教斯爾維斯特（本姓奧爾申維斯基，鄂木斯克和巴甫洛達爾的主教，1920年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '4805'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭：佐息瑪、尼科拉、瓦西里、約翰、利安迪、弗拉迪彌爾、帕爾特尼、約翰、約翰、米迦勒；殉道輔祭艾弗格尼；殉道童女亞納、維拉、伊利納、及殉道者帕弗羅（1938年）
+            Short: 新殉道司祭：佐息瑪、尼科拉、瓦西里、約翰、利安迪、弗拉迪彌爾、帕爾特尼、約翰、約翰、米迦勒；殉道輔祭艾弗格尼；殉道童女亞納、維拉、伊利納、及殉道者帕弗羅（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '2003'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖西面（塞爾維亞王子，施香液者，1200年）
+            Short: 聖西面（塞爾維亞王子，施香液者，1200年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021302'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 使徒及殉道者阿桂拉，及殉道女普里斯基拉
+            Short: 使徒及殉道者阿桂拉，及殉道女普里斯基拉
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '440'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖艾弗羅吉（亞歷山大里亞總主教，607-608年間）
+            Short: 聖艾弗羅吉（亞歷山大里亞總主教，607-608年間）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '43901'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖婦佐伊（伯利恆人）及童貞女佛提納（五世紀）
+            Short: 聖婦佐伊（伯利恆人）及童貞女佛提納（五世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '02130296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖提摩泰（亞歷山大里亞牧首，385年）
+            Short: 聖提摩泰（亞歷山大里亞牧首，385年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021303'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖約熙福（佛洛科拉穆斯克地方，1515年）
+            Short: 聖約熙福（佛洛科拉穆斯克地方，1515年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '021304'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖摩多穆諾克（奧索瑞主教，六世紀）
+            Short: 聖摩多穆諾克（奧索瑞主教，六世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 6

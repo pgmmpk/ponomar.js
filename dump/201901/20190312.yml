@@ -1,0 +1,2046 @@
+---
+date: 2019/3/12
+langs:
+  cu:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9834'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Понедѣ́льникъ г҃-ѧ седми́цы ст҃а́гѡ поста̀'
+            Short: Понедѣ́льникъ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_8:13-9:7
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_6:9-22
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_8:1-21
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '621'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ ѳеофа́на и҆сповѣ́дника, сїгрїа́нскагѡ (818)'
+            Short: 'Прпⷣбнагѡ ѳеофа́на'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '031200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ а҆леѯа́ндра и҆сповѣ́дника пресвѵ́тера (1933)'
+            Short: 'Ст҃а́гѡ а҆леѯа́ндра'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника і҆ѡа́нна, кѡнстанті́на пресвѵ́терѡвъ, прпⷣбномч҃ника влади́мїра (1938)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника се́ргїа пресвѵ́тера (1943)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '623'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пра́веднагѡ фїнее́са (ок. 1500 до Р.Х.)'
+            Short: 'Пра́веднагѡ фїнее́са'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '536'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ григо́рїа двоесло́ва, па́пы ри́мскагѡ (604)'
+            Short: 'Ст҃а́гѡ григо́рїа'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '626'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ сѷмеѡ́на но́вагѡ бг҃осло́ва (1021)'
+            Short: 'Прпⷣбнагѡ сѷмеѡ́на'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '629'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Лиддской-нерукотворной (на столпе), і҆кѡ́ны бж҃їѧ мт҃ри (а҃)'
+            Short: 'Лиддской-нерукотворной (на'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9834'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Понедѣ́льникъ г҃-ѧ седми́цы ст҃а́гѡ поста̀'
+            Short: Понедѣ́льникъ
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_8:13-9:7
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_6:9-22
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_8:1-21
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '621'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ ѳеофа́на и҆сповѣ́дника, сїгрїа́нскагѡ (818)'
+            Short: 'Прпⷣбнагѡ ѳеофа́на'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '031200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ а҆леѯа́ндра и҆сповѣ́дника пресвѵ́тера (1933)'
+            Short: 'Ст҃а́гѡ а҆леѯа́ндра'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника і҆ѡа́нна, кѡнстанті́на пресвѵ́терѡвъ, прпⷣбномч҃ника влади́мїра (1938)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника се́ргїа пресвѵ́тера (1943)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '623'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пра́веднагѡ фїнее́са (ок. 1500 до Р.Х.)'
+            Short: 'Пра́веднагѡ фїнее́са'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '536'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ григо́рїа двоесло́ва, па́пы ри́мскагѡ (604)'
+            Short: 'Ст҃а́гѡ григо́рїа'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '626'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ сѷмеѡ́на но́вагѡ бг҃осло́ва (1021)'
+            Short: 'Прпⷣбнагѡ сѷмеѡ́на'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '629'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Лиддской-нерукотворной (на столпе), і҆кѡ́ны бж҃їѧ мт҃ри (а҃)'
+            Short: 'Лиддской-нерукотворной (на'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+  cu/ru:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9834'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Понедельник 3-й седмицы Великого поста'
+            Nominative: 'Понедельник 3-й седмицы Великого поста'
+            Short: 'Понедельник 3-й седмицы Великого поста'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_8:13-9:7
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_6:9-22
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_8:1-21
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '621'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Преподобный Феофан Исповедник родился в Константинополе в благочестивой и знатной семье. Отец Феофана был в родстве с византийским императором Львов Исавром (717—741). Через три года после рождения Феофана отец его умер, оставив свою семью на попечение самого императора. Феофан вырос при дворе и стал сановником императора Льва Хазара (775—780). Положение обязывало его вступить в брак. По согласию с невестой Феофан сохранил целомудрие, ибо в душе его зрело желание принять иноческий образ. Посетив однажды с супругой монастыри в Сигрианской области (Малая Азия), Феофан встретил прозорливого старца Григория Стратигия, который предсказал супруге Феофана, что ее муж будет удостоен мученического венца. Через некоторое время супруга Феофана была пострижена в монахини в одном из монастырей Вифинии, а Феофан принял иноческий постриг от старца Григория. По благословению старца Феофан устроил монастырь на острове Калоним в Мраморном море и затворился в келлии, занимаясь переписыванием книг. В этом занятии Феофан достиг высокого мастерства. Затем преподобный Феофан основал еще один монастырь в Сигрианской области, в месте, называемом «Великое Село», и стал его игуменом. Преподобный сам принимал участие во всех монастырских работах и для всех был примером трудолюбия и подвига. Он был удостоен от Господа дара чудотворения: исцелял болезни, изгонял бесов. В 787 году в Никее собрался VII Вселенский Собор, который осудил ересь иконоборчества. На Собор был вызван и преподобный Феофан. Он прибыл в заплатанном рубище, но просиял Богодухновенной мудростью в утверждении догматов истинного Православия.     В возрасте 50 лет Преподобный тяжело заболел и до самой кончины жестоко страдал. Находясь на смертном одре, преподобный непрестанно трудился: он писал «Хронографию» — историю Христианской Церкви с 285 по 813 год. Этот труд до сих пор является ценным источником по истории Церкви.     По воцарении императора Льва Армянина (813—820), когда святой был уже глубоким старцем, возобновилось иконоборчество. Святого Феофана принуждали принять ересь, но он твердо воспротивился этому и был заключен в темницу. Его обитель «Великое Село» была сожжена. Пробыв в темнице 23 дня, Преподобный исповедник скончался ( } 818). После смерти нечестивого императора Льва Армянина обитель «Великое Село» была восстановлена, и туда перенесены были святые мощи исповедника. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Феофана исп., Сигрианского (818)'
+            Short: 'Прп. Феофана'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '031200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Св. Александра исп. пресвитера (1933)'
+            Short: 'Св. Александра'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Иоанна, Константина пресвитеров, прмч. Владимира (1938)'
+            Short: 'Сщмч. Иоанна'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Сергия пресвитера (1943)'
+            Short: 'Сщмч. Сергия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '623'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прав. Финееса (ок. 1500 до Р.Х.)'
+            Short: 'Прав. Финееса'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '536'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свт. Григория Двоеслова, папы Римского (604)'
+            Short: 'Свт. Григория'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '626'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Симеона Нового Богослова (1021)'
+            Short: 'Прп. Симеона'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '629'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Лиддской-нерукотворной (на столпе), иконы Божией Матери (I)'
+            Short: 'Лиддской-нерукотворной (на'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9834'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Genetive: 'Понедельник 3-й седмицы Великого поста'
+            Nominative: 'Понедельник 3-й седмицы Великого поста'
+            Short: 'Понедельник 3-й седмицы Великого поста'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_8:13-9:7
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_6:9-22
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_8:1-21
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '621'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Преподобный Феофан Исповедник родился в Константинополе в благочестивой и знатной семье. Отец Феофана был в родстве с византийским императором Львов Исавром (717—741). Через три года после рождения Феофана отец его умер, оставив свою семью на попечение самого императора. Феофан вырос при дворе и стал сановником императора Льва Хазара (775—780). Положение обязывало его вступить в брак. По согласию с невестой Феофан сохранил целомудрие, ибо в душе его зрело желание принять иноческий образ. Посетив однажды с супругой монастыри в Сигрианской области (Малая Азия), Феофан встретил прозорливого старца Григория Стратигия, который предсказал супруге Феофана, что ее муж будет удостоен мученического венца. Через некоторое время супруга Феофана была пострижена в монахини в одном из монастырей Вифинии, а Феофан принял иноческий постриг от старца Григория. По благословению старца Феофан устроил монастырь на острове Калоним в Мраморном море и затворился в келлии, занимаясь переписыванием книг. В этом занятии Феофан достиг высокого мастерства. Затем преподобный Феофан основал еще один монастырь в Сигрианской области, в месте, называемом «Великое Село», и стал его игуменом. Преподобный сам принимал участие во всех монастырских работах и для всех был примером трудолюбия и подвига. Он был удостоен от Господа дара чудотворения: исцелял болезни, изгонял бесов. В 787 году в Никее собрался VII Вселенский Собор, который осудил ересь иконоборчества. На Собор был вызван и преподобный Феофан. Он прибыл в заплатанном рубище, но просиял Богодухновенной мудростью в утверждении догматов истинного Православия.     В возрасте 50 лет Преподобный тяжело заболел и до самой кончины жестоко страдал. Находясь на смертном одре, преподобный непрестанно трудился: он писал «Хронографию» — историю Христианской Церкви с 285 по 813 год. Этот труд до сих пор является ценным источником по истории Церкви.     По воцарении императора Льва Армянина (813—820), когда святой был уже глубоким старцем, возобновилось иконоборчество. Святого Феофана принуждали принять ересь, но он твердо воспротивился этому и был заключен в темницу. Его обитель «Великое Село» была сожжена. Пробыв в темнице 23 дня, Преподобный исповедник скончался ( } 818). После смерти нечестивого императора Льва Армянина обитель «Великое Село» была восстановлена, и туда перенесены были святые мощи исповедника. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Феофана исп., Сигрианского (818)'
+            Short: 'Прп. Феофана'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '031200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Св. Александра исп. пресвитера (1933)'
+            Short: 'Св. Александра'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Иоанна, Константина пресвитеров, прмч. Владимира (1938)'
+            Short: 'Сщмч. Иоанна'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Сергия пресвитера (1943)'
+            Short: 'Сщмч. Сергия'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '623'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прав. Финееса (ок. 1500 до Р.Х.)'
+            Short: 'Прав. Финееса'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '536'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свт. Григория Двоеслова, папы Римского (604)'
+            Short: 'Свт. Григория'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '626'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Симеона Нового Богослова (1021)'
+            Short: 'Прп. Симеона'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '629'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Лиддской-нерукотворной (на столпе), иконы Божией Матери (I)'
+            Short: 'Лиддской-нерукотворной (на'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+  el:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9834'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Δευτέρα
+            Short: Δευτέρα
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_8:13-9:7
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_6:9-22
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_8:1-21
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '621'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Θεοφάνης ὁ Ὁμολογητὴς τῆς Συγριανὴς'
+            Short: 'Ὅσιος Θεοφάνης ὁ Ὁμολογητὴς τῆς Συγριανὴς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '536'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Γρηγόριος ὁ Αʹ Διάλογος Πάπας Ῥώμης'
+            Short: 'Ὅσιος Γρηγόριος ὁ Αʹ Διάλογος Πάπας Ῥώμης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03120195'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Ἐννέα Μάρτυρες'
+            Short: 'Ἅγιοι Ἐννέα Μάρτυρες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '623'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Δίκαιος Φινεὲς'
+            Short: 'Δίκαιος Φινεὲς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '626'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Συμεὼν ὁ Εὐλαβὴς'
+            Short: 'Ὅσιος Συμεὼν ὁ Εὐλαβὴς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03120495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Λαυρέντιος'
+            Short: 'Ἅγιος Λαυρέντιος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03120595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Προφήτης Ἀαρών'
+            Short: 'Προφήτης Ἀαρών'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031206'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Δημήτριος βασιλεὺς τῆς Γεωργίας'
+            Short: 'Ἅγιος Δημήτριος βασιλεὺς τῆς Γεωργίας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9834'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Δευτέρα
+            Short: Δευτέρα
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_8:13-9:7
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_6:9-22
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_8:1-21
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '621'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Θεοφάνης ὁ Ὁμολογητὴς τῆς Συγριανὴς'
+            Short: 'Ὅσιος Θεοφάνης ὁ Ὁμολογητὴς τῆς Συγριανὴς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '536'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Γρηγόριος ὁ Αʹ Διάλογος Πάπας Ῥώμης'
+            Short: 'Ὅσιος Γρηγόριος ὁ Αʹ Διάλογος Πάπας Ῥώμης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03120195'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Ἐννέα Μάρτυρες'
+            Short: 'Ἅγιοι Ἐννέα Μάρτυρες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '623'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Δίκαιος Φινεὲς'
+            Short: 'Δίκαιος Φινεὲς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '626'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Συμεὼν ὁ Εὐλαβὴς'
+            Short: 'Ὅσιος Συμεὼν ὁ Εὐλαβὴς'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03120495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Λαυρέντιος'
+            Short: 'Ἅγιος Λαυρέντιος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '03120595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Προφήτης Ἀαρών'
+            Short: 'Προφήτης Ἀαρών'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '031206'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Δημήτριος βασιλεὺς τῆς Γεωργίας'
+            Short: 'Ἅγιος Δημήτριος βασιλεὺς τῆς Γεωργίας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+  en:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9834'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Monday of the Third Week of Lent'
+            Short: 'Monday of the Third Week of Lent'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_8:13-9:7
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_6:9-22
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_8:1-21
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '621'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Theophanes the Confessor was born at Constantinople into a pious and reknown family. the father of Theophanes was a kinsman of the Byzantine emperor Leo the Isaurian (717-741). Three years after Theophanes was born, his father died, leaving his family under the care of the emperor himself. Theophanes grew up at the court and became a dignitary under the emperor Leo the Khozar (775-780). His position obliged him to enter into marriage. With the consent of his bride, Theophanes preserved his chastity, since in his soul matured the desire to assume the monastic form. Visiting upon a time with his spouse at monasteries in the Sygreian district (Asia Minor), Theophanes met the perspicacious elder Gregory Stratitios, who predicted to Theophanes’ wife, that her husband would merit the crown of martyrdom. Awhile later the spouse of Theophanes was tonsured a nun in one of the monasteries in Bithynia, and Theophanes accepted monastic tonsure under the monastic elder Gregory. With the blessing of the elder, Theophanes built a monastery on the Island of Kalon in the Sea of Marmara and secluded himself in his cell, being occupied with the transcription of books. And in this occupation Theophanes attained an high degree of mastery. Later on the Monk Theophanes founded yet another monastery in the Sygreian district, at a place called the “Big Settlement,” and became its hegumen. The monk himself took part in all the monastic tasks and for everyone he gave example by his love for work and effort. He was granted by the Lord the gift of wonderworking: he healed the sick and cast out devils. In the year 787 at Nicæa was convened the Seventh Œcumenical Council, which condemned the heresy of the Iconoclasts. The Monk Theophanes was also invited to the Council. He arrived dressed in his patch-tattered attire, but he shone forth by his God-inspired wisdom in affirming the dogmas of the true Orthodoxy.</p><p>At age 50 the Monk Theophanes fell grievously ill and right up to his very end he suffered terribly. Situated on his sick-bed, the monk toiled incessantly: he wrote his work, “The Chronographia,”—an history of the Christian Church covering the years 285-813. This work even up into the present has remained an invaluable source in the history of the Church.</p><p>During the reign of the emperor Leo the Armenian (813-820), when the saint was already well up into age, the Iconoclast heresy made a comeback. They demanded of Saint Theophanes that he accept the heresy, but he firmly refused and was locked up in prison. His “Big Settlement” monastery was put to the torch. In prison for 23 days, the holy confessor died († 818). After the death of the impious emperor Leo the Armenian, the “Big Settlement” monastery was restored and the relics of the holy confessor were transferred there.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Theophanes the Confessor of Sigriane († 818)'
+            Short: 'Venerable Theophanes'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '031200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St Alexander the new hiero-confessor († 1933)'
+            Short: 'St Alexander'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03120199'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyrs Priests John, Constantine, Venerable Martyr Vladimir († 1938)'
+            Short: 'New Hieromartyrs'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Priest Sergius († 1943)'
+            Short: 'New Hieromartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '623'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Righteous Phineas the grandson of Aaron (C 1500 BC)'
+            Short: 'Righteous Phineas'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '536'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Holy Hierarch Gregory Dialogus, the Pope of Rome († 604)'
+            Short: 'Holy Hierarch'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '626'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Simeon the New Theologian († 1021)'
+            Short: 'Venerable Simeon'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '629'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Icon “Not Made by Hands” of the Mother of God from Lydda (1<sup>st</sup> C) and “of Rome”'
+            Short: 'Icon “Not'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03120399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Abacyrus and Cyrus'
+            Short: 'Venerable Abacyrus'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9834'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Monday of the Third Week of Lent'
+            Short: 'Monday of the Third Week of Lent'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_8:13-9:7
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_6:9-22
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_8:1-21
+                  type: '2'
+              type: vespers
+            -
+              type: sexte
+          src: pentecostarion
+          type: ~
+        -
+          cid: '621'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Theophanes the Confessor was born at Constantinople into a pious and reknown family. the father of Theophanes was a kinsman of the Byzantine emperor Leo the Isaurian (717-741). Three years after Theophanes was born, his father died, leaving his family under the care of the emperor himself. Theophanes grew up at the court and became a dignitary under the emperor Leo the Khozar (775-780). His position obliged him to enter into marriage. With the consent of his bride, Theophanes preserved his chastity, since in his soul matured the desire to assume the monastic form. Visiting upon a time with his spouse at monasteries in the Sygreian district (Asia Minor), Theophanes met the perspicacious elder Gregory Stratitios, who predicted to Theophanes’ wife, that her husband would merit the crown of martyrdom. Awhile later the spouse of Theophanes was tonsured a nun in one of the monasteries in Bithynia, and Theophanes accepted monastic tonsure under the monastic elder Gregory. With the blessing of the elder, Theophanes built a monastery on the Island of Kalon in the Sea of Marmara and secluded himself in his cell, being occupied with the transcription of books. And in this occupation Theophanes attained an high degree of mastery. Later on the Monk Theophanes founded yet another monastery in the Sygreian district, at a place called the “Big Settlement,” and became its hegumen. The monk himself took part in all the monastic tasks and for everyone he gave example by his love for work and effort. He was granted by the Lord the gift of wonderworking: he healed the sick and cast out devils. In the year 787 at Nicæa was convened the Seventh Œcumenical Council, which condemned the heresy of the Iconoclasts. The Monk Theophanes was also invited to the Council. He arrived dressed in his patch-tattered attire, but he shone forth by his God-inspired wisdom in affirming the dogmas of the true Orthodoxy.</p><p>At age 50 the Monk Theophanes fell grievously ill and right up to his very end he suffered terribly. Situated on his sick-bed, the monk toiled incessantly: he wrote his work, “The Chronographia,”—an history of the Christian Church covering the years 285-813. This work even up into the present has remained an invaluable source in the history of the Church.</p><p>During the reign of the emperor Leo the Armenian (813-820), when the saint was already well up into age, the Iconoclast heresy made a comeback. They demanded of Saint Theophanes that he accept the heresy, but he firmly refused and was locked up in prison. His “Big Settlement” monastery was put to the torch. In prison for 23 days, the holy confessor died († 818). After the death of the impious emperor Leo the Armenian, the “Big Settlement” monastery was restored and the relics of the holy confessor were transferred there.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Theophanes the Confessor of Sigriane († 818)'
+            Short: 'Venerable Theophanes'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '031200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St Alexander the new hiero-confessor († 1933)'
+            Short: 'St Alexander'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03120199'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyrs Priests John, Constantine, Venerable Martyr Vladimir († 1938)'
+            Short: 'New Hieromartyrs'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Priest Sergius († 1943)'
+            Short: 'New Hieromartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '623'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Righteous Phineas the grandson of Aaron (C 1500 BC)'
+            Short: 'Righteous Phineas'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '536'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Holy Hierarch Gregory Dialogus, the Pope of Rome († 604)'
+            Short: 'Holy Hierarch'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '626'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Simeon the New Theologian († 1021)'
+            Short: 'Venerable Simeon'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '629'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Icon “Not Made by Hands” of the Mother of God from Lydda (1<sup>st</sup> C) and “of Rome”'
+            Short: 'Icon “Not'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03120399'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Abacyrus and Cyrus'
+            Short: 'Venerable Abacyrus'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+  fr:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9834'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Lundi de la 3-me semaine du Carême'
+            Short: 'Lundi de la 3-me semaine du Carême'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_8:13-9:7
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_6:9-22
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_8:1-21
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '621'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Théophane le Confesseur, Higoumène du Monastère du Grand-Champ au Mont Sigriane'
+            Short: 'St. Théophane'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '536'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Grégoire 1<sup>er</sup>, Pape de Rome, dit le Dialogue (en Occident, Grégoire le Grand)'
+            Short: 'St. Grégoire'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '626'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Syméon, le Nouveau Théologien'
+            Short: 'St. Syméon'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '623'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Juste Phinées'
+            Short: 'St. Juste Phinées'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Nicodème de Mammola en Calabre'
+            Short: 'St. Nicodème'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031204'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Paul, Evêque de Léon'
+            Short: 'St. Paul'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9834'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Lundi de la 3-me semaine du Carême'
+            Short: 'Lundi de la 3-me semaine du Carême'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_8:13-9:7
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_6:9-22
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_8:1-21
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '621'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Théophane le Confesseur, Higoumène du Monastère du Grand-Champ au Mont Sigriane'
+            Short: 'St. Théophane'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '536'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Grégoire 1<sup>er</sup>, Pape de Rome, dit le Dialogue (en Occident, Grégoire le Grand)'
+            Short: 'St. Grégoire'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '626'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Syméon, le Nouveau Théologien'
+            Short: 'St. Syméon'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '623'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Juste Phinées'
+            Short: 'St. Juste Phinées'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Nicodème de Mammola en Calabre'
+            Short: 'St. Nicodème'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031204'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Paul, Evêque de Léon'
+            Short: 'St. Paul'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+  zh/Hans:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9834'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大斋期第三周瞻礼二
+            Short: 大斋期第三周瞻礼二
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_8:13-9:7
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_6:9-22
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_8:1-21
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '621'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: '圣德奥梵 （西格里阿尼地方的宣信者，818年）'
+            Short: '圣德奥梵 （西格里阿尼地方的宣信者，818年）'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '031200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣亚历山大（新司祭宣信者，1933年）
+            Short: 圣亚历山大（新司祭宣信者，1933年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭：约翰、君士坦丁、殉道修士弗拉迪弥尔（1938年）
+            Short: 新殉道司祭：约翰、君士坦丁、殉道修士弗拉迪弥尔（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭塞尔吉（1943年）
+            Short: 新殉道司祭塞尔吉（1943年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '623'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 义人阿阿隆（大司祭，先知及见神者摩西的弟兄，主降生前1500年）
+            Short: 义人阿阿隆（大司祭，先知及见神者摩西的弟兄，主降生前1500年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '536'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣格里高利（《对话录》作者，罗马教宗，604年）
+            Short: 圣格里高利（《对话录》作者，罗马教宗，604年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '626'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣西面新神学家（1022年）及其长老，圣西面，斯督迪修道院的可敬者（987年）
+            Short: 圣西面新神学家（1022年）及其长老，圣西面，斯督迪修道院的可敬者（987年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '629'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 利达地方的天成圣母像纪念日（1世纪）
+            Short: 利达地方的天成圣母像纪念日（1世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03120396'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣基若（亚历山大里亚的修士，6世纪）
+            Short: 圣基若（亚历山大里亚的修士，6世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031204'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣保罗（布列塔尼的雷翁地方主教，572年）
+            Short: 圣保罗（布列塔尼的雷翁地方主教，572年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣尼科德默（卡拉布里亚的曼莫拉地方，990年）
+            Short: 圣尼科德默（卡拉布里亚的曼莫拉地方，990年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031206'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者迪弥特里（被称为勇者，格鲁吉亚国王，1289年）
+            Short: 殉道者迪弥特里（被称为勇者，格鲁吉亚国王，1289年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031207'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣德奥克提斯特（本姓德拉古庭，塞尔维亚人，1361年）
+            Short: 圣德奥克提斯特（本姓德拉古庭，塞尔维亚人，1361年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031208'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣阿尔斐吉（温彻斯特主教，英格兰人，951年）
+            Short: 圣阿尔斐吉（温彻斯特主教，英格兰人，951年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9834'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大斋期第三周瞻礼二
+            Short: 大斋期第三周瞻礼二
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_8:13-9:7
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_6:9-22
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_8:1-21
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '621'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: '圣德奥梵 （西格里阿尼地方的宣信者，818年）'
+            Short: '圣德奥梵 （西格里阿尼地方的宣信者，818年）'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '031200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣亚历山大（新司祭宣信者，1933年）
+            Short: 圣亚历山大（新司祭宣信者，1933年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭：约翰、君士坦丁、殉道修士弗拉迪弥尔（1938年）
+            Short: 新殉道司祭：约翰、君士坦丁、殉道修士弗拉迪弥尔（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭塞尔吉（1943年）
+            Short: 新殉道司祭塞尔吉（1943年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '623'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 义人阿阿隆（大司祭，先知及见神者摩西的弟兄，主降生前1500年）
+            Short: 义人阿阿隆（大司祭，先知及见神者摩西的弟兄，主降生前1500年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '536'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣格里高利（《对话录》作者，罗马教宗，604年）
+            Short: 圣格里高利（《对话录》作者，罗马教宗，604年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '626'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣西面新神学家（1022年）及其长老，圣西面，斯督迪修道院的可敬者（987年）
+            Short: 圣西面新神学家（1022年）及其长老，圣西面，斯督迪修道院的可敬者（987年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '629'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 利达地方的天成圣母像纪念日（1世纪）
+            Short: 利达地方的天成圣母像纪念日（1世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03120396'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣基若（亚历山大里亚的修士，6世纪）
+            Short: 圣基若（亚历山大里亚的修士，6世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031204'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣保罗（布列塔尼的雷翁地方主教，572年）
+            Short: 圣保罗（布列塔尼的雷翁地方主教，572年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣尼科德默（卡拉布里亚的曼莫拉地方，990年）
+            Short: 圣尼科德默（卡拉布里亚的曼莫拉地方，990年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031206'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者迪弥特里（被称为勇者，格鲁吉亚国王，1289年）
+            Short: 殉道者迪弥特里（被称为勇者，格鲁吉亚国王，1289年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031207'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣德奥克提斯特（本姓德拉古庭，塞尔维亚人，1361年）
+            Short: 圣德奥克提斯特（本姓德拉古庭，塞尔维亚人，1361年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031208'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣阿尔斐吉（温彻斯特主教，英格兰人，951年）
+            Short: 圣阿尔斐吉（温彻斯特主教，英格兰人，951年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+  zh/Hant:
+    ponomar:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9834'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大齋期第三周瞻禮二
+            Short: 大齋期第三周瞻禮二
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_8:13-9:7
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_6:9-22
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_8:1-21
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '621'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: '聖德奧梵 （西格里阿尼地方的宣信者，818年）'
+            Short: '聖德奧梵 （西格里阿尼地方的宣信者，818年）'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '031200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖亞歷山大（新司祭宣信者，1933年）
+            Short: 聖亞歷山大（新司祭宣信者，1933年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭：約翰、君士坦丁、殉道修士弗拉迪彌爾（1938年）
+            Short: 新殉道司祭：約翰、君士坦丁、殉道修士弗拉迪彌爾（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭塞爾吉（1943年）
+            Short: 新殉道司祭塞爾吉（1943年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '623'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 義人阿阿隆（大司祭，先知及見神者摩西的弟兄，主降生前1500年）
+            Short: 義人阿阿隆（大司祭，先知及見神者摩西的弟兄，主降生前1500年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '536'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖格里高利（《對話錄》作者，羅馬教宗，604年）
+            Short: 聖格里高利（《對話錄》作者，羅馬教宗，604年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '626'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖西面新神學家（1022年）及其長老，聖西面，斯督迪修道院的可敬者（987年）
+            Short: 聖西面新神學家（1022年）及其長老，聖西面，斯督迪修道院的可敬者（987年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '629'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 利達地方的天成聖母像紀念日（一世紀）
+            Short: 利達地方的天成聖母像紀念日（一世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03120396'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖基若（亞歷山大里亞的修士，六世紀）
+            Short: 聖基若（亞歷山大里亞的修士，六世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031204'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖帕弗羅（布列塔尼的雷翁地方主教，572年）
+            Short: 聖帕弗羅（布列塔尼的雷翁地方主教，572年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖尼科德默（卡拉布里亞的曼莫拉地方，990年）
+            Short: 聖尼科德默（卡拉布里亞的曼莫拉地方，990年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031206'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者迪彌特里（被稱為勇者，格魯吉亞國王，1289年）
+            Short: 殉道者迪彌特里（被稱為勇者，格魯吉亞國王，1289年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031207'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖德奧克提斯特（本姓德拉古庭，塞爾維亞人，1361年）
+            Short: 聖德奧克提斯特（本姓德拉古庭，塞爾維亞人，1361年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031208'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖阿爾斐吉（溫徹斯特主教，英格蘭人，951年）
+            Short: 聖阿爾斐吉（溫徹斯特主教，英格蘭人，951年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+    ponomarReordered:
+      fastings: '0000001'
+      saints:
+        -
+          cid: '9834'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 大齋期第三周瞻禮二
+            Short: 大齋期第三周瞻禮二
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Isa_8:13-9:7
+                  type: '1'
+              type: sexte
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Gen_6:9-22
+                  type: '1'
+                -
+                  effWeek: ~
+                  pericope: ~
+                  reading: Prov_8:1-21
+                  type: '2'
+              type: vespers
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '621'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: '聖德奧梵 （西格里阿尼地方的宣信者，818年）'
+            Short: '聖德奧梵 （西格里阿尼地方的宣信者，818年）'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '031200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖亞歷山大（新司祭宣信者，1933年）
+            Short: 聖亞歷山大（新司祭宣信者，1933年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031201'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭：約翰、君士坦丁、殉道修士弗拉迪彌爾（1938年）
+            Short: 新殉道司祭：約翰、君士坦丁、殉道修士弗拉迪彌爾（1938年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031202'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭塞爾吉（1943年）
+            Short: 新殉道司祭塞爾吉（1943年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '623'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 義人阿阿隆（大司祭，先知及見神者摩西的弟兄，主降生前1500年）
+            Short: 義人阿阿隆（大司祭，先知及見神者摩西的弟兄，主降生前1500年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '536'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖格里高利（《對話錄》作者，羅馬教宗，604年）
+            Short: 聖格里高利（《對話錄》作者，羅馬教宗，604年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '626'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖西面新神學家（1022年）及其長老，聖西面，斯督迪修道院的可敬者（987年）
+            Short: 聖西面新神學家（1022年）及其長老，聖西面，斯督迪修道院的可敬者（987年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '629'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 利達地方的天成聖母像紀念日（一世紀）
+            Short: 利達地方的天成聖母像紀念日（一世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '03120396'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖基若（亞歷山大里亞的修士，六世紀）
+            Short: 聖基若（亞歷山大里亞的修士，六世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031204'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖帕弗羅（布列塔尼的雷翁地方主教，572年）
+            Short: 聖帕弗羅（布列塔尼的雷翁地方主教，572年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031203'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖尼科德默（卡拉布里亞的曼莫拉地方，990年）
+            Short: 聖尼科德默（卡拉布里亞的曼莫拉地方，990年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031206'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者迪彌特里（被稱為勇者，格魯吉亞國王，1289年）
+            Short: 殉道者迪彌特里（被稱為勇者，格魯吉亞國王，1289年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031207'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖德奧克提斯特（本姓德拉古庭，塞爾維亞人，1361年）
+            Short: 聖德奧克提斯特（本姓德拉古庭，塞爾維亞人，1361年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '031208'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖阿爾斐吉（溫徹斯特主教，英格蘭人，951年）
+            Short: 聖阿爾斐吉（溫徹斯特主教，英格蘭人，951年）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2

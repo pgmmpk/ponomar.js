@@ -1,0 +1,1926 @@
+---
+date: 2019/1/15
+langs:
+  cu:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Понедѣ́льникъ л҃ѕ-ѧ седми́цы по пѧтидесѧ́тницѣ'
+            Short: Понедѣ́льникъ
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '329'
+                  reading: 'Heb_11:17-23, 27-31'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '42'
+                  reading: Mk_9:42-10:1
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '221'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ па́ѵла ѳиве́йскагѡ (341)'
+            Short: 'Прпⷣбнагѡ па́ѵла'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '213'
+                  reading: Gal_5:22-6:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '43'
+                  reading: Mt_11:27-30
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '985'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ і҆ѡа́нна кꙋ́щника (е҃)'
+            Short: 'Прпⷣбнагѡ і҆ѡа́нна'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '01150098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника мїхаи́ла пресвѵ́тера (1942)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '224'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбномч҃ника Пансофия (249-251)'
+            Short: 'Прпⷣбномч҃ника Пансофия (249-251)'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '225'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ про́хѡра пши́нскагѡ (і҃)'
+            Short: 'Прпⷣбнагѡ про́хѡра'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '226'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ гаврїи́ла лесно́вскагѡ (аі҃)'
+            Short: 'Прпⷣбнагѡ гаврїи́ла'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01150198'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ гера́сїма, патрїа́рха а҆леѯандрі́йскагѡ (1714)'
+            Short: 'Ст҃а́гѡ гера́сїма,'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Понедѣ́льникъ л҃ѕ-ѧ седми́цы по пѧтидесѧ́тницѣ'
+            Short: Понедѣ́льникъ
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '329'
+                  reading: 'Heb_11:17-23, 27-31'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '42'
+                  reading: Mk_9:42-10:1
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '221'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ па́ѵла ѳиве́йскагѡ (341)'
+            Short: 'Прпⷣбнагѡ па́ѵла'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '213'
+                  reading: Gal_5:22-6:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '43'
+                  reading: Mt_11:27-30
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '985'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ і҆ѡа́нна кꙋ́щника (е҃)'
+            Short: 'Прпⷣбнагѡ і҆ѡа́нна'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '01150098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника мїхаи́ла пресвѵ́тера (1942)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '224'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбномч҃ника Пансофия (249-251)'
+            Short: 'Прпⷣбномч҃ника Пансофия (249-251)'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '225'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ про́хѡра пши́нскагѡ (і҃)'
+            Short: 'Прпⷣбнагѡ про́хѡра'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '226'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прпⷣбнагѡ гаврїи́ла лесно́вскагѡ (аі҃)'
+            Short: 'Прпⷣбнагѡ гаврїи́ла'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01150198'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ гера́сїма, патрїа́рха а҆леѯандрі́йскагѡ (1714)'
+            Short: 'Ст҃а́гѡ гера́сїма,'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+  cu/ru:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Понедельник 36-й седмицы по Пятедисятнице'
+            Short: 'Понедельник 36-й седмицы по Пятедисятнице'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '329'
+                  reading: 'Heb_11:17-23, 27-31'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '42'
+                  reading: Mk_9:42-10:1
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '221'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n     Преподобный Павел Фивейский родился в Египте, в городе Фиваиде. Оставшись сиротой, он много претерпел от своего корыстолюбивого родственника из-за родительского наследства. Во время гонений Декия (249—251) на христиан святой Павел, узнав о коварном замысле предать его в руки гонителей, покинул город и удалился в пустыню.     Поселившись в пещере у подножия горы, преподобный Павел, никому не ведомый, прожил в ней 91 год, неустанно молясь Богу днем и ночью. Питался он финиками и хлебом, который приносил ему ворон, одеждой из пальмовых листьев укрывался от холода и зноя. По смотрению Божию, уже незадолго до кончины преподобного Павла, Бог открыл о нем преподобному Антонию Великому (память 17 января), который также подвизался в Фиваидской пустыне. Однажды святому Антонию пришла мысль, что едва ли есть другой такой пустынник, как он, и тогда он услышал глас: «Антоний, есть раб Божий, который совершеннее тебя и прежде тебя поселился здесь в пустыне. Иди в глубину ее и найдешь его». Антоний пошел и нашел пещеру святого Павла. Преподав Антонию урок смирения, преподобный Павел вышел ему навстречу. Старцы назвали друг друга по имени, обнялись и долго беседовали. Во время беседы прилетел ворон и принес им обоим хлеб. Преподобный Павел открыл преподобному Антонию приближение своей кончины и завещал похоронить его. Преставился святой Павел во время молитвы, стоя на коленях. Преподобный Антоний видел, как его святая душа в окружении Ангелов, пророков и апостолов, восходила к Богу. Два льва прибежали из пустыни и когтями вырыли могилу. Преподобный Антоний похоронил святого старца и, взяв его одежду из пальмовых листьев, удалился в свою обитель. Одежду эту преподобный Антоний хранил, как величай шую святыню, и надевал только два раза в год — на Пасху и  Пятидесятницу. Скончался преподобный Павел Фивейский в 341 году, когда ему было 113 лет. Он не основал ни одной обители, но вскоре после его кончины явилось много подражателей его жизни и покрыли пустыню обителями. Преподобный Павел  считается отцом православного монашества.     В XII веке тело святого Павла, по воле императора Мануила  (1143—1180), было перенесено в Царьград и положено в Перив лептской обители Пресвятой Богородицы. Впоследствии оно было перенесено в Венецию и, наконец, в Венгрию в Офеи; часть главы его находится в Риме. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Павла Фивейского (341)'
+            Short: 'Прп. Павла'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '213'
+                  reading: Gal_5:22-6:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '43'
+                  reading: Mt_11:27-30
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '985'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n     Преподобный Иоанн Кущник, сын богатых и знатных родителей, живших в Константинополе в V веке, получил прекрасное воспитание. Он любил читать духовные книги и, поняв тщетность мирской жизни, предпочел «паче пространного пути тесный и болезненный, и зело жестокий». Упросив родителей подарить ему Евангелие, он тайно удалился в Вифанию. В обители «Неусыпающих» он принял иноческий постриг. Молодой инок с усердием начал подвизаться в обители, удивляя братию своей непрестанной молитвой, безропотным послушанием, строгим воздержанием и терпением в трудах.     Спустя шесть лет его постигло искушение: мысли о родителях, об их любви и нежности, об их скорби начали неотступно пре следовать юного подвижника.     Святой Иоанн открыл игумену свое состояние, просил отпустить его из обители и умолял братию не забывать его в молитвах, надеясь, что их молитвами он, с помощью Божией, и родителей  увидит, и козни диавола победит. Игумен дал ему свое благосло вение.      Возвратившись в Константинополь, святой Иоанн в одежде  нищего, никем не узнанный, поселился у ворот родительского до ма. Родители посылали ему пищу со своего стола, Христа ради.  Три года, притесняемый и оскорбляемый, прожил он в куще (ша лаше), терпя холод и зной, непрестанно беседуя с Господом и  святыми Ангелами. Всегда с ним было Евангелие, подаренное ему  родителями, непрестанно черпал он оттуда глаголы вечной жизни.  Перед кончиной преподобного ему в видении явился Господь, от крыв, что приходит конец его скорбям и через три дня он будет  взят в Царство Небесное.     Лишь тогда святой показал родителям Евангелие, которое  они ему подарили незадолго до того, как он покинул родной дом,  и родители узнали своего сына. Со слезами радости они обняли  его, одновременно скорбя, что так долго он терпел лишения около  ворот родительского дома. Святой Иоанн завещал родителям по хоронить его на месте, где стояла его куща, и положить в гроб  в нищенском рубище, которое он носил при жизни.      Скончался святой в середине V века, ему было не более 25 лет.  Над местом его погребения родители построили храм Божий и  при нем странноприимный дом. В XII веке глава святого была пе ренесена крестоносцами в Безансон (Франция), мощи преподобно го находятся в Риме. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Иоанна Кущника (V)'
+            Short: 'Прп. Иоанна'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '01150098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Михаила пресвитера (1942)'
+            Short: 'Сщмч. Михаила'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '224'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прмч. Пансофия (249-251)'
+            Short: 'Прмч. Пансофия (249-251)'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '225'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Прохора Пшинского (X)'
+            Short: 'Прп. Прохора'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '226'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Гавриила Лесновского (XI)'
+            Short: 'Прп. Гавриила'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01150198'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свт. Герасима, Патриарха Александрийского (1714)'
+            Short: 'Свт. Герасима'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Понедельник 36-й седмицы по Пятедисятнице'
+            Short: 'Понедельник 36-й седмицы по Пятедисятнице'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '329'
+                  reading: 'Heb_11:17-23, 27-31'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '42'
+                  reading: Mk_9:42-10:1
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '221'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n     Преподобный Павел Фивейский родился в Египте, в городе Фиваиде. Оставшись сиротой, он много претерпел от своего корыстолюбивого родственника из-за родительского наследства. Во время гонений Декия (249—251) на христиан святой Павел, узнав о коварном замысле предать его в руки гонителей, покинул город и удалился в пустыню.     Поселившись в пещере у подножия горы, преподобный Павел, никому не ведомый, прожил в ней 91 год, неустанно молясь Богу днем и ночью. Питался он финиками и хлебом, который приносил ему ворон, одеждой из пальмовых листьев укрывался от холода и зноя. По смотрению Божию, уже незадолго до кончины преподобного Павла, Бог открыл о нем преподобному Антонию Великому (память 17 января), который также подвизался в Фиваидской пустыне. Однажды святому Антонию пришла мысль, что едва ли есть другой такой пустынник, как он, и тогда он услышал глас: «Антоний, есть раб Божий, который совершеннее тебя и прежде тебя поселился здесь в пустыне. Иди в глубину ее и найдешь его». Антоний пошел и нашел пещеру святого Павла. Преподав Антонию урок смирения, преподобный Павел вышел ему навстречу. Старцы назвали друг друга по имени, обнялись и долго беседовали. Во время беседы прилетел ворон и принес им обоим хлеб. Преподобный Павел открыл преподобному Антонию приближение своей кончины и завещал похоронить его. Преставился святой Павел во время молитвы, стоя на коленях. Преподобный Антоний видел, как его святая душа в окружении Ангелов, пророков и апостолов, восходила к Богу. Два льва прибежали из пустыни и когтями вырыли могилу. Преподобный Антоний похоронил святого старца и, взяв его одежду из пальмовых листьев, удалился в свою обитель. Одежду эту преподобный Антоний хранил, как величай шую святыню, и надевал только два раза в год — на Пасху и  Пятидесятницу. Скончался преподобный Павел Фивейский в 341 году, когда ему было 113 лет. Он не основал ни одной обители, но вскоре после его кончины явилось много подражателей его жизни и покрыли пустыню обителями. Преподобный Павел  считается отцом православного монашества.     В XII веке тело святого Павла, по воле императора Мануила  (1143—1180), было перенесено в Царьград и положено в Перив лептской обители Пресвятой Богородицы. Впоследствии оно было перенесено в Венецию и, наконец, в Венгрию в Офеи; часть главы его находится в Риме. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Павла Фивейского (341)'
+            Short: 'Прп. Павла'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '213'
+                  reading: Gal_5:22-6:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '43'
+                  reading: Mt_11:27-30
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '985'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n     Преподобный Иоанн Кущник, сын богатых и знатных родителей, живших в Константинополе в V веке, получил прекрасное воспитание. Он любил читать духовные книги и, поняв тщетность мирской жизни, предпочел «паче пространного пути тесный и болезненный, и зело жестокий». Упросив родителей подарить ему Евангелие, он тайно удалился в Вифанию. В обители «Неусыпающих» он принял иноческий постриг. Молодой инок с усердием начал подвизаться в обители, удивляя братию своей непрестанной молитвой, безропотным послушанием, строгим воздержанием и терпением в трудах.     Спустя шесть лет его постигло искушение: мысли о родителях, об их любви и нежности, об их скорби начали неотступно пре следовать юного подвижника.     Святой Иоанн открыл игумену свое состояние, просил отпустить его из обители и умолял братию не забывать его в молитвах, надеясь, что их молитвами он, с помощью Божией, и родителей  увидит, и козни диавола победит. Игумен дал ему свое благосло вение.      Возвратившись в Константинополь, святой Иоанн в одежде  нищего, никем не узнанный, поселился у ворот родительского до ма. Родители посылали ему пищу со своего стола, Христа ради.  Три года, притесняемый и оскорбляемый, прожил он в куще (ша лаше), терпя холод и зной, непрестанно беседуя с Господом и  святыми Ангелами. Всегда с ним было Евангелие, подаренное ему  родителями, непрестанно черпал он оттуда глаголы вечной жизни.  Перед кончиной преподобного ему в видении явился Господь, от крыв, что приходит конец его скорбям и через три дня он будет  взят в Царство Небесное.     Лишь тогда святой показал родителям Евангелие, которое  они ему подарили незадолго до того, как он покинул родной дом,  и родители узнали своего сына. Со слезами радости они обняли  его, одновременно скорбя, что так долго он терпел лишения около  ворот родительского дома. Святой Иоанн завещал родителям по хоронить его на месте, где стояла его куща, и положить в гроб  в нищенском рубище, которое он носил при жизни.      Скончался святой в середине V века, ему было не более 25 лет.  Над местом его погребения родители построили храм Божий и  при нем странноприимный дом. В XII веке глава святого была пе ренесена крестоносцами в Безансон (Франция), мощи преподобно го находятся в Риме. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прп. Иоанна Кущника (V)'
+            Short: 'Прп. Иоанна'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '01150098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Михаила пресвитера (1942)'
+            Short: 'Сщмч. Михаила'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '224'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прмч. Пансофия (249-251)'
+            Short: 'Прмч. Пансофия (249-251)'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '225'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Прохора Пшинского (X)'
+            Short: 'Прп. Прохора'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '226'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Прп. Гавриила Лесновского (XI)'
+            Short: 'Прп. Гавриила'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01150198'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Свт. Герасима, Патриарха Александрийского (1714)'
+            Short: 'Свт. Герасима'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+  el:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Δευτέρα
+            Short: Δευτέρα
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '329'
+                  reading: 'Heb_11:17-23, 27-31'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '42'
+                  reading: Mk_9:42-10:1
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '221'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Παῦλος ὁ Θηβαῖος'
+            Short: 'Ὅσιος Παῦλος ὁ Θηβαῖος'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '213'
+                  reading: Gal_5:22-6:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '43'
+                  reading: Mt_11:27-30
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '985'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἰωάννης ὁ Καλυβίτης'
+            Short: 'Ὅσιος Ἰωάννης ὁ Καλυβίτης'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '224'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Πανσόφιος'
+            Short: 'Ἅγιος Πανσόφιος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '226034'
+          info: ~
+          life:
+            Copyright: saint.gr
+            Id: saintgr
+            Text: "\nΑπεβίωσαν ειρηνικά. (Γιατί αναφέρονται σαν μάρτυρες, δεν γνωρίζουμε).\n"
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι ἕξι Μάρτυρες'
+            Short: 'Ἅγιοι ἕξι Μάρτυρες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01150395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἀλέξανδρος ὁ Ἀκοίμητος'
+            Short: 'Ὅσιος Ἀλέξανδρος ὁ Ἀκοίμητος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01150495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Ἐλπίδιος, Δάναξ καὶ Ελένη'
+            Short: 'Ἅγιοι Ἐλπίδιος, Δάναξ καὶ Ελένη'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01150595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγία Σεκουνδίνη'
+            Short: 'Ἁγία Σεκουνδίνη'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '011502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγία Ἴτα ἐξ Ἰρλανδίας ἡγουμένη (Ἰρλανδὴ)'
+            Short: 'Ἁγία Ἴτα ἐξ Ἰρλανδίας ἡγουμένη (Ἰρλανδὴ)'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '225'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Πρόχορος'
+            Short: 'Ὅσιος Πρόχορος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '226'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Γαβριὴλ'
+            Short: 'Ὅσιος Γαβριὴλ'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Δευτέρα
+            Short: Δευτέρα
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '329'
+                  reading: 'Heb_11:17-23, 27-31'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '42'
+                  reading: Mk_9:42-10:1
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '221'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Παῦλος ὁ Θηβαῖος'
+            Short: 'Ὅσιος Παῦλος ὁ Θηβαῖος'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '213'
+                  reading: Gal_5:22-6:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '43'
+                  reading: Mt_11:27-30
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '985'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἰωάννης ὁ Καλυβίτης'
+            Short: 'Ὅσιος Ἰωάννης ὁ Καλυβίτης'
+          ref: ~
+          src: menaion
+          type: '1'
+        -
+          cid: '224'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Πανσόφιος'
+            Short: 'Ἅγιος Πανσόφιος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '226034'
+          info: ~
+          life:
+            Copyright: saint.gr
+            Id: saintgr
+            Text: "\nΑπεβίωσαν ειρηνικά. (Γιατί αναφέρονται σαν μάρτυρες, δεν γνωρίζουμε).\n"
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι ἕξι Μάρτυρες'
+            Short: 'Ἅγιοι ἕξι Μάρτυρες'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01150395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ἀλέξανδρος ὁ Ἀκοίμητος'
+            Short: 'Ὅσιος Ἀλέξανδρος ὁ Ἀκοίμητος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01150495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Ἐλπίδιος, Δάναξ καὶ Ελένη'
+            Short: 'Ἅγιοι Ἐλπίδιος, Δάναξ καὶ Ελένη'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01150595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγία Σεκουνδίνη'
+            Short: 'Ἁγία Σεκουνδίνη'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '011502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἁγία Ἴτα ἐξ Ἰρλανδίας ἡγουμένη (Ἰρλανδὴ)'
+            Short: 'Ἁγία Ἴτα ἐξ Ἰρλανδίας ἡγουμένη (Ἰρλανδὴ)'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '225'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Πρόχορος'
+            Short: 'Ὅσιος Πρόχορος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '226'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Γαβριὴλ'
+            Short: 'Ὅσιος Γαβριὴλ'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+  en:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Monday of the 36<sup>th</sup> Week after Pentecost'
+            Short: 'Monday of the 36<sup>th</sup> Week after Pentecost'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '329'
+                  reading: 'Heb_11:17-23, 27-31'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '42'
+                  reading: Mk_9:42-10:1
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '221'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Paul of Thebes was born in Egypt, in the Thebaid city. Left orphaned, he suffered many things from a greedy kinsman over a parental inheritance. During the time of the persecution against Christians under the emperor Decius (249-251), Saint Paul learned of the insidious plan to deliver him into the hands of the persecutors, and so he fled the city and set out into the wilderness. </p><p>Settling into a cave at the bottom of an hill, and known there to no one, the Monk Paul dwelt in it for 91 years, praying incessantly to God both day and night. He sustained himself on dates and bread, which a raven brought him, and he sheltered himself from cold and frost with a garb made of palm leaves. Through the foresight of God, shortly before the end of the Monk Paul, the Lord revealed about him to the Monk Anthony the Great (Comm. 17 January), who also asceticised in the Thebaid wilderness. One time a thought came to Saint Anthony, that scarcely was there another so great a wilderness dweller as he, and then he heard a voice: “Anthony, there is a servant of God more accomplished than thee, and he hath settled here in this wilderness before thee. Go further into the remote area and there find him.” Anthony went and came to the cave of Saint Paul. A lesson in humility having been taught Anthony, the Monk Paul came out towards him. The elders greeted each other by name, and having hugged they entered into lengthy discussion. During the time of the conversation the raven flew by and brought them both bread. The Monk Paul disclosed to Saint Anthony that his end time was approaching and gave him instruction to bury him. The Monk Paul then expired during the time of prayer, upright on his knees. The Monk Anthony then beheld, how his soul, amidst Angels and prophets and apostles, ascended up to God. Two lions ran out from the wilderness and with their claws dug out the grave. The Monk Anthony buried the holy elder, and having taken his garb of palm leaves, he set out to his own monastery. The Monk Anthony kept this garb as a great holy reminder and put it out only twice a year—on Pascha and Pentecost. The Monk Paul of Thebes died in the year 341, when he was 113 years old. He did not establish a single monastery, but soon after his end there appeared many imitators of his life and they filled the wilderness with monasteries. The Monk Paul is considered a father of Orthodox monasticism. </p><p>In the XII Century the body of Saint Paul, on orders of the emperor Manuel (1143-1180), was transferred to Constantinople and placed in the Peribleptoi monastery of the Mother of God. Afterwards it was taken to Venice, and finally to Hungary, at Ofa. Part of his head is situated in Rome.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Paul of Thebes († 341)'
+            Short: 'Venerable Paul'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '213'
+                  reading: Gal_5:22-6:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '43'
+                  reading: Mt_11:27-30
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '985'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>Venerable John the Hut-Dweller was the son of rich and illustrious parents living in Constantinople during the V Century, and he received a fine education. He loved to read spiritual books, and having perceived the vanity of secular life, he preferred “rather than the broad path one that was narrow and infirm and extremely rigorous.” Having persuaded his parents to give him a Gospel, he set out secretly to Bithynia. At the monastery “Unceasing Vigilance” he received monastic tonsure. The young monk began to asceticise with zeal, astonishing his brethren with unceasing prayer, humble obedience, strict abstinence and perseverance at work.</p><p>After six years he began to undergo temptations: thoughts about his parents, about their love and fondness, about their sorrow—all this began to overtake the young ascetic.</p><p>Saint John disclosed his situation to the hegumen and he asked to be released from the monastery, and he besought the brethren not to forget him in their prayers, hoping that by their prayers he would with the help of God, both see his parents and overcome the snares of the devil. The hegumen gave him his blessing.</p><p>Saint John returned to Constantinople in the clothes of a beggar, and known to no one. He settled at the gates of his parental home. The parents sent him food from their table, for the sake of Christ. For three years, oppressed and insulted, he lived in a tent (hut), enduring cold and frost, unceasingly conversing with the Lord and the holy Angels. Always with him was the Gospel, given him by his parents, and from which he unceasingly gathered out sayings of life eternal. Before his death the Lord appeared in a vision to the monk, revealing that the end of his sorrows was approaching and that after three days he would be taken up into the Heavenly Kingdom.</p><p>Only then did the saint show his parents the Gospel, which they had given him shortly before he had left his parental home. The parents recognised their son. With tears of joy they hugged him simultaneously with tears of sorrow, in that he had endured privation for so long at the very gates of his parental home. Saint John gave final instructions to his parents to bury him on the spot where stood his tent, and to put in the grave the beggar’s rags that he wore during life. </p><p>The saint died in the mid V Century, when he was not yet 25 years of age. On the place of his burial the parents built a church to God and alongside it an house of hospitality for strangers. In the XII Century the head of the saint was taken by Crusaders to Besacon (in France), and the other relics of the saint were taken to Rome.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable John the Calybite (Hut-Dweller) (5<sup>th</sup> C)'
+            Short: 'Venerable John'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '225'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Prochorus, hermit near the Pchinja River (Vranje, Serbia) (10<sup>th</sup> C)'
+            Short: 'Venerable Prochorus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '226'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Gabriel, founder of the Lesnovo Monastery in Bulgaria (11th C)'
+            Short: 'Venerable Gabriel'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '224'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Martyr Pansophius of Alexandria († c. 249-251)'
+            Short: 'Venerable Martyr Pansophius'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Monday of the 36<sup>th</sup> Week after Pentecost'
+            Short: 'Monday of the 36<sup>th</sup> Week after Pentecost'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '329'
+                  reading: 'Heb_11:17-23, 27-31'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '42'
+                  reading: Mk_9:42-10:1
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '221'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Monk Paul of Thebes was born in Egypt, in the Thebaid city. Left orphaned, he suffered many things from a greedy kinsman over a parental inheritance. During the time of the persecution against Christians under the emperor Decius (249-251), Saint Paul learned of the insidious plan to deliver him into the hands of the persecutors, and so he fled the city and set out into the wilderness. </p><p>Settling into a cave at the bottom of an hill, and known there to no one, the Monk Paul dwelt in it for 91 years, praying incessantly to God both day and night. He sustained himself on dates and bread, which a raven brought him, and he sheltered himself from cold and frost with a garb made of palm leaves. Through the foresight of God, shortly before the end of the Monk Paul, the Lord revealed about him to the Monk Anthony the Great (Comm. 17 January), who also asceticised in the Thebaid wilderness. One time a thought came to Saint Anthony, that scarcely was there another so great a wilderness dweller as he, and then he heard a voice: “Anthony, there is a servant of God more accomplished than thee, and he hath settled here in this wilderness before thee. Go further into the remote area and there find him.” Anthony went and came to the cave of Saint Paul. A lesson in humility having been taught Anthony, the Monk Paul came out towards him. The elders greeted each other by name, and having hugged they entered into lengthy discussion. During the time of the conversation the raven flew by and brought them both bread. The Monk Paul disclosed to Saint Anthony that his end time was approaching and gave him instruction to bury him. The Monk Paul then expired during the time of prayer, upright on his knees. The Monk Anthony then beheld, how his soul, amidst Angels and prophets and apostles, ascended up to God. Two lions ran out from the wilderness and with their claws dug out the grave. The Monk Anthony buried the holy elder, and having taken his garb of palm leaves, he set out to his own monastery. The Monk Anthony kept this garb as a great holy reminder and put it out only twice a year—on Pascha and Pentecost. The Monk Paul of Thebes died in the year 341, when he was 113 years old. He did not establish a single monastery, but soon after his end there appeared many imitators of his life and they filled the wilderness with monasteries. The Monk Paul is considered a father of Orthodox monasticism. </p><p>In the XII Century the body of Saint Paul, on orders of the emperor Manuel (1143-1180), was transferred to Constantinople and placed in the Peribleptoi monastery of the Mother of God. Afterwards it was taken to Venice, and finally to Hungary, at Ofa. Part of his head is situated in Rome.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable Paul of Thebes († 341)'
+            Short: 'Venerable Paul'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '213'
+                  reading: Gal_5:22-6:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '43'
+                  reading: Mt_11:27-30
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '985'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>Venerable John the Hut-Dweller was the son of rich and illustrious parents living in Constantinople during the V Century, and he received a fine education. He loved to read spiritual books, and having perceived the vanity of secular life, he preferred “rather than the broad path one that was narrow and infirm and extremely rigorous.” Having persuaded his parents to give him a Gospel, he set out secretly to Bithynia. At the monastery “Unceasing Vigilance” he received monastic tonsure. The young monk began to asceticise with zeal, astonishing his brethren with unceasing prayer, humble obedience, strict abstinence and perseverance at work.</p><p>After six years he began to undergo temptations: thoughts about his parents, about their love and fondness, about their sorrow—all this began to overtake the young ascetic.</p><p>Saint John disclosed his situation to the hegumen and he asked to be released from the monastery, and he besought the brethren not to forget him in their prayers, hoping that by their prayers he would with the help of God, both see his parents and overcome the snares of the devil. The hegumen gave him his blessing.</p><p>Saint John returned to Constantinople in the clothes of a beggar, and known to no one. He settled at the gates of his parental home. The parents sent him food from their table, for the sake of Christ. For three years, oppressed and insulted, he lived in a tent (hut), enduring cold and frost, unceasingly conversing with the Lord and the holy Angels. Always with him was the Gospel, given him by his parents, and from which he unceasingly gathered out sayings of life eternal. Before his death the Lord appeared in a vision to the monk, revealing that the end of his sorrows was approaching and that after three days he would be taken up into the Heavenly Kingdom.</p><p>Only then did the saint show his parents the Gospel, which they had given him shortly before he had left his parental home. The parents recognised their son. With tears of joy they hugged him simultaneously with tears of sorrow, in that he had endured privation for so long at the very gates of his parental home. Saint John gave final instructions to his parents to bury him on the spot where stood his tent, and to put in the grave the beggar’s rags that he wore during life. </p><p>The saint died in the mid V Century, when he was not yet 25 years of age. On the place of his burial the parents built a church to God and alongside it an house of hospitality for strangers. In the XII Century the head of the saint was taken by Crusaders to Besacon (in France), and the other relics of the saint were taken to Rome.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Venerable John the Calybite (Hut-Dweller) (5<sup>th</sup> C)'
+            Short: 'Venerable John'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: menaion
+          type: '1'
+        -
+          cid: '225'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Prochorus, hermit near the Pchinja River (Vranje, Serbia) (10<sup>th</sup> C)'
+            Short: 'Venerable Prochorus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '226'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Gabriel, founder of the Lesnovo Monastery in Bulgaria (11th C)'
+            Short: 'Venerable Gabriel'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '224'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Martyr Pansophius of Alexandria († c. 249-251)'
+            Short: 'Venerable Martyr Pansophius'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+  fr:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Lundi de la 36-me semaine après le Pentecôte'
+            Short: 'Lundi de la 36-me semaine après le Pentecôte'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '329'
+                  reading: 'Heb_11:17-23, 27-31'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '42'
+                  reading: Mk_9:42-10:1
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '221'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Paul de Thèbes'
+            Short: 'St. Paul'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '213'
+                  reading: Gal_5:22-6:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '43'
+                  reading: Mt_11:27-30
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '985'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Jean le Calybite'
+            Short: 'St. Jean'
+          ref: ~
+          src: menaion
+          type: '2'
+        -
+          cid: '224'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Pansophios d’Alexandrie'
+            Short: 'St. Pansophios d’Alexandrie'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '226'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Gabriel, Fondateur du Monastère de Lesnov en Bulgarie'
+            Short: 'St. Gabriel'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '225'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Prochore, fonadateur du Monastère de Vranski en Bulgarie'
+            Short: 'St. Prochore'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Maur, disciple de St. Benoît'
+            Short: 'St. Maur'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Lundi de la 36-me semaine après le Pentecôte'
+            Short: 'Lundi de la 36-me semaine après le Pentecôte'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '329'
+                  reading: 'Heb_11:17-23, 27-31'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '42'
+                  reading: Mk_9:42-10:1
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '221'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Paul de Thèbes'
+            Short: 'St. Paul'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '213'
+                  reading: Gal_5:22-6:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '43'
+                  reading: Mt_11:27-30
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '985'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Jean le Calybite'
+            Short: 'St. Jean'
+          ref: ~
+          src: menaion
+          type: '2'
+        -
+          cid: '224'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Pansophios d’Alexandrie'
+            Short: 'St. Pansophios d’Alexandrie'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '226'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Gabriel, Fondateur du Monastère de Lesnov en Bulgarie'
+            Short: 'St. Gabriel'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '225'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Prochore, fonadateur du Monastère de Vranski en Bulgarie'
+            Short: 'St. Prochore'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Maur, disciple de St. Benoît'
+            Short: 'St. Maur'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+  zh/Hans:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬节后第卅六周瞻礼二
+            Short: 五旬节后第卅六周瞻礼二
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '329'
+                  reading: 'Heb_11:17-23, 27-31'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '42'
+                  reading: Mk_9:42-10:1
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '221'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣保罗修士（埃及的底比斯人，341年）
+            Short: 圣保罗修士（埃及的底比斯人，341年）
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '213'
+                  reading: Gal_5:22-6:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '43'
+                  reading: Mt_11:27-30
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '985'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣约翰修士（居茅庐者，君士坦丁堡人，450年）
+            Short: 圣约翰修士（居茅庐者，君士坦丁堡人，450年）
+          ref: ~
+          src: menaion
+          type: '2'
+        -
+          cid: '225'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣普若霍尔（保加利亚普青加河岸的弗蓝斯基旷野修道院院长，10世纪）
+            Short: 圣普若霍尔（保加利亚普青加河岸的弗蓝斯基旷野修道院院长，10世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '226'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣加百列（塞尔维亚与保加利亚边境的莱斯诺沃修道院的创建者，980年）
+            Short: 圣加百列（塞尔维亚与保加利亚边境的莱斯诺沃修道院的创建者，980年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '224'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 修士殉道者庞索斐（亚历山大里亚人，249-251年间）
+            Short: 修士殉道者庞索斐（亚历山大里亚人，249-251年间）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011500'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣玛克西默（诺拉城主教，250年）
+            Short: 圣玛克西默（诺拉城主教，250年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣女撒罗弥（伍德加尔玛地方人）及圣女裴若德扎弗拉（西夫尼亚地方人）（以上二位圣女均为格鲁吉亚人，4世纪）
+            Short: 圣女撒罗弥（伍德加尔玛地方人）及圣女裴若德扎弗拉（西夫尼亚地方人）（以上二位圣女均为格鲁吉亚人，4世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣妇伊塔（隐修女，圣布兰登的养母，570年）
+            Short: 圣妇伊塔（隐修女，圣布兰登的养母，570年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣玛弗若（圣文奈迪克特之弟子，584年）
+            Short: 圣玛弗若（圣文奈迪克特之弟子，584年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011504'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣瓦拉穆（白海附近的克瑞特湖地区之成德者，16世纪）
+            Short: 圣瓦拉穆（白海附近的克瑞特湖地区之成德者，16世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬节后第卅六周瞻礼二
+            Short: 五旬节后第卅六周瞻礼二
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '329'
+                  reading: 'Heb_11:17-23, 27-31'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '42'
+                  reading: Mk_9:42-10:1
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '221'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣保罗修士（埃及的底比斯人，341年）
+            Short: 圣保罗修士（埃及的底比斯人，341年）
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '213'
+                  reading: Gal_5:22-6:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '43'
+                  reading: Mt_11:27-30
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '985'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣约翰修士（居茅庐者，君士坦丁堡人，450年）
+            Short: 圣约翰修士（居茅庐者，君士坦丁堡人，450年）
+          ref: ~
+          src: menaion
+          type: '2'
+        -
+          cid: '225'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣普若霍尔（保加利亚普青加河岸的弗蓝斯基旷野修道院院长，10世纪）
+            Short: 圣普若霍尔（保加利亚普青加河岸的弗蓝斯基旷野修道院院长，10世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '226'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣加百列（塞尔维亚与保加利亚边境的莱斯诺沃修道院的创建者，980年）
+            Short: 圣加百列（塞尔维亚与保加利亚边境的莱斯诺沃修道院的创建者，980年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '224'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 修士殉道者庞索斐（亚历山大里亚人，249-251年间）
+            Short: 修士殉道者庞索斐（亚历山大里亚人，249-251年间）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011500'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣玛克西默（诺拉城主教，250年）
+            Short: 圣玛克西默（诺拉城主教，250年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣女撒罗弥（伍德加尔玛地方人）及圣女裴若德扎弗拉（西夫尼亚地方人）（以上二位圣女均为格鲁吉亚人，4世纪）
+            Short: 圣女撒罗弥（伍德加尔玛地方人）及圣女裴若德扎弗拉（西夫尼亚地方人）（以上二位圣女均为格鲁吉亚人，4世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣妇伊塔（隐修女，圣布兰登的养母，570年）
+            Short: 圣妇伊塔（隐修女，圣布兰登的养母，570年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣玛弗若（圣文奈迪克特之弟子，584年）
+            Short: 圣玛弗若（圣文奈迪克特之弟子，584年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011504'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣瓦拉穆（白海附近的克瑞特湖地区之成德者，16世纪）
+            Short: 圣瓦拉穆（白海附近的克瑞特湖地区之成德者，16世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+  zh/Hant:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬節後第卅六周瞻禮二
+            Short: 五旬節後第卅六周瞻禮二
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '329'
+                  reading: 'Heb_11:17-23, 27-31'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '42'
+                  reading: Mk_9:42-10:1
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '221'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖帕弗羅修士（埃及的底比斯人，341年）
+            Short: 聖帕弗羅修士（埃及的底比斯人，341年）
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '213'
+                  reading: Gal_5:22-6:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '43'
+                  reading: Mt_11:27-30
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '985'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖約翰修士（居茅廬者，君士坦丁堡人，450年）
+            Short: 聖約翰修士（居茅廬者，君士坦丁堡人，450年）
+          ref: ~
+          src: menaion
+          type: '2'
+        -
+          cid: '225'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖普若霍爾（保加利亞普青加河岸的弗藍斯基曠野修道院院長，十世紀）
+            Short: 聖普若霍爾（保加利亞普青加河岸的弗藍斯基曠野修道院院長，十世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '226'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖加百列（塞爾維亞與保加利亞邊境的萊斯諾沃修道院的創建者，980年）
+            Short: 聖加百列（塞爾維亞與保加利亞邊境的萊斯諾沃修道院的創建者，980年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '224'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 修士殉道者龐索斐（亞歷山大里亞人，249-251年間）
+            Short: 修士殉道者龐索斐（亞歷山大里亞人，249-251年間）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011500'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖瑪克西默（諾拉城主教，250年）
+            Short: 聖瑪克西默（諾拉城主教，250年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖女撒羅彌（伍德加爾瑪地方人）及聖女裴若德扎弗拉（西夫尼亞地方人）（以上二位聖女均為格魯吉亞人，四世紀）
+            Short: 聖女撒羅彌（伍德加爾瑪地方人）及聖女裴若德扎弗拉（西夫尼亞地方人）（以上二位聖女均為格魯吉亞人，四世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖婦伊塔（隱修女，聖布蘭登的養母，570年）
+            Short: 聖婦伊塔（隱修女，聖布蘭登的養母，570年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖瑪弗若（聖文奈迪克特之弟子，584年）
+            Short: 聖瑪弗若（聖文奈迪克特之弟子，584年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011504'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖瓦拉穆（白海附近的克瑞特湖地區之成德者，十六世紀）
+            Short: 聖瓦拉穆（白海附近的克瑞特湖地區之成德者，十六世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9296'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬節後第卅六周瞻禮二
+            Short: 五旬節後第卅六周瞻禮二
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '329'
+                  reading: 'Heb_11:17-23, 27-31'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '42'
+                  reading: Mk_9:42-10:1
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '221'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖帕弗羅修士（埃及的底比斯人，341年）
+            Short: 聖帕弗羅修士（埃及的底比斯人，341年）
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '213'
+                  reading: Gal_5:22-6:2
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '43'
+                  reading: Mt_11:27-30
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '985'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖約翰修士（居茅廬者，君士坦丁堡人，450年）
+            Short: 聖約翰修士（居茅廬者，君士坦丁堡人，450年）
+          ref: ~
+          src: menaion
+          type: '2'
+        -
+          cid: '225'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖普若霍爾（保加利亞普青加河岸的弗藍斯基曠野修道院院長，十世紀）
+            Short: 聖普若霍爾（保加利亞普青加河岸的弗藍斯基曠野修道院院長，十世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '226'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖加百列（塞爾維亞與保加利亞邊境的萊斯諾沃修道院的創建者，980年）
+            Short: 聖加百列（塞爾維亞與保加利亞邊境的萊斯諾沃修道院的創建者，980年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '224'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 修士殉道者龐索斐（亞歷山大里亞人，249-251年間）
+            Short: 修士殉道者龐索斐（亞歷山大里亞人，249-251年間）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011500'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖瑪克西默（諾拉城主教，250年）
+            Short: 聖瑪克西默（諾拉城主教，250年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011501'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖女撒羅彌（伍德加爾瑪地方人）及聖女裴若德扎弗拉（西夫尼亞地方人）（以上二位聖女均為格魯吉亞人，四世紀）
+            Short: 聖女撒羅彌（伍德加爾瑪地方人）及聖女裴若德扎弗拉（西夫尼亞地方人）（以上二位聖女均為格魯吉亞人，四世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011502'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖婦伊塔（隱修女，聖布蘭登的養母，570年）
+            Short: 聖婦伊塔（隱修女，聖布蘭登的養母，570年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011503'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖瑪弗若（聖文奈迪克特之弟子，584年）
+            Short: 聖瑪弗若（聖文奈迪克特之弟子，584年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011504'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖瓦拉穆（白海附近的克瑞特湖地區之成德者，十六世紀）
+            Short: 聖瓦拉穆（白海附近的克瑞特湖地區之成德者，十六世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2

@@ -1,0 +1,3789 @@
+{
+   "date" : "2019/2/3",
+   "langs" : {
+      "el" : {
+         "ponomarReordered" : {
+            "tone" : 4,
+            "fastings" : "1111111",
+            "saints" : [
+               {
+                  "cid" : "9315",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Σάββατον",
+                     "Short" : "Σάββατον"
+                  },
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : "33",
+                              "pericope" : "293",
+                              "reading" : "II Tim_2:11-19",
+                              "type" : "apostol"
+                           },
+                           {
+                              "reading" : "Lk_18:2-8a",
+                              "type" : "gospel",
+                              "pericope" : "88",
+                              "effWeek" : "33"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "37303",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Μετὰ τῶν Ὑπαπαντὴ τοῦ Κυρίου",
+                     "Nominative" : "Μετὰ τῶν Ὑπαπαντὴ τοῦ Κυρίου"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "name" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "1771",
+                  "info" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ἅγιοι Σταμάτιος καὶ Ἰωάννης οἱ αὐτάδελφοι καὶ ὁ συνοδίτης αὐτῶν Νικόλαος οἱ Νεομάρτυρες ἐκ Σπετσών",
+                     "Short" : "Ἅγιοι Σταμάτιος καὶ Ἰωάννης οἱ αὐτάδελφοι καὶ ὁ συνοδίτης αὐτῶν Νικόλαος οἱ Νεομάρτυρες ἐκ Σπετσών"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "02030395",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ἅγιοι Ἀδριανὸς καὶ Εὔβουλος",
+                     "Short" : "Ἅγιοι Ἀδριανὸς καὶ Εὔβουλος"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020300"
+               },
+               {
+                  "life" : null,
+                  "cid" : "380",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Ἅγιος Βλάσιος ὁ Βουκόλος",
+                     "Nominative" : "Ἅγιος Βλάσιος ὁ Βουκόλος"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Προφήτης Ἀζαρίας ",
+                     "Short" : "Προφήτης Ἀζαρίας "
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "6385"
+               },
+               {
+                  "name" : {
+                     "Short" : "Ἅγιοι Παῦλος καὶ Σίμων οἱ Μάρτυρες",
+                     "Nominative" : "Ἅγιοι Παῦλος καὶ Σίμων οἱ Μάρτυρες"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "020310",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "02031200",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Ὅσιος Κλαύδιος",
+                     "Short" : "Ὅσιος Κλαύδιος"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Ἅγιος Κελερίνος ὁ Μάρτυρας",
+                     "Short" : "Ἅγιος Κελερίνος ὁ Μάρτυρας"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "02030995",
+                  "info" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ἅγιος Λαυρέντιος Ἀρχιεπίσκοπος Καντουαρίας",
+                     "Nominative" : "Ἅγιος Λαυρέντιος Ἀρχιεπίσκοπος Καντουαρίας"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "020307",
+                  "life" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Ὅσιος Ἀνσέριος Ἀπόστολος τῆς Δανίας καὶ τῆς Σκανδιναβίας",
+                     "Short" : "Ὅσιος Ἀνσέριος Ἀπόστολος τῆς Δανίας καὶ τῆς Σκανδιναβίας"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "020304",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "1880",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ἅγιος Ῥωμανὸς ὁ Πρίγκιπας",
+                     "Short" : "Ἅγιος Ῥωμανὸς ὁ Πρίγκιπας"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "020309",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ἅγιος Ἰάκωβος Ἀρχιεπίσκοπος Σερβίας",
+                     "Short" : "Ἅγιος Ἰάκωβος Ἀρχιεπίσκοπος Σερβίας"
+                  }
+               },
+               {
+                  "life" : null,
+                  "cid" : "2009",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ἅγιος Συμεὼν ἐκ Ῥωσίας",
+                     "Short" : "Ἅγιος Συμεὼν ἐκ Ῥωσίας"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "cid" : "020311",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ὅσιος Σάββας ὁ Πνευματικὸς",
+                     "Nominative" : "Ὅσιος Σάββας ὁ Πνευματικὸς"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Ὅσιος Παῦλος ἐκ Ῥωσίας",
+                     "Short" : "Ὅσιος Παῦλος ἐκ Ῥωσίας"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "02031695",
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Ἅγιος Νικόλαος ὁ Ἰσαπόστολος",
+                     "Short" : "Ἅγιος Νικόλαος ὁ Ἰσαπόστολος"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2",
+                              "pericope" : "318",
+                              "effWeek" : null
+                           },
+                           {
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel",
+                              "effWeek" : null,
+                              "pericope" : "36"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "type" : "1",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "1640",
+                  "info" : null
+               }
+            ]
+         },
+         "ponomar" : {
+            "saints" : [
+               {
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "293",
+                              "effWeek" : "33",
+                              "reading" : "II Tim_2:11-19",
+                              "type" : "apostol"
+                           },
+                           {
+                              "effWeek" : "33",
+                              "pericope" : "88",
+                              "type" : "gospel",
+                              "reading" : "Lk_18:2-8a"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Short" : "Σάββατον",
+                     "Nominative" : "Σάββατον"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9315"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "37303",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Μετὰ τῶν Ὑπαπαντὴ τοῦ Κυρίου",
+                     "Nominative" : "Μετὰ τῶν Ὑπαπαντὴ τοῦ Κυρίου"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "1771",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Ἅγιοι Σταμάτιος καὶ Ἰωάννης οἱ αὐτάδελφοι καὶ ὁ συνοδίτης αὐτῶν Νικόλαος οἱ Νεομάρτυρες ἐκ Σπετσών",
+                     "Short" : "Ἅγιοι Σταμάτιος καὶ Ἰωάννης οἱ αὐτάδελφοι καὶ ὁ συνοδίτης αὐτῶν Νικόλαος οἱ Νεομάρτυρες ἐκ Σπετσών"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "02030395",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "020300",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ἅγιοι Ἀδριανὸς καὶ Εὔβουλος",
+                     "Nominative" : "Ἅγιοι Ἀδριανὸς καὶ Εὔβουλος"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ἅγιος Βλάσιος ὁ Βουκόλος",
+                     "Nominative" : "Ἅγιος Βλάσιος ὁ Βουκόλος"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "380",
+                  "info" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Προφήτης Ἀζαρίας ",
+                     "Short" : "Προφήτης Ἀζαρίας "
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "6385",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "020310",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ἅγιοι Παῦλος καὶ Σίμων οἱ Μάρτυρες",
+                     "Nominative" : "Ἅγιοι Παῦλος καὶ Σίμων οἱ Μάρτυρες"
+                  }
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ὅσιος Κλαύδιος",
+                     "Short" : "Ὅσιος Κλαύδιος"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "02031200"
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ἅγιος Κελερίνος ὁ Μάρτυρας",
+                     "Nominative" : "Ἅγιος Κελερίνος ὁ Μάρτυρας"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "cid" : "02030995",
+                  "life" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ἅγιος Λαυρέντιος Ἀρχιεπίσκοπος Καντουαρίας",
+                     "Short" : "Ἅγιος Λαυρέντιος Ἀρχιεπίσκοπος Καντουαρίας"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020307"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020304",
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ὅσιος Ἀνσέριος Ἀπόστολος τῆς Δανίας καὶ τῆς Σκανδιναβίας",
+                     "Short" : "Ὅσιος Ἀνσέριος Ἀπόστολος τῆς Δανίας καὶ τῆς Σκανδιναβίας"
+                  }
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ἅγιος Ῥωμανὸς ὁ Πρίγκιπας",
+                     "Short" : "Ἅγιος Ῥωμανὸς ὁ Πρίγκιπας"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "1880",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "020309",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ἅγιος Ἰάκωβος Ἀρχιεπίσκοπος Σερβίας",
+                     "Nominative" : "Ἅγιος Ἰάκωβος Ἀρχιεπίσκοπος Σερβίας"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "2009",
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Ἅγιος Συμεὼν ἐκ Ῥωσίας",
+                     "Short" : "Ἅγιος Συμεὼν ἐκ Ῥωσίας"
+                  }
+               },
+               {
+                  "life" : null,
+                  "cid" : "020311",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ὅσιος Σάββας ὁ Πνευματικὸς",
+                     "Short" : "Ὅσιος Σάββας ὁ Πνευματικὸς"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "02031695",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ὅσιος Παῦλος ἐκ Ῥωσίας",
+                     "Nominative" : "Ὅσιος Παῦλος ἐκ Ῥωσίας"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "1640",
+                  "life" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "318"
+                           },
+                           {
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ἅγιος Νικόλαος ὁ Ἰσαπόστολος",
+                     "Short" : "Ἅγιος Νικόλαος ὁ Ἰσαπόστολος"
+                  },
+                  "menologion" : "",
+                  "type" : "1"
+               }
+            ],
+            "fastings" : "1111111",
+            "tone" : 4
+         }
+      },
+      "zh/Hans" : {
+         "ponomarReordered" : {
+            "tone" : 4,
+            "fastings" : "1111111",
+            "saints" : [
+               {
+                  "life" : null,
+                  "cid" : "9315",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "五旬节后第卅八周安息日",
+                     "Nominative" : "五旬节后第卅八周安息日"
+                  },
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "II Tim_2:11-19",
+                              "type" : "apostol",
+                              "effWeek" : "33",
+                              "pericope" : "293"
+                           },
+                           {
+                              "pericope" : "88",
+                              "effWeek" : "33",
+                              "reading" : "Lk_18:2-8a",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion"
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "主进殿节庆期",
+                     "Nominative" : "主进殿节庆期"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "37303"
+               },
+               {
+                  "life" : null,
+                  "cid" : "1998",
+                  "info" : null,
+                  "type" : "2",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "纪念义人，迎主者圣西面，及女先知圣安纳（公元1世纪）",
+                     "Nominative" : "纪念义人，迎主者圣西面，及女先知圣安纳（公元1世纪）"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_9:11-14",
+                              "pericope" : "321 (mid.)",
+                              "effWeek" : null
+                           },
+                           {
+                              "pericope" : "8",
+                              "effWeek" : null,
+                              "type" : "gospel",
+                              "reading" : "Lk_2:25-38"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "先知阿匝里雅（主降生前10世纪，见旧约纪年书二第15章）",
+                     "Short" : "先知阿匝里雅（主降生前10世纪，见旧约纪年书二第15章）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "6385",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020300",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "殉道者阿德里安和艾弗佛洛（卡帕多西亚的恺撒里亚城，310年）",
+                     "Nominative" : "殉道者阿德里安和艾弗佛洛（卡帕多西亚的恺撒里亚城，310年）"
+                  }
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "殉道者弗来西（卡帕多西亚的恺撒里亚城，3世纪）",
+                     "Nominative" : "殉道者弗来西（卡帕多西亚的恺撒里亚城，3世纪）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "380",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "殉道者帕彼亚、迪奥多若、克劳迪安（庞非里亚的佩尔吉地方，250年）",
+                     "Short" : "殉道者帕彼亚、迪奥多若、克劳迪安（庞非里亚的佩尔吉地方，250年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "020302",
+                  "info" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "圣罗马诺（乌格里奇王子，1285年）",
+                     "Short" : "圣罗马诺（乌格里奇王子，1285年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "1880",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "圣西面（特维尔和颇洛兹克的首位主教，1289年）",
+                     "Short" : "圣西面（特维尔和颇洛兹克的首位主教，1289年）"
+                  },
+                  "info" : null,
+                  "cid" : "2009",
+                  "life" : null
+               },
+               {
+                  "cid" : "020303",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "圣斯维亚托斯拉夫•加百列及他的儿子圣迪弥特里（尤里埃夫地方，1253年）",
+                     "Nominative" : "圣斯维亚托斯拉夫•加百列及他的儿子圣迪弥特里（尤里埃夫地方，1253年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "圣安斯卡尔（汉堡主教，丹麦和瑞典的光照者，865年）",
+                     "Nominative" : "圣安斯卡尔（汉堡主教，丹麦和瑞典的光照者，865年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020304"
+               },
+               {
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "318",
+                              "effWeek" : null,
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16",
+                              "effWeek" : null,
+                              "pericope" : "36"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "圣尼科拉（亚使徒，日本国的启蒙者，1912年）",
+                     "Short" : "圣尼科拉（亚使徒，日本国的启蒙者，1912年）"
+                  },
+                  "menologion" : "",
+                  "type" : "1",
+                  "info" : null,
+                  "cid" : "1640",
+                  "life" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "圣伊格纳提（克里米亚的马里乌波尔城人，哥提亚及卡法都主教，1786年）",
+                     "Short" : "圣伊格纳提（克里米亚的马里乌波尔城人，哥提亚及卡法都主教，1786年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "020305",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "新殉道者约翰、司祭提摩太和殉道者沃拉蒂米尔（1938年）",
+                     "Short" : "新殉道者约翰、司祭提摩太和殉道者沃拉蒂米尔（1938年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020306"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020307",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣劳伦提（坎特伯雷城主教，619年）",
+                     "Nominative" : "圣劳伦提（坎特伯雷城主教，619年）"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "020308",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "圣女威尔博伽（切斯特地方修女院院长，700年）",
+                     "Short" : "圣女威尔博伽（切斯特地方修女院院长，700年）"
+                  }
+               },
+               {
+                  "life" : null,
+                  "cid" : "020309",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "圣雅各（塞尔维亚总主教，1292年）",
+                     "Short" : "圣雅各（塞尔维亚总主教，1292年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "殉道者保罗和西面，及殉道者保罗和西里安，就义于罗马皇帝戴克里先时期（4世纪）",
+                     "Nominative" : "殉道者保罗和西面，及殉道者保罗和西里安，就义于罗马皇帝戴克里先时期（4世纪）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020310"
+               },
+               {
+                  "info" : null,
+                  "cid" : "020311",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣萨瓦（约阿尼纳地方的成德者，15世纪）",
+                     "Nominative" : "圣萨瓦（约阿尼纳地方的成德者，15世纪）"
+                  }
+               },
+               {
+                  "name" : {
+                     "Nominative" : "新殉道者希腊人斯塔玛提和约翰两兄弟，以及他们的同伴尼科拉（希俄斯岛，1822年）",
+                     "Short" : "新殉道者希腊人斯塔玛提和约翰两兄弟，以及他们的同伴尼科拉（希俄斯岛，1822年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "020312",
+                  "info" : null
+               }
+            ]
+         },
+         "ponomar" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "cid" : "9315",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : "33",
+                              "pericope" : "293",
+                              "type" : "apostol",
+                              "reading" : "II Tim_2:11-19"
+                           },
+                           {
+                              "pericope" : "88",
+                              "effWeek" : "33",
+                              "type" : "gospel",
+                              "reading" : "Lk_18:2-8a"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "name" : {
+                     "Short" : "五旬节后第卅八周安息日",
+                     "Nominative" : "五旬节后第卅八周安息日"
+                  }
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "主进殿节庆期",
+                     "Nominative" : "主进殿节庆期"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "37303",
+                  "info" : null
+               },
+               {
+                  "type" : "2",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "纪念义人，迎主者圣西面，及女先知圣安纳（公元1世纪）",
+                     "Nominative" : "纪念义人，迎主者圣西面，及女先知圣安纳（公元1世纪）"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "321 (mid.)",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Heb_9:11-14"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "8",
+                              "reading" : "Lk_2:25-38",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "1998",
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "先知阿匝里雅（主降生前10世纪，见旧约纪年书二第15章）",
+                     "Nominative" : "先知阿匝里雅（主降生前10世纪，见旧约纪年书二第15章）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "6385",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020300",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "殉道者阿德里安和艾弗佛洛（卡帕多西亚的恺撒里亚城，310年）",
+                     "Short" : "殉道者阿德里安和艾弗佛洛（卡帕多西亚的恺撒里亚城，310年）"
+                  }
+               },
+               {
+                  "life" : null,
+                  "cid" : "380",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "殉道者弗来西（卡帕多西亚的恺撒里亚城，3世纪）",
+                     "Short" : "殉道者弗来西（卡帕多西亚的恺撒里亚城，3世纪）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "name" : {
+                     "Short" : "殉道者帕彼亚、迪奥多若、克劳迪安（庞非里亚的佩尔吉地方，250年）",
+                     "Nominative" : "殉道者帕彼亚、迪奥多若、克劳迪安（庞非里亚的佩尔吉地方，250年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "020302",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "1880",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "圣罗马诺（乌格里奇王子，1285年）",
+                     "Short" : "圣罗马诺（乌格里奇王子，1285年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "2009",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "圣西面（特维尔和颇洛兹克的首位主教，1289年）",
+                     "Short" : "圣西面（特维尔和颇洛兹克的首位主教，1289年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "圣斯维亚托斯拉夫•加百列及他的儿子圣迪弥特里（尤里埃夫地方，1253年）",
+                     "Nominative" : "圣斯维亚托斯拉夫•加百列及他的儿子圣迪弥特里（尤里埃夫地方，1253年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020303"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "圣安斯卡尔（汉堡主教，丹麦和瑞典的光照者，865年）",
+                     "Short" : "圣安斯卡尔（汉堡主教，丹麦和瑞典的光照者，865年）"
+                  },
+                  "info" : null,
+                  "cid" : "020304",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "1640",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "1",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol",
+                              "pericope" : "318",
+                              "effWeek" : null
+                           },
+                           {
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "圣尼科拉（亚使徒，日本国的启蒙者，1912年）",
+                     "Short" : "圣尼科拉（亚使徒，日本国的启蒙者，1912年）"
+                  }
+               },
+               {
+                  "cid" : "020305",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "圣伊格纳提（克里米亚的马里乌波尔城人，哥提亚及卡法都主教，1786年）",
+                     "Short" : "圣伊格纳提（克里米亚的马里乌波尔城人，哥提亚及卡法都主教，1786年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "name" : {
+                     "Nominative" : "新殉道者约翰、司祭提摩太和殉道者沃拉蒂米尔（1938年）",
+                     "Short" : "新殉道者约翰、司祭提摩太和殉道者沃拉蒂米尔（1938年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "020306",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020307",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣劳伦提（坎特伯雷城主教，619年）",
+                     "Nominative" : "圣劳伦提（坎特伯雷城主教，619年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020308",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "圣女威尔博伽（切斯特地方修女院院长，700年）",
+                     "Nominative" : "圣女威尔博伽（切斯特地方修女院院长，700年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "圣雅各（塞尔维亚总主教，1292年）",
+                     "Nominative" : "圣雅各（塞尔维亚总主教，1292年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020309"
+               },
+               {
+                  "info" : null,
+                  "cid" : "020310",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "殉道者保罗和西面，及殉道者保罗和西里安，就义于罗马皇帝戴克里先时期（4世纪）",
+                     "Short" : "殉道者保罗和西面，及殉道者保罗和西里安，就义于罗马皇帝戴克里先时期（4世纪）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "圣萨瓦（约阿尼纳地方的成德者，15世纪）",
+                     "Nominative" : "圣萨瓦（约阿尼纳地方的成德者，15世纪）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "020311",
+                  "life" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "020312",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "新殉道者希腊人斯塔玛提和约翰两兄弟，以及他们的同伴尼科拉（希俄斯岛，1822年）",
+                     "Nominative" : "新殉道者希腊人斯塔玛提和约翰两兄弟，以及他们的同伴尼科拉（希俄斯岛，1822年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               }
+            ],
+            "tone" : 4,
+            "fastings" : "1111111"
+         }
+      },
+      "cu/ru" : {
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : "33",
+                              "pericope" : "293",
+                              "type" : "apostol",
+                              "reading" : "II Tim_2:11-19"
+                           },
+                           {
+                              "pericope" : "88",
+                              "effWeek" : "33",
+                              "type" : "gospel",
+                              "reading" : "Lk_18:2-8a"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Nominative" : "Суббота 38-й седмицы по Пятидесятнице",
+                     "Short" : "Суббота 38-й седмицы по Пятидесятнице"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9315"
+               },
+               {
+                  "info" : null,
+                  "cid" : "37303",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Попразднство",
+                     "Nominative" : "Попразднство Сретения Господня",
+                     "Genetive" : "Попразднства"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "cid" : "1998",
+                  "life" : {
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга.",
+                     "Id" : "bulgakov",
+                     "Text" : "\n <p>Праведный Симеон Богоприимец был, по свидетельству святого евангелиста Луки, одним из избранников Божиих, ожидавших утешения Израилева, и Дух Святой пребывал на нем (<a href=\"bible=Lk#2:25\">Лк. 2, 25</a>). Ему было возвещено от Бога, что он не умрет до того времени, пока в мир не придет обещанный Мессия — Христос Господь.</p><p>Древние историки сообщают, что египетский царь Птоломей II Филадельф (285—247 до Рождества Христова) пожелал пополнить свою знаменитую александрийскую библиотеку текстами Священных книг. Он пригласил из Иерусалима книжников. Синедрион послал своих мудрецов. Среди 72 ученых прибывших в Александрию для перевода Священного Писания на греческий язык, был приглашен и праведный Симеон. (Работа была выполнена и получила название «Перевод 72-х толковников». Именно с него в дальнейшем Ветхий Завет был переведен на славянский язык для Болгарской, Сербской и Русской Православных Церквей.) Праведный Симеон переводил книгу пророка Исайи. Прочтя в подлиннике слова «Се, Дева во чреве приимет и родит Сына» (<a href=\"bible=Isiah#7:14\">Ис. 7, 14</a>), он решил, что слово «Дева» здесь употреблено ошибочно, вместо слова «Жена», и хотел исправить текст. В этот момент ему явился Ангел и удержал его руку, говоря: «Имей веру написанным словам, ты сам убедишься, что они исполнятся, ибо не вкусишь смерти, доколе не увидишь Христа Господа, Который родится от Чистой и Пренепорочной Девы». </p><p>С того дня праведный Симеон стал ожидать пришествия Обетованного Мессии. </p><p>И вот однажды праведный Симеон, ведомый Духом Божиим, пришел в Иерусалимский храм. Это было в тот самый день (сороковой по Рождестве Христовом), когда Пречистая Дева Мария и Ее Обручник Иосиф пришли туда, чтобы совершить обряд, положенный по иудейскому закону, — представить пред Господом своего Божественного Первенца и принести положенную жертву.     Как только праведный Симеон увидел пришедших, Дух Святой открыл ему, что Богомладенец, Которого держала Пречистая Дева Мария, и есть ожидаемый Мессия, Спаситель мира. Старец принял на свои руки Младенца Христа и произнес свои пророческие слова: «Ныне отпущаеши раба Твоего, Владыко, по глаголу Твоему, с миром, ибо видели очи мои спасение Твое, которое Ты уготовал пред лицем всех людей. Свет к просвещению языч-ников и славу людей Твоих Израиля». Он благословил Пречистую Деву и праведного Иосифа и, обращаясь к Богородице, сказал: «Се, лежит Сей на падение и на восстание многих в Израиле и в предмет пререканий, — И Тебе Самой оружие пройдет душу, — да откроются помышления многих сердец» (<a href=\"bible=Lk#2:22-35\">Лк. 2, 22—35</a>).</p><p>Далее святой евангелист повествует: «Тут была также Анна пророчица, дочь Фануилова, от колена Асирова, достигшая глубокой старости, прожив с мужем от девства своего семь лет, вдова лет восьмидесяти четырех, которая не отходила от храма, постом и молитвою служа Богу день и ночь. И она в то время, подойдя, славила Господа и пророчествовала о Нем всем, ожидавшим избавления в Иерусалиме» (<a href=\"bible=Lk#2:36-38\">Лк. 2, 36—38</a>). </p><p>О святом и праведном Симеоне Богоприимце известно, что он скончался, прожив 360 лет. В VI веке святые мощи его были перенесены в Константинополь. В 1200 году его гроб видел русский паломник святитель Антоний, будущий архиепископ Новгородский  (1212—1220; 1’ 1232; память 8 октября). </p>"
+                  },
+                  "info" : null,
+                  "type" : "2",
+                  "menologion" : "",
+                  "name" : {
+                     "Genetive" : "Симеона и Анны",
+                     "Nominative" : "Правв. Симеона Богоприимца и Анны пророчицы (I)",
+                     "Short" : "Правв. Симеона и Анны"
+                  },
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_9:11-14",
+                              "pericope" : "321 (mid.)",
+                              "effWeek" : null
+                           },
+                           {
+                              "reading" : "Lk_2:25-38",
+                              "type" : "gospel",
+                              "effWeek" : null,
+                              "pericope" : "8"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "info" : null,
+                  "life" : {
+                     "Text" : "\n     Святой равноапостольный Николай, архиепископ Японский, в миру Иван Димитриевич Касаткин, родился 1 августа 1836 года в Березовском погосте, Вельского уезда, Смоленской губернии, где его отец служил диаконом. Пяти лет он потерял мать. Окончив Вельское духовное училище, а затем Смоленскую духовную семинарию, в 1857 году Иван Касаткин поступил в Санкт-Петербургскую духовную академию. 24 июня 1860 года в академическом храме Двенадцати Апостолов епископ Нектарий совершил пострижение его в монашество с наречением имени Николай. В день памяти первоверховных апостолов Петра и Павла, 29 июня, инок Николай был посвящен во иеродиакона, а 30 июня — в престольный праздник академического храма — в сан иеромонаха. Затем по его желанию отец Николай был назначен в Японию, настоятелем консульского храма города Хакодате.     Сначала проповедь Евангелия в Японии казалась совершенно немыслимой. По словам самого отца Николая, «тогдашние японцы смотрели на иностранцев, как на зверей, а на христианство, как на злодейскую церковь, к которой могут принадлежать только отъявленные злодеи и чародеи». Восемь лет ушло на то, чтобы  изучить страну, народ, язык, нравы, обычаи тех, среди кого предстояло проповедовать, и к 1868 году паства отца Николая насчитывала уже около двадцати японцев. В конце 1869 года иеромонах Николай в Петербурге доложил Синоду о результатах своей работы. Было принято решение: «Образовать для проповеди между японскими язычниками Слова Божия особую Российскую Ду ховную Миссию». Отец Николай был возведен в сан архимандри та и назначен начальником этой Миссии. Вернувшись в Японию,  будущий святитель передал Хакодатскую паству иеромонаху  Анатолию, а сам перенес центр Миссии в Токио. В 1871 году в  стране началось гонение на христиан, многие подвергались пре следованиям (в том числе первый православный японец, знамени тый впоследствии миссионер-священник Павел Савабе). Только  к 1873 году гонения несколько прекратились, и стала возможна  свободная проповедь христианства.     В тот же год архимандрит Николай приступил к строитель ству в Токио церкви и школы на пятьдесят человек, а затем и ду ховного училища, которое в 1878 году было преобразовано в се минарию.     В 1874 году в Токио прибыл Преосвященный Павел, епископ Камчатский, чтобы рукоположить во священный сан рекомендуемых архимандритом Николаем кандидатов из местного населения. К этому времени при Миссии в Токио действовали четыре училища — катихизаторское, семинарское, женское, причетническое, а в Хакодате два — для мальчиков и девочек. Во второй половине 1877 года Миссией стал регулярно издаваться журнал «Церковный вестник». К 1878 году в Японии насчитывалось уже 4115 христиан, существовали многочисленные христианские общины. Богослужение и преподавание на родном языке, издание книг религиознонравственного содержания — вот средства, которые позволили Миссии добиться за короткий срок столь значительных результатов.     30 марта 1880 года в Троицком соборе Александро-Невской Лавры состоялась хиротония архимандрита Николая во епископа. Вернувшись в Японию, святитель с еще большим усердием стал продолжать свои апостольские труды: завершил строительство собора Воскресения Христова в Токио, принялся за новый перевод Богослужебных книг, составил на японском языке особый православный Богословский словарь.     Большие испытания выпали на долю святителя и его паствы в период русско-японской войны. За свои подвижнические труды в эти тяжелые годы он был удостоен возведения в сан архиепископа.     В 1911 году исполнилось полвека с тех пор, как молодой иеромонах Николай впервые ступил на японскую землю. К тому времени в 266 общинах Японской Православной Церкви было 33 017 христиан, 1 архиепископ, 1 епископ, 35 священников, 6 диаконов, 14 учителей пения, 116 проповедников-катихизаторов.     3 февраля 1912 года, на 76-м году жизни, просветитель Японии архиепископ Николай мирно отошел ко Господу. Священный Синод Русской Православной Церкви 10 апреля 1970 года вынес акт о прославлении святителя в лике равноапостолов, ибо в Японии святой уже давно был чтим как великий праведник и молитвенник пред Господом. \n",
+                     "Copyright" : "   А н т о н и й , архиепископ Минский и Белорусский. Святой равноапостольный архиепископ Японский Николай",
+                     "Id" : "bulgakov"
+                  },
+                  "cid" : "1640",
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "318",
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2"
+                           },
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Равноап. Николая, архиеп. Японского (1912)",
+                     "Short" : "Равноап. Николая"
+                  },
+                  "menologion" : "",
+                  "type" : "1"
+               },
+               {
+                  "info" : null,
+                  "cid" : "02030198",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Сщмчч. Иоанна",
+                     "Nominative" : "Сщмчч. Иоанна, Тимофея, Адриана, Василия пресвитеров, прмч. Владимира, мч. Михаила (1938)"
+                  }
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Прор. Азарии (X в до Р.X.)",
+                     "Short" : "Прор. Азарии"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : {
+                     "Text" : "\n<p><b>Память святого пророка Азарии</b></p><p>Святой Азария, сын Одеда, пророчествовал во дни Асы, царя иудейского. По случаю славной победы Асы над Зараем, царем эфиопским, Азария, объятый Духом Божиим, убеждал царя и народ оставить идолослужение и верно служить Богу Истинному. Возбуженные пророчеством Азарии, царь и народ отвергли идолов из всей земли Иудиной и Вениаминовой. Многие и из израильтян обратились тогда к Истинному Богу, и, собравшись в Иерусалиме, вступили в завет с Богом, дав клятвенное обещание никогда не удаляться от Него. И Бог благословил их продолжительным миром.</p>\n ",
+                     "Id" : "DmitryRostovsky",
+                     "Copyright" : "Димитрий Ростовский. Жития Святых по изложению святителя Димитрия, митрополита Ростовского. Издательство прп. Максима Исповедника."
+                  },
+                  "cid" : "6385",
+                  "info" : null
+               },
+               {
+                  "life" : {
+                     "Text" : "\n<p><b>Страдание святых мучеников Папия, Диодора и Клавдиана</b></p><p>Святые мученики Папий, Диодор и Клавдиан пострадали в царствование императора Декия в Памфилийском городе Атталии. Они пасли стада скота в стране своей и, будучи христианами, распространяли среди язычников веру во Христа. Вследствие этого на них сделан был донос, и по повелению начальника области Павлина их схватили и привели к нему на суд. На допросе они безбоязненно исповедали Христа истинным Богом и, твердо веруя в Него, сказали, что Он есть Творец неба и земли и всего, что находится на них, и что, кроме Него, нет другого Бога. Услышав это, правитель области пришел в ярость и приказал подвергнуть святых различным мучениям. Но так как он не мог этим принудить их к отречению от веры во Христа, то повелел отсечь им головы мечом. Так скончались за Христа святые мученики и приняли от Него мученические венцы. Христиане с честью похоронили тела их во славу Христа, Бога нашего.</p>\n ",
+                     "Id" : "DmitryRostovsky",
+                     "Copyright" : "Димитрий Ростовский. Жития Святых по изложению святителя Димитрия, митрополита Ростовского. Издательство прп. Максима Исповедника."
+                  },
+                  "cid" : "020302",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Мчч. Папия, Диодора, Клавдиана (250)",
+                     "Short" : "Мчч. Папия"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "info" : null,
+                  "life" : {
+                     "Copyright" : "Димитрий Ростовский. Жития Святых по изложению святителя Димитрия, митрополита Ростовского. Издательство прп. Максима Исповедника.",
+                     "Id" : "DmitryRostovsky",
+                     "Text" : "<p><b>Память святого мученика Власия</b></p><p>Святой Власий был пастух и происходил из Кесарии Каппадокийской. Когда наступило гонение и отыскивали христиан, то и Власия, как христианина, искали по всем окрестным местам. Узнав об этом, святой Власий добровольно отдался в руки мучителей, которые растянули и били его воловьими жилами. Но Бог излечил его болезни и исцелил от ран. Узнав об этом, правитель назвал это чудо волхвованием и велел после тех мучений ввергнуть святого в котел с кипящей водой. К ужасу всех присутствующих, мученик остался невредимым и в кипятке разговаривал с окружающим его народом, ибо явились ангелы Божии и сохранили мученика невредимым. Вслед за этим, по повелению правителя, к мученику пришли воины, чтобы вынуть его из котла; увидев его поющим вместе с ангелами, воины исповедали себя также христианами. Узнав об этом, правитель послал других воинов, но и те, придя, назвали себя христианами. Вслед за этим сам правитель пришел сюда и увидел святого находящимся в кипящей воде. Думая, что вода остыла, правитель умыл лицо свое в этой воде, и тотчас обварил лицо свое и от того умер. Обратив многих своими чудесами ко Христу, святой Власий помолился Богу и предал Ему свою святую душу. Присутствовавшие при кончине его видели голубя, летающим над телом его. А пастушеский жезл Власия, будучи водружен в землю, возрос в огромное дерево, которое ветвями своими покрыло алтарь церкви, созданной над мощами святого.</p>\n "
+                  },
+                  "cid" : "380",
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Мч. Власия",
+                     "Nominative" : "Мч. Власия Кесарийского, пастуха (III)"
+                  }
+               },
+               {
+                  "cid" : "020300",
+                  "life" : {
+                     "Text" : "\n<p><b>Память святых мучеников Адриана и Еввула</b></p><p>Святые мученики Адриан и Еввул были родом из города Ваннии. Горя любовью к исповедникам Христа, они отправились в город Кесарию и там по их речам и непорочности их жизни узнали, что они — христиане. Посему они были схвачены и приведены на суд к начальнику области Фирмилиану. По повелению последнего их били по плечам и ребрам и подвергли другим, еще более жестоким мучениям с целью принудить их к отречению от Христа. Но так как они остались твердыми в своей вере, то Фирмилиан и бывшие при нем пришли в ярость, и было решено бросить святых на растерзание диким зверям. Блаженный Адриан брошен был первым. Схваченный львом, он мужественно вступил с ним в борьбу, после чего ему отсекли голову мечом. Святого же Еввула пытались еще склонить к отречению от веры различными увещаниями и прельщениями, но он остался непреклонным, а потому и его бросили зверям. Он также вступил в борьбу со львом и скончался, усеченный мечом, подобно святому Адриану.</p>\n ",
+                     "Id" : "DmitryRostovsky",
+                     "Copyright" : "Димитрий Ростовский. Жития Святых по изложению святителя Димитрия, митрополита Ростовского. Издательство прп. Максима Исповедника."
+                  },
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Мчч. Адриана",
+                     "Nominative" : "Мчч. Адриана и Еввула (ок. 308-309)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "life" : {
+                     "Text" : "\n<p><b>Житие святого благоверного князя Романа, Угличского чудотворца</b></p><p>Святой благоверный князь Роман Угличский жил в тяжкую пору нашествия татар на русскую землю. Он был второй сын второго угличского удельного князя Владимира Константиновича и внук Константина Всеволодовича, сначала удельного князя ростовского, ярославского и угличского, а потом великого князя владимирского. Владимир Константинович получил в удел Угличе поле, или город Углич, в раннем детстве. Вступив в брак с княжной Фотинией, он имел двух сыновей — Андрея и Романа.</p><p>В княжение в Угличе Владимира разразилась страшная гроза над русской землей, а вместе и над Угличем: Батый, по разорении Москвы и Владимира и избиения здесь семьи великого князя, двинулся за Волгу, куда великий князь Юрий Всеволодович удалился, собирая войска. На этом пути татары подчиняли своей власти все попадавшиеся города, а те, которые не хотели покоряться, разоряли и избивали их жителей. Ввиду явной и неотвратимой опасности угличский князь Владимир решил не сопротивляться бесплодно, а спасти город и жителей изъявлением покорности татарам. Впрочем, сам он с семейством не хотел вынести позора и искал спасения на севере, удалившись в новгородские пределы. После несчастной битвы на реке Сити и гибели великого князя Юрия русские князья должны были признать власть татар и платить им дань. Этой участи должен был покориться и угличский князь, который по удалении Батыя на юг подобно другим князьям по миновании опасности вернулся в Углич и стал править, уже как подручник хана. Неизвестно, ходил ли князь Владимир в орду с изъявлением покорности хану, как это требовалось и как должны были делать все владетельные князья. Предание, записанное в пространном житии, гласит, что в орду Владимир не пошел, но, во избежание ответственности, не оставался и в Угличе, а проживал по другим городам и скончался во Владимире в 1249 году 27 декабря. Тело его тогда же было перенесено женой и детьми в Углич и погребено в Преображенском соборе.</p><p>Детство благоверного князя Романа, как и его старшего брата Андрея, прошло, таким образом, среди страшных тревог и бедствий, больше в изгнании и странствованиях, чем в спокойном пребывании с родителями в Угличе.</p><p>По смерти Владимира угличским князем стал старший сын его Андрей, которому было всего 16 лет. Но при нем находилась мать его, которая и руководила детьми. Андрей скончался в 1261 году, не оставив детей, и угличское княжение досталось брату его Роману, который имел тогда 26 лет от роду.</p><p>Возросши в благочестивой семье князя Владимира Константиновича среди страшных тревог и испытаний, проведя немало времени в странствовании, князь Роман отличался благочестием и не питал большой склонности к шумной жизни и веселью. Будучи достаточно просвещенным, он занимался чтением книг, любил храмы Божии, духовенство и службу церковную. К его княжению относят построение многих церквей в Угличе и пределах угличского княжества, которое при нем пользовалось миром, насколько это было возможно в тяжелое время татарского владычества. Власть князя Романа, кроме Углича, простиралась и на другие города: Кашин, Вежецкий Верх, Устюжну, Дмитров, Звенигород. Ему же принадлежит построение нового города Романова на левом высоком берегу Волги против слободы Борисоглебской.</p><p>Князь Роман отличался благотворительностью, заботился об устроении богаделен и странноприимных домов.</p><p>В 1265 г. князь Роман сочетался браком с княжной Александрой, но потомства не имел. Вместе с ним в Угличе жила благочестивая его мать, княгиня Фотиния, которая под старость приняла иноческий чин с именем Евдокии, в 1278 году скончалась и погребена была в Угличе подле своего супруга. В 1281 году князь Роман лишился и своей супруги Александры и доживал последние свои годы в одиночестве, предаваясь делам и подвигам благочестия. Блаженная кончина его последовала 3 февраля 1285 года, к великой печали его подданных и родственных князей, которые любили и почитали его. Тело князя Романа положено было в соборном храме Преображения Господня, рядом с гробницами его отца, матери, брата и супруги.</p><p>Ровно через двести лет после кончины князя Романа, именно в 1485 году, угличский князь Андрей Васильевич приступил к постройке нового, уже каменного собора Преображения Господня в крепости города Углича. При копании рва для основания нового храма Бог даровал князю Андрею обрести нетленные мощи князя Романа, которые и были потом поставлены в новопостроенном храме и лежали здесь целы и невредимы более ста двадцати лет. От этих нетленных мощей истекали многочисленные чудесные исцеления от различных болезней. Как жители Углича, так и окрестных мест благоговейно чтили мощи святого князя, но свидетельства со стороны церковных властей не было.</p><p>После убиения царевича Дмитрия в Угличе в конце шестнадцатого и первых годах семнадцатого столетия стали особенно часто повторяться чудесные исцеления больных, притекавших к мощам святого князя Романа. Слава о сих чудесах распространилась повсюду, и патриарх Иов поручил казанскому митрополиту Гермогену освидетельствовать на месте святые мощи и сказания о чудесах. После сего освидетельствования святейший патриарх Иов благословил составить житие, стихиры и канон святому Роману, а равно и описание чудес с 3 февраля 1605 года.</p><p>В 1609 году город Углич постигло великое бедствие, как и всю тогдашнюю Русь: литовское разорение. Город Углич был взят, жители во множестве перебиты, а дома, крепость и храмы Божии пограблены и пожжены. Враги ворвались и в Преображенский собор, разграбили и многое пожгли, а нарочито мощи святого князя Романа, покоившиеся там. Благочестивые почитатели святого Романа собрали обожженные кости его мощей: головы, ребер, рук и ног, положили в новую раку и опять поставили в соборном храме Преображения, где они и покоятся до настоящего времени.</p><p><i>В этот день празднуется память святой Анны пророчицы. Святая Анна пророчица, воспоминаемая в Евангелии, вместе со святым Симеоном Богоприимцем встретив Господа Иисуса во храме, проповедовала о Нем, что Он есть ожидаемый Мессия — Христос.</i></p>\n",
+                     "Id" : "DmitryRostovsky",
+                     "Copyright" : "Димитрий Ростовский. Жития Святых по изложению святителя Димитрия, митрополита Ростовского. Издательство прп. Максима Исповедника."
+                  },
+                  "cid" : "1880",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Блгв. кн.",
+                     "Nominative" : "Блгв. кн. Романа Угличского (1285)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "life" : {
+                     "Id" : "pravoslavie_ru",
+                     "Copyright" : "ПРАВОСЛАВИЕ.RU",
+                     "Text" : "<p>Св. Симеон был первым епископом Тверским. Происходил он, как полагают, из князей Полоцких. Смуты и скорби того времени заставили его, тогда уже епископа, переселится в Тверь, где он был с радостью принят князем Ярославом Ярославичем. Последний наделил кафедру св. Симеона многими имениями и угодьями. Когда князь Ярослав скон-чался, то Симеон с честью похоронил своего благодетеля.</p><p>Св. Симеон был добрым пастырем своего стада. О нем летопись свидетельствует, что он был «учительный» епископ, заступался перед князем за обиженных, благотворил нищим и сиротам и бестрепетно обличал сильных мира сего, когда в этом была надобность.</p><p>\"Утешайте печальных, — говорил он князьям и наместникам, — избавляйте слабых от рук сильных. Вы тем даете и помогаете, у кого и так много золота и серебра, а не тем, кто но имеет ни пенязя. Вы подобны дождевой туче, пускающей воду над морем, а не над землею жаждущею. Богатые обижают слабых, и они к вам приходят, как к добрым защитникам; а вы отдаете бедных в рабство, богатых же всячески поощряете и щедро наделяете.\"</p><p>Св. Симеон прилагал также много старания и усердия к построению храмов Божиих, особенно после двух случившихся в Твери пожаров.</p><p>В 1286 году благостный владыка имел утешение видеть, с какой любовью и уважением относится к нему за все его труды тверская паства. Когда литовцы в этом году разграбили церковные волости тверской епархии, то тверитяне из любви к руководителю епархии св. Симеону по собственному почину бросились за хищниками и отняли у них награбленное добро.</p><p>Святитель скончался мирно 3 февраля 1289 г.</p>\n"
+                  },
+                  "cid" : "2009",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Свт. Симеона",
+                     "Nominative" : "Свт. Симеона, еп. Полоцкого, еп. Тверского (1289)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : ""
+               }
+            ],
+            "tone" : 4,
+            "fastings" : "1111111"
+         },
+         "ponomar" : {
+            "fastings" : "1111111",
+            "tone" : 4,
+            "saints" : [
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Суббота 38-й седмицы по Пятидесятнице",
+                     "Short" : "Суббота 38-й седмицы по Пятидесятнице"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "II Tim_2:11-19",
+                              "type" : "apostol",
+                              "effWeek" : "33",
+                              "pericope" : "293"
+                           },
+                           {
+                              "pericope" : "88",
+                              "effWeek" : "33",
+                              "type" : "gospel",
+                              "reading" : "Lk_18:2-8a"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "cid" : "9315",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "37303",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Попразднство",
+                     "Nominative" : "Попразднство Сретения Господня",
+                     "Genetive" : "Попразднства"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Правв. Симеона Богоприимца и Анны пророчицы (I)",
+                     "Short" : "Правв. Симеона и Анны",
+                     "Genetive" : "Симеона и Анны"
+                  },
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_9:11-14",
+                              "effWeek" : null,
+                              "pericope" : "321 (mid.)"
+                           },
+                           {
+                              "reading" : "Lk_2:25-38",
+                              "type" : "gospel",
+                              "effWeek" : null,
+                              "pericope" : "8"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "type" : "2",
+                  "menologion" : "",
+                  "cid" : "1998",
+                  "life" : {
+                     "Text" : "\n <p>Праведный Симеон Богоприимец был, по свидетельству святого евангелиста Луки, одним из избранников Божиих, ожидавших утешения Израилева, и Дух Святой пребывал на нем (<a href=\"bible=Lk#2:25\">Лк. 2, 25</a>). Ему было возвещено от Бога, что он не умрет до того времени, пока в мир не придет обещанный Мессия — Христос Господь.</p><p>Древние историки сообщают, что египетский царь Птоломей II Филадельф (285—247 до Рождества Христова) пожелал пополнить свою знаменитую александрийскую библиотеку текстами Священных книг. Он пригласил из Иерусалима книжников. Синедрион послал своих мудрецов. Среди 72 ученых прибывших в Александрию для перевода Священного Писания на греческий язык, был приглашен и праведный Симеон. (Работа была выполнена и получила название «Перевод 72-х толковников». Именно с него в дальнейшем Ветхий Завет был переведен на славянский язык для Болгарской, Сербской и Русской Православных Церквей.) Праведный Симеон переводил книгу пророка Исайи. Прочтя в подлиннике слова «Се, Дева во чреве приимет и родит Сына» (<a href=\"bible=Isiah#7:14\">Ис. 7, 14</a>), он решил, что слово «Дева» здесь употреблено ошибочно, вместо слова «Жена», и хотел исправить текст. В этот момент ему явился Ангел и удержал его руку, говоря: «Имей веру написанным словам, ты сам убедишься, что они исполнятся, ибо не вкусишь смерти, доколе не увидишь Христа Господа, Который родится от Чистой и Пренепорочной Девы». </p><p>С того дня праведный Симеон стал ожидать пришествия Обетованного Мессии. </p><p>И вот однажды праведный Симеон, ведомый Духом Божиим, пришел в Иерусалимский храм. Это было в тот самый день (сороковой по Рождестве Христовом), когда Пречистая Дева Мария и Ее Обручник Иосиф пришли туда, чтобы совершить обряд, положенный по иудейскому закону, — представить пред Господом своего Божественного Первенца и принести положенную жертву.     Как только праведный Симеон увидел пришедших, Дух Святой открыл ему, что Богомладенец, Которого держала Пречистая Дева Мария, и есть ожидаемый Мессия, Спаситель мира. Старец принял на свои руки Младенца Христа и произнес свои пророческие слова: «Ныне отпущаеши раба Твоего, Владыко, по глаголу Твоему, с миром, ибо видели очи мои спасение Твое, которое Ты уготовал пред лицем всех людей. Свет к просвещению языч-ников и славу людей Твоих Израиля». Он благословил Пречистую Деву и праведного Иосифа и, обращаясь к Богородице, сказал: «Се, лежит Сей на падение и на восстание многих в Израиле и в предмет пререканий, — И Тебе Самой оружие пройдет душу, — да откроются помышления многих сердец» (<a href=\"bible=Lk#2:22-35\">Лк. 2, 22—35</a>).</p><p>Далее святой евангелист повествует: «Тут была также Анна пророчица, дочь Фануилова, от колена Асирова, достигшая глубокой старости, прожив с мужем от девства своего семь лет, вдова лет восьмидесяти четырех, которая не отходила от храма, постом и молитвою служа Богу день и ночь. И она в то время, подойдя, славила Господа и пророчествовала о Нем всем, ожидавшим избавления в Иерусалиме» (<a href=\"bible=Lk#2:36-38\">Лк. 2, 36—38</a>). </p><p>О святом и праведном Симеоне Богоприимце известно, что он скончался, прожив 360 лет. В VI веке святые мощи его были перенесены в Константинополь. В 1200 году его гроб видел русский паломник святитель Антоний, будущий архиепископ Новгородский  (1212—1220; 1’ 1232; память 8 октября). </p>",
+                     "Id" : "bulgakov",
+                     "Copyright" : "Протоиерей Сергий Булгаков. Настольная Книга."
+                  },
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : {
+                     "Copyright" : "   А н т о н и й , архиепископ Минский и Белорусский. Святой равноапостольный архиепископ Японский Николай",
+                     "Id" : "bulgakov",
+                     "Text" : "\n     Святой равноапостольный Николай, архиепископ Японский, в миру Иван Димитриевич Касаткин, родился 1 августа 1836 года в Березовском погосте, Вельского уезда, Смоленской губернии, где его отец служил диаконом. Пяти лет он потерял мать. Окончив Вельское духовное училище, а затем Смоленскую духовную семинарию, в 1857 году Иван Касаткин поступил в Санкт-Петербургскую духовную академию. 24 июня 1860 года в академическом храме Двенадцати Апостолов епископ Нектарий совершил пострижение его в монашество с наречением имени Николай. В день памяти первоверховных апостолов Петра и Павла, 29 июня, инок Николай был посвящен во иеродиакона, а 30 июня — в престольный праздник академического храма — в сан иеромонаха. Затем по его желанию отец Николай был назначен в Японию, настоятелем консульского храма города Хакодате.     Сначала проповедь Евангелия в Японии казалась совершенно немыслимой. По словам самого отца Николая, «тогдашние японцы смотрели на иностранцев, как на зверей, а на христианство, как на злодейскую церковь, к которой могут принадлежать только отъявленные злодеи и чародеи». Восемь лет ушло на то, чтобы  изучить страну, народ, язык, нравы, обычаи тех, среди кого предстояло проповедовать, и к 1868 году паства отца Николая насчитывала уже около двадцати японцев. В конце 1869 года иеромонах Николай в Петербурге доложил Синоду о результатах своей работы. Было принято решение: «Образовать для проповеди между японскими язычниками Слова Божия особую Российскую Ду ховную Миссию». Отец Николай был возведен в сан архимандри та и назначен начальником этой Миссии. Вернувшись в Японию,  будущий святитель передал Хакодатскую паству иеромонаху  Анатолию, а сам перенес центр Миссии в Токио. В 1871 году в  стране началось гонение на христиан, многие подвергались пре следованиям (в том числе первый православный японец, знамени тый впоследствии миссионер-священник Павел Савабе). Только  к 1873 году гонения несколько прекратились, и стала возможна  свободная проповедь христианства.     В тот же год архимандрит Николай приступил к строитель ству в Токио церкви и школы на пятьдесят человек, а затем и ду ховного училища, которое в 1878 году было преобразовано в се минарию.     В 1874 году в Токио прибыл Преосвященный Павел, епископ Камчатский, чтобы рукоположить во священный сан рекомендуемых архимандритом Николаем кандидатов из местного населения. К этому времени при Миссии в Токио действовали четыре училища — катихизаторское, семинарское, женское, причетническое, а в Хакодате два — для мальчиков и девочек. Во второй половине 1877 года Миссией стал регулярно издаваться журнал «Церковный вестник». К 1878 году в Японии насчитывалось уже 4115 христиан, существовали многочисленные христианские общины. Богослужение и преподавание на родном языке, издание книг религиознонравственного содержания — вот средства, которые позволили Миссии добиться за короткий срок столь значительных результатов.     30 марта 1880 года в Троицком соборе Александро-Невской Лавры состоялась хиротония архимандрита Николая во епископа. Вернувшись в Японию, святитель с еще большим усердием стал продолжать свои апостольские труды: завершил строительство собора Воскресения Христова в Токио, принялся за новый перевод Богослужебных книг, составил на японском языке особый православный Богословский словарь.     Большие испытания выпали на долю святителя и его паствы в период русско-японской войны. За свои подвижнические труды в эти тяжелые годы он был удостоен возведения в сан архиепископа.     В 1911 году исполнилось полвека с тех пор, как молодой иеромонах Николай впервые ступил на японскую землю. К тому времени в 266 общинах Японской Православной Церкви было 33 017 христиан, 1 архиепископ, 1 епископ, 35 священников, 6 диаконов, 14 учителей пения, 116 проповедников-катихизаторов.     3 февраля 1912 года, на 76-м году жизни, просветитель Японии архиепископ Николай мирно отошел ко Господу. Священный Синод Русской Православной Церкви 10 апреля 1970 года вынес акт о прославлении святителя в лике равноапостолов, ибо в Японии святой уже давно был чтим как великий праведник и молитвенник пред Господом. \n"
+                  },
+                  "cid" : "1640",
+                  "menologion" : "",
+                  "type" : "1",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2",
+                              "effWeek" : null,
+                              "pericope" : "318"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Равноап. Николая",
+                     "Nominative" : "Равноап. Николая, архиеп. Японского (1912)"
+                  }
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Сщмчч. Иоанна, Тимофея, Адриана, Василия пресвитеров, прмч. Владимира, мч. Михаила (1938)",
+                     "Short" : "Сщмчч. Иоанна"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "02030198",
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Прор. Азарии (X в до Р.X.)",
+                     "Short" : "Прор. Азарии"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : "",
+                  "life" : {
+                     "Copyright" : "Димитрий Ростовский. Жития Святых по изложению святителя Димитрия, митрополита Ростовского. Издательство прп. Максима Исповедника.",
+                     "Id" : "DmitryRostovsky",
+                     "Text" : "\n<p><b>Память святого пророка Азарии</b></p><p>Святой Азария, сын Одеда, пророчествовал во дни Асы, царя иудейского. По случаю славной победы Асы над Зараем, царем эфиопским, Азария, объятый Духом Божиим, убеждал царя и народ оставить идолослужение и верно служить Богу Истинному. Возбуженные пророчеством Азарии, царь и народ отвергли идолов из всей земли Иудиной и Вениаминовой. Многие и из израильтян обратились тогда к Истинному Богу, и, собравшись в Иерусалиме, вступили в завет с Богом, дав клятвенное обещание никогда не удаляться от Него. И Бог благословил их продолжительным миром.</p>\n "
+                  },
+                  "cid" : "6385",
+                  "info" : null
+               },
+               {
+                  "life" : {
+                     "Text" : "\n<p><b>Страдание святых мучеников Папия, Диодора и Клавдиана</b></p><p>Святые мученики Папий, Диодор и Клавдиан пострадали в царствование императора Декия в Памфилийском городе Атталии. Они пасли стада скота в стране своей и, будучи христианами, распространяли среди язычников веру во Христа. Вследствие этого на них сделан был донос, и по повелению начальника области Павлина их схватили и привели к нему на суд. На допросе они безбоязненно исповедали Христа истинным Богом и, твердо веруя в Него, сказали, что Он есть Творец неба и земли и всего, что находится на них, и что, кроме Него, нет другого Бога. Услышав это, правитель области пришел в ярость и приказал подвергнуть святых различным мучениям. Но так как он не мог этим принудить их к отречению от веры во Христа, то повелел отсечь им головы мечом. Так скончались за Христа святые мученики и приняли от Него мученические венцы. Христиане с честью похоронили тела их во славу Христа, Бога нашего.</p>\n ",
+                     "Id" : "DmitryRostovsky",
+                     "Copyright" : "Димитрий Ростовский. Жития Святых по изложению святителя Димитрия, митрополита Ростовского. Издательство прп. Максима Исповедника."
+                  },
+                  "cid" : "020302",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Мчч. Папия",
+                     "Nominative" : "Мчч. Папия, Диодора, Клавдиана (250)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : {
+                     "Text" : "<p><b>Память святого мученика Власия</b></p><p>Святой Власий был пастух и происходил из Кесарии Каппадокийской. Когда наступило гонение и отыскивали христиан, то и Власия, как христианина, искали по всем окрестным местам. Узнав об этом, святой Власий добровольно отдался в руки мучителей, которые растянули и били его воловьими жилами. Но Бог излечил его болезни и исцелил от ран. Узнав об этом, правитель назвал это чудо волхвованием и велел после тех мучений ввергнуть святого в котел с кипящей водой. К ужасу всех присутствующих, мученик остался невредимым и в кипятке разговаривал с окружающим его народом, ибо явились ангелы Божии и сохранили мученика невредимым. Вслед за этим, по повелению правителя, к мученику пришли воины, чтобы вынуть его из котла; увидев его поющим вместе с ангелами, воины исповедали себя также христианами. Узнав об этом, правитель послал других воинов, но и те, придя, назвали себя христианами. Вслед за этим сам правитель пришел сюда и увидел святого находящимся в кипящей воде. Думая, что вода остыла, правитель умыл лицо свое в этой воде, и тотчас обварил лицо свое и от того умер. Обратив многих своими чудесами ко Христу, святой Власий помолился Богу и предал Ему свою святую душу. Присутствовавшие при кончине его видели голубя, летающим над телом его. А пастушеский жезл Власия, будучи водружен в землю, возрос в огромное дерево, которое ветвями своими покрыло алтарь церкви, созданной над мощами святого.</p>\n ",
+                     "Copyright" : "Димитрий Ростовский. Жития Святых по изложению святителя Димитрия, митрополита Ростовского. Издательство прп. Максима Исповедника.",
+                     "Id" : "DmitryRostovsky"
+                  },
+                  "cid" : "380",
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Мч. Власия",
+                     "Nominative" : "Мч. Власия Кесарийского, пастуха (III)"
+                  }
+               },
+               {
+                  "info" : null,
+                  "life" : {
+                     "Text" : "\n<p><b>Память святых мучеников Адриана и Еввула</b></p><p>Святые мученики Адриан и Еввул были родом из города Ваннии. Горя любовью к исповедникам Христа, они отправились в город Кесарию и там по их речам и непорочности их жизни узнали, что они — христиане. Посему они были схвачены и приведены на суд к начальнику области Фирмилиану. По повелению последнего их били по плечам и ребрам и подвергли другим, еще более жестоким мучениям с целью принудить их к отречению от Христа. Но так как они остались твердыми в своей вере, то Фирмилиан и бывшие при нем пришли в ярость, и было решено бросить святых на растерзание диким зверям. Блаженный Адриан брошен был первым. Схваченный львом, он мужественно вступил с ним в борьбу, после чего ему отсекли голову мечом. Святого же Еввула пытались еще склонить к отречению от веры различными увещаниями и прельщениями, но он остался непреклонным, а потому и его бросили зверям. Он также вступил в борьбу со львом и скончался, усеченный мечом, подобно святому Адриану.</p>\n ",
+                     "Id" : "DmitryRostovsky",
+                     "Copyright" : "Димитрий Ростовский. Жития Святых по изложению святителя Димитрия, митрополита Ростовского. Издательство прп. Максима Исповедника."
+                  },
+                  "cid" : "020300",
+                  "menologion" : "",
+                  "type" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Мчч. Адриана",
+                     "Nominative" : "Мчч. Адриана и Еввула (ок. 308-309)"
+                  }
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Блгв. кн. Романа Угличского (1285)",
+                     "Short" : "Блгв. кн."
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : {
+                     "Text" : "\n<p><b>Житие святого благоверного князя Романа, Угличского чудотворца</b></p><p>Святой благоверный князь Роман Угличский жил в тяжкую пору нашествия татар на русскую землю. Он был второй сын второго угличского удельного князя Владимира Константиновича и внук Константина Всеволодовича, сначала удельного князя ростовского, ярославского и угличского, а потом великого князя владимирского. Владимир Константинович получил в удел Угличе поле, или город Углич, в раннем детстве. Вступив в брак с княжной Фотинией, он имел двух сыновей — Андрея и Романа.</p><p>В княжение в Угличе Владимира разразилась страшная гроза над русской землей, а вместе и над Угличем: Батый, по разорении Москвы и Владимира и избиения здесь семьи великого князя, двинулся за Волгу, куда великий князь Юрий Всеволодович удалился, собирая войска. На этом пути татары подчиняли своей власти все попадавшиеся города, а те, которые не хотели покоряться, разоряли и избивали их жителей. Ввиду явной и неотвратимой опасности угличский князь Владимир решил не сопротивляться бесплодно, а спасти город и жителей изъявлением покорности татарам. Впрочем, сам он с семейством не хотел вынести позора и искал спасения на севере, удалившись в новгородские пределы. После несчастной битвы на реке Сити и гибели великого князя Юрия русские князья должны были признать власть татар и платить им дань. Этой участи должен был покориться и угличский князь, который по удалении Батыя на юг подобно другим князьям по миновании опасности вернулся в Углич и стал править, уже как подручник хана. Неизвестно, ходил ли князь Владимир в орду с изъявлением покорности хану, как это требовалось и как должны были делать все владетельные князья. Предание, записанное в пространном житии, гласит, что в орду Владимир не пошел, но, во избежание ответственности, не оставался и в Угличе, а проживал по другим городам и скончался во Владимире в 1249 году 27 декабря. Тело его тогда же было перенесено женой и детьми в Углич и погребено в Преображенском соборе.</p><p>Детство благоверного князя Романа, как и его старшего брата Андрея, прошло, таким образом, среди страшных тревог и бедствий, больше в изгнании и странствованиях, чем в спокойном пребывании с родителями в Угличе.</p><p>По смерти Владимира угличским князем стал старший сын его Андрей, которому было всего 16 лет. Но при нем находилась мать его, которая и руководила детьми. Андрей скончался в 1261 году, не оставив детей, и угличское княжение досталось брату его Роману, который имел тогда 26 лет от роду.</p><p>Возросши в благочестивой семье князя Владимира Константиновича среди страшных тревог и испытаний, проведя немало времени в странствовании, князь Роман отличался благочестием и не питал большой склонности к шумной жизни и веселью. Будучи достаточно просвещенным, он занимался чтением книг, любил храмы Божии, духовенство и службу церковную. К его княжению относят построение многих церквей в Угличе и пределах угличского княжества, которое при нем пользовалось миром, насколько это было возможно в тяжелое время татарского владычества. Власть князя Романа, кроме Углича, простиралась и на другие города: Кашин, Вежецкий Верх, Устюжну, Дмитров, Звенигород. Ему же принадлежит построение нового города Романова на левом высоком берегу Волги против слободы Борисоглебской.</p><p>Князь Роман отличался благотворительностью, заботился об устроении богаделен и странноприимных домов.</p><p>В 1265 г. князь Роман сочетался браком с княжной Александрой, но потомства не имел. Вместе с ним в Угличе жила благочестивая его мать, княгиня Фотиния, которая под старость приняла иноческий чин с именем Евдокии, в 1278 году скончалась и погребена была в Угличе подле своего супруга. В 1281 году князь Роман лишился и своей супруги Александры и доживал последние свои годы в одиночестве, предаваясь делам и подвигам благочестия. Блаженная кончина его последовала 3 февраля 1285 года, к великой печали его подданных и родственных князей, которые любили и почитали его. Тело князя Романа положено было в соборном храме Преображения Господня, рядом с гробницами его отца, матери, брата и супруги.</p><p>Ровно через двести лет после кончины князя Романа, именно в 1485 году, угличский князь Андрей Васильевич приступил к постройке нового, уже каменного собора Преображения Господня в крепости города Углича. При копании рва для основания нового храма Бог даровал князю Андрею обрести нетленные мощи князя Романа, которые и были потом поставлены в новопостроенном храме и лежали здесь целы и невредимы более ста двадцати лет. От этих нетленных мощей истекали многочисленные чудесные исцеления от различных болезней. Как жители Углича, так и окрестных мест благоговейно чтили мощи святого князя, но свидетельства со стороны церковных властей не было.</p><p>После убиения царевича Дмитрия в Угличе в конце шестнадцатого и первых годах семнадцатого столетия стали особенно часто повторяться чудесные исцеления больных, притекавших к мощам святого князя Романа. Слава о сих чудесах распространилась повсюду, и патриарх Иов поручил казанскому митрополиту Гермогену освидетельствовать на месте святые мощи и сказания о чудесах. После сего освидетельствования святейший патриарх Иов благословил составить житие, стихиры и канон святому Роману, а равно и описание чудес с 3 февраля 1605 года.</p><p>В 1609 году город Углич постигло великое бедствие, как и всю тогдашнюю Русь: литовское разорение. Город Углич был взят, жители во множестве перебиты, а дома, крепость и храмы Божии пограблены и пожжены. Враги ворвались и в Преображенский собор, разграбили и многое пожгли, а нарочито мощи святого князя Романа, покоившиеся там. Благочестивые почитатели святого Романа собрали обожженные кости его мощей: головы, ребер, рук и ног, положили в новую раку и опять поставили в соборном храме Преображения, где они и покоятся до настоящего времени.</p><p><i>В этот день празднуется память святой Анны пророчицы. Святая Анна пророчица, воспоминаемая в Евангелии, вместе со святым Симеоном Богоприимцем встретив Господа Иисуса во храме, проповедовала о Нем, что Он есть ожидаемый Мессия — Христос.</i></p>\n",
+                     "Id" : "DmitryRostovsky",
+                     "Copyright" : "Димитрий Ростовский. Жития Святых по изложению святителя Димитрия, митрополита Ростовского. Издательство прп. Максима Исповедника."
+                  },
+                  "cid" : "1880",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : {
+                     "Text" : "<p>Св. Симеон был первым епископом Тверским. Происходил он, как полагают, из князей Полоцких. Смуты и скорби того времени заставили его, тогда уже епископа, переселится в Тверь, где он был с радостью принят князем Ярославом Ярославичем. Последний наделил кафедру св. Симеона многими имениями и угодьями. Когда князь Ярослав скон-чался, то Симеон с честью похоронил своего благодетеля.</p><p>Св. Симеон был добрым пастырем своего стада. О нем летопись свидетельствует, что он был «учительный» епископ, заступался перед князем за обиженных, благотворил нищим и сиротам и бестрепетно обличал сильных мира сего, когда в этом была надобность.</p><p>\"Утешайте печальных, — говорил он князьям и наместникам, — избавляйте слабых от рук сильных. Вы тем даете и помогаете, у кого и так много золота и серебра, а не тем, кто но имеет ни пенязя. Вы подобны дождевой туче, пускающей воду над морем, а не над землею жаждущею. Богатые обижают слабых, и они к вам приходят, как к добрым защитникам; а вы отдаете бедных в рабство, богатых же всячески поощряете и щедро наделяете.\"</p><p>Св. Симеон прилагал также много старания и усердия к построению храмов Божиих, особенно после двух случившихся в Твери пожаров.</p><p>В 1286 году благостный владыка имел утешение видеть, с какой любовью и уважением относится к нему за все его труды тверская паства. Когда литовцы в этом году разграбили церковные волости тверской епархии, то тверитяне из любви к руководителю епархии св. Симеону по собственному почину бросились за хищниками и отняли у них награбленное добро.</p><p>Святитель скончался мирно 3 февраля 1289 г.</p>\n",
+                     "Id" : "pravoslavie_ru",
+                     "Copyright" : "ПРАВОСЛАВИЕ.RU"
+                  },
+                  "cid" : "2009",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Свт. Симеона",
+                     "Nominative" : "Свт. Симеона, еп. Полоцкого, еп. Тверского (1289)"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               }
+            ]
+         }
+      },
+      "en" : {
+         "ponomar" : {
+            "fastings" : "1111111",
+            "tone" : 4,
+            "saints" : [
+               {
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : "33",
+                              "pericope" : "293",
+                              "reading" : "II Tim_2:11-19",
+                              "type" : "apostol"
+                           },
+                           {
+                              "effWeek" : "33",
+                              "pericope" : "88",
+                              "reading" : "Lk_18:2-8a",
+                              "type" : "gospel"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "name" : {
+                     "Short" : "Saturday of the 38<sup>th</sup> Week after Pentecost",
+                     "Nominative" : "Saturday of the 38<sup>th</sup> Week after Pentecost"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9315"
+               },
+               {
+                  "info" : null,
+                  "cid" : "37303",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Afterfeast of the Meeting of the Lord",
+                     "Short" : "Afterfeast"
+                  }
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Holy and Righteous Symeon the God-Receiver and Anna the Prophetess (1<sup>st</sup> C)",
+                     "Short" : "saints"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_9:11-14",
+                              "pericope" : "321 (mid.)",
+                              "effWeek" : null
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "8",
+                              "reading" : "Lk_2:25-38",
+                              "type" : "gospel"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "menaion",
+                  "type" : "2",
+                  "menologion" : "",
+                  "cid" : "1998",
+                  "life" : {
+                     "Text" : "\n<p>Righteous Symeon the God-Receiver (Slavonic: Богоприимецъ/Bogopriimets) was, according to the testimony of the holy Evangelist Luke, one of the chosen of God in expectation of the consolation of Israel, and the Holy Spirit dwelt upon him (<a href=\"Lk#2:25\">Lk 2:25<a/>). It was announced to him from God, that he would not die until that time, when the Promised Messiah–Christ the Lord–would be come into the world.</p><p>Ancient historians relate that the Egyptian emperor Ptolemy II Philadelphos (285-247 BC) wished to add to the famous Library at Alexandria with texts of Holy Scripture. He invited scholars from Jerusalem, and the Sanhedrin sent their wise men. Righteous Symeon was also among the 72 scholars in Alexandria for the translation of the Sacred Scriptures into the Greek language. (The work was accomplished and received the title “Translation of the 72 Interpreters.” With this also further on in the future, the New Testament was translated into the Slavonic language for the Bulgarian, Serbian, and Russian Orthodox Churches.) Righteous Symeon translated a book of the Prophet Isaiah, having read in the original the words: “Behold, a Virgin shalt conceive and give birth to a Son” (<a href=\"Isaiah#7:14\">Is 7: 14</a>). He decided, that the word “Virgin” was incorrectly used here in place of the word “Woman,” and he wanted to correct the text. At that moment an Angel appeared to him and held back his hand saying: “Have faith in the words written down; thou thyself shalt be persuaded that they will be fulfilled, whereof thou shalt not taste of death until thou behold Christ the Lord, Who shall be born of a Pure and Immaculate Virgin.”</p><p>From this day righteous Symeon began to await the coming of the Promised Messiah.</p><p>And here one day righteous Symeon, knowing of it by the Holy Spirit, was come to the Jerusalem Temple. It was on that very same day (the fortieth after the Birth of Christ), when the All-Pure Virgin Mary and Her Betrothed Joseph had come there in order to perform the ritual set down by Jewish Law–to present before the Lord His Own Divine First-Born and to offer the established sacrifice.</p><p>When righteous Symeon beheld their arrival, the Holy Spirit revealed to him that the God-Infant Whom the All-Pure Virgin Mary held,–was the Promised Messiah, the Saviour of the world. The elder took into his arms the Infant Christ and pronounced his prophetic words: “Now lettest Thou Thy servant depart, O Lord, with peace according to Thy word, wherefore hath mine eyes beheld Thy salvation, which Thou hast prepared before the face of all peoples, a light to the enlightening of gentiles and the glory of Thy people Israel.” He blessed the All-Pure Virgin and Righteous Joseph and, having turned to the Mother of God he said: “Behold, This One is set for the fall and rising up of many in Israel and for the sign spoken against, and for Thee thyself a sword shalt pierce the soul, so that the thoughts of many hearts might be revealed” (<a href=\"Lk#2:22-35\">Lk 2: 22-35</a>).</p><p>The holy Evangelist relates further: “Here also was Anna the Prophetess, daughter of Phanuel from the tribe of Aser, having reached extreme old age, having lived with her husband for seven years, she was a widow for eighty-four years, who went not out from the temple, serving God both day and night by fasting and prayer. And she having approached at this time, glorified the Lord and prophesied about Him to all awaiting deliverance at Jerusalem” (<a href=\"Lk#2:36-38\">Lk 2: 36-38</a>).</p><p>About the righteous and holy Symeon the God-Receiver is known that he died in extreme old age. In the VI Century his holy relics were transferred to Constantinople. In the year 1200 his grave was seen by the Russian pilgrim Saint Anthony, future archbishop of Novgorod (1212-1220. † 1232, Comm. 8 October).</p>\n",
+                     "Id" : "bulgakov",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos."
+                  },
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Prophet Azarias (10<sup>th</sup> C. BC)",
+                     "Short" : "Prophet Azarias"
+                  },
+                  "info" : null,
+                  "cid" : "6385",
+                  "life" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "Martyrs Adrian and Evboulus",
+                     "Nominative" : "Martyrs Adrian and Evboulus"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "020300",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "380",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Martyr Blaise",
+                     "Nominative" : "Martyr Blaise of Cæsarea (3<sup>rd</sup> C)"
+                  }
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020302",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Martyrs Papius",
+                     "Nominative" : "Martyrs Papius, Diodorus, and Claudian"
+                  }
+               },
+               {
+                  "cid" : "1880",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Right-Believing Prince Romanus",
+                     "Nominative" : "Right-Believing Prince Romanus of Uglich († 1285)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Saint Symeon, Bishop of Tver († 1289)",
+                     "Short" : "Saint Symeon"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "2009"
+               },
+               {
+                  "info" : null,
+                  "cid" : "02030499",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Right-believing Great",
+                     "Nominative" : "Right-believing Great Prince Sviatoslav, in baptism Gabriel"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "name" : {
+                     "Nominative" : "Holy Hierarch Ansgar, Archbishop of Bremen and Hamburg, Enlightener of Denmark and the North († 865)",
+                     "Short" : "Holy Hierarch"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "020304",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "Hierarch",
+                     "Nominative" : "Holy Equal-to-the-Apostles Nicholas, Archbishop and Enlightener of Japan († 1912)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "318",
+                              "effWeek" : null,
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol"
+                           },
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "type" : "1",
+                  "menologion" : "",
+                  "cid" : "1640",
+                  "life" : {
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Id" : "bulgakov",
+                     "Text" : "\n<p>Holy Equal-to-the-Apostles Nikolai, Archbishop, Apostle to Japan,—in the world Ivan Dimitrievich Kasatkin, was born on 1 August 1836 in the village of Berezovsk, Bel’sk district, Smolensk diocese, where his father served as deacon. At the age of five he lost his mother. Having completed the Bel’sk religious school, and afterwards the Smolensk religious seminary, in 1857 Ivan Kasatkin entered the Saint-Peterburg spiritual academy. On 24 June 1860, in the academy temple of the Twelve Apostles, bishop Nektarii gave him monastic vows with the chosen name Nikolai. On the day of memory of the first-ranked Apostles Peter and Paul, 29 June, the monk Nikolai was ordained deacon, and on 30 June—the altar-feastday of the academy temple—to the dignity of priestmonk. Afterwards through his wish Father Nikolai was assigned to Japan, as head of the consular church in the city of Khakodate.</p><p>The preaching of the Gospel in Japan at first seemed completely impossible. In Father Nikolai’s own words: “the Japanese of that time looked upon foreigners as beasts, and on Christianity as a villainous church, to which it was possible only for total knaves and charlatans to belong.” Eight years passed in this way, in studying the country, the people, their language and manners and customs, amidst which he would have to preach. Up until 1868 the flock of Father Nikolai still numbered about twelve Japanese. At the end of 1869 priestmonk Nikolai made a report to the Synod in Peterburg about the result of his work. This resolution was adopted: “to form for the preaching of the Word of God among the pagan Japanese a special Russian Spiritual Mission.” Father Nikolai was elevated to the dignity of archimandrite and assigned as head of this Mission. Having returned to Japan, he transferred the Khakodate flock to priestmonk Anatolii, and himself shifted the centre of the Mission to Tokyo. In 1871 there began in the country a persecution of christians; many were subjected to being chased about (among this number was the first Japanese Orthodox person, the afterwards reknown missionary priest Paul Savabe). Only in the year 1873 did the persecution abate somewhat, and it became possible to freely preach Christianity.</p><p>In this year archimandrite Nikolai set about the construction in Tokyo of a church and school for fifty men, and later also a religious school, which in 1878 was transformed into a seminary.</p><p>In 1874 there arrived at Tokyo His Grace Paul, Bishop of Kamchatka, to ordain to the priestly dignity candidates from the local population recommended by archimandrite Nikolai. During this time at the Mission in Tokyo there operated four schools—catechetical, seminary, women’s, church readers. And in Khakodate there were two schools: boys and girls. In the second half of 1877 the Mission began regularly to publish the journal “Church Messenger.” By the year 1878 there already numbered in Japan 4115 Christians, and there existed a number of christian communities. Divine-services and teaching in the native language, the publication of books of religio-moral content—these were the means which permitted the Mission to attain in a short while such reknown results. </p><p>Archimandrite Nikolai was ordained bishop on 30 March 1880 in the Trinity Cathedral of Alexander Nevsky Lavra. Returning to Japan, he began with still greater fervour to continue his apostolic work: he completed construction on the Cathedral of the Resurrection of Christ in Tokyo, he set about the translation of the Divine-service books, and he composed into the Japanese language a special Orthodox theological dictionary.</p><p>Great hardship befell the lot of the saint and his flock at the time of the Russo-Japanese War. For his ascetic labour during these difficult years he was deemed worthy of elevation to the dignity of archbishop.</p><p>In the year 1911 half a century had passed from the time, when the young priestmonk Nikolai had first tread on Japanese soil. But by this time in 266 communities of the Japanese Orthodox Church there were 33017 Christians, 1 archbishop, 1 bishop, 35 priests, 6 deacons, 14 teachers of singing, and 116 preacher-catechists.</p><p>In his 76<sup>th</sup> year on 3 February 1912, the Enlightener of Japan Archbishop Nikolai expired peacefully to the Lord. The Holy Synod of the Russian Orthodox Church passed resolution on 10 April 1970 concerning the glorification of the Saint-Bishop into the ranks of the “RavnoApostoli” “Equal-to-the-Apostles,” since in Japan the saint was long honoured as a great righteous one and prayerful intercessor before the Lord.</p>\n"
+                  },
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "02030699",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Holy Equal-to-the-Apostles Innocent",
+                     "Nominative" : "Holy Equal-to-the-Apostles Innocent, Metropolitan of Moscow, Enlightener of Siberia and Alaska"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               }
+            ]
+         },
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9315",
+                  "menologion" : "",
+                  "type" : "0",
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "293",
+                              "effWeek" : "33",
+                              "reading" : "II Tim_2:11-19",
+                              "type" : "apostol"
+                           },
+                           {
+                              "effWeek" : "33",
+                              "pericope" : "88",
+                              "reading" : "Lk_18:2-8a",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Nominative" : "Saturday of the 38<sup>th</sup> Week after Pentecost",
+                     "Short" : "Saturday of the 38<sup>th</sup> Week after Pentecost"
+                  }
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "37303",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Afterfeast",
+                     "Nominative" : "Afterfeast of the Meeting of the Lord"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "type" : "2",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "saints",
+                     "Nominative" : "Holy and Righteous Symeon the God-Receiver and Anna the Prophetess (1<sup>st</sup> C)"
+                  },
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "321 (mid.)",
+                              "type" : "apostol",
+                              "reading" : "Heb_9:11-14"
+                           },
+                           {
+                              "reading" : "Lk_2:25-38",
+                              "type" : "gospel",
+                              "effWeek" : null,
+                              "pericope" : "8"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "cid" : "1998",
+                  "life" : {
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Id" : "bulgakov",
+                     "Text" : "\n<p>Righteous Symeon the God-Receiver (Slavonic: Богоприимецъ/Bogopriimets) was, according to the testimony of the holy Evangelist Luke, one of the chosen of God in expectation of the consolation of Israel, and the Holy Spirit dwelt upon him (<a href=\"Lk#2:25\">Lk 2:25<a/>). It was announced to him from God, that he would not die until that time, when the Promised Messiah–Christ the Lord–would be come into the world.</p><p>Ancient historians relate that the Egyptian emperor Ptolemy II Philadelphos (285-247 BC) wished to add to the famous Library at Alexandria with texts of Holy Scripture. He invited scholars from Jerusalem, and the Sanhedrin sent their wise men. Righteous Symeon was also among the 72 scholars in Alexandria for the translation of the Sacred Scriptures into the Greek language. (The work was accomplished and received the title “Translation of the 72 Interpreters.” With this also further on in the future, the New Testament was translated into the Slavonic language for the Bulgarian, Serbian, and Russian Orthodox Churches.) Righteous Symeon translated a book of the Prophet Isaiah, having read in the original the words: “Behold, a Virgin shalt conceive and give birth to a Son” (<a href=\"Isaiah#7:14\">Is 7: 14</a>). He decided, that the word “Virgin” was incorrectly used here in place of the word “Woman,” and he wanted to correct the text. At that moment an Angel appeared to him and held back his hand saying: “Have faith in the words written down; thou thyself shalt be persuaded that they will be fulfilled, whereof thou shalt not taste of death until thou behold Christ the Lord, Who shall be born of a Pure and Immaculate Virgin.”</p><p>From this day righteous Symeon began to await the coming of the Promised Messiah.</p><p>And here one day righteous Symeon, knowing of it by the Holy Spirit, was come to the Jerusalem Temple. It was on that very same day (the fortieth after the Birth of Christ), when the All-Pure Virgin Mary and Her Betrothed Joseph had come there in order to perform the ritual set down by Jewish Law–to present before the Lord His Own Divine First-Born and to offer the established sacrifice.</p><p>When righteous Symeon beheld their arrival, the Holy Spirit revealed to him that the God-Infant Whom the All-Pure Virgin Mary held,–was the Promised Messiah, the Saviour of the world. The elder took into his arms the Infant Christ and pronounced his prophetic words: “Now lettest Thou Thy servant depart, O Lord, with peace according to Thy word, wherefore hath mine eyes beheld Thy salvation, which Thou hast prepared before the face of all peoples, a light to the enlightening of gentiles and the glory of Thy people Israel.” He blessed the All-Pure Virgin and Righteous Joseph and, having turned to the Mother of God he said: “Behold, This One is set for the fall and rising up of many in Israel and for the sign spoken against, and for Thee thyself a sword shalt pierce the soul, so that the thoughts of many hearts might be revealed” (<a href=\"Lk#2:22-35\">Lk 2: 22-35</a>).</p><p>The holy Evangelist relates further: “Here also was Anna the Prophetess, daughter of Phanuel from the tribe of Aser, having reached extreme old age, having lived with her husband for seven years, she was a widow for eighty-four years, who went not out from the temple, serving God both day and night by fasting and prayer. And she having approached at this time, glorified the Lord and prophesied about Him to all awaiting deliverance at Jerusalem” (<a href=\"Lk#2:36-38\">Lk 2: 36-38</a>).</p><p>About the righteous and holy Symeon the God-Receiver is known that he died in extreme old age. In the VI Century his holy relics were transferred to Constantinople. In the year 1200 his grave was seen by the Russian pilgrim Saint Anthony, future archbishop of Novgorod (1212-1220. † 1232, Comm. 8 October).</p>\n"
+                  },
+                  "info" : null
+               },
+               {
+                  "cid" : "6385",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Prophet Azarias",
+                     "Nominative" : "Prophet Azarias (10<sup>th</sup> C. BC)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020300",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Martyrs Adrian and Evboulus",
+                     "Short" : "Martyrs Adrian and Evboulus"
+                  }
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Martyr Blaise of Cæsarea (3<sup>rd</sup> C)",
+                     "Short" : "Martyr Blaise"
+                  },
+                  "info" : null,
+                  "cid" : "380",
+                  "life" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "Martyrs Papius",
+                     "Nominative" : "Martyrs Papius, Diodorus, and Claudian"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "020302",
+                  "info" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Right-Believing Prince Romanus",
+                     "Nominative" : "Right-Believing Prince Romanus of Uglich († 1285)"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "1880"
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Saint Symeon",
+                     "Nominative" : "Saint Symeon, Bishop of Tver († 1289)"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "2009",
+                  "life" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "Right-believing Great",
+                     "Nominative" : "Right-believing Great Prince Sviatoslav, in baptism Gabriel"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "02030499",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "020304",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Holy Hierarch Ansgar, Archbishop of Bremen and Hamburg, Enlightener of Denmark and the North († 865)",
+                     "Short" : "Holy Hierarch"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "1640",
+                  "life" : {
+                     "Id" : "bulgakov",
+                     "Copyright" : "Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.",
+                     "Text" : "\n<p>Holy Equal-to-the-Apostles Nikolai, Archbishop, Apostle to Japan,—in the world Ivan Dimitrievich Kasatkin, was born on 1 August 1836 in the village of Berezovsk, Bel’sk district, Smolensk diocese, where his father served as deacon. At the age of five he lost his mother. Having completed the Bel’sk religious school, and afterwards the Smolensk religious seminary, in 1857 Ivan Kasatkin entered the Saint-Peterburg spiritual academy. On 24 June 1860, in the academy temple of the Twelve Apostles, bishop Nektarii gave him monastic vows with the chosen name Nikolai. On the day of memory of the first-ranked Apostles Peter and Paul, 29 June, the monk Nikolai was ordained deacon, and on 30 June—the altar-feastday of the academy temple—to the dignity of priestmonk. Afterwards through his wish Father Nikolai was assigned to Japan, as head of the consular church in the city of Khakodate.</p><p>The preaching of the Gospel in Japan at first seemed completely impossible. In Father Nikolai’s own words: “the Japanese of that time looked upon foreigners as beasts, and on Christianity as a villainous church, to which it was possible only for total knaves and charlatans to belong.” Eight years passed in this way, in studying the country, the people, their language and manners and customs, amidst which he would have to preach. Up until 1868 the flock of Father Nikolai still numbered about twelve Japanese. At the end of 1869 priestmonk Nikolai made a report to the Synod in Peterburg about the result of his work. This resolution was adopted: “to form for the preaching of the Word of God among the pagan Japanese a special Russian Spiritual Mission.” Father Nikolai was elevated to the dignity of archimandrite and assigned as head of this Mission. Having returned to Japan, he transferred the Khakodate flock to priestmonk Anatolii, and himself shifted the centre of the Mission to Tokyo. In 1871 there began in the country a persecution of christians; many were subjected to being chased about (among this number was the first Japanese Orthodox person, the afterwards reknown missionary priest Paul Savabe). Only in the year 1873 did the persecution abate somewhat, and it became possible to freely preach Christianity.</p><p>In this year archimandrite Nikolai set about the construction in Tokyo of a church and school for fifty men, and later also a religious school, which in 1878 was transformed into a seminary.</p><p>In 1874 there arrived at Tokyo His Grace Paul, Bishop of Kamchatka, to ordain to the priestly dignity candidates from the local population recommended by archimandrite Nikolai. During this time at the Mission in Tokyo there operated four schools—catechetical, seminary, women’s, church readers. And in Khakodate there were two schools: boys and girls. In the second half of 1877 the Mission began regularly to publish the journal “Church Messenger.” By the year 1878 there already numbered in Japan 4115 Christians, and there existed a number of christian communities. Divine-services and teaching in the native language, the publication of books of religio-moral content—these were the means which permitted the Mission to attain in a short while such reknown results. </p><p>Archimandrite Nikolai was ordained bishop on 30 March 1880 in the Trinity Cathedral of Alexander Nevsky Lavra. Returning to Japan, he began with still greater fervour to continue his apostolic work: he completed construction on the Cathedral of the Resurrection of Christ in Tokyo, he set about the translation of the Divine-service books, and he composed into the Japanese language a special Orthodox theological dictionary.</p><p>Great hardship befell the lot of the saint and his flock at the time of the Russo-Japanese War. For his ascetic labour during these difficult years he was deemed worthy of elevation to the dignity of archbishop.</p><p>In the year 1911 half a century had passed from the time, when the young priestmonk Nikolai had first tread on Japanese soil. But by this time in 266 communities of the Japanese Orthodox Church there were 33017 Christians, 1 archbishop, 1 bishop, 35 priests, 6 deacons, 14 teachers of singing, and 116 preacher-catechists.</p><p>In his 76<sup>th</sup> year on 3 February 1912, the Enlightener of Japan Archbishop Nikolai expired peacefully to the Lord. The Holy Synod of the Russian Orthodox Church passed resolution on 10 April 1970 concerning the glorification of the Saint-Bishop into the ranks of the “RavnoApostoli” “Equal-to-the-Apostles,” since in Japan the saint was long honoured as a great righteous one and prayerful intercessor before the Lord.</p>\n"
+                  },
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "318",
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Hierarch",
+                     "Nominative" : "Holy Equal-to-the-Apostles Nicholas, Archbishop and Enlightener of Japan († 1912)"
+                  },
+                  "menologion" : "",
+                  "type" : "1"
+               },
+               {
+                  "life" : null,
+                  "cid" : "02030699",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Holy Equal-to-the-Apostles Innocent, Metropolitan of Moscow, Enlightener of Siberia and Alaska",
+                     "Short" : "Holy Equal-to-the-Apostles Innocent"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               }
+            ],
+            "fastings" : "1111111",
+            "tone" : 4
+         }
+      },
+      "fr" : {
+         "ponomar" : {
+            "fastings" : "1111111",
+            "tone" : 4,
+            "saints" : [
+               {
+                  "cid" : "9315",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Samedi de la 38-me semaine après le Pentecôte",
+                     "Nominative" : "Samedi de la 38-me semaine après le Pentecôte"
+                  },
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "293",
+                              "effWeek" : "33",
+                              "reading" : "II Tim_2:11-19",
+                              "type" : "apostol"
+                           },
+                           {
+                              "reading" : "Lk_18:2-8a",
+                              "type" : "gospel",
+                              "effWeek" : "33",
+                              "pericope" : "88"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "life" : null,
+                  "cid" : "37303",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "L’aprèsfête",
+                     "Nominative" : "L’aprèsfête de la Rencontre"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "321 (mid.)",
+                              "reading" : "Heb_9:11-14",
+                              "type" : "apostol"
+                           },
+                           {
+                              "effWeek" : null,
+                              "pericope" : "8",
+                              "reading" : "Lk_2:25-38",
+                              "type" : "gospel"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "saints",
+                     "Nominative" : "St. Syméon le Théodoque («celui qui a reçu Dieu») et Ste. Anne la Prophétesse"
+                  },
+                  "menologion" : "",
+                  "type" : "2",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "1998"
+               },
+               {
+                  "life" : null,
+                  "cid" : "020300",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "Sts. Adrien",
+                     "Nominative" : "Sts. Adrien et Eubule"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "380",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "St. Blaise",
+                     "Nominative" : "St. Blaise le Bouvier"
+                  }
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "St. Azarias",
+                     "Short" : "St. Azarias"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "6385",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Sts. Paul",
+                     "Nominative" : "Sts. Paul et Simon"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020310"
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "St. Claude",
+                     "Nominative" : "St. Claude"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "02031200",
+                  "life" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Sts. Néomartyrs Stamatios, Jean et Nicolas à Chios",
+                     "Short" : "Sts. Néomartyrs"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "020312",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "1640",
+                  "life" : null,
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_7:26-8:2",
+                              "pericope" : "318",
+                              "effWeek" : null
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "St. Nicolas, Archevêque du Japon",
+                     "Short" : "St. Nicolas"
+                  },
+                  "menologion" : "",
+                  "type" : "1"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "2009",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "St. Syméon",
+                     "Nominative" : "St. Syméon, 1<sup>er</sup> Evêque de Tver"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "1880",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "St. Romain",
+                     "Nominative" : "St. Romain, Prince d’Ouglitch"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "name" : {
+                     "Short" : "St. Anschaire",
+                     "Nominative" : "St. Anschaire, Evêque de Hambourg et Apôtre de la Scandinavie"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "cid" : "020304",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "St. Sabas",
+                     "Nominative" : "St. Sabas de Ioannina"
+                  },
+                  "info" : null,
+                  "cid" : "020311",
+                  "life" : null
+               }
+            ]
+         },
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "cid" : "9315",
+                  "life" : null,
+                  "src" : "pentecostarion",
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "II Tim_2:11-19",
+                              "type" : "apostol",
+                              "pericope" : "293",
+                              "effWeek" : "33"
+                           },
+                           {
+                              "effWeek" : "33",
+                              "pericope" : "88",
+                              "reading" : "Lk_18:2-8a",
+                              "type" : "gospel"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Samedi de la 38-me semaine après le Pentecôte",
+                     "Nominative" : "Samedi de la 38-me semaine après le Pentecôte"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "life" : null,
+                  "cid" : "37303",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "L’aprèsfête",
+                     "Nominative" : "L’aprèsfête de la Rencontre"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "1998",
+                  "menologion" : "",
+                  "type" : "2",
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "321 (mid.)",
+                              "type" : "apostol",
+                              "reading" : "Heb_9:11-14"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_2:25-38",
+                              "pericope" : "8",
+                              "effWeek" : null
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "St. Syméon le Théodoque («celui qui a reçu Dieu») et Ste. Anne la Prophétesse",
+                     "Short" : "saints"
+                  }
+               },
+               {
+                  "info" : null,
+                  "cid" : "020300",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Sts. Adrien et Eubule",
+                     "Short" : "Sts. Adrien"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "St. Blaise le Bouvier",
+                     "Short" : "St. Blaise"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "380"
+               },
+               {
+                  "info" : null,
+                  "cid" : "6385",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "St. Azarias",
+                     "Short" : "St. Azarias"
+                  }
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020310",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Sts. Paul",
+                     "Nominative" : "Sts. Paul et Simon"
+                  }
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "St. Claude",
+                     "Nominative" : "St. Claude"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "02031200"
+               },
+               {
+                  "cid" : "020312",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Sts. Néomartyrs Stamatios, Jean et Nicolas à Chios",
+                     "Short" : "Sts. Néomartyrs"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "menologion" : "",
+                  "type" : "1",
+                  "src" : "menaion",
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "318",
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol"
+                           },
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "St. Nicolas, Archevêque du Japon",
+                     "Short" : "St. Nicolas"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "1640"
+               },
+               {
+                  "name" : {
+                     "Nominative" : "St. Syméon, 1<sup>er</sup> Evêque de Tver",
+                     "Short" : "St. Syméon"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "2009",
+                  "info" : null
+               },
+               {
+                  "cid" : "1880",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "St. Romain, Prince d’Ouglitch",
+                     "Short" : "St. Romain"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "St. Anschaire, Evêque de Hambourg et Apôtre de la Scandinavie",
+                     "Short" : "St. Anschaire"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020304"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020311",
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "St. Sabas de Ioannina",
+                     "Short" : "St. Sabas"
+                  }
+               }
+            ],
+            "tone" : 4,
+            "fastings" : "1111111"
+         }
+      },
+      "cu" : {
+         "ponomar" : {
+            "fastings" : "1111111",
+            "tone" : 4,
+            "saints" : [
+               {
+                  "cid" : "9315",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Сꙋббѡ́та л҃и-ѧ седми́цы по пѧтидесѧ́тницѣ",
+                     "Short" : "Сꙋббѡ́та"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "II Tim_2:11-19",
+                              "type" : "apostol",
+                              "pericope" : "293",
+                              "effWeek" : "33"
+                           },
+                           {
+                              "pericope" : "88",
+                              "effWeek" : "33",
+                              "reading" : "Lk_18:2-8a",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Попра́зднство срѣ́тенїѧ гдⷭ҇нѧ",
+                     "Short" : "Попра́зднство срѣ́тенїѧ гдⷭ҇нѧ"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "37303"
+               },
+               {
+                  "info" : null,
+                  "cid" : "1998",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "2",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "321 (mid.)",
+                              "type" : "apostol",
+                              "reading" : "Heb_9:11-14"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_2:25-38",
+                              "effWeek" : null,
+                              "pericope" : "8"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "name" : {
+                     "Nominative" : "Пра́веднихъ сѷмеѡ́на бг҃опрїи́мца и҆ а҆́нны проро́чицы (а҃)",
+                     "Short" : "Пра́веднихъ"
+                  }
+               },
+               {
+                  "type" : "1",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ст҃а́гѡ равноапⷭ҇льнагѡ",
+                     "Nominative" : "Ст҃а́гѡ равноапⷭ҇льнагѡ нїкола́ѧ, а҆рхїепⷭ҇копа токі́йскагѡ, а҆по́стола ꙗ҆по́нїи (1912)"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "318"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Jn_10:9-16",
+                              "pericope" : "36",
+                              "effWeek" : null
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "menaion",
+                  "life" : null,
+                  "cid" : "1640",
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "02030198",
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Сщ҃енномꙋ́ченикѡвъ і҆ѡа́нна, тїмоѳе́а, а҆дрїа́на, васі́лїа пресвѵ́терѡвъ, прпⷣбномч҃ника влади́мїра, мч҃ника мїхаи́ла (1938)",
+                     "Short" : "Сщ҃енномꙋ́ченикѡвъ і҆ѡа́нна,"
+                  }
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Прⷪ҇ро́ка а҆за́рїи",
+                     "Nominative" : "Прⷪ҇ро́ка а҆за́рїи (і҃ въ до Р.і҃.)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "6385",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ст҃ы́хъ мꙋ́чєникъ",
+                     "Nominative" : "Ст҃ы́хъ мꙋ́чєникъ Папия, дїодѡ́ра, клаѵдїа́на (250)"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020302"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "380",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Ст҃а́гѡ мч҃ника вла́сїа кесарі́йскагѡ, пастꙋ́ха (г҃)",
+                     "Short" : "Ст҃а́гѡ мч҃ника"
+                  },
+                  "menologion" : "",
+                  "type" : null
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020300",
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "Ст҃ы́хъ мꙋ́чєникъ",
+                     "Nominative" : "Ст҃ы́хъ мꙋ́чєникъ а҆дрїа́на и҆ Еввула (ок. 308-309)"
+                  }
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "1880",
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Бл҃говѣ́рнагѡ вели́кагѡ кнѧ́зѧ рѡма́на оу҆́гличскагѡ (1285)",
+                     "Short" : "Бл҃говѣ́рнагѡ вели́кагѡ"
+                  }
+               },
+               {
+                  "life" : null,
+                  "cid" : "2009",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Ст҃а́гѡ сѷмеѡ́на, є҆пі́скопа по́лоцкагѡ, є҆пі́скопа тферска́гѡ (1289)",
+                     "Short" : "Ст҃а́гѡ сѷмеѡ́на,"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : null,
+                  "menologion" : ""
+               }
+            ]
+         },
+         "ponomarReordered" : {
+            "saints" : [
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9315",
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "reading" : "II Tim_2:11-19",
+                              "type" : "apostol",
+                              "pericope" : "293",
+                              "effWeek" : "33"
+                           },
+                           {
+                              "type" : "gospel",
+                              "reading" : "Lk_18:2-8a",
+                              "effWeek" : "33",
+                              "pericope" : "88"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "name" : {
+                     "Short" : "Сꙋббѡ́та",
+                     "Nominative" : "Сꙋббѡ́та л҃и-ѧ седми́цы по пѧтидесѧ́тницѣ"
+                  }
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "Попра́зднство срѣ́тенїѧ гдⷭ҇нѧ",
+                     "Short" : "Попра́зднство срѣ́тенїѧ гдⷭ҇нѧ"
+                  },
+                  "menologion" : "",
+                  "type" : null,
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "37303"
+               },
+               {
+                  "cid" : "1998",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "2",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Пра́веднихъ",
+                     "Nominative" : "Пра́веднихъ сѷмеѡ́на бг҃опрїи́мца и҆ а҆́нны проро́чицы (а҃)"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "Heb_9:11-14",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "321 (mid.)"
+                           },
+                           {
+                              "pericope" : "8",
+                              "effWeek" : null,
+                              "reading" : "Lk_2:25-38",
+                              "type" : "gospel"
+                           }
+                        ]
+                     },
+                     {
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "menaion"
+               },
+               {
+                  "info" : null,
+                  "cid" : "1640",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "1",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "318",
+                              "effWeek" : null,
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol"
+                           },
+                           {
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel",
+                              "effWeek" : null,
+                              "pericope" : "36"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "Ст҃а́гѡ равноапⷭ҇льнагѡ",
+                     "Nominative" : "Ст҃а́гѡ равноапⷭ҇льнагѡ нїкола́ѧ, а҆рхїепⷭ҇копа токі́йскагѡ, а҆по́стола ꙗ҆по́нїи (1912)"
+                  }
+               },
+               {
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Сщ҃енномꙋ́ченикѡвъ і҆ѡа́нна,",
+                     "Nominative" : "Сщ҃енномꙋ́ченикѡвъ і҆ѡа́нна, тїмоѳе́а, а҆дрїа́на, васі́лїа пресвѵ́терѡвъ, прпⷣбномч҃ника влади́мїра, мч҃ника мїхаи́ла (1938)"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "02030198",
+                  "info" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "Прⷪ҇ро́ка а҆за́рїи (і҃ въ до Р.і҃.)",
+                     "Short" : "Прⷪ҇ро́ка а҆за́рїи"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "6385"
+               },
+               {
+                  "life" : null,
+                  "cid" : "020302",
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "Ст҃ы́хъ мꙋ́чєникъ",
+                     "Nominative" : "Ст҃ы́хъ мꙋ́чєникъ Папия, дїодѡ́ра, клаѵдїа́на (250)"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "cid" : "380",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ст҃а́гѡ мч҃ника вла́сїа кесарі́йскагѡ, пастꙋ́ха (г҃)",
+                     "Short" : "Ст҃а́гѡ мч҃ника"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "life" : null,
+                  "cid" : "020300",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Ст҃ы́хъ мꙋ́чєникъ а҆дрїа́на и҆ Еввула (ок. 308-309)",
+                     "Short" : "Ст҃ы́хъ мꙋ́чєникъ"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "1880",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "Бл҃говѣ́рнагѡ вели́кагѡ кнѧ́зѧ рѡма́на оу҆́гличскагѡ (1285)",
+                     "Short" : "Бл҃говѣ́рнагѡ вели́кагѡ"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : null,
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "2009",
+                  "life" : null,
+                  "info" : null,
+                  "type" : null,
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "Ст҃а́гѡ сѷмеѡ́на, є҆пі́скопа по́лоцкагѡ, є҆пі́скопа тферска́гѡ (1289)",
+                     "Short" : "Ст҃а́гѡ сѷмеѡ́на,"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               }
+            ],
+            "tone" : 4,
+            "fastings" : "1111111"
+         }
+      },
+      "zh/Hant" : {
+         "ponomarReordered" : {
+            "fastings" : "1111111",
+            "tone" : 4,
+            "saints" : [
+               {
+                  "life" : null,
+                  "cid" : "9315",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "五旬節後第卅八周安息日",
+                     "Short" : "五旬節後第卅八周安息日"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "pericope" : "293",
+                              "effWeek" : "33",
+                              "reading" : "II Tim_2:11-19",
+                              "type" : "apostol"
+                           },
+                           {
+                              "reading" : "Lk_18:2-8a",
+                              "type" : "gospel",
+                              "pericope" : "88",
+                              "effWeek" : "33"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "src" : "pentecostarion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "37303",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "主進殿節慶期",
+                     "Nominative" : "主進殿節慶期"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "name" : {
+                     "Nominative" : "紀念義人，迎主者聖西面，及女先知聖安納（公元一世紀）",
+                     "Short" : "紀念義人，迎主者聖西面，及女先知聖安納（公元一世紀）"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "pericope" : "321 (mid.)",
+                              "effWeek" : null,
+                              "type" : "apostol",
+                              "reading" : "Heb_9:11-14"
+                           },
+                           {
+                              "reading" : "Lk_2:25-38",
+                              "type" : "gospel",
+                              "pericope" : "8",
+                              "effWeek" : null
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "menaion",
+                  "type" : "2",
+                  "menologion" : "",
+                  "cid" : "1998",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "6385",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "先知阿匝里雅（主降生前十世紀，見舊約紀年書二第15章）",
+                     "Short" : "先知阿匝里雅（主降生前十世紀，見舊約紀年書二第15章）"
+                  }
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "殉道者阿德里安和艾弗佛洛（卡帕多西亞的愷撒里亞城，310年）",
+                     "Nominative" : "殉道者阿德里安和艾弗佛洛（卡帕多西亞的愷撒里亞城，310年）"
+                  },
+                  "info" : null,
+                  "cid" : "020300",
+                  "life" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "殉道者弗來西（卡帕多西亞的愷撒里亞城，三世紀）",
+                     "Short" : "殉道者弗來西（卡帕多西亞的愷撒里亞城，三世紀）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "380",
+                  "life" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "殉道者帕彼亞、迪奧多若、克勞迪安（龐非里亞的佩爾吉地方，250年）",
+                     "Short" : "殉道者帕彼亞、迪奧多若、克勞迪安（龐非里亞的佩爾吉地方，250年）"
+                  },
+                  "info" : null,
+                  "cid" : "020302",
+                  "life" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "聖羅馬諾（烏格里奇王子，1285年）",
+                     "Nominative" : "聖羅馬諾（烏格里奇王子，1285年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "1880",
+                  "life" : null
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "聖西面（特維爾和頗洛茲克的首位主教，1289年）",
+                     "Short" : "聖西面（特維爾和頗洛茲克的首位主教，1289年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "2009",
+                  "life" : null
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "聖斯維亞托斯拉夫·加百列及他的兒子聖迪彌特里（尤里埃夫地方，1253年）",
+                     "Short" : "聖斯維亞托斯拉夫·加百列及他的兒子聖迪彌特里（尤里埃夫地方，1253年）"
+                  },
+                  "info" : null,
+                  "cid" : "020303",
+                  "life" : null
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "聖安斯卡爾（漢堡主教，丹麥和瑞典的光照者，865年）",
+                     "Nominative" : "聖安斯卡爾（漢堡主教，丹麥和瑞典的光照者，865年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "cid" : "020304",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "聖尼科拉（亞使徒，日本國的啟蒙者，1912年）",
+                     "Nominative" : "聖尼科拉（亞使徒，日本國的啟蒙者，1912年）"
+                  },
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "effWeek" : null,
+                              "pericope" : "318",
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol"
+                           },
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "src" : "menaion",
+                  "type" : "1",
+                  "menologion" : "",
+                  "cid" : "1640",
+                  "life" : null,
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "020305",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "聖伊格納提（克里米亞的馬里烏波爾城人，哥提亞及卡法都主教，1786年）",
+                     "Nominative" : "聖伊格納提（克里米亞的馬里烏波爾城人，哥提亞及卡法都主教，1786年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "新殉道者約翰、司祭提摩太和殉道者沃拉蒂米爾（1938年）",
+                     "Short" : "新殉道者約翰、司祭提摩太和殉道者沃拉蒂米爾（1938年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020306"
+               },
+               {
+                  "life" : null,
+                  "cid" : "020307",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "聖勞倫提（坎特伯雷城主教，619年）",
+                     "Nominative" : "聖勞倫提（坎特伯雷城主教，619年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "聖女威爾博伽（切斯特地方修女院院長，700年）",
+                     "Short" : "聖女威爾博伽（切斯特地方修女院院長，700年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "020308",
+                  "life" : null
+               },
+               {
+                  "info" : null,
+                  "cid" : "020309",
+                  "life" : null,
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "聖雅各（塞爾維亞總主教，1292年）",
+                     "Short" : "聖雅各（塞爾維亞總主教，1292年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "cid" : "020310",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "殉道者帕弗羅和西面，及殉道者帕弗羅和西里安，就義於羅馬皇帝戴克里先時期（四世紀）",
+                     "Short" : "殉道者帕弗羅和西面，及殉道者帕弗羅和西里安，就義於羅馬皇帝戴克里先時期（四世紀）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "020311",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "聖薩瓦（約阿尼納地方的成德者，十五世紀）",
+                     "Short" : "聖薩瓦（約阿尼納地方的成德者，十五世紀）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Nominative" : "新殉道者希臘人斯塔瑪提和約翰兩兄弟，以及他們的同伴尼科拉（希俄斯島，1822年）",
+                     "Short" : "新殉道者希臘人斯塔瑪提和約翰兩兄弟，以及他們的同伴尼科拉（希俄斯島，1822年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020312"
+               }
+            ]
+         },
+         "ponomar" : {
+            "saints" : [
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "pentecostarion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "prime"
+                     },
+                     {
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "II Tim_2:11-19",
+                              "effWeek" : "33",
+                              "pericope" : "293"
+                           },
+                           {
+                              "effWeek" : "33",
+                              "pericope" : "88",
+                              "type" : "gospel",
+                              "reading" : "Lk_18:2-8a"
+                           }
+                        ],
+                        "type" : "liturgy"
+                     }
+                  ],
+                  "name" : {
+                     "Short" : "五旬節後第卅八周安息日",
+                     "Nominative" : "五旬節後第卅八周安息日"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "9315"
+               },
+               {
+                  "life" : null,
+                  "cid" : "37303",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "主進殿節慶期",
+                     "Nominative" : "主進殿節慶期"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "life" : null,
+                  "cid" : "1998",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "紀念義人，迎主者聖西面，及女先知聖安納（公元一世紀）",
+                     "Nominative" : "紀念義人，迎主者聖西面，及女先知聖安納（公元一世紀）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "type" : "apostol",
+                              "reading" : "Heb_9:11-14",
+                              "pericope" : "321 (mid.)",
+                              "effWeek" : null
+                           },
+                           {
+                              "reading" : "Lk_2:25-38",
+                              "type" : "gospel",
+                              "pericope" : "8",
+                              "effWeek" : null
+                           }
+                        ]
+                     }
+                  ],
+                  "type" : "2",
+                  "menologion" : ""
+               },
+               {
+                  "life" : null,
+                  "cid" : "6385",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "先知阿匝里雅（主降生前十世紀，見舊約紀年書二第15章）",
+                     "Nominative" : "先知阿匝里雅（主降生前十世紀，見舊約紀年書二第15章）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020300",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "殉道者阿德里安和艾弗佛洛（卡帕多西亞的愷撒里亞城，310年）",
+                     "Nominative" : "殉道者阿德里安和艾弗佛洛（卡帕多西亞的愷撒里亞城，310年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "name" : {
+                     "Nominative" : "殉道者弗來西（卡帕多西亞的愷撒里亞城，三世紀）",
+                     "Short" : "殉道者弗來西（卡帕多西亞的愷撒里亞城，三世紀）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "380",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "020302",
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "殉道者帕彼亞、迪奧多若、克勞迪安（龐非里亞的佩爾吉地方，250年）",
+                     "Short" : "殉道者帕彼亞、迪奧多若、克勞迪安（龐非里亞的佩爾吉地方，250年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "info" : null,
+                  "cid" : "1880",
+                  "life" : null,
+                  "menologion" : "",
+                  "type" : "0",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Nominative" : "聖羅馬諾（烏格里奇王子，1285年）",
+                     "Short" : "聖羅馬諾（烏格里奇王子，1285年）"
+                  }
+               },
+               {
+                  "cid" : "2009",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "聖西面（特維爾和頗洛茲克的首位主教，1289年）",
+                     "Short" : "聖西面（特維爾和頗洛茲克的首位主教，1289年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "life" : null,
+                  "cid" : "020303",
+                  "info" : null,
+                  "name" : {
+                     "Short" : "聖斯維亞托斯拉夫·加百列及他的兒子聖迪彌特里（尤里埃夫地方，1253年）",
+                     "Nominative" : "聖斯維亞托斯拉夫·加百列及他的兒子聖迪彌特里（尤里埃夫地方，1253年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "cid" : "020304",
+                  "life" : null,
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "聖安斯卡爾（漢堡主教，丹麥和瑞典的光照者，865年）",
+                     "Nominative" : "聖安斯卡爾（漢堡主教，丹麥和瑞典的光照者，865年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null
+               },
+               {
+                  "cid" : "1640",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "聖尼科拉（亞使徒，日本國的啟蒙者，1912年）",
+                     "Short" : "聖尼科拉（亞使徒，日本國的啟蒙者，1912年）"
+                  },
+                  "services" : [
+                     {
+                        "type" : "liturgy",
+                        "readings" : [
+                           {
+                              "reading" : "Heb_7:26-8:2",
+                              "type" : "apostol",
+                              "effWeek" : null,
+                              "pericope" : "318"
+                           },
+                           {
+                              "pericope" : "36",
+                              "effWeek" : null,
+                              "reading" : "Jn_10:9-16",
+                              "type" : "gospel"
+                           }
+                        ]
+                     }
+                  ],
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "1",
+                  "menologion" : ""
+               },
+               {
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Short" : "聖伊格納提（克里米亞的馬里烏波爾城人，哥提亞及卡法都主教，1786年）",
+                     "Nominative" : "聖伊格納提（克里米亞的馬里烏波爾城人，哥提亞及卡法都主教，1786年）"
+                  },
+                  "src" : "menaion",
+                  "ref" : null,
+                  "life" : null,
+                  "cid" : "020305",
+                  "info" : null
+               },
+               {
+                  "cid" : "020306",
+                  "life" : null,
+                  "info" : null,
+                  "name" : {
+                     "Nominative" : "新殉道者約翰、司祭提摩太和殉道者沃拉蒂米爾（1938年）",
+                     "Short" : "新殉道者約翰、司祭提摩太和殉道者沃拉蒂米爾（1938年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : ""
+               },
+               {
+                  "menologion" : "",
+                  "type" : "0",
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "聖勞倫提（坎特伯雷城主教，619年）",
+                     "Nominative" : "聖勞倫提（坎特伯雷城主教，619年）"
+                  },
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020307"
+               },
+               {
+                  "info" : null,
+                  "life" : null,
+                  "cid" : "020308",
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "聖女威爾博伽（切斯特地方修女院院長，700年）",
+                     "Nominative" : "聖女威爾博伽（切斯特地方修女院院長，700年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "info" : null,
+                  "cid" : "020309",
+                  "life" : null,
+                  "src" : "menaion",
+                  "ref" : null,
+                  "name" : {
+                     "Short" : "聖雅各（塞爾維亞總主教，1292年）",
+                     "Nominative" : "聖雅各（塞爾維亞總主教，1292年）"
+                  },
+                  "menologion" : "",
+                  "type" : "0"
+               },
+               {
+                  "ref" : null,
+                  "src" : "menaion",
+                  "name" : {
+                     "Short" : "殉道者帕弗羅和西面，及殉道者帕弗羅和西里安，就義於羅馬皇帝戴克里先時期（四世紀）",
+                     "Nominative" : "殉道者帕弗羅和西面，及殉道者帕弗羅和西里安，就義於羅馬皇帝戴克里先時期（四世紀）"
+                  },
+                  "menologion" : "",
+                  "type" : "0",
+                  "info" : null,
+                  "cid" : "020310",
+                  "life" : null
+               },
+               {
+                  "name" : {
+                     "Short" : "聖薩瓦（約阿尼納地方的成德者，十五世紀）",
+                     "Nominative" : "聖薩瓦（約阿尼納地方的成德者，十五世紀）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion",
+                  "type" : "0",
+                  "menologion" : "",
+                  "life" : null,
+                  "cid" : "020311",
+                  "info" : null
+               },
+               {
+                  "life" : null,
+                  "cid" : "020312",
+                  "info" : null,
+                  "type" : "0",
+                  "menologion" : "",
+                  "name" : {
+                     "Nominative" : "新殉道者希臘人斯塔瑪提和約翰兩兄弟，以及他們的同伴尼科拉（希俄斯島，1822年）",
+                     "Short" : "新殉道者希臘人斯塔瑪提和約翰兩兄弟，以及他們的同伴尼科拉（希俄斯島，1822年）"
+                  },
+                  "ref" : null,
+                  "src" : "menaion"
+               }
+            ],
+            "tone" : 4,
+            "fastings" : "1111111"
+         }
+      }
+   }
+}

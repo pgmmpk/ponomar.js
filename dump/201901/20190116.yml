@@ -1,0 +1,2076 @@
+---
+date: 2019/1/16
+langs:
+  cu:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Вто́рникъ л҃ѕ-ѧ седми́цы по пѧтидесѧ́тницѣ'
+            Short: Вто́рникъ
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '333'
+                  reading: 'Heb_12:25-26, 13:22-25'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '43'
+                  reading: Mk_10:2-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1785'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Поклоне́нїе честны́хъ вери́гъ ст҃а́гѡ и҆ всехва́льнагѡ а҆пⷭ҇ла петра̀'
+            Short: 'Поклоне́нїе честны́хъ'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '29'
+                  reading: Acts_12:1-11
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: Jn_21:15-25
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '1436'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пра́веднагѡ маѯі́ма, то́темскагѡ, хрⷭ҇та̀ ра́ди ю҆ро́дивагѡ (1650)'
+            Short: 'Пра́веднагѡ маѯі́ма,'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '011602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника і҆ѡа́нна пресвѵ́тера (1919)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '229'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́хъ мꙋ́чєникъ Спевсиппа, Елевсиппа, Мелевсиппа, бабки и҆х̾ Леониллы и҆ и҆̀же съ ни́ми неѡ́на, Турвона и҆ Иовиллы (161-180)'
+            Short: 'Ст҃ы́хъ мꙋ́чєникъ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '231'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника Данакта чте́ца (в҃)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Вто́рникъ л҃ѕ-ѧ седми́цы по пѧтидесѧ́тницѣ'
+            Short: Вто́рникъ
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '333'
+                  reading: 'Heb_12:25-26, 13:22-25'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '43'
+                  reading: Mk_10:2-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1785'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Поклоне́нїе честны́хъ вери́гъ ст҃а́гѡ и҆ всехва́льнагѡ а҆пⷭ҇ла петра̀'
+            Short: 'Поклоне́нїе честны́хъ'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '29'
+                  reading: Acts_12:1-11
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: Jn_21:15-25
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '1436'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Пра́веднагѡ маѯі́ма, то́темскагѡ, хрⷭ҇та̀ ра́ди ю҆ро́дивагѡ (1650)'
+            Short: 'Пра́веднагѡ маѯі́ма,'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '011602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ сщ҃енномч҃ника і҆ѡа́нна пресвѵ́тера (1919)'
+            Short: 'Ст҃а́гѡ сщ҃енномч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '229'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃ы́хъ мꙋ́чєникъ Спевсиппа, Елевсиппа, Мелевсиппа, бабки и҆х̾ Леониллы и҆ и҆̀же съ ни́ми неѡ́на, Турвона и҆ Иовиллы (161-180)'
+            Short: 'Ст҃ы́хъ мꙋ́чєникъ'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '231'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника Данакта чте́ца (в҃)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+  cu/ru:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Вторник 36-й седмицы по Пятидесятнице'
+            Short: 'Вторник 36-й седмицы по Пятидесятнице'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '333'
+                  reading: 'Heb_12:25-26, 13:22-25'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '43'
+                  reading: Mk_10:2-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1785'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n     Поклонение честным веригам святого и всехвального апостола Петра. Около 42 года апостол Петр по повелению Ирода Агриппы был заключен в темницу за проповедь о Христе Спасителе. В темнице он был связан двумя железными цепями. Ночью, накануне суда над ним, Ангел Господень снял с апостола эти цепи и чудесно вывел его из темницы (Деян. 12, 1—11). Христиане, услышав о чуде, взяли вериги (цепи) и хранили их как драгоценность. Одержимые разными болезнями, приходя к ним с верою, получали исцеления. Вериги святого апостола Петра хранились в Иерусалиме до Патриарха Ювеналия, который подарил их Евдокии, супруге императора Феодосия Младшего, а она в 437 и 439 годах перенесла их из Иерусалима в Царьград. Одну веригу Евдокия послала в Рим своей дочери Евдоксии, которая построила храм во имя апостола Петра и положила в нем веригу. В Риме были также и другие вериги, в которых находился апостол перед своей кончиной при императоре Нероне.     16 января вериги апостола Петра выносятся на поклонение народу. \n"
+          menologion: ''
+          name:
+            Nominative: 'Поклонение честным веригам ап. Петра'
+            Short: 'Поклонение честным'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '29'
+                  reading: Acts_12:1-11
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: Jn_21:15-25
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '1436'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Праведный Максим, иерей Тотемский, некоторое время был священником в городе Тотьме Вологодской епархии. В течение сорока лет он проходил тяжелый подвиг юродства о Христе, постоянно находясь в посте и молитве. Скончался блаженный Максим в глубокой старости 16 января 1650 года и был погребен в Воскресенской церкви, в которой служил. Местное почитание святого началось в 1715 году, в связи с многочисленными чудесами, происходившими при его гробе. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прав. Максима, иерея Тотемского, Христа ради юродивого (1650)'
+            Short: 'Прав. Максима'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '011602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Иоанна пресвитера (1919)'
+            Short: 'Сщмч. Иоанна'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '229'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мчч. Спевсиппа, Елевсиппа, Мелевсиппа, бабки их Леониллы и с ними Неона, Турвона и Иовиллы (161-180)'
+            Short: 'Мчч. Спевсиппа'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '231'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Данакта чтеца (II)'
+            Short: 'Мч. Данакта'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Вторник 36-й седмицы по Пятидесятнице'
+            Short: 'Вторник 36-й седмицы по Пятидесятнице'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '333'
+                  reading: 'Heb_12:25-26, 13:22-25'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '43'
+                  reading: Mk_10:2-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1785'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n     Поклонение честным веригам святого и всехвального апостола Петра. Около 42 года апостол Петр по повелению Ирода Агриппы был заключен в темницу за проповедь о Христе Спасителе. В темнице он был связан двумя железными цепями. Ночью, накануне суда над ним, Ангел Господень снял с апостола эти цепи и чудесно вывел его из темницы (Деян. 12, 1—11). Христиане, услышав о чуде, взяли вериги (цепи) и хранили их как драгоценность. Одержимые разными болезнями, приходя к ним с верою, получали исцеления. Вериги святого апостола Петра хранились в Иерусалиме до Патриарха Ювеналия, который подарил их Евдокии, супруге императора Феодосия Младшего, а она в 437 и 439 годах перенесла их из Иерусалима в Царьград. Одну веригу Евдокия послала в Рим своей дочери Евдоксии, которая построила храм во имя апостола Петра и положила в нем веригу. В Риме были также и другие вериги, в которых находился апостол перед своей кончиной при императоре Нероне.     16 января вериги апостола Петра выносятся на поклонение народу. \n"
+          menologion: ''
+          name:
+            Nominative: 'Поклонение честным веригам ап. Петра'
+            Short: 'Поклонение честным'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '29'
+                  reading: Acts_12:1-11
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: Jn_21:15-25
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '1436'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Праведный Максим, иерей Тотемский, некоторое время был священником в городе Тотьме Вологодской епархии. В течение сорока лет он проходил тяжелый подвиг юродства о Христе, постоянно находясь в посте и молитве. Скончался блаженный Максим в глубокой старости 16 января 1650 года и был погребен в Воскресенской церкви, в которой служил. Местное почитание святого началось в 1715 году, в связи с многочисленными чудесами, происходившими при его гробе. \n"
+          menologion: ''
+          name:
+            Nominative: 'Прав. Максима, иерея Тотемского, Христа ради юродивого (1650)'
+            Short: 'Прав. Максима'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '011602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сщмч. Иоанна пресвитера (1919)'
+            Short: 'Сщмч. Иоанна'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '229'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мчч. Спевсиппа, Елевсиппа, Мелевсиппа, бабки их Леониллы и с ними Неона, Турвона и Иовиллы (161-180)'
+            Short: 'Мчч. Спевсиппа'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '231'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Данакта чтеца (II)'
+            Short: 'Мч. Данакта'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+  el:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Τρίτη
+            Short: Τρίτη
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '333'
+                  reading: 'Heb_12:25-26, 13:22-25'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '43'
+                  reading: Mk_10:2-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1785'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Προσκύνηση τῆς Τιμίας ἁλύσεως τοῦ Ἁγίου καὶ ἐνδόξου Ἀποστόλου Πέτρου'
+            Short: 'Προσκύνηση τῆς Τιμίας ἁλύσεως τοῦ Ἁγίου καὶ ἐνδόξου Ἀποστόλου Πέτρου'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '29'
+                  reading: Acts_12:1-11
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: Jn_21:15-25
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '011606'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Νικόλαος ὁ ἐν Μυτιλήνη Νεομάρτυρας'
+            Short: 'Ἅγιος Νικόλαος ὁ ἐν Μυτιλήνη Νεομάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '229'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Πεύσιππος, Ἐλάσιππος, Μέσιππος οἱ αὐτάδελφοι καὶ Νεονίλλη ἡ μαμμή αὐτῶν'
+            Short: 'Ἅγιοι Πεύσιππος, Ἐλάσιππος, Μέσιππος οἱ αὐτάδελφοι καὶ Νεονίλλη ἡ μαμμή αὐτῶν'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '231'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Δάναξ ὁ Ἀναγνώστης'
+            Short: 'Ἅγιος Δάναξ ὁ Ἀναγνώστης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '011603'
+          info: ~
+          life: ~
+          menologion: ''
+          name: ~
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '011601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ῥωμύλος ὁ Ἁγιορείτης καὶ οἱ σὺν αὐτῷ Νέστωρ, Μαρτῖνος, Δανιὴλ, Σισώης, Ζωσιμᾶς καὶ Γρηγόριος'
+            Short: 'Ὅσιος Ῥωμύλος ὁ Ἁγιορείτης καὶ οἱ σὺν αὐτῷ Νέστωρ, Μαρτῖνος, Δανιὴλ, Σισώης, Ζωσιμᾶς καὶ Γρηγόριος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01160695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Γεράσιμος ὁ Παλλαδὰς Πατριάρχης Ἀλεξανδρείας'
+            Short: 'Ἅγιος Γεράσιμος ὁ Παλλαδὰς Πατριάρχης Ἀλεξανδρείας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01160795'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ὀνωρᾶτος Ἀρχιεπίσκοπος Ἀρελάτης'
+            Short: 'Ὅσιος Ὀνωρᾶτος Ἀρχιεπίσκοπος Ἀρελάτης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '1436'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Μάξιμος τῆς Τότμα'
+            Short: 'Ἅγιος Μάξιμος τῆς Τότμα'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '011600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Δαμασκηνὸς νέος ἱερομάρτυρας'
+            Short: 'Ἅγιος Δαμασκηνὸς νέος ἱερομάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Τρίτη
+            Short: Τρίτη
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '333'
+                  reading: 'Heb_12:25-26, 13:22-25'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '43'
+                  reading: Mk_10:2-12
+                  type: gospel
+                -
+                  effWeek: '31'
+                  pericope: '50'
+                  reading: Jas_1:1-18
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '44'
+                  reading: Mk_10:11-16
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1785'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Προσκύνηση τῆς Τιμίας ἁλύσεως τοῦ Ἁγίου καὶ ἐνδόξου Ἀποστόλου Πέτρου'
+            Short: 'Προσκύνηση τῆς Τιμίας ἁλύσεως τοῦ Ἁγίου καὶ ἐνδόξου Ἀποστόλου Πέτρου'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '29'
+                  reading: Acts_12:1-11
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: Jn_21:15-25
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '011606'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Νικόλαος ὁ ἐν Μυτιλήνη Νεομάρτυρας'
+            Short: 'Ἅγιος Νικόλαος ὁ ἐν Μυτιλήνη Νεομάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '229'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιοι Πεύσιππος, Ἐλάσιππος, Μέσιππος οἱ αὐτάδελφοι καὶ Νεονίλλη ἡ μαμμή αὐτῶν'
+            Short: 'Ἅγιοι Πεύσιππος, Ἐλάσιππος, Μέσιππος οἱ αὐτάδελφοι καὶ Νεονίλλη ἡ μαμμή αὐτῶν'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '231'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Δάναξ ὁ Ἀναγνώστης'
+            Short: 'Ἅγιος Δάναξ ὁ Ἀναγνώστης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '011603'
+          info: ~
+          life: ~
+          menologion: ''
+          name: ~
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '011601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ῥωμύλος ὁ Ἁγιορείτης καὶ οἱ σὺν αὐτῷ Νέστωρ, Μαρτῖνος, Δανιὴλ, Σισώης, Ζωσιμᾶς καὶ Γρηγόριος'
+            Short: 'Ὅσιος Ῥωμύλος ὁ Ἁγιορείτης καὶ οἱ σὺν αὐτῷ Νέστωρ, Μαρτῖνος, Δανιὴλ, Σισώης, Ζωσιμᾶς καὶ Γρηγόριος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01160695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Γεράσιμος ὁ Παλλαδὰς Πατριάρχης Ἀλεξανδρείας'
+            Short: 'Ἅγιος Γεράσιμος ὁ Παλλαδὰς Πατριάρχης Ἀλεξανδρείας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01160795'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Ὀνωρᾶτος Ἀρχιεπίσκοπος Ἀρελάτης'
+            Short: 'Ὅσιος Ὀνωρᾶτος Ἀρχιεπίσκοπος Ἀρελάτης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '1436'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Μάξιμος τῆς Τότμα'
+            Short: 'Ἅγιος Μάξιμος τῆς Τότμα'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '011600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Δαμασκηνὸς νέος ἱερομάρτυρας'
+            Short: 'Ἅγιος Δαμασκηνὸς νέος ἱερομάρτυρας'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 2
+  en:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Tuesday of the 36<sup>th</sup> Week after Pentecost'
+            Short: 'Tuesday of the 36<sup>th</sup> Week after Pentecost'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '333'
+                  reading: 'Heb_12:25-26, 13:22-25'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '43'
+                  reading: Mk_10:2-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1785'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Veneration of the Venerable Shackles of the Holy and All-Praiseworthy Apostle Peter: On the orders of Herod Agrippa, in about the year 42 the Apostle Peter was thrown into prison for preaching about Christ the Saviour. In prison he was held secure by two iron chains. By night, on the eve of his trial, an Angel of the Lord removed these chains from the Apostle Peter and miraculously led him out from the prison (Acts12: 1-11). Christians who learned of the miracle took the chains and kept them as precious keepsakes. Those afflicted with illness and approaching them with faith received healing. The Chains of the holy Apostle Peter were kept at Jerusalem until the time of Patriarch Juvenalios, who presented them to Eudocia, spouse of the emperor Theodosius the Younger, and she in turn transferred them from Jerusalem to Constantinople in either the year 437 or 439. Eudocia sent one Chain to Rome to her daughter Eudoxia, who built a church in the name of the Apostle Peter and put within it the Chain. At Rome were also other Chains, in which the Apostle Peter found himself before his death under the emperor Nero.</p><p>On 16 January the Chains of the Apostle Peter are brought out for veneration by the people.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Veneration of the precious Chains of the Holy and All-Glorious Apostle Peter'
+            Short: 'St Peter'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '29'
+                  reading: Acts_12:1-11
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: Jn_21:15-25
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '229'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyrs Speusippus, Eleusippus, Meleusippus and their Grandmother Leonilla, together with Neon, Turbo, and the woman Jonilla (Jovilla) in Cappadocia (161-180)'
+            Short: 'Martyr Speusippus and companions'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '231'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Danax the Reader in Macedonia (2<sup>nd</sup> C)'
+            Short: 'Martyr Danax'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Romilus of Vidin'
+            Short: 'Venerable Romilus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Holy Hierarch Honoratus, Bishop of Arles'
+            Short: 'Holy Hierarch Honoratus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1436'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>Blessed Maximus, Priest of Totma, was for a certain time priest in the city of Tot′ma in Vologda diocese. Over the course of forty years he made the harsh exploit of fool-for-Christ, constantly in fasting and in prayer. Blessed Maxim died in extreme old age on 16 January 1650 and was buried at the Resurrection church, in which he served. The local veneration of the saint began in 1715, in connection with numerous miracles occurring at his grave.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Blessed Maximus of Totma, the Fool-for-Christ († 1650)'
+            Short: 'Blessed Maximus'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '011603'
+          info: ~
+          life: ~
+          menologion: ''
+          name: ~
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '011600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Damascene of Chilandar'
+            Short: 'New Hieromartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Tuesday of the 36<sup>th</sup> Week after Pentecost'
+            Short: 'Tuesday of the 36<sup>th</sup> Week after Pentecost'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '333'
+                  reading: 'Heb_12:25-26, 13:22-25'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '43'
+                  reading: Mk_10:2-12
+                  type: gospel
+                -
+                  effWeek: '31'
+                  pericope: '50'
+                  reading: Jas_1:1-18
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '44'
+                  reading: Mk_10:11-16
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1785'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>The Veneration of the Venerable Shackles of the Holy and All-Praiseworthy Apostle Peter: On the orders of Herod Agrippa, in about the year 42 the Apostle Peter was thrown into prison for preaching about Christ the Saviour. In prison he was held secure by two iron chains. By night, on the eve of his trial, an Angel of the Lord removed these chains from the Apostle Peter and miraculously led him out from the prison (Acts12: 1-11). Christians who learned of the miracle took the chains and kept them as precious keepsakes. Those afflicted with illness and approaching them with faith received healing. The Chains of the holy Apostle Peter were kept at Jerusalem until the time of Patriarch Juvenalios, who presented them to Eudocia, spouse of the emperor Theodosius the Younger, and she in turn transferred them from Jerusalem to Constantinople in either the year 437 or 439. Eudocia sent one Chain to Rome to her daughter Eudoxia, who built a church in the name of the Apostle Peter and put within it the Chain. At Rome were also other Chains, in which the Apostle Peter found himself before his death under the emperor Nero.</p><p>On 16 January the Chains of the Apostle Peter are brought out for veneration by the people.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Veneration of the precious Chains of the Holy and All-Glorious Apostle Peter'
+            Short: 'St Peter'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '29'
+                  reading: Acts_12:1-11
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: Jn_21:15-25
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '229'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyrs Speusippus, Eleusippus, Meleusippus and their Grandmother Leonilla, together with Neon, Turbo, and the woman Jonilla (Jovilla) in Cappadocia (161-180)'
+            Short: 'Martyr Speusippus and companions'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '231'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Martyr Danax the Reader in Macedonia (2<sup>nd</sup> C)'
+            Short: 'Martyr Danax'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Venerable Romilus of Vidin'
+            Short: 'Venerable Romilus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Holy Hierarch Honoratus, Bishop of Arles'
+            Short: 'Holy Hierarch Honoratus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1436'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>Blessed Maximus, Priest of Totma, was for a certain time priest in the city of Tot′ma in Vologda diocese. Over the course of forty years he made the harsh exploit of fool-for-Christ, constantly in fasting and in prayer. Blessed Maxim died in extreme old age on 16 January 1650 and was buried at the Resurrection church, in which he served. The local veneration of the saint began in 1715, in connection with numerous miracles occurring at his grave.</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Blessed Maximus of Totma, the Fool-for-Christ († 1650)'
+            Short: 'Blessed Maximus'
+          ref: ~
+          services:
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '011603'
+          info: ~
+          life: ~
+          menologion: ''
+          name: ~
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '011600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Damascene of Chilandar'
+            Short: 'New Hieromartyr'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+  fr:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Mardi de la 36-me semaine après le Pentecôte'
+            Short: 'Mardi de la 36-me semaine après le Pentecôte'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '333'
+                  reading: 'Heb_12:25-26, 13:22-25'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '43'
+                  reading: Mk_10:2-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1785'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Vénération de la précieuse chaîne du St. et glorieux Apôtre Pierre'
+            Short: 'Vénération de'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '29'
+                  reading: Acts_12:1-11
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: Jn_21:15-25
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '229'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Speusippe, Éleusippe, MÉleusippe et Ste. Néonille'
+            Short: 'Sts. Speusippe'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '231'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Danacte'
+            Short: 'St. Danacte'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Damascène de Chilandari (Athos)'
+            Short: 'St. Damascène'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1436'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Maxime de Totma (Vologda), Fol en Christ'
+            Short: 'St. Maxime'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Romylos ets ses compagnons'
+            Short: 'Sts. Romylos'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01160297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Honorat, Evêque d’Arles et fondateur du Monastère de Lérins'
+            Short: 'St. Honorat'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St Damascène de Chilandari (Athos)'
+            Short: 'St Damascène'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Mardi de la 36-me semaine après le Pentecôte'
+            Short: 'Mardi de la 36-me semaine après le Pentecôte'
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '333'
+                  reading: 'Heb_12:25-26, 13:22-25'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '43'
+                  reading: Mk_10:2-12
+                  type: gospel
+                -
+                  effWeek: '31'
+                  pericope: '50'
+                  reading: Jas_1:1-18
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '44'
+                  reading: Mk_10:11-16
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1785'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Vénération de la précieuse chaîne du St. et glorieux Apôtre Pierre'
+            Short: 'Vénération de'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '29'
+                  reading: Acts_12:1-11
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: Jn_21:15-25
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '229'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Speusippe, Éleusippe, MÉleusippe et Ste. Néonille'
+            Short: 'Sts. Speusippe'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '231'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Danacte'
+            Short: 'St. Danacte'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Damascène de Chilandari (Athos)'
+            Short: 'St. Damascène'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1436'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Maxime de Totma (Vologda), Fol en Christ'
+            Short: 'St. Maxime'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sts. Romylos ets ses compagnons'
+            Short: 'Sts. Romylos'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01160297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Honorat, Evêque d’Arles et fondateur du Monastère de Lérins'
+            Short: 'St. Honorat'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St Damascène de Chilandari (Athos)'
+            Short: 'St Damascène'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+  zh/Hans:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬节后第卅六周瞻礼三
+            Short: 五旬节后第卅六周瞻礼三
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '333'
+                  reading: 'Heb_12:25-26, 13:22-25'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '43'
+                  reading: Mk_10:2-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1785'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬礼神圣而满被赞扬者圣彼得使徒之尊贵锁链
+            Short: 敬礼神圣而满被赞扬者圣彼得使徒之尊贵锁链
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '29'
+                  reading: Acts_12:1-11
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: Jn_21:15-25
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '229'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者斯佩弗西普，艾勒弗西普及麦勒弗西普三兄弟，他们的祖母莱奥尼拉，以及协同他们就义者：.奈翁、图尔伯、及殉道女约尼拉（以上均是卡帕多西亚地方的殉道者，161-180年间）
+            Short: 殉道者斯佩弗西普，艾勒弗西普及麦勒弗西普三兄弟，他们的祖母莱奥尼拉，以及协同他们就义者：.奈翁、图尔伯、及殉道女约尼拉（以上均是卡帕多西亚地方的殉道者，161-180年间）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '231'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者达那克斯（马其顿地方的诵经士，2世纪）
+            Short: 殉道者达那克斯（马其顿地方的诵经士，2世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣罗弥洛（阿索斯圣山及塞尔维亚的拉伐尼卡地方修士，1375年）
+            Short: 圣罗弥洛（阿索斯圣山及塞尔维亚的拉伐尼卡地方修士，1375年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣奥诺拉特（阿尔勒总主教，乐林思修道院的创建者，429年）
+            Short: 圣奥诺拉特（阿尔勒总主教，乐林思修道院的创建者，429年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1436'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 蒙福者玛克西默（沃洛格达的托特玛地方人，圣愚，1650年）
+            Short: 蒙福者玛克西默（沃洛格达的托特玛地方人，圣愚，1650年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭达玛斯基诺（保加利亚的加布罗沃地方人，阿索斯圣山的悉蓝达尔修道院修士，1771年）
+            Short: 新殉道司祭达玛斯基诺（保加利亚的加布罗沃地方人，阿索斯圣山的悉蓝达尔修道院修士，1771年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣雅各（塔冷泰斯人，429年）
+            Short: 圣雅各（塔冷泰斯人，429年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011605'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 西奈山的圣格里高利以及他的诸位圣弟子：奈斯托尔、玛尔提尼、但以理、息所伊斯、佐西玛、格里高利
+            Short: 西奈山的圣格里高利以及他的诸位圣弟子：奈斯托尔、玛尔提尼、但以理、息所伊斯、佐西玛、格里高利
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011606'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者尼科拉（米提里尼地方，1777年）
+            Short: 新殉道者尼科拉（米提里尼地方，1777年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011607'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣西格博尔特（东盎格鲁国王，殉道者，635年）
+            Short: 圣西格博尔特（东盎格鲁国王，殉道者，635年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011608'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣福尔赛（布尔堡人，东盎格鲁及蓝吉地方的光照者）
+            Short: 圣福尔赛（布尔堡人，东盎格鲁及蓝吉地方的光照者）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬节后第卅六周瞻礼三
+            Short: 五旬节后第卅六周瞻礼三
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '333'
+                  reading: 'Heb_12:25-26, 13:22-25'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '43'
+                  reading: Mk_10:2-12
+                  type: gospel
+                -
+                  effWeek: '31'
+                  pericope: '50'
+                  reading: Jas_1:1-18
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '44'
+                  reading: Mk_10:11-16
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1785'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬礼神圣而满被赞扬者圣彼得使徒之尊贵锁链
+            Short: 敬礼神圣而满被赞扬者圣彼得使徒之尊贵锁链
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '29'
+                  reading: Acts_12:1-11
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: Jn_21:15-25
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '229'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者斯佩弗西普，艾勒弗西普及麦勒弗西普三兄弟，他们的祖母莱奥尼拉，以及协同他们就义者：.奈翁、图尔伯、及殉道女约尼拉（以上均是卡帕多西亚地方的殉道者，161-180年间）
+            Short: 殉道者斯佩弗西普，艾勒弗西普及麦勒弗西普三兄弟，他们的祖母莱奥尼拉，以及协同他们就义者：.奈翁、图尔伯、及殉道女约尼拉（以上均是卡帕多西亚地方的殉道者，161-180年间）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '231'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者达那克斯（马其顿地方的诵经士，2世纪）
+            Short: 殉道者达那克斯（马其顿地方的诵经士，2世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣罗弥洛（阿索斯圣山及塞尔维亚的拉伐尼卡地方修士，1375年）
+            Short: 圣罗弥洛（阿索斯圣山及塞尔维亚的拉伐尼卡地方修士，1375年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣奥诺拉特（阿尔勒总主教，乐林思修道院的创建者，429年）
+            Short: 圣奥诺拉特（阿尔勒总主教，乐林思修道院的创建者，429年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1436'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 蒙福者玛克西默（沃洛格达的托特玛地方人，圣愚，1650年）
+            Short: 蒙福者玛克西默（沃洛格达的托特玛地方人，圣愚，1650年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭达玛斯基诺（保加利亚的加布罗沃地方人，阿索斯圣山的悉蓝达尔修道院修士，1771年）
+            Short: 新殉道司祭达玛斯基诺（保加利亚的加布罗沃地方人，阿索斯圣山的悉蓝达尔修道院修士，1771年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣雅各（塔冷泰斯人，429年）
+            Short: 圣雅各（塔冷泰斯人，429年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011605'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 西奈山的圣格里高利以及他的诸位圣弟子：奈斯托尔、玛尔提尼、但以理、息所伊斯、佐西玛、格里高利
+            Short: 西奈山的圣格里高利以及他的诸位圣弟子：奈斯托尔、玛尔提尼、但以理、息所伊斯、佐西玛、格里高利
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011606'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者尼科拉（米提里尼地方，1777年）
+            Short: 新殉道者尼科拉（米提里尼地方，1777年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011607'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣西格博尔特（东盎格鲁国王，殉道者，635年）
+            Short: 圣西格博尔特（东盎格鲁国王，殉道者，635年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011608'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣福尔赛（布尔堡人，东盎格鲁及蓝吉地方的光照者）
+            Short: 圣福尔赛（布尔堡人，东盎格鲁及蓝吉地方的光照者）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+  zh/Hant:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬節後第卅六周瞻禮三
+            Short: 五旬節後第卅六周瞻禮三
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '333'
+                  reading: 'Heb_12:25-26, 13:22-25'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '43'
+                  reading: Mk_10:2-12
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1785'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬禮神聖而滿被讚揚者聖裴特若使徒之尊貴鎖鏈
+            Short: 敬禮神聖而滿被讚揚者聖裴特若使徒之尊貴鎖鏈
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '29'
+                  reading: Acts_12:1-11
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: Jn_21:15-25
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '229'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者斯佩弗西普，艾勒弗西普及麥勒弗西普三兄弟，他們的祖母萊奧尼拉，以及協同他們就義者：.奈翁、圖爾伯、及殉道女約尼拉（以上均是卡帕多西亞地方的殉道者，161-180年間）
+            Short: 殉道者斯佩弗西普，艾勒弗西普及麥勒弗西普三兄弟，他們的祖母萊奧尼拉，以及協同他們就義者：.奈翁、圖爾伯、及殉道女約尼拉（以上均是卡帕多西亞地方的殉道者，161-180年間）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '231'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者達那克斯（馬其頓地方的誦經士，二世紀）
+            Short: 殉道者達那克斯（馬其頓地方的誦經士，二世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖羅彌洛（阿索斯聖山及塞爾維亞的拉伐尼卡地方修士，1375年）
+            Short: 聖羅彌洛（阿索斯聖山及塞爾維亞的拉伐尼卡地方修士，1375年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖奧諾拉特（阿爾勒總主教，樂林思修道院的創建者，429年）
+            Short: 聖奧諾拉特（阿爾勒總主教，樂林思修道院的創建者，429年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1436'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 蒙福者瑪克西默（沃洛格達的托特瑪地方人，聖愚，1650年）
+            Short: 蒙福者瑪克西默（沃洛格達的托特瑪地方人，聖愚，1650年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭達瑪斯基諾（保加利亞的加布羅沃地方人，阿索斯聖山的悉藍達爾修道院修士，1771年）
+            Short: 新殉道司祭達瑪斯基諾（保加利亞的加布羅沃地方人，阿索斯聖山的悉藍達爾修道院修士，1771年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖雅各（塔冷泰斯人，429年）
+            Short: 聖雅各（塔冷泰斯人，429年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011605'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 西奈山的聖格里高利以及他的諸位聖弟子：奈斯托爾、瑪爾提尼、達尼伊爾、息所伊斯、佐西瑪、格里高利
+            Short: 西奈山的聖格里高利以及他的諸位聖弟子：奈斯托爾、瑪爾提尼、達尼伊爾、息所伊斯、佐西瑪、格里高利
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011606'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者尼科拉（米提里尼地方，1777年）
+            Short: 新殉道者尼科拉（米提里尼地方，1777年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011607'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖西格博爾特（東盎格魯國王，殉道者，635年）
+            Short: 聖西格博爾特（東盎格魯國王，殉道者，635年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011608'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖福爾賽（布爾堡人，東盎格魯及藍吉地方的光照者）
+            Short: 聖福爾賽（布爾堡人，東盎格魯及藍吉地方的光照者）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬節後第卅六周瞻禮三
+            Short: 五旬節後第卅六周瞻禮三
+          ref: ~
+          services:
+            -
+              type: prime
+            -
+              readings:
+                -
+                  effWeek: '31'
+                  pericope: '333'
+                  reading: 'Heb_12:25-26, 13:22-25'
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '43'
+                  reading: Mk_10:2-12
+                  type: gospel
+                -
+                  effWeek: '31'
+                  pericope: '50'
+                  reading: Jas_1:1-18
+                  type: apostol
+                -
+                  effWeek: '31'
+                  pericope: '44'
+                  reading: Mk_10:11-16
+                  type: gospel
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '1785'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 敬禮神聖而滿被讚揚者聖裴特若使徒之尊貴鎖鏈
+            Short: 敬禮神聖而滿被讚揚者聖裴特若使徒之尊貴鎖鏈
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '29'
+                  reading: Acts_12:1-11
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '67'
+                  reading: Jn_21:15-25
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '2'
+        -
+          cid: '229'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者斯佩弗西普，艾勒弗西普及麥勒弗西普三兄弟，他們的祖母萊奧尼拉，以及協同他們就義者：.奈翁、圖爾伯、及殉道女約尼拉（以上均是卡帕多西亞地方的殉道者，161-180年間）
+            Short: 殉道者斯佩弗西普，艾勒弗西普及麥勒弗西普三兄弟，他們的祖母萊奧尼拉，以及協同他們就義者：.奈翁、圖爾伯、及殉道女約尼拉（以上均是卡帕多西亞地方的殉道者，161-180年間）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '231'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 殉道者達那克斯（馬其頓地方的誦經士，二世紀）
+            Short: 殉道者達那克斯（馬其頓地方的誦經士，二世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖羅彌洛（阿索斯聖山及塞爾維亞的拉伐尼卡地方修士，1375年）
+            Short: 聖羅彌洛（阿索斯聖山及塞爾維亞的拉伐尼卡地方修士，1375年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖奧諾拉特（阿爾勒總主教，樂林思修道院的創建者，429年）
+            Short: 聖奧諾拉特（阿爾勒總主教，樂林思修道院的創建者，429年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '1436'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 蒙福者瑪克西默（沃洛格達的托特瑪地方人，聖愚，1650年）
+            Short: 蒙福者瑪克西默（沃洛格達的托特瑪地方人，聖愚，1650年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭達瑪斯基諾（保加利亞的加布羅沃地方人，阿索斯聖山的悉藍達爾修道院修士，1771年）
+            Short: 新殉道司祭達瑪斯基諾（保加利亞的加布羅沃地方人，阿索斯聖山的悉藍達爾修道院修士，1771年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖雅各（塔冷泰斯人，429年）
+            Short: 聖雅各（塔冷泰斯人，429年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011605'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 西奈山的聖格里高利以及他的諸位聖弟子：奈斯托爾、瑪爾提尼、達尼伊爾、息所伊斯、佐西瑪、格里高利
+            Short: 西奈山的聖格里高利以及他的諸位聖弟子：奈斯托爾、瑪爾提尼、達尼伊爾、息所伊斯、佐西瑪、格里高利
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011606'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道者尼科拉（米提里尼地方，1777年）
+            Short: 新殉道者尼科拉（米提里尼地方，1777年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011607'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖西格博爾特（東盎格魯國王，殉道者，635年）
+            Short: 聖西格博爾特（東盎格魯國王，殉道者，635年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '011608'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖福爾賽（布爾堡人，東盎格魯及藍吉地方的光照者）
+            Short: 聖福爾賽（布爾堡人，東盎格魯及藍吉地方的光照者）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 2

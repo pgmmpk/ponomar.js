@@ -1,0 +1,1322 @@
+---
+date: 2019/1/6
+langs:
+  cu:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9287'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сꙋббѡ́та л҃д-ѧ седми́цы по пѧтидесѧ́тницѣ'
+            Short: Сꙋббѡ́та
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '163'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃о́е бг҃оѧвле́нїе гдⷭ҇а бг҃а и҆ сп҃са на́шегѡ і҆и҃са хрⷭ҇та̀'
+            Short: 'Ст҃о́е бг҃оѧвле́нїе'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-11
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: 'Tit_2:11-14, 3:4-7'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '01060098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника і҆ѡа́нна (1942)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9287'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Сꙋббѡ́та л҃д-ѧ седми́цы по пѧтидесѧ́тницѣ'
+            Short: Сꙋббѡ́та
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '163'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃о́е бг҃оѧвле́нїе гдⷭ҇а бг҃а и҆ сп҃са на́шегѡ і҆и҃са хрⷭ҇та̀'
+            Short: 'Ст҃о́е бг҃оѧвле́нїе'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-11
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: 'Tit_2:11-14, 3:4-7'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '01060098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ст҃а́гѡ мч҃ника і҆ѡа́нна (1942)'
+            Short: 'Ст҃а́гѡ мч҃ника'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+  cu/ru:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9287'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Суббота 34-ой седмицы по Пятидесятнице'
+            Short: Сꙋббѡ́та
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '163'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Богоявлением называется праздник потому, что при Крещении Господа явилась миру Пресвятая Троица (Мф. 3, 13—17; Мк. 1, 9—11; Лк. 3, 21—22). Бог Отец глаголал с небес о Сыне, Сын крестился от святого Предтечи Господня Иоанна, и Дух Святой сошел на Сына в виде голубя. С древних времен этот праздник назывался днем Просвещения и праздником Светов, потому что Бог есть Свет и явился просветить «седящих во тме и сени смертней» (Мф. 4, 16) и спасти по благодати падший человеческий род.    В древней Церкви был обычай крестить оглашенных в навечерие Богоявления, так как Крещение и является духовным просвещением людей.     Начало праздника Богоявления восходит к апостольским временам. О нем упоминается в Апостольских постановлениях. От II века сохранилось свидетельство святителя Климента Александрийского о праздновании Крещения Господня и совершаемом пред этим праздником ночном бдении.     В III веке на праздник Богоявления известны беседы при Богослужении святого мученика Ипполита и святого Григория Чудотворца. В последующие столетия—с IV по IX век—все великие отцы Церкви — Григорий Богослов, Иоанн Златоуст, Амвросий Медиоланский, Иоанн Дамаскин проводили особые беседы о празднике Богоявления. Преподобные Иосиф Студит, Феофан и Византии написали много песнопений на этот праздник, которые поются и сейчас за Богослужением. Преподобный Иоанн Дамаскин говорил, что Господь крестился не потому, что Сам имел нужду в очищении,  но чтобы, «водами погребсти человеческий грех», исполнить закон, открыть таинство Святой Троицы и, наконец, освятить «водное естество» и подать нам образ и пример Крещения.    Святая Церковь в празднике Крещения Господня утверждает нашу веру в высочайшую, непостижимую разумом тайну Трех Лиц Единого Бога и научает нас равночестно исповедовать и прославлять Святую Троицу Единосущную и Нераздельную; обличает и разрушает заблуждения древних лжеучителей, пытавшихся мыслью и словом человеческим объять Творца мира. Церковь показывает необходимость Крещения для верующих во Христа, внушает нам чувство глубокой благодарности к Просветителю и Очистителю нашего греховного естества. Она учит, что наше спасение и очищение от грехов возможно только силою благодати Святого Духа и потому необходимо достойно хранить эти благодатные дары святого Крещения для сохранения в чистоте той драгоценной одежды, о которой говорит нам праздник Крещения: «Елицы во Христа крестистеся, во Христа облекостеся» (Гал. 3, 27). \n"
+          menologion: ''
+          name:
+            Nominative: 'Святое Богоявление. Крещение Господа Бога и Спаса нашего Иисуса Христа.'
+            Short: 'Святое Богоявление.'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-11
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: 'Tit_2:11-14, 3:4-7'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '01060098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Иоанна (1942)'
+            Short: 'Мч. Иоанна (1942)'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9287'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Суббота 34-ой седмицы по Пятидесятнице'
+            Short: Сꙋббѡ́та
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '163'
+          info: ~
+          life:
+            Copyright: 'Протоиерей Сергий Булгаков. Настольная Книга.'
+            Id: bulgakov
+            Text: "\n    Богоявлением называется праздник потому, что при Крещении Господа явилась миру Пресвятая Троица (Мф. 3, 13—17; Мк. 1, 9—11; Лк. 3, 21—22). Бог Отец глаголал с небес о Сыне, Сын крестился от святого Предтечи Господня Иоанна, и Дух Святой сошел на Сына в виде голубя. С древних времен этот праздник назывался днем Просвещения и праздником Светов, потому что Бог есть Свет и явился просветить «седящих во тме и сени смертней» (Мф. 4, 16) и спасти по благодати падший человеческий род.    В древней Церкви был обычай крестить оглашенных в навечерие Богоявления, так как Крещение и является духовным просвещением людей.     Начало праздника Богоявления восходит к апостольским временам. О нем упоминается в Апостольских постановлениях. От II века сохранилось свидетельство святителя Климента Александрийского о праздновании Крещения Господня и совершаемом пред этим праздником ночном бдении.     В III веке на праздник Богоявления известны беседы при Богослужении святого мученика Ипполита и святого Григория Чудотворца. В последующие столетия—с IV по IX век—все великие отцы Церкви — Григорий Богослов, Иоанн Златоуст, Амвросий Медиоланский, Иоанн Дамаскин проводили особые беседы о празднике Богоявления. Преподобные Иосиф Студит, Феофан и Византии написали много песнопений на этот праздник, которые поются и сейчас за Богослужением. Преподобный Иоанн Дамаскин говорил, что Господь крестился не потому, что Сам имел нужду в очищении,  но чтобы, «водами погребсти человеческий грех», исполнить закон, открыть таинство Святой Троицы и, наконец, освятить «водное естество» и подать нам образ и пример Крещения.    Святая Церковь в празднике Крещения Господня утверждает нашу веру в высочайшую, непостижимую разумом тайну Трех Лиц Единого Бога и научает нас равночестно исповедовать и прославлять Святую Троицу Единосущную и Нераздельную; обличает и разрушает заблуждения древних лжеучителей, пытавшихся мыслью и словом человеческим объять Творца мира. Церковь показывает необходимость Крещения для верующих во Христа, внушает нам чувство глубокой благодарности к Просветителю и Очистителю нашего греховного естества. Она учит, что наше спасение и очищение от грехов возможно только силою благодати Святого Духа и потому необходимо достойно хранить эти благодатные дары святого Крещения для сохранения в чистоте той драгоценной одежды, о которой говорит нам праздник Крещения: «Елицы во Христа крестистеся, во Христа облекостеся» (Гал. 3, 27). \n"
+          menologion: ''
+          name:
+            Nominative: 'Святое Богоявление. Крещение Господа Бога и Спаса нашего Иисуса Христа.'
+            Short: 'Святое Богоявление.'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-11
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: 'Tit_2:11-14, 3:4-7'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: ~
+        -
+          cid: '01060098'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Мч. Иоанна (1942)'
+            Short: 'Мч. Иоанна (1942)'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+  el:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9287'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Σάββατον
+            Short: Σάββατον
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '163'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Τὰ Ἅγια Θεοφάνεια τοῦ Κυρίου ἡμῶν Ἰησοῦ Χρηστοῦ'
+            Short: 'Τὰ Ἅγια Θεοφάνεια τοῦ Κυρίου ἡμῶν Ἰησοῦ Χρηστοῦ'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-11
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: 'Tit_2:11-14, 3:4-7'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '8'
+        -
+          cid: '01061100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ῥωμανὸς ὁ Λακεδαίμονας'
+            Short: 'Ἅγιος Ῥωμανὸς ὁ Λακεδαίμονας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01060295'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Εὐάγριος'
+            Short: 'Ὅσιος Εὐάγριος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01060395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Σέργιος ὁ ἐκ Ῥωσίας'
+            Short: 'Ὅσιος Σέργιος ὁ ἐκ Ῥωσίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01060495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Νικόλαος'
+            Short: 'Ὅσιος Νικόλαος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01060595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἄσσαντ ὁ Ῥάπτης'
+            Short: 'Ἅγιος Ἄσσαντ ὁ Ῥάπτης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01060695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Γεώργιος ὁ Πέρσης'
+            Short: 'Ὅσιος Γεώργιος ὁ Πέρσης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01060795'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἀνδρέας, οἱ δύο θυγατέρες τοῦ, καὶ οἱ νεομάρτυρες γυναῖκες Λυδία, Δομνίκη καὶ Μαρία'
+            Short: 'Ἅγιος Ἀνδρέας, οἱ δύο θυγατέρες τοῦ, καὶ οἱ νεομάρτυρες γυναῖκες Λυδία, Δομνίκη καὶ Μαρία'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01061200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Θεοφάνης ὁ Ἔγκλειστος'
+            Short: 'Ὅσιος Θεοφάνης ὁ Ἔγκλειστος'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9287'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: Σάββατον
+            Short: Σάββατον
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '163'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Τὰ Ἅγια Θεοφάνεια τοῦ Κυρίου ἡμῶν Ἰησοῦ Χρηστοῦ'
+            Short: 'Τὰ Ἅγια Θεοφάνεια τοῦ Κυρίου ἡμῶν Ἰησοῦ Χρηστοῦ'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-11
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: 'Tit_2:11-14, 3:4-7'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '8'
+        -
+          cid: '01061100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ῥωμανὸς ὁ Λακεδαίμονας'
+            Short: 'Ἅγιος Ῥωμανὸς ὁ Λακεδαίμονας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01060295'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Εὐάγριος'
+            Short: 'Ὅσιος Εὐάγριος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01060395'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Σέργιος ὁ ἐκ Ῥωσίας'
+            Short: 'Ὅσιος Σέργιος ὁ ἐκ Ῥωσίας'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01060495'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Νικόλαος'
+            Short: 'Ὅσιος Νικόλαος'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01060595'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἄσσαντ ὁ Ῥάπτης'
+            Short: 'Ἅγιος Ἄσσαντ ὁ Ῥάπτης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01060695'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Γεώργιος ὁ Πέρσης'
+            Short: 'Ὅσιος Γεώργιος ὁ Πέρσης'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01060795'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ἅγιος Ἀνδρέας, οἱ δύο θυγατέρες τοῦ, καὶ οἱ νεομάρτυρες γυναῖκες Λυδία, Δομνίκη καὶ Μαρία'
+            Short: 'Ἅγιος Ἀνδρέας, οἱ δύο θυγατέρες τοῦ, καὶ οἱ νεομάρτυρες γυναῖκες Λυδία, Δομνίκη καὶ Μαρία'
+          ref: ~
+          src: menaion
+          type: ~
+        -
+          cid: '01061200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Ὅσιος Θεοφάνης ὁ Ἔγκλειστος'
+            Short: 'Ὅσιος Θεοφάνης ὁ Ἔγκλειστος'
+          ref: ~
+          src: menaion
+          type: ~
+      tone: 8
+  en:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9287'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Saturday of the 34<sup>th</sup> Week after Pentecost'
+            Short: Saturday
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '163'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>Theophany  * Bogoyavlenie denotes the feast whereby through the Baptism of the Lord the Most Holy Trinity has been revealed to the world (Mt. 3: 13-17; Mk. 1: 9-11;  Lk. 3: 21-22). God the Father spoke from Heaven about the Son, the Son was baptised by the holy ForeRunner of the Lord John, and the Holy Spirit descended upon the Son in the form of a Dove. From ancient times this feast was called the Day of Illumination and the Feast of Lights, since that God is Light and has appeared to illumine “those sitting in darkness and the shadow of death” (Mt. 4: 16) and to save through grace the fallen race of mankind.</p><p>In the ancient Church it was the custom to baptise catechumens at the vespers of Theophany, such that Baptism also is revealed as a spiritual illumination of mankind.</p><p>The origin of the feast of Theophany came about in Apostolic times. Mention is made concerning it in the Apostolic Decretals. From the II Century there is preserved the testimony of Saint Clement of Alexandria concerning the celebration of the Baptism of the Lord and performing the night vigil before this feast.</p><p>In the III Century on the feast of Theophany there is known the dialogue concerning Divine-services between the holy martyr Hyppolitus and Saint Gregory the WonderWorker. In the following centuries—from the IV to IX Century—all the great fathers of the Church—Gregory the Theologian, John Chrysostomos, Ambrose of Milan, John Damascene, had their own comments about the feast of Theophany. The monks Joseph the Studite, Theophanes and Byzantios composed much liturgical music for this feastday, which even now  is sung for Divine-services. The Monk John Damascene said, that the Lord was baptised not because He Himself had need for cleansing, but so that “by water to bury human sin,” to fulfill the law, to reveal the mystery of the Holy Trinity, and finally, to sanctify “watery nature” and to proffer it to us in the form and example of Baptism.</p><p>On the feastday of the Baptism of Christ, Holy Church asserts our faith in the mystery—most sublime and incomprehensible to human intellect—of the Three Persons of the One God. It teaches us to confess and glorify as equally-honoured the Holy Trinity One-Essence and Undivided. It exposes and collapses the fallacies of the ancient pseudo-teachings, which attempted with reason and by human terms to explain the Creator of the world. The Church shews the necessity of Baptism for believers in Christ, and it inspires for us a sense of deep gratitude for the Illumination and Purification of our sinful nature. The Church teaches that our salvation and cleansing from sin is possible only by the power of the grace of the Holy Spirit, wherefore it is necessary to preserve worthily these gifts of the grace of holy Baptism—keeping clean this priceless garb, about which the feast of the Baptism tells us: “As many as have been baptised into Christ, have put on Christ” (Gal. 3:27). [Translator Note: literally rendered from Greek “Theophany” means “Manifestation of God,” whereas “Epiphany” connotes “Manifest upon”; “Theophany” is the more accurate rendering of Slavonic “Bogoyavlenie.”]</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Holy Theophany: the Baptism of Our Lord, God, and Saviour Jesus Christ'
+            Short: 'Holy Theophany'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-11
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: 'Tit_2:11-14, 3:4-7'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '8'
+        -
+          cid: '01061100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Romanus'
+            Short: 'Hieromartyr Romanus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Holy Hierarch Melanius, Bishop of Rennes'
+            Short: 'St Melanius'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Andrew the Presbyter and those with him: Martyrs Lydia, Domnica, Maria and two of his daughters († 1919)'
+            Short: 'HM Andrew and comp.'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9287'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Saturday of the 34<sup>th</sup> Week after Pentecost'
+            Short: Saturday
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '163'
+          info: ~
+          life:
+            Copyright: 'Bulgakov Handbook. Copyright 1997 by translator Fr. S. Janos.'
+            Id: bulgakov
+            Text: "\n<p>Theophany  * Bogoyavlenie denotes the feast whereby through the Baptism of the Lord the Most Holy Trinity has been revealed to the world (Mt. 3: 13-17; Mk. 1: 9-11;  Lk. 3: 21-22). God the Father spoke from Heaven about the Son, the Son was baptised by the holy ForeRunner of the Lord John, and the Holy Spirit descended upon the Son in the form of a Dove. From ancient times this feast was called the Day of Illumination and the Feast of Lights, since that God is Light and has appeared to illumine “those sitting in darkness and the shadow of death” (Mt. 4: 16) and to save through grace the fallen race of mankind.</p><p>In the ancient Church it was the custom to baptise catechumens at the vespers of Theophany, such that Baptism also is revealed as a spiritual illumination of mankind.</p><p>The origin of the feast of Theophany came about in Apostolic times. Mention is made concerning it in the Apostolic Decretals. From the II Century there is preserved the testimony of Saint Clement of Alexandria concerning the celebration of the Baptism of the Lord and performing the night vigil before this feast.</p><p>In the III Century on the feast of Theophany there is known the dialogue concerning Divine-services between the holy martyr Hyppolitus and Saint Gregory the WonderWorker. In the following centuries—from the IV to IX Century—all the great fathers of the Church—Gregory the Theologian, John Chrysostomos, Ambrose of Milan, John Damascene, had their own comments about the feast of Theophany. The monks Joseph the Studite, Theophanes and Byzantios composed much liturgical music for this feastday, which even now  is sung for Divine-services. The Monk John Damascene said, that the Lord was baptised not because He Himself had need for cleansing, but so that “by water to bury human sin,” to fulfill the law, to reveal the mystery of the Holy Trinity, and finally, to sanctify “watery nature” and to proffer it to us in the form and example of Baptism.</p><p>On the feastday of the Baptism of Christ, Holy Church asserts our faith in the mystery—most sublime and incomprehensible to human intellect—of the Three Persons of the One God. It teaches us to confess and glorify as equally-honoured the Holy Trinity One-Essence and Undivided. It exposes and collapses the fallacies of the ancient pseudo-teachings, which attempted with reason and by human terms to explain the Creator of the world. The Church shews the necessity of Baptism for believers in Christ, and it inspires for us a sense of deep gratitude for the Illumination and Purification of our sinful nature. The Church teaches that our salvation and cleansing from sin is possible only by the power of the grace of the Holy Spirit, wherefore it is necessary to preserve worthily these gifts of the grace of holy Baptism—keeping clean this priceless garb, about which the feast of the Baptism tells us: “As many as have been baptised into Christ, have put on Christ” (Gal. 3:27). [Translator Note: literally rendered from Greek “Theophany” means “Manifestation of God,” whereas “Epiphany” connotes “Manifest upon”; “Theophany” is the more accurate rendering of Slavonic “Bogoyavlenie.”]</p>\n"
+          menologion: ''
+          name:
+            Nominative: 'Holy Theophany: the Baptism of Our Lord, God, and Saviour Jesus Christ'
+            Short: 'Holy Theophany'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-11
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: 'Tit_2:11-14, 3:4-7'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: gospel
+              type: liturgy
+            -
+              type: liturgy
+          src: menaion
+          type: '8'
+        -
+          cid: '01061100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Hieromartyr Romanus'
+            Short: 'Hieromartyr Romanus'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Holy Hierarch Melanius, Bishop of Rennes'
+            Short: 'St Melanius'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'New Hieromartyr Andrew the Presbyter and those with him: Martyrs Lydia, Domnica, Maria and two of his daughters († 1919)'
+            Short: 'HM Andrew and comp.'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+  fr:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9287'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Samedi de la 34-me semaine après le Pentecôte'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '163'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sainte Théophanie de notre Seigneur'
+            Short: 'Sainte Théophanie'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-11
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: 'Tit_2:11-14, 3:4-7'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '8'
+        -
+          cid: '01061100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Romanos de Lacédémone (Sparte)'
+            Short: 'St. Romanos'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01061200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Théophane le reclus, Evêque de Tambov et Vladimir'
+            Short: 'St. Théophane'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01060297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Melaine, Illuminateur de Rennes'
+            Short: 'St. Melaine'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9287'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Samedi de la 34-me semaine après le Pentecôte'
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '163'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'Sainte Théophanie de notre Seigneur'
+            Short: 'Sainte Théophanie'
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-11
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: 'Tit_2:11-14, 3:4-7'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '8'
+        -
+          cid: '01061100'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Romanos de Lacédémone (Sparte)'
+            Short: 'St. Romanos'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01061200'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Théophane le reclus, Evêque de Tambov et Vladimir'
+            Short: 'St. Théophane'
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '01060297'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 'St. Melaine, Illuminateur de Rennes'
+            Short: 'St. Melaine'
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+  zh/Hans:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9287'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬节后第卅四周安息日
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '163'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 主显节——我们的主，上帝，救主，耶稣基督神性的显现，也即基督受浸礼节
+            Short: 主显节——我们的主，上帝，救主，耶稣基督神性的显现，也即基督受浸礼节
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-11
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: 'Tit_2:11-14, 3:4-7'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '8'
+        -
+          cid: '010601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭罗玛诺（拉切戴莫尼亚地方人，于1695年被土耳其人斩首）
+            Short: 新殉道司祭罗玛诺（拉切戴莫尼亚地方人，于1695年被土耳其人斩首）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭，首席司祭安德列、他的妻子利迪亚、他的岳母多弥尼卡、他的两个女儿，以及他的女仆玛利亚（他们于1919年时候在乌苏里斯克就义）
+            Short: 新殉道司祭，首席司祭安德列、他的妻子利迪亚、他的岳母多弥尼卡、他的两个女儿，以及他的女仆玛利亚（他们于1919年时候在乌苏里斯克就义）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣劳伦提（切尔尼格夫地方人，1950年）
+            Short: 圣劳伦提（切尔尼格夫地方人，1950年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 可敬的马卡里乌斯（圣山阿托斯，1431年）
+            Short: 可敬的马卡里乌斯（圣山阿托斯，1431年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣斯科汀（基尔肯尼的隐士，6世纪）
+            Short: 圣斯科汀（基尔肯尼的隐士，6世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9287'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬节后第卅四周安息日
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '163'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 主显节——我们的主，上帝，救主，耶稣基督神性的显现，也即基督受浸礼节
+            Short: 主显节——我们的主，上帝，救主，耶稣基督神性的显现，也即基督受浸礼节
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-11
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: 'Tit_2:11-14, 3:4-7'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '8'
+        -
+          cid: '010601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭罗玛诺（拉切戴莫尼亚地方人，于1695年被土耳其人斩首）
+            Short: 新殉道司祭罗玛诺（拉切戴莫尼亚地方人，于1695年被土耳其人斩首）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭，首席司祭安德列、他的妻子利迪亚、他的岳母多弥尼卡、他的两个女儿，以及他的女仆玛利亚（他们于1919年时候在乌苏里斯克就义）
+            Short: 新殉道司祭，首席司祭安德列、他的妻子利迪亚、他的岳母多弥尼卡、他的两个女儿，以及他的女仆玛利亚（他们于1919年时候在乌苏里斯克就义）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣劳伦提（切尔尼格夫地方人，1950年）
+            Short: 圣劳伦提（切尔尼格夫地方人，1950年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 可敬的马卡里乌斯（圣山阿托斯，1431年）
+            Short: 可敬的马卡里乌斯（圣山阿托斯，1431年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 圣斯科汀（基尔肯尼的隐士，6世纪）
+            Short: 圣斯科汀（基尔肯尼的隐士，6世纪）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+  zh/Hant:
+    ponomar:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9287'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬節後第卅四周安息日
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '163'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 主顯節——我們的主，上帝，救主，耶穌基督神性的顯現，也即基督受浸禮節
+            Short: 主顯節——我們的主，上帝，救主，耶穌基督神性的顯現，也即基督受浸禮節
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-11
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: 'Tit_2:11-14, 3:4-7'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '8'
+        -
+          cid: '010601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭羅瑪諾（拉切戴莫尼亞地方人，於1695年被土耳其人斬首）
+            Short: 新殉道司祭羅瑪諾（拉切戴莫尼亞地方人，於1695年被土耳其人斬首）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭，首席司祭安德列、他的妻子利迪亞、他的岳母多彌尼卡、他的兩個女兒，以及他的女僕瑪利亞（他們於1919年時候在烏蘇里斯克就義）
+            Short: 新殉道司祭，首席司祭安德列、他的妻子利迪亞、他的岳母多彌尼卡、他的兩個女兒，以及他的女僕瑪利亞（他們於1919年時候在烏蘇里斯克就義）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖勞倫提（切爾尼格夫地方人，1950年）
+            Short: 聖勞倫提（切爾尼格夫地方人，1950年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 可敬的馬卡里烏斯（聖山阿托斯，1431年）
+            Short: 可敬的馬卡里烏斯（聖山阿托斯，1431年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖斯科汀（基爾肯尼的隱士，六世紀）
+            Short: 聖斯科汀（基爾肯尼的隱士，六世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
+    ponomarReordered:
+      fastings: '1111111'
+      saints:
+        -
+          cid: '9287'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 五旬節後第卅四周安息日
+          ref: ~
+          services:
+            -
+              type: liturgy
+          src: pentecostarion
+          type: '0'
+        -
+          cid: '163'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 主顯節——我們的主，上帝，救主，耶穌基督神性的顯現，也即基督受浸禮節
+            Short: 主顯節——我們的主，上帝，救主，耶穌基督神性的顯現，也即基督受浸禮節
+          ref: ~
+          services:
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '2'
+                  reading: Mk_1:9-11
+                  type: '1'
+              type: matins
+            -
+              readings:
+                -
+                  effWeek: ~
+                  pericope: '302'
+                  reading: 'Tit_2:11-14, 3:4-7'
+                  type: apostol
+                -
+                  effWeek: ~
+                  pericope: '6'
+                  reading: Mt_3:13-17
+                  type: gospel
+              type: liturgy
+          src: menaion
+          type: '8'
+        -
+          cid: '010601'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭羅瑪諾（拉切戴莫尼亞地方人，於1695年被土耳其人斬首）
+            Short: 新殉道司祭羅瑪諾（拉切戴莫尼亞地方人，於1695年被土耳其人斬首）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010600'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 新殉道司祭，首席司祭安德列、他的妻子利迪亞、他的岳母多彌尼卡、他的兩個女兒，以及他的女僕瑪利亞（他們於1919年時候在烏蘇里斯克就義）
+            Short: 新殉道司祭，首席司祭安德列、他的妻子利迪亞、他的岳母多彌尼卡、他的兩個女兒，以及他的女僕瑪利亞（他們於1919年時候在烏蘇里斯克就義）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010602'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖勞倫提（切爾尼格夫地方人，1950年）
+            Short: 聖勞倫提（切爾尼格夫地方人，1950年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010603'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 可敬的馬卡里烏斯（聖山阿托斯，1431年）
+            Short: 可敬的馬卡里烏斯（聖山阿托斯，1431年）
+          ref: ~
+          src: menaion
+          type: '0'
+        -
+          cid: '010604'
+          info: ~
+          life: ~
+          menologion: ''
+          name:
+            Nominative: 聖斯科汀（基爾肯尼的隱士，六世紀）
+            Short: 聖斯科汀（基爾肯尼的隱士，六世紀）
+          ref: ~
+          src: menaion
+          type: '0'
+      tone: 8
