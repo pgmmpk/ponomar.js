@@ -26,7 +26,7 @@ make
 ### Stress testing
 Stress does comparison with legacy PERL Ponomar software. Steps are:
 
-1. Run Ponomar's `Dump.pm` tool to dump Ponomar output for each day and each language. This creates
+1. Run Ponomar's `Dump.pm` tool to dump PERL Ponomar output for each day and each language. This creates
    a number of JSON files.
     ```
     mkdir dump
@@ -41,7 +41,7 @@ Stress does comparison with legacy PERL Ponomar software. Steps are:
     ```
 2. Set an environment variable `PONOMAR_DUMP` that points to the root directory containing these
    JSON files.
-3. Run `make stress` to make this code repeat the same compuations in JavaScript and comapre
+3. Run `make stress` to make this code repeat the same computaions in JavaScript and compare
    the result with the dumped JSON files.
     ```
     PONOMAR_DB=ponomar/Ponomar/languages \
