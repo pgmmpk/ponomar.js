@@ -4,7 +4,7 @@ lint:
 	npm run lint
 
 test:
-	npm run test
+	PONOMAR_DB=ponomar/Ponomar/languages npm run test
 
 stress2019:
 	npm run stress201901

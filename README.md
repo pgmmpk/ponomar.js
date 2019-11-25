@@ -9,6 +9,12 @@ Includes usefult tools:
 
 ## Building
 
+If you checket out withor `--recursive` flag, you need to fetch ponomar data sub-module with:
+```
+git submodule update --init --recursive
+```
+
+Then, lint, test, and build:
 ```bash
 npm i
 make
@@ -21,13 +27,13 @@ Stress does comparison with legacy PERL Ponomar software. Steps are:
    a number of JSON files.
     ```
     mkdir dump
-    PONOMAR_DB=../ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
+    PONOMAR_DB=ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
         Dump.pm 1/1/2019 4/1/2019 dump/201901
-    PONOMAR_DB=../ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
+    PONOMAR_DB=ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
         Dump.pm 4/1/2019 7/1/2019 dump/201904
-    PONOMAR_DB=../ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
+    PONOMAR_DB=ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
         Dump.pm 7/1/2019 10/1/2019 dump/201907
-    PONOMAR_DB=../ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
+    PONOMAR_DB=ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
         Dump.pm 10/1/2019 1/1/2020 dump/201910
     ```
 2. Set an environment variable `PONOMAR_DUMP` that points to the root directory containing these
@@ -35,7 +41,7 @@ Stress does comparison with legacy PERL Ponomar software. Steps are:
 3. Run `make stress` to make this code repeat the same compuations in JavaScript and comapre
    the result with the dumped JSON files.
     ```
-    PONOMAR_DB=../ponomar/Ponomar/languages \
+    PONOMAR_DB=ponomar/Ponomar/languages \
     PONOMAR_DUMP=dump \
     make stress
     ```
