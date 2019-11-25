@@ -1,5 +1,5 @@
 # ponomar.js
-[![Actions Status](https://github.com/pgmmpk/ponomar.js/workflows/nodejs/badge.svg)](https://github.com/pgmmpk/ponomar.js/actions)
+[![Actions Status](https://github.com/pgmmpk/ponomar.js/workflows/.github/workflows/nodejs.yml/badge.svg)](https://github.com/pgmmpk/ponomar.js/actions)
 
 JS libraries to compute liturgical readings.
 
