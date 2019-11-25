@@ -13,6 +13,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
+      with:
+        submodules: true
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
       with:
@@ -21,7 +23,7 @@ jobs:
       run: |
         npm ci
         npm run lint
-        npm run test
+        PONOMAR_DB=ponomar/Ponomar/languages npm run test
         npm run build
       env:
         CI: true
