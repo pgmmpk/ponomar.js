@@ -104,3 +104,28 @@ test('smoke', t => {
         },
     ]);
 });
+
+
+test('fasting', t => {
+    const PONOMAR_DB = process.env.PONOMAR_DB;
+    if (PONOMAR_DB === undefined) {
+        console.error('skipped');
+        return t.assert(true);
+    }
+    const date = new JDate({year: 2019, month: 1, day: 31});
+    const p = new Ponomar(PONOMAR_DB, date, 'en');
+    const fastingCode = p.fastingCode;
+
+    /*
+	fast_0000000: "Complete fast (no food)"
+	fast_0000001: "Xerophagy"
+	fast_0000011: "Food without oil"
+	fast_0000111: "Fast: Wine and oil allowed"
+	fast_0001111: "Fast: Wine, oil, and caviar allowed"
+	fast_0011111: "Fast: Fish, wine, and oil allowed"
+	fast_0111111: "Fast: No meat products"
+	fast_1111111: "No fast"
+	fast_0000010: "Fast: We consume wine but not oil"
+    */
+    t.is(fastingCode, '0000111');
+});
