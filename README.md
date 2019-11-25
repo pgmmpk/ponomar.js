@@ -11,7 +11,8 @@ Includes usefult tools:
 
 ## Building
 
-If you checket out withor `--recursive` flag, you need to fetch ponomar data sub-module with:
+If you checked out this repository without the `--recursive` flag, you need to
+fetch ponomar data sub-module with:
 ```
 git submodule update --init --recursive
 ```
