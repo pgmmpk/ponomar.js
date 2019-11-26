@@ -31,22 +31,22 @@ Stress does comparison with legacy PERL Ponomar software. Steps are:
     ```
     mkdir dump
     PONOMAR_DB=ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
-        Dump.pm 1/1/2019 4/1/2019 dump/201901
+        Dump.pm 1/1/2019 1/1/2020 dump/2019
     PONOMAR_DB=ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
-        Dump.pm 4/1/2019 7/1/2019 dump/201904
+        Dump.pm 1/1/2020 1/1/2021 dump/2020
     PONOMAR_DB=ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
-        Dump.pm 7/1/2019 10/1/2019 dump/201907
+        Dump.pm 1/1/2021 1/1/2022 dump/2021
     PONOMAR_DB=ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
-        Dump.pm 10/1/2019 1/1/2020 dump/201910
+        Dump.pm 1/1/2022 1/1/2023 dump/2022
+    PONOMAR_DB=ponomar/Ponomar/languages perl -I../perl-ponomar-api/lib \
+        Dump.pm 1/1/2023 1/1/2024 dump/2023
     ```
 2. Set an environment variable `PONOMAR_DUMP` that points to the root directory containing these
-   JSON files.
-3. Run `make stress` to make this code repeat the same computaions in JavaScript and compare
-   the result with the dumped JSON files.
+   JSON files. Optional (by default will use `ponomar/Ponomar/languages`)
+3. Run `make strss` (not a typo) to make this code repeat the same computaions in 
+   JavaScript and compare the result with the dumped JSON files.
     ```
-    PONOMAR_DB=ponomar/Ponomar/languages \
-    PONOMAR_DUMP=dump \
-    make stress
+    make strss
     ```
 
 ## Using
@@ -70,15 +70,15 @@ const jdate = JDate.fromGregorian({year: 2019, month: 11, day: 1});
 
 Input required:
 * Julian date (year, month, day)
-* longtitude
-* lattitude
+* longitude
+* latitude
 * local time offset from UTC (in hours)
 
 For example, to compute sunrize and sunset time in NYC on November 14 2019 (Gregorian),
 we need the following:
 * `JDate.fromGregorian({year: 2019, month: 11, day: 14})` - the date
-* `-74.02` - the longtitude
-* `40.72` - the lattitude
+* `-74.02` - the longitude
+* `40.72` - the latitude
 * `-5.0` - offset between local time and Greenwich time
 
 Putting all this together:
@@ -110,13 +110,14 @@ console.log(info.keyOfBoundaries)  // slavonic key of this year
 To use `Ponomar` API one needs:
 1. Date (a JDate object)
 2. Language (suported languages: `cu`, `cu/ru`, `en`, `fr`, `el`, `zh/Hans`, `zh/Hant`)
-3. Location of the Ponomar database
+3. Database object, representing Ponomar data files (see more below)
 
 ```js
-import { Ponomar, JDate } from 'Ponomar';
+import { Ponomar, JDate, DatabaseFs } from 'Ponomar';
 
+const db = new DatabaseFs('ponomar/Ponomar/languages').lang('en');
 const today = new JDate();
-const ponomar = new Ponomar('ponomar/Ponomar/languages', today, 'en');
+const ponomar = new Ponomar(db, today);
 
 console.log(ponomar.tone);
 // 8
@@ -131,3 +132,21 @@ ponomar.saints.forEach(saint => {
     });
 });
 ```
+
+#### Ponomar Database objects
+
+`Database` object represents liturgical data (Triodion, Pentecostarion, Menaion, etc.).
+It is an abstract class, that uses data access `Engine` to actually access data. There are
+several implementations of `Database` class.
+
+1. `DatabaseFs` - reads data from disk (can only be used with `node` programs as file
+   access is not available in browsers)
+   ```js
+   const db = new DatabaseFs('ponomar/Ponomar/languages');
+   ```
+
+2. `DatabaseHttp` - reads data (in JSON format) from a URL
+   ```js
+   const db = await DatabaseHttl.load('https://ponomar.net/db.json');
+   ```
+   Note that we load asynchronously.
