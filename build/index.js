@@ -1,8 +1,8 @@
 (function (global, factory) {
-    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('fs'), require('@innodatalabs/lxmlx-js')) :
-    typeof define === 'function' && define.amd ? define(['exports', 'fs', '@innodatalabs/lxmlx-js'], factory) :
-    (global = global || self, factory(global.ponomar = {}, global.fs, global.lxmlxJs));
-}(this, (function (exports, fs, lxmlxJs) { 'use strict';
+    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@innodatalabs/lxmlx-js'), require('fs')) :
+    typeof define === 'function' && define.amd ? define(['exports', '@innodatalabs/lxmlx-js', 'fs'], factory) :
+    (global = global || self, factory(global.ponomar = {}, global.lxmlx, global.fs));
+}(this, (function (exports, lxmlxJs, fs) { 'use strict';
 
     fs = fs && fs.hasOwnProperty('default') ? fs['default'] : fs;
 
@@ -602,55 +602,6 @@
         };
     }
 
-    class Database {
-        constructor(baseDir) {
-            const expectedFile = `${baseDir}/xml/Commands/Fasting.xml`;
-            if (!fs.existsSync(expectedFile)) {
-                throw new Error('bad baseDir: ' + baseDir);
-            }
-
-            this.baseDir = baseDir;
-        }
-
-        findBottomUp(lang, path) {
-            const parts = lang.split('/');
-            for (let i = parts.length; i >= 0; i--) {
-                const p = [this.baseDir, ...parts.slice(0, i), path];
-                const candidate = p.join('/');
-
-                if (fs.existsSync(candidate)) {
-                    return candidate;
-                }
-            }
-
-            throw new Error('Failed to locate ' + path);
-        }
-
-        * findTopDown(lang, path) {
-            const parts = lang.split('/');
-            for (let i = 0; i <= parts.length; i++) {
-                const p = [this.baseDir, ...parts.slice(0, i), path];
-                const candidate = p.join('/');
-
-                if (fs.existsSync(candidate)) {
-                    yield candidate;
-                }
-            }
-        }
-
-        readBottomUp(lang, path) {
-            const fname = this.findBottomUp(lang, path);
-
-            return fs.readFileSync(fname);
-        }
-
-        *readTopDown(lang, path) {
-            for (const fname of this.findTopDown(lang, path)) {
-                yield fs.readFileSync(fname);
-            }
-        }
-    }
-
     /**
      * Use like this:
      * 
@@ -685,7 +636,7 @@
                     continue;
                 }
                 if (e.attrib.Cmd !== undefined) {
-                    const take = evaluate(e.attrib.Cmd, context);
+                    const take = context === undefined ? true : evaluate(e.attrib.Cmd, context);
                     if (!take) {
                         skip = true;
                         stack.push(true);
@@ -713,7 +664,8 @@
                 assert(e.tag === 'SAINT' || e.tag === 'DAY', e);
                 if (e.tag === 'SAINT') {
                     assert(e.attrib.CId !== undefined, e);
-                    const tone = e.attrib.Tone === undefined ? null : evaluate(e.attrib.Tone, context);
+                    const tone = e.attrib.Tone === undefined ? null :
+                        (context === undefined ? e.attrib.Tone : evaluate(e.attrib.Tone, context));
                     yield {
                         cid: e.attrib.CId,
                         // sid: e.attrib.SId,
@@ -787,7 +739,7 @@
                     }
                 } else if (e.tag === 'SERVICE') {
                     saint.type = e.attrib.Type || null;  // aka rank
-                    context.dRank = +saint.type;
+                    if (context !== undefined) context.dRank = +saint.type;
                 } else if (e.tag === 'SCRIPTURE') {
                     if (serviceType !== undefined) {
                         const reading = {
@@ -837,40 +789,16 @@
     }
 
     class Ponomar {
-        constructor(baseDir, date, lang) {
-            this.db = new Database(baseDir);
+        constructor(db, date) {
+            this.db = db;
             this.date = date;
-            this.lang = lang;
 
-            this.init();
-        }
-
-        init() {
             const year = this.date.year;
             const thisPascha = paschalion(year).pascha;
             const nextPascha = paschalion(year + 1).pascha;
             const lastPascha = paschalion(year - 1).pascha;
             const nday = this.date.daysSince(thisPascha);
             const ndayP = this.date.daysSince(lastPascha);
-
-            let directory;
-            let filename;
-            if (nday >= -70 && nday < 0) {
-                directory = 'triodion';
-                filename = -nday;
-            } else if (nday < -70) {
-                directory = 'pentecostarion';
-                filename = ndayP + 1;
-            } else {
-                directory = 'pentecostarion';
-                filename = nday + 1;
-            }
-
-            function dec2(x) {
-                return x < 10 ? '0' + x : '' + x;
-            }
-
-            this.saints = [];
 
             const ctx = {
                 dow: this.date.dayOfWeek,
@@ -882,37 +810,37 @@
                 GS: 1,
             };
 
-            // pentacostion
-            let filepath = `xml/${directory}/${dec2(filename)}.xml`;
-            this.saints.push(...parseSaints(
-                this.db.readBottomUp(this.lang, filepath),
-                'pentecostarion',
-                ctx,
-            ));
+            let text;
+            if (nday >= -70 && nday < 0) {
+                text = this.db.triodion(-nday);
+            } else if (nday < -70) {
+                text = this.db.pentecostarion(ndayP + 1);
+            } else {
+                text = this.db.pentecostarion(nday + 1);
+            }
 
+            this.saints = [];
+            // pentecostarion
+            this.saints.push(...parseSaints(text, 'pentecostarion', ctx));
             assert(this.saints.length > 0);
+
             this.tone = this.saints.reduce((total,x)=>x.type !== null ? +x.type : total, 0);
             if (this.tone === 0) {
                 this.tone = 8;
             }
-            // assert(this.tone > 0);  // -1 is a valid tone ? weird -MK
 
             // menaion
-            filepath = `xml/${dec2(this.date.month)}/${dec2(this.date.day)}.xml`;
-            this.saints.push(...parseSaints(
-                this.db.readBottomUp(this.lang, filepath),
-                'menaion',
-                ctx,
-            ));
+            text = this.db.menaion(this.date.month, this.date.day);
+            this.saints.push(...parseSaints(text, 'menaion', ctx));
 
             // read lives into saint object
-            this.saints.forEach(saint => {
+            for (const saint of this.saints) {
                 saint.info = null;
                 saint.life = null;
                 saint.name = null;
                 saint.ref  = null;
 
-                for (const text of this.db.readTopDown(this.lang, `xml/lives/${saint.cid}.xml`)) {
+                for (const text of this.db.lives(saint.cid)) {
                     const [s, svc] = parseLife(text, {...ctx, dRank: +saint.type});
                     for (const key of Object.keys(s)) {
                         if (key === 'name' || key === 'info') {
@@ -942,7 +870,7 @@
                         }
                     }
                 }
-            });
+            }
 
             this.dayRank = this.saints.reduce((tot, x) => {
                 if (x.type === null) return tot;
@@ -950,13 +878,11 @@
             }, -1);
             ctx.dRank = this.dayRank;
 
-            const fasting = [];
-            for (const text of this.db.readTopDown(this.lang, 'xml/Commands/Fasting.xml')) {
-                fasting.push(...parseFastingRules(text, ctx));
+            text = this.db.fasting();
+            for (const code of parseFastingRules(text, ctx)) {
+                this.fastingCode = code;  // last one wins...
             }
-            this.fastingCode = fasting[fasting.length-1];
 
-            this.commands = [];
             const haveLiturgy = this.saints.reduce((total, saint) => {
                 if (total) return true;
                 if (saint.services !== undefined) {
@@ -967,23 +893,25 @@
                 return false;
             }, false);
 
+            // load commands
+            this.commands = [];
             if (haveLiturgy) {
-                // load commands
-                this.commands.push(...parseCommands(
-                    this.db.readBottomUp(this.lang, 'xml/Commands/DivineLiturgy.xml'), ctx)
-                );
+                text = this.db.divineLiturgy();
+                this.commands.push(...parseCommands(text, ctx));
             }
         }
 
         execCommand(rank) {
-            this.saints.forEach(saint => {
+            for (const saint of this.saints) {
                 if (saint.src === 'pentecostarion' && (
                     (+saint.cid >= 9000 && +saint.cid <= 9315) ||
                     (+saint.cid >= 9849 && +saint.cid <= 9900)
                 )) {
-                    saint.services.forEach(service => this._execCommand(service, rank));
+                    for (const service of saint.services) {
+                        this._execCommand(service, rank);
+                    }
                 }
-            });
+            }
         }
 
         get dRank() {
@@ -1004,8 +932,8 @@
             return false;
         }
 
-        _execCommand(service, rank) {
-            if (service.type !== 'liturgy' || service.readings === undefined) {
+        async _execCommand(service, rank) {
+            if (service.type !== 'liturgy') {
                 return;
             }
 
@@ -1045,7 +973,7 @@
             const needTomorrow = this._any('TransferRulesB', todayCtx);
             if (needTomorrow) {
                 const tomorrow = this.date.add(1);
-                const tomorrowPonomar = new Ponomar(this.db.baseDir, tomorrow, this.lang);
+                const tomorrowPonomar = new Ponomar(this.db, tomorrow);
                 const tomorrowCtx = {
                     dRank: tomorrowPonomar.dRank,
                     dow: tomorrow.dayOfWeek,
@@ -1058,21 +986,26 @@
 
                 const haveTomorrow = this._any('Class3Transfers', tomorrowCtx);
                 if (haveTomorrow) {
-                    tomorrowPonomar.saints.filter(
-                            s=>s.src==='pentecostarion' && s.services !== undefined).forEach(s => {
-                        s.services.forEach(svc => {
-                            if (svc.type === 'liturgy') {
-                                service.readings.push(...svc.readings);
+                    for (const s of tomorrowPonomar.saints) {
+                        if (s.src === 'pentecostarion' && s.services !== undefined) {
+                            for (const svc of s.services) {
+                                if (svc.type === 'liturgy' && svc.readings) {
+                                    if (service.readings === undefined) {
+                                        service.readings = svc.readings;
+                                    } else {
+                                        service.readings.push(...svc.readings);
+                                    }
+                                }
                             }
-                        });
-                    });
+                        }
+                    }
                 }
             }
 
             const needYesterday = this._any('TransferRulesF', todayCtx);
             if (needYesterday) {
                 const yesterday = this.date.add(-1);
-                const yesterdayPonomar = new Ponomar(this.db.baseDir, yesterday, this.lang);
+                const yesterdayPonomar = new Ponomar(this.db, yesterday);
                 const yesterdayCtx = {
                     dRank: yesterdayPonomar.dRank,
                     dow: yesterday.dayOfWeek,
@@ -1085,22 +1018,179 @@
 
                 const haveYesterday = this._any('Class3Transfers', yesterdayCtx);
                 if (haveYesterday) {
-                    yesterdayPonomar.saints.filter(
-                            s => s.src === 'pentecostarion' && s.services !== undefined).forEach(s => {
-                        s.services.forEach(svc => {
-                            if (svc.type === 'liturgy') {
-                                service.readings.push(...svc.readings);
+                    for (const s of yesterdayPonomar.saints) {
+                        if (s.src === 'pentecostarion' && s.services !== undefined) {
+                            for (const svc of s.services) {
+                                if (svc.type === 'liturgy' && svc.readings) {
+                                    if (service.readings === undefined) {
+                                        service.readings = svc.readings;
+                                    } else {
+                                        service.readings.push(...svc.readings);
+                                    }
+                                }
                             }
-                        });
-                    });
+                        }
+                    }
                 }
             }
         }
     }
 
+    class Engine {
+        has(name) {
+            throw new Error('not implemented ' + name);
+        }
+        get(name) {
+            throw new Error('not implemented ' + name);
+        }
+    }
+
+    class Database {
+        constructor(engine) {
+            this._lang;
+            this.engine = engine;
+        }
+
+        lang(l) {
+            this._lang = l;
+            return this;
+        }
+
+        _findBottomUp(path) {
+            if (this._lang === undefined) {
+                throw new Error('lang() not set');
+            }
+            const parts = this._lang.split('/');
+            for (let i = parts.length; i >= 0; i--) {
+                const p = [...parts.slice(0, i), path];
+                const candidate = p.join('/');
+
+                if (this.engine.has(candidate)) {
+                    return candidate;
+                }
+            }
+
+            throw new Error('Failed to locate ' + path);
+        }
+
+        * _findTopDown(path) {
+            if (this._lang === undefined) {
+                throw new Error('lang() not set');
+            }
+            const parts = this._lang.split('/');
+            for (let i = 0; i <= parts.length; i++) {
+                const p = [...parts.slice(0, i), path];
+                const candidate = p.join('/');
+
+                if (this.engine.has(candidate)) {
+                    yield candidate;
+                }
+            }
+        }
+
+        _read(path) {
+            const fname = this._findBottomUp(path);
+            return this.engine.get(fname);
+        }
+
+        * _readTopDown(path) {
+            for (const fname of this._findTopDown(path)) {
+                yield this.engine.get(fname);
+            }
+        }
+
+        triodion(day) {
+            return this._read(`xml/triodion/${dec2(day)}.xml`);
+        }
+
+        pentecostarion(day) {
+            return this._read(`xml/pentecostarion/${dec2(day)}.xml`);
+        }
+
+        menaion(month, day) {
+            return this._read(`xml/${dec2(month)}/${dec2(day)}.xml`);
+        }
+
+        * lives(cid) {
+            for (const text of this._readTopDown(`xml/lives/${dec2(cid)}.xml`)) {
+                yield text;
+            }
+        }
+
+        fasting() {
+            return this._read(`xml/Commands/Fasting.xml`);
+        }
+
+        divineLiturgy() {
+            return this._read(`xml/Commands/DivineLiturgy.xml`);
+        }
+    }
+
+    const dec2 = x => x < 10 ? '0' + x : '' + x;
+
+    class EngineFs {
+        constructor(baseDir) {
+            const expectedFile = `${baseDir}/xml/Commands/Fasting.xml`;
+            if (!fs.existsSync(expectedFile)) {
+                throw new Error('bad baseDir: ' + baseDir);
+            }
+            this.baseDir = baseDir;
+        }
+
+        has(name) {
+            return fs.existsSync(this.baseDir + '/' + name);
+        }
+        get(name) {
+            return fs.readFileSync(this.baseDir + '/' + name, 'utf8');
+        }
+    }
+
+    class DatabaseFs extends Database {
+        constructor(baseDir) {
+            super(new EngineFs(baseDir));
+        }
+    }
+
+    class EngineHttp {
+        constructor(db) {
+            this.db = db;
+        }
+
+        static async load(url) {
+            const request = await fetch(url);
+            const db = await requiest.json();
+
+            return new EngineHttp(db);
+        }
+
+        has(name) {
+            return this.db[name] !== undeifined;
+        }
+        get(name) {
+            return this.db[name];
+        }
+    }
+
+    class DatabaseHttp extends Database {
+        constructor(url, lang) {
+            super(lang, new EngineHttp(url));
+        }
+    }
+
+    exports.Database = Database;
+    exports.DatabaseFs = DatabaseFs;
+    exports.DatabaseHttp = DatabaseHttp;
+    exports.Engine = Engine;
+    exports.EngineFs = EngineFs;
+    exports.EngineHttp = EngineHttp;
     exports.JDate = JDate;
     exports.Ponomar = Ponomar;
+    exports.parseCommands = parseCommands;
+    exports.parseFastingRules = parseFastingRules;
+    exports.parseLife = parseLife;
+    exports.parseSaints = parseSaints;
     exports.paschalion = paschalion;
+    exports.scanFilter = scanFilter;
 
     Object.defineProperty(exports, '__esModule', { value: true });
 

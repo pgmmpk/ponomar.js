@@ -1,16 +1,16 @@
 import test from 'ava';
 import Ponomar from './Ponomar';
 import JDate from './JDate.js';
+import { DatabaseFs } from './DatabaseFs.js';
+
+
+const PONOMAR_DB = process.env.PONOMAR_DB || 'ponomar/Ponomar/languages';
+const db = new DatabaseFs(PONOMAR_DB);
 
 
 test('smoke', t => {
-    const PONOMAR_DB = process.env.PONOMAR_DB;
-    if (PONOMAR_DB === undefined) {
-        console.error('skipped');
-        return t.assert(true);
-    }
     const date = new JDate({year: 2019, month: 11, day: 8});
-    const p = new Ponomar(PONOMAR_DB, date, 'en');
+    const p = new Ponomar(db.lang('en'), date);
 
     t.is(p.tone, 5);
     t.is(p.dRank, 4);
@@ -107,13 +107,8 @@ test('smoke', t => {
 
 
 test('fasting', t => {
-    const PONOMAR_DB = process.env.PONOMAR_DB;
-    if (PONOMAR_DB === undefined) {
-        console.error('skipped');
-        return t.assert(true);
-    }
     const date = new JDate({year: 2019, month: 1, day: 31});
-    const p = new Ponomar(PONOMAR_DB, date, 'en');
+    const p = new Ponomar(db.lang('en'), date);
     const fastingCode = p.fastingCode;
 
     /*

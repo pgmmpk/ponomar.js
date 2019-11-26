@@ -7,18 +7,7 @@
   "scripts": {
     "lint": "jshint src/*.js",
     "test": "ava -v src/*.test.js",
-    "stress201901": "ava -v stress/Ponomar201901.test.js",
-    "stress201904": "ava -v stress/Ponomar201904.test.js",
-    "stress201907": "ava -v stress/Ponomar201907.test.js",
-    "stress201910": "ava -v stress/Ponomar201910.test.js",
-    "stress202001": "ava -v stress/Ponomar202001.test.js",
-    "stress202004": "ava -v stress/Ponomar202004.test.js",
-    "stress202007": "ava -v stress/Ponomar202007.test.js",
-    "stress202010": "ava -v stress/Ponomar202010.test.js",
-    "stress202101": "ava -v stress/Ponomar202101.test.js",
-    "stress202104": "ava -v stress/Ponomar202104.test.js",
-    "stress202107": "ava -v stress/Ponomar202107.test.js",
-    "stress202110": "ava -v stress/Ponomar202110.test.js",
+    "stress": "ava -v stress/stress.test.js",
     "build": "rollup -c"
   },
   "repository": {

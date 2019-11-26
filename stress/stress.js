@@ -32,18 +32,18 @@ function normalize(ponomar) {
     return ponomar;
 }
 
-export default database => (t, root) => {
+export default db => (t, root) => {
     for (const { date, langs } of testDb(root)) {
         const [year, month, day] = date.split('/').map(x => +x);
         const jdate = new JDate({ year: year, month: month, day: day });
         for (const lang of Object.keys(langs)) {
-            // if (date + ' ' + lang !== '2019/9/23 fr') return;
+            // if (date + ' ' + lang !== '2023/12/31 zh/Hant') continue;
             // debugger
             const model = {
                 ponomar: normalize(langs[lang].ponomar),
                 ponomarReordered: normalize(langs[lang].ponomarReordered),
             };
-            const p = new Ponomar(database, jdate, lang);
+            const p = new Ponomar(db.lang(lang), jdate);
             const ponomarData = objPonomar(p);
             const execRank = Math.max(...p.saints.map(x => x.type));
             p.execCommand(execRank);

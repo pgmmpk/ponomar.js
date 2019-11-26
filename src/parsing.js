@@ -16,7 +16,7 @@ export function* scanFilter(text, context) {
                 continue;
             }
             if (e.attrib.Cmd !== undefined) {
-                const take = evaluate(e.attrib.Cmd, context);
+                const take = context === undefined ? true : evaluate(e.attrib.Cmd, context);
                 if (!take) {
                     skip = true;
                     stack.push(true);
@@ -46,7 +46,8 @@ export function* parseSaints(text, source, context) {
             assert(e.tag === 'SAINT' || e.tag === 'DAY', e);
             if (e.tag === 'SAINT') {
                 assert(e.attrib.CId !== undefined, e);
-                const tone = e.attrib.Tone === undefined ? null : evaluate(e.attrib.Tone, context);
+                const tone = e.attrib.Tone === undefined ? null :
+                    (context === undefined ? e.attrib.Tone : evaluate(e.attrib.Tone, context));
                 yield {
                     cid: e.attrib.CId,
                     // sid: e.attrib.SId,
@@ -120,7 +121,7 @@ export function parseLife(text, context) {
                 }
             } else if (e.tag === 'SERVICE') {
                 saint.type = e.attrib.Type || null;  // aka rank
-                context.dRank = +saint.type;
+                if (context !== undefined) context.dRank = +saint.type;
             } else if (e.tag === 'SCRIPTURE') {
                 if (serviceType !== undefined) {
                     const reading = {

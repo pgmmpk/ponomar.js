@@ -121,6 +121,32 @@ sub DumpPonomar {
             }
         }
 
+        for my $saint ($ponomar->getSaints()) {
+            next unless $saint->hasServices();
+            for my $service ($saint->getServices()) {
+                next unless $service->hasReadings();
+                for my $reading ($service->getReadings()) {
+                    if (isNumeric($reading->getEffWeek()) ||
+                            grep { $reading->getSaint() ne $saint->getKey('CId') } $service->getReadings()) {
+                        my $descript;
+                        if ($reading->getSaint() ne $saint->getKey('CId')) {
+                            my $saint = Ponomar::Saint->new( CId => $reading->getSaint(), Src => 'nameonly', Date => $date, Lang => 'en' );
+                            print "Replacing saint\n";
+                            $descript = $saint->getKey('Name')->{Nominative};
+                        } else {
+                            $descript = $saint->getKey('Name')->{Nominative};
+                        }
+                        my $effWeek  = $reading->getEffWeek();
+                        print "<< ($descript); eff week: $effWeek\n";
+                        $descript =~ s/\d+/$effWeek/ if (defined $effWeek);
+                        print ">> ($descript); eff week: $effWeek\n";
+                    }
+                }
+            }
+        }
+        
+
+
         $p = objPonomar($ponomar);
         $obj->{langs}->{$lang}->{ponomarReordered} = $p;
     }
