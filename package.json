@@ -29,7 +29,7 @@
   "homepage": "https://github.com/pgmmpk/ponomar.js#readme",
   "devDependencies": {
     "ava": "^2.4.0",
-    "jsdom": "^15.2.1",
+    "jsdom": "^16.5.0",
     "jshint": "^2.10.3",
     "require-extension-hooks": "^0.3.3",
     "require-extension-hooks-babel": "^1.0.0",
